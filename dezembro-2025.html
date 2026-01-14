@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Favela Brass - Dezembro 2025</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         * {
             margin: 0;
@@ -177,6 +178,19 @@
             border-bottom: 1px solid rgba(255,255,255,0.08);
         }
 
+        .chart-container {
+            position: relative;
+            height: 280px;
+            margin-top: 20px;
+        }
+
+        .chart-note {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.85rem;
+            margin-top: 15px;
+            font-style: italic;
+        }
+
         footer {
             text-align: center;
             margin-top: 50px;
@@ -233,6 +247,38 @@
         <div class="big-value">R$ 151.448</div>
         <p>Transferência final do projeto Rouanet 2025 para a conta da Associação</p>
     </div>
+
+    <!-- Balance Evolution Chart -->
+    <section>
+        <h2>Evolução do Saldo - 2025</h2>
+        <div class="chart-container">
+            <canvas id="balanceChart"></canvas>
+        </div>
+        <p class="chart-note">Em Out/Nov a Associação adiantou despesas do Rouanet. Em Dezembro, o reembolso restaurou o caixa.</p>
+
+        <div style="display: flex; justify-content: space-between; margin-top: 25px; padding: 20px; background: rgba(255,255,255,0.05); border-radius: 12px;">
+            <div style="text-align: center;">
+                <div style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin-bottom: 5px;">Jan 2025</div>
+                <div style="font-size: 1.4rem; font-weight: bold;">R$ 134.706</div>
+            </div>
+            <div style="text-align: center; display: flex; align-items: center;">
+                <div style="color: #62CC3C; font-size: 1.2rem; font-weight: bold;">+R$ 98.804 (+73%)</div>
+            </div>
+            <div style="text-align: center;">
+                <div style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin-bottom: 5px;">Dez 2025</div>
+                <div style="font-size: 1.4rem; font-weight: bold; color: #FEF100;">R$ 233.510</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Monthly Cashflow Chart -->
+    <section>
+        <h2>Fluxo Mensal - Entradas vs Saídas</h2>
+        <div class="chart-container">
+            <canvas id="cashflowChart"></canvas>
+        </div>
+        <p class="chart-note">Dezembro: maior entrada do ano (reembolso Rouanet + shows de fim de ano).</p>
+    </section>
 
     <section>
         <h2>Entradas</h2>
@@ -412,6 +458,124 @@
         <p style="margin-top: 5px;">Dados extraídos dos extratos bancários e Planilha de Execução 2025</p>
     </footer>
 </div>
+
+<script>
+    // Chart.js defaults for dark theme
+    Chart.defaults.color = 'rgba(255,255,255,0.7)';
+    Chart.defaults.borderColor = 'rgba(255,255,255,0.1)';
+
+    // Balance Evolution Chart
+    const balanceCtx = document.getElementById('balanceChart').getContext('2d');
+    new Chart(balanceCtx, {
+        type: 'line',
+        data: {
+            labels: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'],
+            datasets: [{
+                label: 'Saldo Total (R$ mil)',
+                data: [70.5, 60.2, 144.9, 140.0, 142.2, 148.5, 162.8, 172.8, 184.2, 135.3, 39.5, 233.5],
+                borderColor: '#FEF100',
+                backgroundColor: 'rgba(254, 241, 0, 0.1)',
+                fill: true,
+                tension: 0.3,
+                pointBackgroundColor: function(context) {
+                    const index = context.dataIndex;
+                    if (index === 10) return '#E74C3C'; // Nov - lowest
+                    if (index === 11) return '#62CC3C'; // Dec - recovery
+                    return '#FEF100';
+                },
+                pointRadius: function(context) {
+                    const index = context.dataIndex;
+                    if (index === 10 || index === 11) return 8;
+                    return 4;
+                },
+                pointBorderWidth: 2,
+                pointBorderColor: '#fff'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { display: false },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return 'R$ ' + context.parsed.y.toFixed(0) + ' mil';
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        callback: function(value) {
+                            return 'R$ ' + value + 'k';
+                        }
+                    },
+                    grid: { color: 'rgba(255,255,255,0.05)' }
+                },
+                x: {
+                    grid: { display: false }
+                }
+            }
+        }
+    });
+
+    // Monthly Cashflow Chart
+    const cashflowCtx = document.getElementById('cashflowChart').getContext('2d');
+    new Chart(cashflowCtx, {
+        type: 'bar',
+        data: {
+            labels: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'],
+            datasets: [
+                {
+                    label: 'Entradas',
+                    data: [10.5, 1.0, 91.7, 8.6, 9.3, 16.9, 18.1, 19.0, 18.3, 20.0, 28.3, 213.7],
+                    backgroundColor: '#62CC3C',
+                    borderRadius: 4
+                },
+                {
+                    label: 'Saídas',
+                    data: [75.0, 11.7, 7.8, 14.8, 8.3, 11.2, 5.3, 11.8, 8.5, 68.6, 123.5, 24.3],
+                    backgroundColor: '#E74C3C',
+                    borderRadius: 4
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'top',
+                    labels: { usePointStyle: true, padding: 20 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return context.dataset.label + ': R$ ' + context.parsed.y.toFixed(0) + ' mil';
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        callback: function(value) {
+                            return 'R$ ' + value + 'k';
+                        }
+                    },
+                    grid: { color: 'rgba(255,255,255,0.05)' }
+                },
+                x: {
+                    grid: { display: false }
+                }
+            }
+        }
+    });
+</script>
 
 </body>
 </html>
