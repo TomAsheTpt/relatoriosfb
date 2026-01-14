@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favela Brass - Relatório Anual 2025</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            line-height: 1.6;
+        }
+
+        .slide {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 60px 40px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .slide-content {
+            max-width: 1000px;
+            width: 100%;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(90deg, #f39c12, #e74c3c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            color: #f39c12;
+        }
+
+        h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #3498db;
+        }
+
+        p {
+            font-size: 1.25rem;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 1rem;
+        }
+
+        .hero {
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 5rem;
+        }
+
+        .hero p {
+            font-size: 1.75rem;
+        }
+
+        .subtitle {
+            font-size: 1.5rem;
+            color: rgba(255,255,255,0.6);
+        }
+
+        .big-number {
+            font-size: 5rem;
+            font-weight: bold;
+            background: linear-gradient(90deg, #f39c12, #e74c3c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-align: center;
+            margin: 40px 0;
+        }
+
+        .big-number-label {
+            font-size: 1.5rem;
+            color: rgba(255,255,255,0.6);
+            text-align: center;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .stats-grid-4 {
+            grid-template-columns: repeat(4, 1fr);
+        }
+
+        .stat-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 20px;
+            padding: 40px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .stat-card.income {
+            border-color: #2ecc71;
+        }
+
+        .stat-card.expense {
+            border-color: #e74c3c;
+        }
+
+        .stat-card.result {
+            border-color: #f39c12;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .stat-card.income .stat-value { color: #2ecc71; }
+        .stat-card.expense .stat-value { color: #e74c3c; }
+        .stat-card.result .stat-value { color: #f39c12; }
+
+        .stat-label {
+            font-size: 1.1rem;
+            color: rgba(255,255,255,0.6);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .chart-container {
+            background: rgba(255,255,255,0.03);
+            border-radius: 20px;
+            padding: 40px;
+            margin-top: 30px;
+        }
+
+        .chart-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin-top: 30px;
+        }
+
+        .chart-box {
+            background: rgba(255,255,255,0.03);
+            border-radius: 20px;
+            padding: 30px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 15px 20px;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        th {
+            color: #f39c12;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            letter-spacing: 1px;
+        }
+
+        td {
+            font-size: 1.1rem;
+        }
+
+        .text-right {
+            text-align: right;
+        }
+
+        .highlight-row {
+            background: rgba(243, 156, 18, 0.1);
+        }
+
+        .highlight-row td {
+            color: #f39c12;
+            font-weight: bold;
+        }
+
+        .positive { color: #2ecc71; }
+        .negative { color: #e74c3c; }
+
+        .percent-bar {
+            display: flex;
+            height: 50px;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 30px 0;
+        }
+
+        .percent-segment {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .income-breakdown {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 40px;
+            margin-top: 30px;
+        }
+
+        .breakdown-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid;
+        }
+
+        .breakdown-item.grant { border-color: #e74c3c; }
+        .breakdown-item.earned { border-color: #3498db; }
+        .breakdown-item.donations { border-color: #2ecc71; }
+        .breakdown-item.other { border-color: #9b59b6; }
+
+        .breakdown-label {
+            font-size: 1.1rem;
+        }
+
+        .breakdown-value {
+            font-size: 1.3rem;
+            font-weight: bold;
+        }
+
+        .breakdown-item.grant .breakdown-value { color: #e74c3c; }
+        .breakdown-item.earned .breakdown-value { color: #3498db; }
+        .breakdown-item.donations .breakdown-value { color: #2ecc71; }
+        .breakdown-item.other .breakdown-value { color: #9b59b6; }
+
+        .expense-category {
+            display: flex;
+            align-items: center;
+            padding: 15px 20px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+
+        .expense-bar {
+            flex: 1;
+            height: 30px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 5px;
+            margin: 0 20px;
+            overflow: hidden;
+        }
+
+        .expense-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #e74c3c, #c0392b);
+            border-radius: 5px;
+        }
+
+        .expense-name {
+            width: 200px;
+        }
+
+        .expense-value {
+            width: 120px;
+            text-align: right;
+            font-weight: bold;
+        }
+
+        .two-col {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            margin-top: 30px;
+        }
+
+        .info-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            padding: 30px;
+        }
+
+        .info-card h4 {
+            color: #3498db;
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+        }
+
+        .team-list {
+            list-style: none;
+        }
+
+        .team-list li {
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .team-list li:last-child {
+            border-bottom: none;
+        }
+
+        .team-role {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.9rem;
+        }
+
+        nav {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+
+        nav a {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background: rgba(255,255,255,0.3);
+            border-radius: 50%;
+            margin: 5px;
+            transition: all 0.3s;
+        }
+
+        nav a:hover {
+            background: #f39c12;
+            transform: scale(1.3);
+        }
+
+        .rouanet-highlight {
+            background: linear-gradient(135deg, rgba(231, 76, 60, 0.2), rgba(192, 57, 43, 0.1));
+            border: 2px solid rgba(231, 76, 60, 0.3);
+            border-radius: 20px;
+            padding: 40px;
+            margin: 30px 0;
+        }
+
+        .rouanet-highlight h3 {
+            color: #e74c3c;
+        }
+
+        .surplus-box {
+            background: linear-gradient(135deg, rgba(46, 204, 113, 0.2), rgba(39, 174, 96, 0.1));
+            border: 2px solid rgba(46, 204, 113, 0.5);
+            border-radius: 20px;
+            padding: 40px;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .surplus-box .stat-value {
+            color: #2ecc71;
+            font-size: 3rem;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="#slide1"></a>
+    <a href="#slide2"></a>
+    <a href="#slide3"></a>
+    <a href="#slide4"></a>
+    <a href="#slide5"></a>
+    <a href="#slide6"></a>
+    <a href="#slide7"></a>
+    <a href="#slide8"></a>
+</nav>
+
+<!-- Slide 1: Title -->
+<section class="slide hero" id="slide1">
+    <div class="slide-content">
+        <h1>Favela Brass</h1>
+        <p>Relatório Anual 2025</p>
+        <p class="subtitle">Associação Musical Favela Brass</p>
+    </div>
+</section>
+
+<!-- Slide 2: The Big Number -->
+<section class="slide" id="slide2">
+    <div class="slide-content">
+        <h2>2025 em Números</h2>
+
+        <div class="big-number">R$ 1,17 milhão</div>
+        <div class="big-number-label">movimentados em 2025</div>
+
+        <div class="stats-grid" style="margin-top: 60px;">
+            <div class="stat-card income">
+                <div class="stat-value">R$ 1,17M</div>
+                <div class="stat-label">Receitas</div>
+            </div>
+            <div class="stat-card expense">
+                <div class="stat-value">R$ 1,12M</div>
+                <div class="stat-label">Despesas</div>
+            </div>
+            <div class="stat-card result">
+                <div class="stat-value">+R$ 50k</div>
+                <div class="stat-label">Superávit</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Slide 3: Income Breakdown -->
+<section class="slide" id="slide3">
+    <div class="slide-content">
+        <h2>De Onde Vem o Dinheiro</h2>
+        <p>Receitas 2025: R$ 1.168.000</p>
+
+        <div class="percent-bar">
+            <div class="percent-segment" style="width: 86%; background: #e74c3c;">86% Lei Rouanet</div>
+            <div class="percent-segment" style="width: 10%; background: #3498db;">10%</div>
+            <div class="percent-segment" style="width: 4%; background: #2ecc71;">4%</div>
+        </div>
+
+        <div class="income-breakdown">
+            <div>
+                <div class="breakdown-item grant">
+                    <span class="breakdown-label">Lei Rouanet 2025</span>
+                    <span class="breakdown-value">R$ 1.000.000</span>
+                </div>
+                <div class="breakdown-item earned">
+                    <span class="breakdown-label">Shows e Apresentações</span>
+                    <span class="breakdown-value">R$ 64.000</span>
+                </div>
+                <div class="breakdown-item earned">
+                    <span class="breakdown-label">Vendas</span>
+                    <span class="breakdown-value">R$ 50.000</span>
+                </div>
+                <div class="breakdown-item donations">
+                    <span class="breakdown-label">Doações</span>
+                    <span class="breakdown-value">R$ 43.000</span>
+                </div>
+                <div class="breakdown-item other">
+                    <span class="breakdown-label">Rendimentos Financeiros</span>
+                    <span class="breakdown-value">R$ 11.000</span>
+                </div>
+            </div>
+            <div class="chart-box">
+                <canvas id="incomeChart"></canvas>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Slide 4: Lei Rouanet Deep Dive -->
+<section class="slide" id="slide4">
+    <div class="slide-content">
+        <h2>Projeto Lei Rouanet 2025</h2>
+
+        <div class="rouanet-highlight">
+            <h3>Plano Anual de Atividades</h3>
+            <div class="stats-grid" style="margin-top: 30px;">
+                <div class="stat-card">
+                    <div class="stat-value" style="color: #3498db;">R$ 2,07M</div>
+                    <div class="stat-label">Orçamento Aprovado</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" style="color: #2ecc71;">R$ 1,00M</div>
+                    <div class="stat-label">Captado</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" style="color: #e74c3c;">R$ 1,00M</div>
+                    <div class="stat-label">Executado</div>
+                </div>
+            </div>
+            <p style="margin-top: 30px; text-align: center; color: rgba(255,255,255,0.6);">
+                100% dos recursos captados foram executados no ano
+            </p>
+        </div>
+
+        <table style="margin-top: 40px;">
+            <tr>
+                <th>Categoria</th>
+                <th class="text-right">Orçamento</th>
+                <th class="text-right">Executado</th>
+                <th class="text-right">%</th>
+            </tr>
+            <tr>
+                <td>Equipe Técnica</td>
+                <td class="text-right">R$ 716.603</td>
+                <td class="text-right">R$ 297.698</td>
+                <td class="text-right">42%</td>
+            </tr>
+            <tr>
+                <td>Professores</td>
+                <td class="text-right">R$ 300.281</td>
+                <td class="text-right">R$ 222.201</td>
+                <td class="text-right">74%</td>
+            </tr>
+            <tr>
+                <td>Alimentação</td>
+                <td class="text-right">R$ 107.440</td>
+                <td class="text-right">R$ 60.274</td>
+                <td class="text-right">56%</td>
+            </tr>
+            <tr>
+                <td>Comunicação</td>
+                <td class="text-right">R$ 238.485</td>
+                <td class="text-right">R$ 61.092</td>
+                <td class="text-right">26%</td>
+            </tr>
+            <tr>
+                <td>Administração</td>
+                <td class="text-right">R$ 238.485</td>
+                <td class="text-right">R$ 74.707</td>
+                <td class="text-right">31%</td>
+            </tr>
+            <tr>
+                <td>Outros (transporte, instrumentos, etc.)</td>
+                <td class="text-right">R$ 465.575</td>
+                <td class="text-right">R$ 69.413</td>
+                <td class="text-right">15%</td>
+            </tr>
+        </table>
+    </div>
+</section>
+
+<!-- Slide 5: Expenses -->
+<section class="slide" id="slide5">
+    <div class="slide-content">
+        <h2>Para Onde Vai o Dinheiro</h2>
+        <p>Despesas 2025: R$ 1.118.000</p>
+
+        <div class="percent-bar">
+            <div class="percent-segment" style="width: 46%; background: #e74c3c;">46% Pessoas</div>
+            <div class="percent-segment" style="width: 20%; background: #c0392b;">20% Professores</div>
+            <div class="percent-segment" style="width: 34%; background: #3498db;">34% Programa</div>
+        </div>
+
+        <div class="expense-category">
+            <span class="expense-name">Equipe Técnica</span>
+            <div class="expense-bar"><div class="expense-fill" style="width: 100%"></div></div>
+            <span class="expense-value">R$ 520.000</span>
+        </div>
+        <div class="expense-category">
+            <span class="expense-name">Professores</span>
+            <div class="expense-bar"><div class="expense-fill" style="width: 43%"></div></div>
+            <span class="expense-value">R$ 222.000</span>
+        </div>
+        <div class="expense-category">
+            <span class="expense-name">Alimentação</span>
+            <div class="expense-bar"><div class="expense-fill" style="width: 15%"></div></div>
+            <span class="expense-value">R$ 85.000</span>
+        </div>
+        <div class="expense-category">
+            <span class="expense-name">Custos Admin</span>
+            <div class="expense-bar"><div class="expense-fill" style="width: 14%"></div></div>
+            <span class="expense-value">R$ 75.000</span>
+        </div>
+        <div class="expense-category">
+            <span class="expense-name">Comunicação</span>
+            <div class="expense-bar"><div class="expense-fill" style="width: 12%"></div></div>
+            <span class="expense-value">R$ 61.000</span>
+        </div>
+        <div class="expense-category">
+            <span class="expense-name">Transporte</span>
+            <div class="expense-bar"><div class="expense-fill" style="width: 10%"></div></div>
+            <span class="expense-value">R$ 57.000</span>
+        </div>
+        <div class="expense-category">
+            <span class="expense-name">Outros</span>
+            <div class="expense-bar"><div class="expense-fill" style="width: 19%"></div></div>
+            <span class="expense-value">R$ 98.000</span>
+        </div>
+    </div>
+</section>
+
+<!-- Slide 6: Team Investment -->
+<section class="slide" id="slide6">
+    <div class="slide-content">
+        <h2>Investimento em Pessoas</h2>
+        <p>66% das despesas = equipe e professores</p>
+
+        <div class="two-col">
+            <div class="info-card">
+                <h4>Equipe Técnica</h4>
+                <ul class="team-list">
+                    <li>
+                        <span>Wesley</span>
+                        <span class="team-role">Diretor Musical</span>
+                    </li>
+                    <li>
+                        <span>Tom</span>
+                        <span class="team-role">Coordenação / Direção</span>
+                    </li>
+                    <li>
+                        <span>Iris</span>
+                        <span class="team-role">Coord. Pedagógica</span>
+                    </li>
+                    <li>
+                        <span>Raíssa</span>
+                        <span class="team-role">Coord. Administrativa</span>
+                    </li>
+                    <li>
+                        <span>Carol</span>
+                        <span class="team-role">Produtora Executiva</span>
+                    </li>
+                    <li>
+                        <span>Rafael</span>
+                        <span class="team-role">Comunicação</span>
+                    </li>
+                    <li>
+                        <span>Wellington</span>
+                        <span class="team-role">Produtor Local</span>
+                    </li>
+                    <li>
+                        <span>Lilian</span>
+                        <span class="team-role">Assistente Social</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="info-card">
+                <h4>Professores</h4>
+                <p style="color: rgba(255,255,255,0.7); margin-bottom: 20px;">
+                    Time de professores de música ensinando metais e percussão em múltiplos núcleos
+                </p>
+                <div style="text-align: center; padding: 40px 0;">
+                    <div style="font-size: 4rem; color: #3498db; font-weight: bold;">~250</div>
+                    <div style="color: rgba(255,255,255,0.6);">alunos atendidos</div>
+                </div>
+                <p style="color: rgba(255,255,255,0.5); font-size: 0.9rem; text-align: center;">
+                    Aulas regulares + ensaios + apresentações
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Slide 7: Cash Flow -->
+<section class="slide" id="slide7">
+    <div class="slide-content">
+        <h2>Fluxo de Caixa</h2>
+        <p>Evolução do saldo ao longo de 2025</p>
+
+        <div class="chart-container">
+            <canvas id="cashflowChart" height="100"></canvas>
+        </div>
+
+        <div class="stats-grid" style="margin-top: 40px;">
+            <div class="stat-card">
+                <div class="stat-value" style="color: #3498db;">R$ 135k</div>
+                <div class="stat-label">Saldo Inicial (Jan)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #e74c3c;">R$ 40k</div>
+                <div class="stat-label">Mínimo (Nov)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #2ecc71;">R$ 185k</div>
+                <div class="stat-label">Saldo Final (Dez)</div>
+            </div>
+        </div>
+
+        <p style="margin-top: 30px; text-align: center; color: rgba(255,255,255,0.5);">
+            Volatilidade causada por timing de repasses Lei Rouanet
+        </p>
+    </div>
+</section>
+
+<!-- Slide 8: Result & Thank You -->
+<section class="slide hero" id="slide8">
+    <div class="slide-content">
+        <h2>Resultado 2025</h2>
+
+        <div class="surplus-box">
+            <div class="stat-value">+R$ 50.000</div>
+            <div class="stat-label">Superávit</div>
+        </div>
+
+        <div style="margin-top: 60px; text-align: center;">
+            <p style="font-size: 1.5rem; color: rgba(255,255,255,0.8);">
+                Projeto Lei Rouanet 100% executado
+            </p>
+            <p style="color: rgba(255,255,255,0.5);">
+                R$ 1 milhão captado e investido em educação musical
+            </p>
+        </div>
+
+        <div style="margin-top: 80px; text-align: center;">
+            <h1 style="font-size: 3rem;">Obrigado</h1>
+            <p class="subtitle" style="margin-top: 20px;">www.favelabrass.org</p>
+        </div>
+
+        <p style="margin-top: 60px; text-align: center; font-size: 0.9rem; color: rgba(255,255,255,0.3);">
+            Dados: Janeiro – Dezembro 2025<br>
+            Fonte: Planilha de Execução Associação + Rouanet 2025
+        </p>
+    </div>
+</section>
+
+<script>
+    // Income Chart
+    new Chart(document.getElementById('incomeChart'), {
+        type: 'doughnut',
+        data: {
+            labels: ['Lei Rouanet', 'Shows', 'Vendas', 'Doações', 'Rendimentos'],
+            datasets: [{
+                data: [1000000, 64000, 50000, 43000, 11000],
+                backgroundColor: ['#e74c3c', '#3498db', '#2980b9', '#2ecc71', '#9b59b6'],
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { color: '#fff', padding: 15 }
+                }
+            }
+        }
+    });
+
+    // Cash Flow Chart
+    new Chart(document.getElementById('cashflowChart'), {
+        type: 'line',
+        data: {
+            labels: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'],
+            datasets: [{
+                label: 'Saldo Associação',
+                data: [135000, 70000, 60000, 145000, 140000, 142000, 149000, 163000, 173000, 184000, 40000, 185000],
+                borderColor: '#f39c12',
+                backgroundColor: 'rgba(243, 156, 18, 0.1)',
+                fill: true,
+                tension: 0.4,
+                pointBackgroundColor: '#f39c12',
+                pointRadius: 6
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                x: { ticks: { color: '#fff' }, grid: { color: 'rgba(255,255,255,0.1)' } },
+                y: {
+                    ticks: {
+                        color: '#fff',
+                        callback: function(value) { return 'R$ ' + (value/1000) + 'k'; }
+                    },
+                    grid: { color: 'rgba(255,255,255,0.1)' }
+                }
+            },
+            plugins: {
+                legend: {
+                    labels: { color: '#fff' }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>

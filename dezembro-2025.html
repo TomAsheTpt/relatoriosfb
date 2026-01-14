@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favela Brass - Dezembro 2025</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #3E0B59 0%, #5A0E7A 100%);
+            color: #fff;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+
+        .subtitle {
+            color: rgba(255,255,255,0.7);
+            font-size: 1.3rem;
+        }
+
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+
+        .summary-card {
+            background: rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 30px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.15);
+        }
+
+        .summary-value {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .summary-card:nth-child(1) .summary-value { color: #62CC3C; }
+        .summary-card:nth-child(2) .summary-value { color: #E74C3C; }
+        .summary-card:nth-child(3) .summary-value { color: #FEF100; }
+
+        .summary-label {
+            color: rgba(255,255,255,0.7);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        section {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: #FEF100;
+            font-size: 1.4rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.15);
+        }
+
+        .income-item, .expense-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .income-item:last-child, .expense-item:last-child {
+            border-bottom: none;
+        }
+
+        .item-name {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .item-category {
+            font-size: 1.1rem;
+        }
+
+        .item-detail {
+            font-size: 0.85rem;
+            color: rgba(255,255,255,0.5);
+            margin-top: 4px;
+        }
+
+        .item-value {
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .income-item .item-value { color: #62CC3C; }
+        .expense-item .item-value { color: #E74C3C; }
+
+        .highlight-box {
+            background: linear-gradient(135deg, rgba(98, 204, 60, 0.2), rgba(98, 204, 60, 0.05));
+            border: 2px solid rgba(98, 204, 60, 0.4);
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .highlight-box h3 {
+            color: #62CC3C;
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+        }
+
+        .highlight-box .big-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #62CC3C;
+        }
+
+        .highlight-box p {
+            color: rgba(255,255,255,0.6);
+            margin-top: 10px;
+        }
+
+        .totals-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px 0;
+            margin-top: 10px;
+            border-top: 2px solid rgba(255,255,255,0.15);
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 12px 8px;
+        }
+
+        th {
+            color: rgba(255,255,255,0.7);
+            font-weight: normal;
+            font-size: 0.9rem;
+        }
+
+        tr:not(:last-child) td {
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        footer img {
+            max-width: 120px;
+            margin-bottom: 15px;
+            opacity: 0.8;
+        }
+
+        footer p {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 600px) {
+            .summary-grid {
+                grid-template-columns: 1fr;
+            }
+            .summary-value {
+                font-size: 1.6rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <img src="Logo FB White.png" alt="Favela Brass" class="logo">
+        <p class="subtitle">Relatório Financeiro - Dezembro 2025</p>
+    </header>
+
+    <div class="summary-grid">
+        <div class="summary-card">
+            <div class="summary-value">R$ 213.703</div>
+            <div class="summary-label">Entradas</div>
+        </div>
+        <div class="summary-card">
+            <div class="summary-value">R$ 24.268</div>
+            <div class="summary-label">Saídas</div>
+        </div>
+        <div class="summary-card">
+            <div class="summary-value">+R$ 189.435</div>
+            <div class="summary-label">Resultado</div>
+        </div>
+    </div>
+
+    <div class="highlight-box">
+        <h3>Reembolso Lei Rouanet</h3>
+        <div class="big-value">R$ 151.448</div>
+        <p>Transferência final do projeto Rouanet 2025 para a conta da Associação</p>
+    </div>
+
+    <section>
+        <h2>Entradas</h2>
+
+        <div class="income-item">
+            <div class="item-name">
+                <span class="item-category">Reembolso Rouanet</span>
+                <span class="item-detail">62 transferências - encerramento do projeto</span>
+            </div>
+            <div class="item-value">R$ 151.448</div>
+        </div>
+
+        <div class="income-item">
+            <div class="item-name">
+                <span class="item-category">Prestação de Serviços - Projetos</span>
+                <span class="item-detail">6 transações</span>
+            </div>
+            <div class="item-value">R$ 25.002</div>
+        </div>
+
+        <div class="income-item">
+            <div class="item-name">
+                <span class="item-category">Prestação de Serviços - Shows</span>
+                <span class="item-detail">4 apresentações</span>
+            </div>
+            <div class="item-value">R$ 21.800</div>
+        </div>
+
+        <div class="income-item">
+            <div class="item-name">
+                <span class="item-category">Doações Pontuais</span>
+                <span class="item-detail">17 doações (inclui PRIO)</span>
+            </div>
+            <div class="item-value">R$ 11.636</div>
+        </div>
+
+        <div class="income-item">
+            <div class="item-name">
+                <span class="item-category">Vendas</span>
+                <span class="item-detail">13 vendas (Sítio da Margo, etc.)</span>
+            </div>
+            <div class="item-value">R$ 2.145</div>
+        </div>
+
+        <div class="income-item">
+            <div class="item-name">
+                <span class="item-category">Doações Recorrentes</span>
+                <span class="item-detail">Benfeitoria e Patreon</span>
+            </div>
+            <div class="item-value">R$ 1.671</div>
+        </div>
+
+        <div class="totals-row">
+            <span>Total Entradas</span>
+            <span style="color: #62CC3C;">R$ 213.703</span>
+        </div>
+    </section>
+
+    <section>
+        <h2>Saídas</h2>
+
+        <div class="expense-item">
+            <div class="item-name">
+                <span class="item-category">Materiais de Consumo</span>
+                <span class="item-detail">6 compras</span>
+            </div>
+            <div class="item-value">R$ 8.264</div>
+        </div>
+
+        <div class="expense-item">
+            <div class="item-name">
+                <span class="item-category">Custos Administrativos</span>
+                <span class="item-detail">Taxas, locação de espaço, seguro</span>
+            </div>
+            <div class="item-value">R$ 4.571</div>
+        </div>
+
+        <div class="expense-item">
+            <div class="item-name">
+                <span class="item-category">Transporte</span>
+                <span class="item-detail">Van, transporte local</span>
+            </div>
+            <div class="item-value">R$ 3.607</div>
+        </div>
+
+        <div class="expense-item">
+            <div class="item-name">
+                <span class="item-category">Professores</span>
+                <span class="item-detail">Aulas e ensaios</span>
+            </div>
+            <div class="item-value">R$ 2.898</div>
+        </div>
+
+        <div class="expense-item">
+            <div class="item-name">
+                <span class="item-category">Alimentação</span>
+                <span class="item-detail">Lanches e refeições</span>
+            </div>
+            <div class="item-value">R$ 2.649</div>
+        </div>
+
+        <div class="expense-item">
+            <div class="item-name">
+                <span class="item-category">Assinaturas de App</span>
+                <span class="item-detail">Ferramentas digitais</span>
+            </div>
+            <div class="item-value">R$ 2.070</div>
+        </div>
+
+        <div class="expense-item">
+            <div class="item-name">
+                <span class="item-category">Uniformes</span>
+                <span class="item-detail">1 compra</span>
+            </div>
+            <div class="item-value">R$ 201</div>
+        </div>
+
+        <div class="totals-row">
+            <span>Total Saídas</span>
+            <span style="color: #E74C3C;">R$ 24.268</span>
+        </div>
+    </section>
+
+    <section>
+        <h2>Destaques do Mês</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li style="padding: 15px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+                <strong style="color: #62CC3C;">Encerramento Rouanet 2025</strong> - Recebemos R$ 151k em reembolsos, encerrando o projeto com 100% de execução dos recursos captados.
+            </li>
+            <li style="padding: 15px 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+                <strong style="color: #FEF100;">Shows de fim de ano</strong> - R$ 22k em apresentações, incluindo CCBB, Sítio da Margo e eventos corporativos.
+            </li>
+            <li style="padding: 15px 0;">
+                <strong style="color: #FEF100;">Doação PRIO</strong> - R$ 1.647 recebidos de parceria com a PRIO.
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Posição Financeira</h2>
+
+        <table>
+            <tr>
+                <th style="text-align: left;">Conta</th>
+                <th style="text-align: right;">Início Dez</th>
+                <th style="text-align: right;">Fim Dez</th>
+                <th style="text-align: right;">Variação</th>
+            </tr>
+            <tr>
+                <td>Conta Corrente</td>
+                <td style="text-align: right;">R$ 50</td>
+                <td style="text-align: right;">R$ 212.510</td>
+                <td style="text-align: right; color: #62CC3C;">+R$ 212.460</td>
+            </tr>
+            <tr>
+                <td>CDB (Investimentos)</td>
+                <td style="text-align: right;">R$ 35.500</td>
+                <td style="text-align: right;">R$ 21.000</td>
+                <td style="text-align: right; color: #E74C3C;">-R$ 14.500</td>
+            </tr>
+            <tr style="font-weight: bold; border-top: 2px solid rgba(255,255,255,0.2);">
+                <td>Total Associação</td>
+                <td style="text-align: right;">R$ 35.550</td>
+                <td style="text-align: right; color: #FEF100;">R$ 233.510</td>
+                <td style="text-align: right; color: #62CC3C;">+R$ 197.960</td>
+            </tr>
+        </table>
+
+        <p style="margin-top: 20px; color: rgba(255,255,255,0.5); font-size: 0.9rem;">
+            Fonte: Extratos BB Conta Corrente e CDB - Dezembro 2025
+        </p>
+    </section>
+
+    <footer>
+        <img src="Logo FB White.png" alt="Favela Brass">
+        <p>Associação Musical Favela Brass</p>
+        <p style="margin-top: 5px;">Dados extraídos dos extratos bancários e Planilha de Execução 2025</p>
+    </footer>
+</div>
+
+</body>
+</html>
