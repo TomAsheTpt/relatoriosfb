@@ -7,6 +7,8 @@ Run locally with: python app.py
 
 import os
 import sqlite3
+import json
+from datetime import date
 from pathlib import Path
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
@@ -280,6 +282,193 @@ def handle_horario(ack, respond, command):
             lines.append("")
 
     respond("\n".join(lines))
+
+
+@app.command("/presenca")
+def handle_presenca(ack, respond, command):
+    """Handle /presenca command - show attendance form for a band or activity."""
+    ack()
+
+    query = command["text"].strip().lower()
+    if not query:
+        respond("Uso: `/presenca <banda>`\nExemplo: `/presenca preta`")
+        return
+
+    conn = get_db()
+    conn.row_factory = sqlite3.Row
+    cur = conn.cursor()
+
+    # Find the band
+    cur.execute("""
+        SELECT g.id, g.name
+        FROM groups g
+        WHERE LOWER(g.name) LIKE ?
+    """, (f"%{query}%",))
+
+    band = cur.fetchone()
+    if not band:
+        respond(f"Banda não encontrada: \"{query}\"")
+        conn.close()
+        return
+
+    # Get active students in this band
+    cur.execute("""
+        SELECT s.id, s.name
+        FROM students s
+        JOIN group_assignments ga ON s.id = ga.student_id
+        WHERE ga.group_id = ? AND s.status = 'Ativo'
+        ORDER BY s.name
+    """, (band['id'],))
+
+    students = cur.fetchall()
+    conn.close()
+
+    if not students:
+        respond(f"Nenhum aluno ativo na {band['name']}")
+        return
+
+    today = date.today().isoformat()
+
+    # Check existing attendance for today
+    conn = get_db()
+    conn.row_factory = sqlite3.Row
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT student_id, status FROM attendance
+        WHERE date = ? AND activity_type = 'banda' AND activity_name = ?
+    """, (today, band['name']))
+    existing = {row['student_id']: row['status'] for row in cur.fetchall()}
+    conn.close()
+
+    # Build checkboxes - pre-check those already marked present
+    options = []
+    initial_options = []
+    for s in students:
+        option = {
+            "text": {"type": "plain_text", "text": s['name'].split()[0]},  # First name
+            "value": str(s['id'])
+        }
+        options.append(option)
+        # Pre-select if already marked present, or if no record yet (assume present by default)
+        if existing.get(s['id']) == 'presente' or s['id'] not in existing:
+            initial_options.append(option)
+
+    blocks = [
+        {
+            "type": "header",
+            "text": {"type": "plain_text", "text": f"📋 {band['name']} - {today}"}
+        },
+        {
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": "Desmarque os alunos que *faltaram*:"}
+        },
+        {
+            "type": "actions",
+            "block_id": f"attendance_{band['name']}_{today}",
+            "elements": [
+                {
+                    "type": "checkboxes",
+                    "action_id": "attendance_checkboxes",
+                    "options": options,
+                    "initial_options": initial_options if initial_options else None
+                }
+            ]
+        },
+        {
+            "type": "actions",
+            "elements": [
+                {
+                    "type": "button",
+                    "text": {"type": "plain_text", "text": "💾 Salvar"},
+                    "style": "primary",
+                    "action_id": "save_attendance",
+                    "value": json.dumps({
+                        "band": band['name'],
+                        "date": today,
+                        "student_ids": [s['id'] for s in students]
+                    })
+                }
+            ]
+        }
+    ]
+
+    # Remove None from initial_options if empty
+    if not initial_options:
+        blocks[2]["elements"][0].pop("initial_options", None)
+
+    respond(blocks=blocks)
+
+
+@app.action("attendance_checkboxes")
+def handle_attendance_checkboxes(ack, body, logger):
+    """Handle checkbox changes - just acknowledge, save happens on button click."""
+    ack()
+
+
+@app.action("save_attendance")
+def handle_save_attendance(ack, body, client, logger):
+    """Save attendance to database."""
+    ack()
+
+    try:
+        # Get the button value (metadata)
+        action = next(a for a in body["actions"] if a["action_id"] == "save_attendance")
+        metadata = json.loads(action["value"])
+
+        # Get checked student IDs from the checkbox state
+        checked_ids = set()
+        for block in body.get("state", {}).get("values", {}).values():
+            if "attendance_checkboxes" in block:
+                for option in block["attendance_checkboxes"].get("selected_options", []):
+                    checked_ids.add(int(option["value"]))
+
+        # Save to database
+        conn = get_db()
+        cur = conn.cursor()
+        user = body["user"]["username"]
+
+        present_count = 0
+        absent_count = 0
+
+        for student_id in metadata["student_ids"]:
+            status = "presente" if student_id in checked_ids else "falta"
+            if status == "presente":
+                present_count += 1
+            else:
+                absent_count += 1
+
+            cur.execute("""
+                INSERT INTO attendance (date, activity_type, activity_name, student_id, status, recorded_by)
+                VALUES (?, 'banda', ?, ?, ?, ?)
+                ON CONFLICT(date, activity_type, activity_name, student_id)
+                DO UPDATE SET status = ?, recorded_by = ?, recorded_at = CURRENT_TIMESTAMP
+            """, (metadata["date"], metadata["band"], student_id, status, user, status, user))
+
+        conn.commit()
+        conn.close()
+
+        # Update the message to show confirmation
+        client.chat_update(
+            channel=body["channel"]["id"],
+            ts=body["message"]["ts"],
+            text=f"✅ Presença salva: {metadata['band']} - {metadata['date']}",
+            blocks=[
+                {
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": f"✅ *Presença salva!*\n\n*{metadata['band']}* - {metadata['date']}\n\n✓ Presentes: {present_count}\n✗ Faltas: {absent_count}\n\n_Registrado por @{user}_"
+                    }
+                }
+            ]
+        )
+
+    except Exception as e:
+        logger.error(f"Error saving attendance: {e}")
+        client.chat_postMessage(
+            channel=body["channel"]["id"],
+            text=f"❌ Erro ao salvar presença: {str(e)}"
+        )
 
 
 @app.event("message")
