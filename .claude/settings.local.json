@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sqlite3:*)",
+      "Bash(tree:*)",
+      "Bash(ls:*)",
+      "Bash(for f in /Users/tom/Documents/HQ/favelabrass/imports/*.csv)",
+      "Bash(done)",
+      "Bash(open:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(gh repo list:*)",
+      "Bash(gh auth status:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(cat:*)",
+      "Bash(wc:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 show:*)",
+      "Bash(pip3 install:*)",
+      "Bash(brew install:*)",
+      "Bash(head:*)",
+      "Bash(xargs:*)",
+      "Bash(chmod:*)",
+      "Bash(column -t -s '|':*)"
+    ]
+  }
+}

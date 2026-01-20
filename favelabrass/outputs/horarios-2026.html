@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horários 2026 - Favela Brass</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #3E0B59 0%, #5A0E7A 100%);
+            min-height: 100vh;
+            color: #fff;
+            padding: 20px;
+            font-size: 14px;
+        }
+        .container { max-width: 1400px; margin: 0 auto; }
+        h1 {
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 5px;
+            background: linear-gradient(90deg, #FEF100, #62CC3C);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .subtitle {
+            text-align: center;
+            color: rgba(255,255,255,0.5);
+            margin-bottom: 25px;
+            font-size: 0.9em;
+        }
+        .stats {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-bottom: 25px;
+        }
+        .stat {
+            background: rgba(255,255,255,0.05);
+            padding: 12px 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #FEF100;
+        }
+        .stat-label {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.8em;
+        }
+        .section {
+            background: rgba(255,255,255,0.03);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid rgba(255,255,255,0.08);
+        }
+        .section h2 {
+            color: #FEF100;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            font-size: 1.1em;
+        }
+        .teacher-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 15px;
+        }
+        .teacher-card {
+            background: rgba(255,255,255,0.04);
+            border-radius: 10px;
+            padding: 15px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        .teacher-card h3 {
+            color: #FEF100;
+            margin-bottom: 12px;
+            font-size: 0.95em;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .teacher-card h3 span {
+            color: rgba(255,255,255,0.4);
+            font-weight: normal;
+            font-size: 0.85em;
+        }
+        .lesson-list { list-style: none; }
+        .lesson-item {
+            padding: 6px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.04);
+            display: grid;
+            grid-template-columns: 38px 90px 1fr auto;
+            gap: 8px;
+            align-items: center;
+            font-size: 0.9em;
+        }
+        .lesson-item:last-child { border-bottom: none; }
+        .lesson-day {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.8em;
+        }
+        .lesson-time {
+            color: #62CC3C;
+            font-size: 0.85em;
+            font-variant-numeric: tabular-nums;
+        }
+        .lesson-student { color: #fff; }
+        .lesson-loc {
+            color: rgba(255,255,255,0.4);
+            font-size: 0.8em;
+            text-align: right;
+        }
+        .badge-interpreter {
+            display: inline-block;
+            padding: 1px 5px;
+            border-radius: 6px;
+            font-size: 0.7em;
+            margin-left: 4px;
+            vertical-align: middle;
+            background: rgba(0, 188, 212, 0.2);
+            color: #00bcd4;
+        }
+        .footer {
+            text-align: center;
+            color: rgba(255,255,255,0.3);
+            margin-top: 25px;
+            font-size: 0.8em;
+        }
+        @media (max-width: 600px) {
+            .teacher-grid { grid-template-columns: 1fr; }
+            .stats { flex-wrap: wrap; }
+        }
+        @media print {
+            body { background: #fff; color: #000; font-size: 11px; }
+            .section { border: 1px solid #ccc; page-break-inside: avoid; }
+            h1 { color: #5A0E7A; -webkit-text-fill-color: #5A0E7A; }
+            .section h2, .teacher-card h3 { color: #5A0E7A; }
+            .lesson-time { color: #5A0E7A; }
+            .lesson-loc { color: #666; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Horários 2026</h1>
+        <p class="subtitle">Aulas particulares e atividades</p>
+        
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">70</div>
+                <div class="stat-label">aulas particulares</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">8</div>
+                <div class="stat-label">professores</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">67</div>
+                <div class="stat-label">alunos</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Por Professor</h2>
+            <div class="teacher-grid">
+
+                <div class="teacher-card">
+                    <h3>Anderson Clayton <span>10 aulas</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qui</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Luiz Henrique L.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qui</span>
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Elisabete Ramos d.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qui</span>
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Maria Helena O.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qui</span>
+                            <span class="lesson-time">19:30-20:30</span>
+                            <span class="lesson-student">Barbara Lauanne M.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qui</span>
+                            <span class="lesson-time">19:30-20:30</span>
+                            <span class="lesson-student">Felipe Matos B.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Maria Fernanda B.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Kauê Alexandro S.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Sara Santos B.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">20:00-21:00</span>
+                            <span class="lesson-student">Arthur Julio B.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">20:00-21:00</span>
+                            <span class="lesson-student">Ronald Daniel P.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Guidolini <span>1 aula</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">19:00-21:00</span>
+                            <span class="lesson-student">Pierre França d.<span class="badge-interpreter">🤟</span></span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Joana Saraiva <span>16 aulas</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Emilly Vitória F.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Ryan Cantoni N.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">19:00-19:30</span>
+                            <span class="lesson-student">Rayane Souza B.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">19:30-20:00</span>
+                            <span class="lesson-student">Letícia Ferreira d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">20:00-20:30</span>
+                            <span class="lesson-student">Valentina Flor P.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">João Pedro F.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Maria Manuele d.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Maria Antônia M.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">19:00-19:30</span>
+                            <span class="lesson-student">Ryan Pereira</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">19:30-20:00</span>
+                            <span class="lesson-student">Maria Rita L.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">20:00-20:30</span>
+                            <span class="lesson-student">Davi Leandro C.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">08:30-09:00</span>
+                            <span class="lesson-student">Bernardo Lucca F.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">09:00-09:30</span>
+                            <span class="lesson-student">Karina Lúcia S.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">09:30-10:00</span>
+                            <span class="lesson-student">Nicole Mendes d.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:00-10:30</span>
+                            <span class="lesson-student">Gerson Silveira N.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:30-11:00</span>
+                            <span class="lesson-student">Marina Machado M.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Joe Epstein <span>9 aulas</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">17:30-18:00</span>
+                            <span class="lesson-student">Larissa Paiva d.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Anita Novaes A.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Rafael Alves Q.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">19:00-19:30</span>
+                            <span class="lesson-student">Marcos Felipe A.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">19:30-20:00</span>
+                            <span class="lesson-student">Rafael dos S.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">20:00-20:30</span>
+                            <span class="lesson-student">Marcelo Pereira J.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">20:30-21:00</span>
+                            <span class="lesson-student">Arthur Lopes d.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">16:30-17:00</span>
+                            <span class="lesson-student">Aryelle Luiza d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">17:00-17:30</span>
+                            <span class="lesson-student">Heron de S.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Marcos Henrique <span>8 aulas</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Maria Antônia R.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">19:00-19:30</span>
+                            <span class="lesson-student">Maria Luiza d.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">08:30-09:00</span>
+                            <span class="lesson-student">Alice Sabino B.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">08:30-09:00</span>
+                            <span class="lesson-student">Tiê Nascimento F.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">08:30-09:00</span>
+                            <span class="lesson-student">Miguel Freitas L.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">09:00-09:30</span>
+                            <span class="lesson-student">Anny Sophia C.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">09:30-10:00</span>
+                            <span class="lesson-student">Pierre França d.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:30-11:00</span>
+                            <span class="lesson-student">Andressa de A.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Pablo Beato <span>9 aulas</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Emilly Teixeira d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Carlos Henrique d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">19:00-19:30</span>
+                            <span class="lesson-student">Miguel Miletson d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Seg</span>
+                            <span class="lesson-time">19:30-20:00</span>
+                            <span class="lesson-student">Maria Antonia N.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Juan Bento N.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Maria Eduarda S.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">17:30-18:00</span>
+                            <span class="lesson-student">Edileuza Maria d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Ingrid Gomes d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Qua</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Alex Lopes d.</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Raffaella Goi <span>11 aulas</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">19:30-20:00</span>
+                            <span class="lesson-student">Beatriz Costa N.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">20:00-20:30</span>
+                            <span class="lesson-student">Aisha Matos B.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">17:30-18:00</span>
+                            <span class="lesson-student">Beatriz Costa N.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sex</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Aisha Matos B.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">08:30-09:00</span>
+                            <span class="lesson-student">Isabella França M.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">09:00-09:30</span>
+                            <span class="lesson-student">Paola Peixoto A.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">09:30-10:00</span>
+                            <span class="lesson-student">Suellen Gustavo P.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:00-10:30</span>
+                            <span class="lesson-student">Ana Laura A.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:00-10:30</span>
+                            <span class="lesson-student">Raissa Mendes d.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:00-10:30</span>
+                            <span class="lesson-student">Beahtriz Milagres R.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:30-11:00</span>
+                            <span class="lesson-student">Arthur Bezerra d.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Shanso Araújo <span>6 aulas</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:00-18:30</span>
+                            <span class="lesson-student">Isadora da S.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Ter</span>
+                            <span class="lesson-time">18:30-19:00</span>
+                            <span class="lesson-student">Vitória Matos O.</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">09:30-10:00</span>
+                            <span class="lesson-student">César Augusto R.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">10:00-10:30</span>
+                            <span class="lesson-student">Isac Nunes d.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">11:00-11:30</span>
+                            <span class="lesson-student">Kailany Rodrigues d.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                        <li class="lesson-item">
+                            <span class="lesson-day">Sáb</span>
+                            <span class="lesson-time">11:30-12:00</span>
+                            <span class="lesson-student">Kauany Cristina R.</span>
+                            <span class="lesson-loc">Zola</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Atividades em Grupo</h2>
+            <div class="teacher-grid">
+
+                <div class="teacher-card">
+                    <h3>Segunda <span>10 atividades</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">12:00-13:00</span>
+                            <span class="lesson-student">Oficina de trombone</span>
+                            <span class="lesson-loc">Pereira Passos</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">12:00-13:00</span>
+                            <span class="lesson-student">Oficina de trombonito</span>
+                            <span class="lesson-loc">Pereira Passos</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">12:00-13:00</span>
+                            <span class="lesson-student">Oficina de percussão</span>
+                            <span class="lesson-loc">Pereira Passos</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">12:00-12:00</span>
+                            <span class="lesson-student">oficina de trompete</span>
+                            <span class="lesson-loc">Pereira Passos</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">14:15-15:15</span>
+                            <span class="lesson-student">Oficina de trombone</span>
+                            <span class="lesson-loc">Estados Unidos</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">14:15-15:15</span>
+                            <span class="lesson-student">Oficina de percussão</span>
+                            <span class="lesson-loc">Estados Unidos</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:00-20:30</span>
+                            <span class="lesson-student">Aulas de saxofone Banda 1</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:00-20:00</span>
+                            <span class="lesson-student">Aulas de trombone banda 2 Roxa</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-21:00</span>
+                            <span class="lesson-student">Ensaio da Banda 1 Preta</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Aula técnica percussão Banda 1 Preta</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Terça <span>7 atividades</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:00-19:00</span>
+                            <span class="lesson-student">Aula de trombone Banda Verde</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:00-19:00</span>
+                            <span class="lesson-student">Aula de trombone Banda Preta</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:00-19:00</span>
+                            <span class="lesson-student">Aula de saxofone Banda Verde</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">19:00-20:00</span>
+                            <span class="lesson-student">Teoria na prática turma nível 3</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">19:00-20:00</span>
+                            <span class="lesson-student">Teoria na prática turma nível 1</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">20:00-21:00</span>
+                            <span class="lesson-student">Teoria na prática turma nível 2</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">20:00-21:00</span>
+                            <span class="lesson-student">Teoria na prática turma nível 3</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Quarta <span>10 atividades</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">12:00-13:00</span>
+                            <span class="lesson-student">Oficina de percussão</span>
+                            <span class="lesson-loc">Mem de Sá</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">14:30-15:30</span>
+                            <span class="lesson-student">Oficina de trombone</span>
+                            <span class="lesson-loc">Vital Brasil</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">14:30-15:30</span>
+                            <span class="lesson-student">Oficina de percussão</span>
+                            <span class="lesson-loc">Vital Brasil</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">14:30-15:30</span>
+                            <span class="lesson-student">Oficina de trompete</span>
+                            <span class="lesson-loc">Maria Leopoldina</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">14:30-15:30</span>
+                            <span class="lesson-student">Oficina de percussão</span>
+                            <span class="lesson-loc">Maria Leopoldina</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">17:30-19:00</span>
+                            <span class="lesson-student">Aulas de trombone banda 1 preta</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Ensaio de percussão Banda 2 roxa</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-21:00</span>
+                            <span class="lesson-student">Ensaio da Banda 2 roxa</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-20:30</span>
+                            <span class="lesson-student">Aulas de saxofones Banda 1</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">19:00-21:00</span>
+                            <span class="lesson-student">Aula do Pierre</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Quinta <span>3 atividades</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:00-21:00</span>
+                            <span class="lesson-student">Aulas de percussão banda 1 (preta)</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-21:00</span>
+                            <span class="lesson-student">Ensaio Banda 3 (verde)</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Ensaio percussão Banda Preta</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Sexta <span>4 atividades</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:00-21:00</span>
+                            <span class="lesson-student">Aulas de percussao banda 2 roxa</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-21:00</span>
+                            <span class="lesson-student">Ensaio extra da Banda 1 (Preta)</span>
+                            <span class="lesson-loc">Silvia</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Aulas de Percussão Banda 3 (Verde)</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">18:30-19:30</span>
+                            <span class="lesson-student">Aulas de Trompete</span>
+                            <span class="lesson-loc">Casa Tom</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="teacher-card">
+                    <h3>Sábado <span>13 atividades</span></h3>
+                    <ul class="lesson-list">
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">08:30-09:30</span>
+                            <span class="lesson-student">Aula trombones nível 1</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">08:30-09:30</span>
+                            <span class="lesson-student">Aula trompetes nível 1</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">08:30-09:30</span>
+                            <span class="lesson-student">Aula de teoria (Grupo 2 +SS)</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">08:30-09:30</span>
+                            <span class="lesson-student">Aulas percussão nível 1</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">09:00-10:00</span>
+                            <span class="lesson-student">Aulas sax nível 1</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">09:30-10:30</span>
+                            <span class="lesson-student">Aulas percussão nível 2</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">09:30-10:30</span>
+                            <span class="lesson-student">Aula trombones nível 2</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">09:30-10:30</span>
+                            <span class="lesson-student">Aula trompetes nível 2</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">09:30-10:30</span>
+                            <span class="lesson-student">Aula de teoria (Grupo 1)<span class="badge-interpreter">🤟</span></span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">10:00-11:00</span>
+                            <span class="lesson-student">Aulas sax nível 2</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">10:30-11:30</span>
+                            <span class="lesson-student">Flauta Doce</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">11:00-12:00</span>
+                            <span class="lesson-student">Ensaio de percussão Banda Amarela</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                        <li class="lesson-item" style="grid-template-columns: 90px 1fr auto;">
+                            <span class="lesson-time">11:00-12:30</span>
+                            <span class="lesson-student">Ensaio da Banda Amarela</span>
+                            <span class="lesson-loc">Curvelo</span>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+        
+        <p class="footer">Atualizado: Janeiro 2026 · Alterações → contacte Tom</p>
+    </div>
+</body>
+</html>

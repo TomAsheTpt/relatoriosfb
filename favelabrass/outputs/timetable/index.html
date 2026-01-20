@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horários - Favela Brass</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.4;
+        }
+
+        header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 1.8rem;
+            font-weight: 600;
+        }
+
+        header p {
+            opacity: 0.8;
+            margin-top: 0.3rem;
+        }
+
+        .filters {
+            background: white;
+            padding: 1rem;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            justify-content: center;
+            border-bottom: 1px solid #ddd;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .filter-group label {
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        select {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            background: white;
+            cursor: pointer;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+
+        .day-section {
+            margin-bottom: 2rem;
+        }
+
+        .day-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 0.8rem 1.2rem;
+            border-radius: 8px 8px 0 0;
+            font-size: 1.1rem;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .day-header .count {
+            background: rgba(255,255,255,0.2);
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+        }
+
+        .activities-grid {
+            background: white;
+            border-radius: 0 0 8px 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .activity {
+            display: grid;
+            grid-template-columns: 100px 1fr 140px 140px;
+            padding: 0.8rem 1.2rem;
+            border-bottom: 1px solid #eee;
+            align-items: center;
+            transition: background 0.15s;
+        }
+
+        .activity:hover {
+            background: #f8f9ff;
+        }
+
+        .activity:last-child {
+            border-bottom: none;
+        }
+
+        .activity.hidden {
+            display: none;
+        }
+
+        .time {
+            font-weight: 600;
+            color: #667eea;
+            font-size: 0.95rem;
+        }
+
+        .activity-info {
+            display: flex;
+            flex-direction: column;
+            gap: 0.2rem;
+        }
+
+        .activity-name {
+            font-weight: 500;
+        }
+
+        .activity-type {
+            font-size: 0.75rem;
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            display: inline-block;
+            width: fit-content;
+        }
+
+        .type-ensaio_banda { background: #e3f2fd; color: #1565c0; }
+        .type-ensaio_percussao { background: #fce4ec; color: #c2185b; }
+        .type-aula_individual { background: #e8f5e9; color: #2e7d32; }
+        .type-aula_em_grupo { background: #fff3e0; color: #ef6c00; }
+        .type-aula_escola { background: #f3e5f5; color: #7b1fa2; }
+        .type-aula_teoria { background: #e0f7fa; color: #00838f; }
+        .type-luthieria { background: #efebe9; color: #5d4037; }
+
+        .location {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .location::before {
+            content: '📍 ';
+        }
+
+        .teacher {
+            color: #333;
+            font-size: 0.9rem;
+        }
+
+        .teacher::before {
+            content: '👤 ';
+        }
+
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            justify-content: center;
+            padding: 1rem;
+            background: white;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-size: 0.8rem;
+        }
+
+        .legend-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 3px;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+            background: white;
+            border-radius: 8px;
+            display: none;
+        }
+
+        .no-results.visible {
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .activity {
+                grid-template-columns: 1fr;
+                gap: 0.5rem;
+            }
+
+            .time {
+                font-size: 0.85rem;
+            }
+
+            .filters {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .filter-group {
+                justify-content: space-between;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Horários Favela Brass</h1>
+        <p>Semestre 2026.1</p>
+    </header>
+
+    <div class="filters">
+        <div class="filter-group">
+            <label>Dia:</label>
+            <select id="day-filter">
+                <option value="all">Todos os dias</option>
+                <option value="2a - Segunda">Segunda</option>
+                <option value="3a - Terça">Terça</option>
+                <option value="4a - Quarta">Quarta</option>
+                <option value="5a - Quinta">Quinta</option>
+                <option value="6a - Sexta">Sexta</option>
+                <option value="Sábado">Sábado</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>Local:</label>
+            <select id="location-filter">
+                <option value="all">Todos os locais</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>Professor:</label>
+            <select id="teacher-filter">
+                <option value="all">Todos</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>Tipo:</label>
+            <select id="type-filter">
+                <option value="all">Todos</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="legend">
+            <div class="legend-item"><div class="legend-color" style="background:#e3f2fd"></div> Ensaio Banda</div>
+            <div class="legend-item"><div class="legend-color" style="background:#fce4ec"></div> Ensaio Percussão</div>
+            <div class="legend-item"><div class="legend-color" style="background:#e8f5e9"></div> Aula Individual</div>
+            <div class="legend-item"><div class="legend-color" style="background:#fff3e0"></div> Aula em Grupo</div>
+            <div class="legend-item"><div class="legend-color" style="background:#f3e5f5"></div> Oficina Escola</div>
+            <div class="legend-item"><div class="legend-color" style="background:#e0f7fa"></div> Teoria</div>
+            <div class="legend-item"><div class="legend-color" style="background:#efebe9"></div> Luthieria</div>
+        </div>
+
+        <div id="timetable"></div>
+        <div class="no-results" id="no-results">Nenhuma atividade encontrada com esses filtros.</div>
+    </div>
+
+    <script>
+        const activities = [
+            {"day": "2a - Segunda", "name": "Oficina de trombone", "type": "aula_escola", "start": "12:00", "end": "13:00", "location": "E.M. Pereira Passos", "teacher": "Nathan Ferreira"},
+            {"day": "2a - Segunda", "name": "Oficina de trombonito", "type": "aula_escola", "start": "12:00", "end": "13:00", "location": "E.M. Pereira Passos", "teacher": "Henri Patrique de Marzitelli"},
+            {"day": "2a - Segunda", "name": "Oficina de percussão", "type": "aula_escola", "start": "12:00", "end": "13:00", "location": "E.M. Pereira Passos", "teacher": "Mangueirinha"},
+            {"day": "2a - Segunda", "name": "Oficina de trompete", "type": "aula_escola", "start": "12:00", "end": "12:00", "location": "E.M. Pereira Passos", "teacher": "Dan Di Oliveiri"},
+            {"day": "2a - Segunda", "name": "Oficina de trombone", "type": "aula_escola", "start": "14:15", "end": "15:15", "location": "E.M Estados Unidos", "teacher": "Nathan Ferreira"},
+            {"day": "2a - Segunda", "name": "Oficina de percussão", "type": "aula_escola", "start": "14:15", "end": "15:15", "location": "E.M Estados Unidos", "teacher": "Mangueirinha"},
+            {"day": "2a - Segunda", "name": "Aulas de saxofone Banda 1", "type": "aula_individual", "start": "18:00", "end": "20:30", "location": "Silvia", "teacher": "Joana Saraiva"},
+            {"day": "2a - Segunda", "name": "Aulas de trombone banda 2 Roxa", "type": "aula_individual", "start": "18:00", "end": "20:00", "location": "Silvia", "teacher": "Pablo Beato"},
+            {"day": "2a - Segunda", "name": "Ensaio da Banda 1 Preta", "type": "ensaio_banda", "start": "18:30", "end": "21:00", "location": "Casa Tom", "teacher": "Wesley de Araújo"},
+            {"day": "2a - Segunda", "name": "Aula técnica percussão Banda 1 Preta", "type": "ensaio_percussao", "start": "18:30", "end": "19:30", "location": "Casa Tom", "teacher": "Uyrá La Rosa, Tiago Azevedo"},
+            {"day": "3a - Terça", "name": "Aula de trombone Banda Verde", "type": "aula_individual", "start": "18:00", "end": "19:00", "location": "Casa Tom", "teacher": "Shanso Araujo"},
+            {"day": "3a - Terça", "name": "Aula de trombone Banda Preta", "type": "aula_individual", "start": "18:00", "end": "19:00", "location": "Silvia", "teacher": "Pablo Beato"},
+            {"day": "3a - Terça", "name": "Aula de saxofone Banda Verde", "type": "aula_individual", "start": "18:00", "end": "19:00", "location": "Silvia", "teacher": "Joana Saraiva"},
+            {"day": "3a - Terça", "name": "Teoria na prática turma nível 3", "type": "aula_teoria", "start": "19:00", "end": "20:00", "location": "Casa Tom", "teacher": "Pablo Beato"},
+            {"day": "3a - Terça", "name": "Teoria na prática turma nível 1", "type": "aula_teoria", "start": "19:00", "end": "20:00", "location": "Casa Tom", "teacher": "Joana Saraiva"},
+            {"day": "3a - Terça", "name": "Teoria na prática turma nível 2", "type": "aula_teoria", "start": "20:00", "end": "21:00", "location": "Silvia", "teacher": "Pablo Beato"},
+            {"day": "3a - Terça", "name": "Teoria na prática turma nível 3", "type": "aula_teoria", "start": "20:00", "end": "21:00", "location": "Casa Tom", "teacher": "Joana Saraiva"},
+            {"day": "4a - Quarta", "name": "Oficina de percussão", "type": "aula_escola", "start": "12:00", "end": "13:00", "location": "E.M. Mem de Sá", "teacher": "Mangueirinha"},
+            {"day": "4a - Quarta", "name": "Oficina de trombone", "type": "aula_escola", "start": "14:30", "end": "15:30", "location": "E.M. Vital Brasil", "teacher": "Henri Patrique de Marzitelli"},
+            {"day": "4a - Quarta", "name": "Oficina de percussão", "type": "aula_escola", "start": "14:30", "end": "15:30", "location": "E.M. Vital Brasil", "teacher": "Mangueirinha"},
+            {"day": "4a - Quarta", "name": "Oficina de trompete", "type": "aula_escola", "start": "14:30", "end": "15:30", "location": "E.M. Maria Leopoldina", "teacher": "Dan Di Oliveiri"},
+            {"day": "4a - Quarta", "name": "Oficina de percussão", "type": "aula_escola", "start": "14:30", "end": "15:30", "location": "E.M. Maria Leopoldina", "teacher": "Mangueirinha"},
+            {"day": "4a - Quarta", "name": "Aulas de trombone banda 1 preta", "type": "aula_individual", "start": "17:30", "end": "19:00", "location": "Silvia", "teacher": "Pablo Beato"},
+            {"day": "4a - Quarta", "name": "Ensaio de percussão Banda 2 roxa", "type": "ensaio_percussao", "start": "18:30", "end": "19:30", "location": "Casa Tom", "teacher": "Uyrá La Rosa, Tiago Azevedo"},
+            {"day": "4a - Quarta", "name": "Ensaio da Banda 2 roxa", "type": "ensaio_banda", "start": "18:30", "end": "21:00", "location": "Casa Tom", "teacher": "Wesley de Araújo, Henri Patrique de Marzitelli"},
+            {"day": "4a - Quarta", "name": "Aulas de saxofones Banda 1", "type": "aula_individual", "start": "18:30", "end": "20:30", "location": "Silvia", "teacher": "Joana Saraiva"},
+            {"day": "4a - Quarta", "name": "Aula do Pierre", "type": "luthieria", "start": "19:00", "end": "21:00", "location": "Casa Tom", "teacher": "Bernardo Guidolini, André Sena"},
+            {"day": "5a - Quinta", "name": "Aulas de percussão banda 1 (preta)", "type": "aula_individual", "start": "18:00", "end": "21:00", "location": "Casa Tom", "teacher": "Anderson Clayton"},
+            {"day": "5a - Quinta", "name": "Ensaio Banda 3 (verde)", "type": "ensaio_banda", "start": "18:30", "end": "21:00", "location": "Casa Tom", "teacher": "Shanso Araujo"},
+            {"day": "5a - Quinta", "name": "Ensaio percussão Banda Preta", "type": "ensaio_percussao", "start": "18:30", "end": "19:30", "location": "Casa Tom", "teacher": "Marcos Henrique"},
+            {"day": "6a - Sexta", "name": "Aulas de percussao banda 2 roxa", "type": "aula_individual", "start": "18:00", "end": "21:00", "location": "Casa Tom", "teacher": "Anderson Clayton"},
+            {"day": "6a - Sexta", "name": "Ensaio extra da Banda 1 (Preta)", "type": "ensaio_banda", "start": "18:30", "end": "21:00", "location": "Silvia", "teacher": "Wesley de Araújo"},
+            {"day": "6a - Sexta", "name": "Aulas de Percussão Banda 3 (Verde)", "type": "aula_individual", "start": "18:30", "end": "19:30", "location": "Casa Tom", "teacher": "Marcos Henrique"},
+            {"day": "6a - Sexta", "name": "Aulas de Trompete", "type": "aula_individual", "start": "18:30", "end": "19:30", "location": "Casa Tom", "teacher": "Raffaella Goi"},
+            {"day": "Sábado", "name": "Aula trombones nível 1", "type": "aula_em_grupo", "start": "08:30", "end": "09:30", "location": "Curvelo", "teacher": "Shanso Araujo"},
+            {"day": "Sábado", "name": "Aula trompetes nível 1", "type": "aula_em_grupo", "start": "08:30", "end": "09:30", "location": "Curvelo", "teacher": "Raffaella Goi"},
+            {"day": "Sábado", "name": "Aula de teoria (Grupo 2 +SS)", "type": "aula_em_grupo", "start": "08:30", "end": "09:30", "location": "Curvelo", "teacher": ""},
+            {"day": "Sábado", "name": "Aulas percussão nível 1", "type": "aula_em_grupo", "start": "08:30", "end": "09:30", "location": "Curvelo", "teacher": "Marcos Henrique"},
+            {"day": "Sábado", "name": "Aulas sax nível 1", "type": "aula_em_grupo", "start": "09:00", "end": "10:00", "location": "Curvelo", "teacher": "Joana Saraiva"},
+            {"day": "Sábado", "name": "Aulas percussão nível 2", "type": "aula_em_grupo", "start": "09:30", "end": "10:30", "location": "Curvelo", "teacher": "Marcos Henrique"},
+            {"day": "Sábado", "name": "Aula trombones nível 2", "type": "aula_em_grupo", "start": "09:30", "end": "10:30", "location": "Curvelo", "teacher": "Shanso Araujo"},
+            {"day": "Sábado", "name": "Aula trompetes nível 2", "type": "aula_em_grupo", "start": "09:30", "end": "10:30", "location": "Curvelo", "teacher": "Raffaella Goi"},
+            {"day": "Sábado", "name": "Aula de teoria (Grupo 1)", "type": "aula_em_grupo", "start": "09:30", "end": "10:30", "location": "Curvelo", "teacher": "André Sena"},
+            {"day": "Sábado", "name": "Aulas sax nível 2", "type": "aula_em_grupo", "start": "10:00", "end": "11:00", "location": "Curvelo", "teacher": "Joana Saraiva"},
+            {"day": "Sábado", "name": "Flauta Doce", "type": "aula_em_grupo", "start": "10:30", "end": "11:30", "location": "Curvelo", "teacher": ""},
+            {"day": "Sábado", "name": "Ensaio de percussão Banda Amarela", "type": "ensaio_percussao", "start": "11:00", "end": "12:00", "location": "Curvelo", "teacher": "Marcos Henrique"},
+            {"day": "Sábado", "name": "Ensaio da Banda Amarela", "type": "ensaio_banda", "start": "11:00", "end": "12:30", "location": "Curvelo", "teacher": "Raffaella Goi, Nathan Ferreira"}
+        ];
+
+        const dayOrder = ['2a - Segunda', '3a - Terça', '4a - Quarta', '5a - Quinta', '6a - Sexta', 'Sábado'];
+        const dayNames = {
+            '2a - Segunda': 'Segunda-feira',
+            '3a - Terça': 'Terça-feira',
+            '4a - Quarta': 'Quarta-feira',
+            '5a - Quinta': 'Quinta-feira',
+            '6a - Sexta': 'Sexta-feira',
+            'Sábado': 'Sábado'
+        };
+
+        const typeNames = {
+            'ensaio_banda': 'Ensaio Banda',
+            'ensaio_percussao': 'Ensaio Percussão',
+            'aula_individual': 'Aula Individual',
+            'aula_em_grupo': 'Aula em Grupo',
+            'aula_escola': 'Oficina Escola',
+            'aula_teoria': 'Teoria',
+            'luthieria': 'Luthieria'
+        };
+
+        // Populate filter dropdowns
+        const locations = [...new Set(activities.map(a => a.location).filter(l => l))].sort();
+        const teachers = [...new Set(activities.flatMap(a => a.teacher.split(', ')).filter(t => t))].sort();
+        const types = [...new Set(activities.map(a => a.type))];
+
+        const locationSelect = document.getElementById('location-filter');
+        locations.forEach(loc => {
+            const opt = document.createElement('option');
+            opt.value = loc;
+            opt.textContent = loc;
+            locationSelect.appendChild(opt);
+        });
+
+        const teacherSelect = document.getElementById('teacher-filter');
+        teachers.forEach(t => {
+            const opt = document.createElement('option');
+            opt.value = t;
+            opt.textContent = t;
+            teacherSelect.appendChild(opt);
+        });
+
+        const typeSelect = document.getElementById('type-filter');
+        types.forEach(t => {
+            const opt = document.createElement('option');
+            opt.value = t;
+            opt.textContent = typeNames[t] || t;
+            typeSelect.appendChild(opt);
+        });
+
+        function render() {
+            const dayFilter = document.getElementById('day-filter').value;
+            const locationFilter = document.getElementById('location-filter').value;
+            const teacherFilter = document.getElementById('teacher-filter').value;
+            const typeFilter = document.getElementById('type-filter').value;
+
+            const container = document.getElementById('timetable');
+            container.innerHTML = '';
+
+            let totalVisible = 0;
+
+            dayOrder.forEach(day => {
+                if (dayFilter !== 'all' && dayFilter !== day) return;
+
+                const dayActivities = activities
+                    .filter(a => a.day === day)
+                    .filter(a => locationFilter === 'all' || a.location === locationFilter)
+                    .filter(a => teacherFilter === 'all' || a.teacher.includes(teacherFilter))
+                    .filter(a => typeFilter === 'all' || a.type === typeFilter);
+
+                if (dayActivities.length === 0) return;
+
+                totalVisible += dayActivities.length;
+
+                const section = document.createElement('div');
+                section.className = 'day-section';
+
+                section.innerHTML = `
+                    <div class="day-header">
+                        <span>${dayNames[day]}</span>
+                        <span class="count">${dayActivities.length} atividades</span>
+                    </div>
+                    <div class="activities-grid">
+                        ${dayActivities.map(a => `
+                            <div class="activity" data-day="${a.day}" data-location="${a.location}" data-teacher="${a.teacher}" data-type="${a.type}">
+                                <div class="time">${a.start} - ${a.end}</div>
+                                <div class="activity-info">
+                                    <div class="activity-name">${a.name}</div>
+                                    <div class="activity-type type-${a.type}">${typeNames[a.type] || a.type}</div>
+                                </div>
+                                <div class="location">${a.location}</div>
+                                <div class="teacher">${a.teacher || '-'}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+
+                container.appendChild(section);
+            });
+
+            document.getElementById('no-results').classList.toggle('visible', totalVisible === 0);
+        }
+
+        document.getElementById('day-filter').addEventListener('change', render);
+        document.getElementById('location-filter').addEventListener('change', render);
+        document.getElementById('teacher-filter').addEventListener('change', render);
+        document.getElementById('type-filter').addEventListener('change', render);
+
+        render();
+    </script>
+</body>
+</html>

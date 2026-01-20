@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favela Brass - Relatório do Programa 2026</title>
+    <style>
+        :root {
+            --primary: #1a5f2a;
+            --primary-light: #2d8a3e;
+            --secondary: #f4b41a;
+            --dark: #1a1a2e;
+            --light: #f8f9fa;
+            --gray: #6c757d;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 100vh;
+            color: var(--dark);
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .header .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .header .date {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .executive-summary {
+            background: white;
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--secondary);
+        }
+
+        .executive-summary h2 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .executive-summary p {
+            line-height: 1.8;
+            color: #444;
+            margin-bottom: 1rem;
+        }
+
+        .executive-summary ul {
+            margin-left: 1.5rem;
+            line-height: 2;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 16px;
+            padding: 1.5rem;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+        }
+
+        .stat-card .number {
+            font-size: 3rem;
+            font-weight: 700;
+            color: var(--primary);
+            line-height: 1;
+        }
+
+        .stat-card .label {
+            color: var(--gray);
+            margin-top: 0.5rem;
+            font-size: 0.95rem;
+        }
+
+        .stat-card.highlight {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+        }
+
+        .stat-card.highlight .number,
+        .stat-card.highlight .label {
+            color: white;
+        }
+
+        .section {
+            background: white;
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+
+        .section h2 {
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid #eee;
+        }
+
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .two-column {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+        }
+
+        th, td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        tr:hover {
+            background: #fafafa;
+        }
+
+        .bar-chart {
+            margin-top: 1rem;
+        }
+
+        .bar-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 0.75rem;
+        }
+
+        .bar-label {
+            width: 140px;
+            font-size: 0.9rem;
+            color: #555;
+        }
+
+        .bar-container {
+            flex: 1;
+            height: 28px;
+            background: #eee;
+            border-radius: 14px;
+            overflow: hidden;
+            margin: 0 1rem;
+        }
+
+        .bar {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary) 0%, var(--primary-light) 100%);
+            border-radius: 14px;
+            transition: width 0.8s ease;
+        }
+
+        .bar-value {
+            width: 40px;
+            text-align: right;
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .badge-success {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .badge-warning {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .badge-info {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+
+        .progress-ring {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin: 2rem 0;
+        }
+
+        .ring-item {
+            text-align: center;
+        }
+
+        .ring-item svg {
+            transform: rotate(-90deg);
+        }
+
+        .ring-item .ring-label {
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+            color: var(--gray);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--gray);
+            font-size: 0.9rem;
+        }
+
+        .footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .instrument-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .instrument-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .instrument-card .count {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .instrument-card .name {
+            font-size: 0.85rem;
+            color: #666;
+            margin-top: 0.25rem;
+        }
+
+        .instrument-card .active {
+            font-size: 0.75rem;
+            color: var(--gray);
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, #fff9e6 0%, #fff3cd 100%);
+            border: 1px solid #ffc107;
+            border-radius: 12px;
+            padding: 1.25rem;
+            margin: 1rem 0;
+        }
+
+        .highlight-box strong {
+            color: #856404;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Favela Brass</h1>
+        <div class="subtitle">Relatório do Programa - Janeiro 2026</div>
+        <div class="date">Gerado em 15 de janeiro de 2026</div>
+    </div>
+
+    <div class="container">
+        <div class="executive-summary">
+            <h2>Resumo Executivo</h2>
+            <p>
+                A Favela Brass atende atualmente <strong>289 alunos ativos</strong> em dois programas distintos:
+                o <strong>Programa Avançado</strong> (bandas e aulas individuais) com 55 alunos, e as
+                <strong>Oficinas nas Escolas</strong> com 234 alunos distribuídos em mais de 30 escolas parceiras.
+            </p>
+            <p>
+                O programa mantém um inventário de <strong>256 instrumentos</strong>, dos quais 181 estão em
+                condições de uso. Atualmente há <strong>116 empréstimos ativos</strong> para alunos e professores.
+            </p>
+
+            <div class="highlight-box">
+                <strong>Destaques:</strong>
+                <ul>
+                    <li>65% dos alunos ativos são moradores de comunidades</li>
+                    <li>59% dos alunos são do gênero feminino - forte representatividade</li>
+                    <li>5 bandas ativas com diferentes níveis de desenvolvimento</li>
+                    <li>14 professores ativos no quadro docente</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card highlight">
+                <div class="number">289</div>
+                <div class="label">Alunos Ativos</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">55</div>
+                <div class="label">Programa Avançado</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">234</div>
+                <div class="label">Oficinas Escolas</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">256</div>
+                <div class="label">Instrumentos</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">14</div>
+                <div class="label">Professores</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">40+</div>
+                <div class="label">Escolas Parceiras</div>
+            </div>
+        </div>
+
+        <div class="two-column">
+            <div class="section">
+                <h2>Bandas</h2>
+                <div class="bar-chart">
+                    <div class="bar-row">
+                        <span class="bar-label">Banda Preta</span>
+                        <div class="bar-container">
+                            <div class="bar" style="width: 100%"></div>
+                        </div>
+                        <span class="bar-value">18</span>
+                    </div>
+                    <div class="bar-row">
+                        <span class="bar-label">Banda Amarela</span>
+                        <div class="bar-container">
+                            <div class="bar" style="width: 100%"></div>
+                        </div>
+                        <span class="bar-value">18</span>
+                    </div>
+                    <div class="bar-row">
+                        <span class="bar-label">Banda Roxa</span>
+                        <div class="bar-container">
+                            <div class="bar" style="width: 78%"></div>
+                        </div>
+                        <span class="bar-value">14</span>
+                    </div>
+                    <div class="bar-row">
+                        <span class="bar-label">Grupo Semente</span>
+                        <div class="bar-container">
+                            <div class="bar" style="width: 22%"></div>
+                        </div>
+                        <span class="bar-value">4</span>
+                    </div>
+                    <div class="bar-row">
+                        <span class="bar-label">Banda Verde</span>
+                        <div class="bar-container">
+                            <div class="bar" style="width: 11%"></div>
+                        </div>
+                        <span class="bar-value">2</span>
+                    </div>
+                </div>
+                <p style="margin-top: 1rem; color: #666; font-size: 0.9rem;">
+                    Total: 56 alunos no programa de bandas
+                </p>
+            </div>
+
+            <div class="section">
+                <h2>Perfil dos Alunos</h2>
+                <div class="progress-ring">
+                    <div class="ring-item">
+                        <svg width="120" height="120">
+                            <circle cx="60" cy="60" r="50" fill="none" stroke="#eee" stroke-width="12"/>
+                            <circle cx="60" cy="60" r="50" fill="none" stroke="#1a5f2a" stroke-width="12"
+                                stroke-dasharray="314" stroke-dashoffset="110" stroke-linecap="round"/>
+                            <text x="60" y="65" text-anchor="middle" fill="#1a5f2a" font-size="24" font-weight="bold" transform="rotate(90, 60, 60)">65%</text>
+                        </svg>
+                        <div class="ring-label">Moradores de<br>Comunidades</div>
+                    </div>
+                    <div class="ring-item">
+                        <svg width="120" height="120">
+                            <circle cx="60" cy="60" r="50" fill="none" stroke="#eee" stroke-width="12"/>
+                            <circle cx="60" cy="60" r="50" fill="none" stroke="#f4b41a" stroke-width="12"
+                                stroke-dasharray="314" stroke-dashoffset="129" stroke-linecap="round"/>
+                            <text x="60" y="65" text-anchor="middle" fill="#856404" font-size="24" font-weight="bold" transform="rotate(90, 60, 60)">59%</text>
+                        </svg>
+                        <div class="ring-label">Gênero<br>Feminino</div>
+                    </div>
+                </div>
+                <table>
+                    <tr>
+                        <td>Feminino</td>
+                        <td style="text-align: right"><strong>170</strong> (59%)</td>
+                    </tr>
+                    <tr>
+                        <td>Masculino</td>
+                        <td style="text-align: right"><strong>119</strong> (41%)</td>
+                    </tr>
+                    <tr>
+                        <td>Moradores de Comunidades</td>
+                        <td style="text-align: right"><strong>187</strong> (65%)</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Inventário de Instrumentos</h2>
+            <div class="instrument-grid">
+                <div class="instrument-card">
+                    <div class="count">74</div>
+                    <div class="name">Trompete</div>
+                    <div class="active">46 ativos</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">57</div>
+                    <div class="name">Escaleta</div>
+                    <div class="active">57 ativos</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">51</div>
+                    <div class="name">Trombone</div>
+                    <div class="active">29 ativos</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">19</div>
+                    <div class="name">Sax Alto</div>
+                    <div class="active">18 ativos</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">12</div>
+                    <div class="name">Clarinete</div>
+                    <div class="active">1 ativo</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">11</div>
+                    <div class="name">Sax Tenor</div>
+                    <div class="active">10 ativos</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">10</div>
+                    <div class="name">Cornet</div>
+                    <div class="active">5 ativos</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">6</div>
+                    <div class="name">Tuba</div>
+                    <div class="active">3 ativos</div>
+                </div>
+                <div class="instrument-card">
+                    <div class="count">6</div>
+                    <div class="name">Trombonito</div>
+                    <div class="active">5 ativos</div>
+                </div>
+            </div>
+            <p style="margin-top: 1.5rem; color: #666;">
+                <strong>Total:</strong> 256 instrumentos cadastrados | <strong>116 empréstimos ativos</strong>
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Corpo Docente</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Professor</th>
+                        <th>Status</th>
+                        <th style="text-align: right">Horas/Semana</th>
+                        <th style="text-align: right">Valor/Hora</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Joana Saraiva</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">9.5h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                    <tr>
+                        <td>Pablo Beato</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">6.5h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                    <tr>
+                        <td>Shanso Araujo</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">5.5h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                    <tr>
+                        <td>Wesley de Araújo</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">5.0h</td>
+                        <td style="text-align: right">-</td>
+                    </tr>
+                    <tr>
+                        <td>Mangueirinha</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">5.0h</td>
+                        <td style="text-align: right">R$ 120</td>
+                    </tr>
+                    <tr>
+                        <td>Raffaella Goi</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">3.0h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                    <tr>
+                        <td>Bernardo Guidolini</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">2.0h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                    <tr>
+                        <td>Dan Di Oliveiri</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">1.0h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                    <tr>
+                        <td>Uyrá La Rosa</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">2.0h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                    <tr>
+                        <td>Tiago Azevedo</td>
+                        <td><span class="badge badge-success">Ativo</span></td>
+                        <td style="text-align: right">2.0h</td>
+                        <td style="text-align: right">R$ 100</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p style="margin-top: 1rem; color: #666; font-size: 0.9rem;">
+                * Horas calculadas automaticamente a partir do calendário de atividades
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Situação Geral</h2>
+            <table>
+                <tr>
+                    <td>Alunos Ativos</td>
+                    <td style="text-align: right"><span class="badge badge-success">289</span></td>
+                </tr>
+                <tr>
+                    <td>Alunos Evadidos</td>
+                    <td style="text-align: right"><span class="badge badge-warning">37</span></td>
+                </tr>
+                <tr>
+                    <td>Ex-Alunos</td>
+                    <td style="text-align: right"><span class="badge badge-info">10</span></td>
+                </tr>
+                <tr>
+                    <td>Taxa de Retenção</td>
+                    <td style="text-align: right"><strong>86%</strong></td>
+                </tr>
+                <tr>
+                    <td>Empréstimos Ativos</td>
+                    <td style="text-align: right">116</td>
+                </tr>
+                <tr>
+                    <td>Instrumentos Disponíveis</td>
+                    <td style="text-align: right">181 de 256</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Associação Musical Favela Brass</p>
+        <p style="margin-top: 0.5rem;">Dados extraídos do sistema de gestão em 15/01/2026</p>
+    </div>
+</body>
+</html>

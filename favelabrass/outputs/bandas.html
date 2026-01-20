@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favela Brass - Nossas Bandas 2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #3E0B59 0%, #5A0E7A 100%);
+            min-height: 100vh;
+            color: #fff;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(90deg, #FEF100, #62CC3C);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            color: rgba(255,255,255,0.8);
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin: 2rem 0;
+        }
+        .stat {
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #FEF100;
+        }
+        .stat-label {
+            font-size: 0.9rem;
+            color: rgba(255,255,255,0.6);
+        }
+        .bands {
+            display: grid;
+            gap: 2rem;
+        }
+        .band {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+            overflow: hidden;
+        }
+        .band-header {
+            padding: 1.5rem;
+            color: white;
+        }
+        .band-header h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.3rem;
+        }
+        .band-header p {
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+        .band-count {
+            float: right;
+            background: rgba(255,255,255,0.2);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        .musicians {
+            padding: 1rem 1.5rem 1.5rem;
+        }
+        .instrument-group {
+            margin-bottom: 1rem;
+        }
+        .instrument-name {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: rgba(255,255,255,0.6);
+            margin-bottom: 0.5rem;
+            padding-bottom: 0.3rem;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .musician {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.4rem 0;
+        }
+        .musician-name {
+            font-size: 0.95rem;
+        }
+        .level {
+            background: rgba(255,255,255,0.1);
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            min-width: 50px;
+            text-align: center;
+        }
+        .level-high {
+            background: #FEF100;
+            color: #000;
+            font-weight: bold;
+        }
+        .level-mid {
+            background: #62CC3C;
+            color: #000;
+        }
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            color: rgba(255,255,255,0.6);
+            font-size: 0.85rem;
+        }
+        @media (max-width: 600px) {
+            body { padding: 1rem; }
+            h1 { font-size: 1.8rem; }
+            .stats { flex-direction: column; gap: 1rem; }
+            .stat-number { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Favela Brass</h1>
+            <p class="subtitle">Nossas Bandas - 2026</p>
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-number">74</div>
+                    <div class="stat-label">Músicos</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">5</div>
+                    <div class="stat-label">Bandas</div>
+                </div>
+            </div>
+        </header>
+        
+        <div class="bands">
+
+            <div class="band">
+                <div class="band-header" style="background: #1a1a1a">
+                    <span class="band-count">21 músicos</span>
+                    <h2>Banda Preta</h2>
+                    <p>Nossa banda principal - músicos avançados níveis 3-6</p>
+                </div>
+                <div class="musicians">
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trompete</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Rafael dos Santos Silva</span>
+                            <span class="level level-high">Nível 6</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Marcelo Pereira Júnior</span>
+                            <span class="level level-high">Nível 5</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Aryelle Luiza de Oliveira de Souza</span>
+                            <span class="level level-high">Nível 4</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Heron de Souza Carvalho da Cruz</span>
+                            <span class="level level-high">Nível 4</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Lucia dos Santos Thomaz</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Marcos Felipe Andrade Clemente</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trombone</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Edileuza Maria da Silva</span>
+                            <span class="level level-high">Nível 5</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Eduarda Santos da Silva</span>
+                            <span class="level level-high">Nível 4</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Alex Lopes de Araújo</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Ingrid Gomes de Mesquita</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Juan Bento Nascimento Naszewski</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Sax Tenor</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Rita Lemos Almeida</span>
+                            <span class="level level-high">Nível 4</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Ryan Pereira</span>
+                            <span class="level level-high">Nível 4</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Emilly Vitória Ferreira de Lira</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Antônia Machado Monteiro Maia</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Sax Barítono</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Davi Leandro Costa Freitas</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Caixa</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Felipe Matos Barril</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Surdo</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Barbara Lauanne Mendes André</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Elisabete Ramos de Oliveira</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Luiz Henrique Lopes da Silva</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Helena Oliveira Santana</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="band">
+                <div class="band-header" style="background: #5A0E7A">
+                    <span class="band-count">17 músicos</span>
+                    <h2>Banda Roxa</h2>
+                    <p>Músicos intermediários - níveis 1-3</p>
+                </div>
+                <div class="musicians">
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trompete</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Anita Novaes Alijó</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Arthur Lopes de Araújo</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Larissa Paiva da Silva</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Rafael Alves Queiroz Rodrigues</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trombone</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Antonia Nadaf de Vasconcellos Nunes Freire</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Carlos Henrique de Castro Cavalcante</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Miguel Miletson dos Santos Araujo</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Emilly Teixeira de Assis Oliveira</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Sax Alto</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Valentina Flor Pimentel Diniz</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Sax Tenor</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Letícia Ferreira de Barros</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Rayane Souza Borges</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Ryan Cantoni Nogueira</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Caixa</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Sara Santos Barros</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Surdo</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Arthur Julio Batista de Oliveira do Ramos</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Kauê Alexandro Santos Alves</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Fernanda Bezerra de Oliveira</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Ronald Daniel Pires do Nascimento</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="band">
+                <div class="band-header" style="background: #62CC3C">
+                    <span class="band-count">9 músicos</span>
+                    <h2>Banda Verde</h2>
+                    <p>Em desenvolvimento - níveis 0-3</p>
+                </div>
+                <div class="musicians">
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trompete</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Aisha Matos Barril</span>
+                            <span class="level level-mid">Nível 3</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Beatriz Costa Nogueira dos Santos</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trombone</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Gustavo Gomes dos Santos</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Isadora da Silva Nascimento</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Vitória Matos Oliveira</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Sax Alto</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Manuele da Silva Cordeiro</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Sax Tenor</div>
+
+                        <div class="musician">
+                            <span class="musician-name">João Pedro Ferreira Martins</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Caixa</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Antônia Ribeiro Coelho de Souza e Silva</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Surdo</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Luiza de Souza Araújo</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="band">
+                <div class="band-header" style="background: #D4A800">
+                    <span class="band-count">19 músicos</span>
+                    <h2>Banda Amarela</h2>
+                    <p>Iniciantes - níveis 0-2</p>
+                </div>
+                <div class="musicians">
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trompete</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Beahtriz Milagres Ramos dos Santos</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Suellen Gustavo Pena Teixeira</span>
+                            <span class="level level-mid">Nível 2</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Ana Laura Andrade Clemente</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Isabella França Maia</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Raissa Mendes de Oliveira da Silva</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Sophia Morais de Freitas Borges</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Arthur Bezerra de Sousa Dias</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Júlia Gomes Alcântara</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Paola Peixoto Alves Graciano</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trombone</div>
+
+                        <div class="musician">
+                            <span class="musician-name">César Augusto Ribeiro Pinto de Oliveira</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Isac Nunes da Silva</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Sax Alto</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Gerson Silveira Neto</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Nicole Mendes de Oliveira da Silva</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Caixa</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Alice Sabino Bonfim</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Tiê Nascimento Fontes</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Surdo</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Daniella Vitoria da Silva Celestrino</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Percussão (geral)</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Andressa de Assis Oliveira</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Miguel Freitas Lira</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Pierre França de Oliveira</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="band">
+                <div class="band-header" style="background: #3E0B59">
+                    <span class="band-count">8 músicos</span>
+                    <h2>Grupo Semente</h2>
+                    <p>Entrada no programa - primeiros passos</p>
+                </div>
+                <div class="musicians">
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trompete</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Larissa Teixeira Lopes Neves</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Trombone</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Kailany Rodrigues de Sousa</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Kauany Cristina Rodrigues de Sousa</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Caixa</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Marina Machado Monteiro Maia</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Bernardo Lucca Figueiredo de Souza</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Maria Fernanda de Oliveira da Silva</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                    <div class="instrument-group">
+                        <div class="instrument-name">Surdo</div>
+
+                        <div class="musician">
+                            <span class="musician-name">Sophia Torres Cunha</span>
+                            <span class="level ">Nível 1</span>
+                        </div>
+
+                        <div class="musician">
+                            <span class="musician-name">Karina Lúcia Soares Moreno</span>
+                            <span class="level ">Nível 0</span>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+        
+        <footer>
+            <p>Associação Musical Favela Brass • Atualizado em 19/01/2026</p>
+        </footer>
+    </div>
+</body>
+</html>

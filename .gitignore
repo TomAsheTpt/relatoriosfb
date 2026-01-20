@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Large/binary imports we don't need history for
+favelabrass/imports/*.pdf
+favelabrass/imports/*.xlsx
+favelabrass/imports/*.PNG
+favelabrass/imports/ChatGPT/
+favelabrass/imports/processed/
+
+# Generated outputs (can regenerate from DB)
+favelabrass/outputs/*.xlsx
+
+# Keep HTML outputs in git (they're useful)
+!favelabrass/outputs/*.html

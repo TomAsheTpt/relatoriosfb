@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favela Brass - Relatórios Financeiros 2025</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #3E0B59 0%, #5A0E7A 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+        }
+
+        .logo {
+            max-width: 250px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            color: #FEF100;
+        }
+
+        .year-label {
+            font-size: 1.2rem;
+            color: rgba(255,255,255,0.6);
+            margin-bottom: 40px;
+        }
+
+        .reports-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            max-width: 800px;
+            width: 100%;
+        }
+
+        .reports-grid a {
+            display: block;
+            background: rgba(255,255,255,0.08);
+            color: #fff;
+            text-decoration: none;
+            padding: 25px 20px;
+            border-radius: 12px;
+            text-align: center;
+            font-size: 1.1rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: all 0.2s;
+        }
+
+        .reports-grid a:hover {
+            background: rgba(255,255,255,0.15);
+            border-color: #FEF100;
+            transform: translateY(-2px);
+        }
+
+        .reports-grid a .month-name {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .reports-grid a .month-result {
+            font-size: 0.9rem;
+        }
+
+        .positive { color: #62CC3C; }
+        .negative { color: #E74C3C; }
+
+        .summary-box {
+            margin-top: 40px;
+            padding: 30px 40px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            text-align: center;
+            max-width: 500px;
+        }
+
+        .summary-box h2 {
+            color: #FEF100;
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+
+        .year-summary {
+            display: flex;
+            justify-content: space-between;
+            gap: 30px;
+        }
+
+        .year-summary .stat {
+            text-align: center;
+        }
+
+        .year-summary .stat-value {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .year-summary .stat-label {
+            font-size: 0.85rem;
+            color: rgba(255,255,255,0.6);
+            margin-top: 5px;
+        }
+
+        footer {
+            margin-top: 60px;
+            color: rgba(255,255,255,0.4);
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 700px) {
+            .reports-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        @media (max-width: 500px) {
+            .reports-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .year-summary {
+                flex-direction: column;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <img src="Logo FB White.png" alt="Favela Brass" class="logo">
+    <h1>Relatórios Financeiros</h1>
+    <p class="year-label">Associação - 2025</p>
+
+    <div class="reports-grid">
+        <a href="janeiro-2025.html">
+            <span class="month-name">Janeiro</span>
+            <span class="month-result negative">-R$ 65k</span>
+        </a>
+        <a href="fevereiro-2025.html">
+            <span class="month-name">Fevereiro</span>
+            <span class="month-result negative">-R$ 11k</span>
+        </a>
+        <a href="marco-2025.html">
+            <span class="month-name">Março</span>
+            <span class="month-result positive">+R$ 84k</span>
+        </a>
+        <a href="abril-2025.html">
+            <span class="month-name">Abril</span>
+            <span class="month-result negative">-R$ 6k</span>
+        </a>
+        <a href="maio-2025.html">
+            <span class="month-name">Maio</span>
+            <span class="month-result positive">+R$ 1k</span>
+        </a>
+        <a href="junho-2025.html">
+            <span class="month-name">Junho</span>
+            <span class="month-result positive">+R$ 6k</span>
+        </a>
+        <a href="julho-2025.html">
+            <span class="month-name">Julho</span>
+            <span class="month-result positive">+R$ 13k</span>
+        </a>
+        <a href="agosto-2025.html">
+            <span class="month-name">Agosto</span>
+            <span class="month-result positive">+R$ 7k</span>
+        </a>
+        <a href="setembro-2025.html">
+            <span class="month-name">Setembro</span>
+            <span class="month-result positive">+R$ 10k</span>
+        </a>
+        <a href="outubro-2025.html">
+            <span class="month-name">Outubro</span>
+            <span class="month-result negative">-R$ 49k</span>
+        </a>
+        <a href="novembro-2025.html">
+            <span class="month-name">Novembro</span>
+            <span class="month-result negative">-R$ 95k</span>
+        </a>
+        <a href="dezembro-2025.html">
+            <span class="month-name">Dezembro</span>
+            <span class="month-result positive">+R$ 189k</span>
+        </a>
+    </div>
+
+    <div class="summary-box">
+        <h2>Resumo Anual 2025</h2>
+        <div class="year-summary">
+            <div class="stat">
+                <div class="stat-value" style="color: #62CC3C;">R$ 456k</div>
+                <div class="stat-label">Total Entradas</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" style="color: #E74C3C;">R$ 371k</div>
+                <div class="stat-label">Total Saídas</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" style="color: #FEF100;">+R$ 99k</div>
+                <div class="stat-label">Resultado (+73%)</div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Associação Musical Favela Brass</p>
+    </footer>
+</body>
+</html>
