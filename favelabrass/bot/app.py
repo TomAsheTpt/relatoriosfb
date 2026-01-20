@@ -157,14 +157,13 @@ def handle_banda(ack, respond, command):
         return
 
     # Get students grouped by instrument family
-    # Note: group_assignments.group_id contains the band name, not the groups.id
     cur.execute("""
         SELECT s.name, ga.current_instrument
         FROM students s
         JOIN group_assignments ga ON s.id = ga.student_id
         WHERE ga.group_id = ? AND s.status = 'Ativo'
         ORDER BY ga.current_instrument, s.name
-    """, (band['name'],))
+    """, (band['id'],))
 
     students = cur.fetchall()
     conn.close()
