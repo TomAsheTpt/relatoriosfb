@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# Secrets - never commit
+favelabrass/bot/.env
+
 # Large/binary imports we don't need history for
 favelabrass/imports/*.pdf
 favelabrass/imports/*.xlsx
