@@ -399,6 +399,210 @@ def handle_presenca(ack, respond, command):
     respond(blocks=blocks)
 
 
+@app.command("/presenca-aula")
+def handle_presenca_aula(ack, respond, command):
+    """Handle /presenca-aula command - attendance for private lessons."""
+    ack()
+
+    parts = command["text"].strip().split()
+    if not parts:
+        respond("Uso: `/presenca-aula <professor>` ou `/presenca-aula <professor> <dia>`\nExemplo: `/presenca-aula joana` ou `/presenca-aula joana 19`")
+        return
+
+    teacher_query = parts[0].lower()
+
+    # Determine date - today or specified day of month
+    if len(parts) > 1 and parts[1].isdigit():
+        day_num = int(parts[1])
+        today = date.today()
+        try:
+            target_date = today.replace(day=day_num)
+        except ValueError:
+            respond(f"Dia inválido: {day_num}")
+            return
+    else:
+        target_date = date.today()
+
+    # Map weekday to Portuguese
+    day_names = ['2a - Segunda', '3a - Terça', '4a - Quarta', '5a - Quinta', '6a - Sexta', 'Sábado', 'Domingo']
+    target_day = day_names[target_date.weekday()]
+
+    conn = get_db()
+    conn.row_factory = sqlite3.Row
+    cur = conn.cursor()
+
+    # Get lessons for this teacher on this day of week
+    cur.execute("""
+        SELECT pl.id as lesson_id, pl.student_id, s.name as student_name,
+               pl.start_time, pl.teacher
+        FROM private_lessons pl
+        JOIN students s ON pl.student_id = s.id
+        WHERE LOWER(pl.teacher) LIKE ? AND pl.day_of_week = ? AND pl.active = 1
+        ORDER BY pl.start_time
+    """, (f"%{teacher_query}%", target_day))
+
+    lessons = cur.fetchall()
+
+    if not lessons:
+        # Try without the "2a - " prefix
+        simple_day = target_day.split(' - ')[-1] if ' - ' in target_day else target_day
+        cur.execute("""
+            SELECT pl.id as lesson_id, pl.student_id, s.name as student_name,
+                   pl.start_time, pl.teacher
+            FROM private_lessons pl
+            JOIN students s ON pl.student_id = s.id
+            WHERE LOWER(pl.teacher) LIKE ? AND pl.day_of_week = ? AND pl.active = 1
+            ORDER BY pl.start_time
+        """, (f"%{teacher_query}%", simple_day))
+        lessons = cur.fetchall()
+
+    conn.close()
+
+    if not lessons:
+        respond(f"Nenhuma aula encontrada para \"{teacher_query}\" em {target_day}")
+        return
+
+    teacher_name = lessons[0]['teacher']
+    date_str = target_date.isoformat()
+
+    # Check existing attendance
+    conn = get_db()
+    conn.row_factory = sqlite3.Row
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT student_id, status FROM attendance
+        WHERE date = ? AND activity_type = 'aula_individual' AND activity_name = ?
+    """, (date_str, teacher_name))
+    existing = {row['student_id']: row['status'] for row in cur.fetchall()}
+    conn.close()
+
+    # Build checkboxes with time + first name
+    options = []
+    initial_options = []
+    student_ids = []
+
+    for l in lessons:
+        time_str = l['start_time'][:5] if l['start_time'] else '?'
+        first_name = l['student_name'].split()[0]
+        label = f"{time_str} {first_name}"
+
+        option = {
+            "text": {"type": "plain_text", "text": label},
+            "value": str(l['student_id'])
+        }
+        options.append(option)
+        student_ids.append(l['student_id'])
+
+        if existing.get(l['student_id']) == 'presente' or l['student_id'] not in existing:
+            initial_options.append(option)
+
+    blocks = [
+        {
+            "type": "header",
+            "text": {"type": "plain_text", "text": f"📋 Aulas {teacher_name} - {date_str}"}
+        },
+        {
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": "Desmarque os alunos que *faltaram*:"}
+        },
+        {
+            "type": "actions",
+            "block_id": f"attendance_aula_{teacher_name}_{date_str}",
+            "elements": [
+                {
+                    "type": "checkboxes",
+                    "action_id": "attendance_checkboxes",
+                    "options": options,
+                    "initial_options": initial_options if initial_options else None
+                }
+            ]
+        },
+        {
+            "type": "actions",
+            "elements": [
+                {
+                    "type": "button",
+                    "text": {"type": "plain_text", "text": "💾 Salvar"},
+                    "style": "primary",
+                    "action_id": "save_attendance_aula",
+                    "value": json.dumps({
+                        "teacher": teacher_name,
+                        "date": date_str,
+                        "student_ids": student_ids
+                    })
+                }
+            ]
+        }
+    ]
+
+    if not initial_options:
+        blocks[2]["elements"][0].pop("initial_options", None)
+
+    respond(blocks=blocks)
+
+
+@app.action("save_attendance_aula")
+def handle_save_attendance_aula(ack, body, client, logger):
+    """Save private lesson attendance to database."""
+    ack()
+
+    try:
+        action = next(a for a in body["actions"] if a["action_id"] == "save_attendance_aula")
+        metadata = json.loads(action["value"])
+
+        checked_ids = set()
+        for block in body.get("state", {}).get("values", {}).values():
+            if "attendance_checkboxes" in block:
+                for option in block["attendance_checkboxes"].get("selected_options", []):
+                    checked_ids.add(int(option["value"]))
+
+        conn = get_db()
+        cur = conn.cursor()
+        user = body["user"]["username"]
+
+        present_count = 0
+        absent_count = 0
+
+        for student_id in metadata["student_ids"]:
+            status = "presente" if student_id in checked_ids else "falta"
+            if status == "presente":
+                present_count += 1
+            else:
+                absent_count += 1
+
+            cur.execute("""
+                INSERT INTO attendance (date, activity_type, activity_name, student_id, status, recorded_by)
+                VALUES (?, 'aula_individual', ?, ?, ?, ?)
+                ON CONFLICT(date, activity_type, activity_name, student_id)
+                DO UPDATE SET status = ?, recorded_by = ?, recorded_at = CURRENT_TIMESTAMP
+            """, (metadata["date"], metadata["teacher"], student_id, status, user, status, user))
+
+        conn.commit()
+        conn.close()
+
+        client.chat_update(
+            channel=body["channel"]["id"],
+            ts=body["message"]["ts"],
+            text=f"✅ Presença salva: Aulas {metadata['teacher']} - {metadata['date']}",
+            blocks=[
+                {
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": f"✅ *Presença salva!*\n\n*Aulas {metadata['teacher']}* - {metadata['date']}\n\n✓ Presentes: {present_count}\n✗ Faltas: {absent_count}\n\n_Registrado por @{user}_"
+                    }
+                }
+            ]
+        )
+
+    except Exception as e:
+        logger.error(f"Error saving lesson attendance: {e}")
+        client.chat_postMessage(
+            channel=body["channel"]["id"],
+            text=f"❌ Erro ao salvar presença: {str(e)}"
+        )
+
+
 @app.action("attendance_checkboxes")
 def handle_attendance_checkboxes(ack, body, logger):
     """Handle checkbox changes - just acknowledge, save happens on button click."""
