@@ -4,11 +4,50 @@ Design principles and table structures for the SQLite database in HQ.
 
 ---
 
-## How It Works
+## How It Works (NEW MODEL - Jan 2026)
 
-**Staff work in Google Sheets** (their source of truth) → **Tom exports CSVs** to `/imports` → **Claude imports to SQLite** → **Reports and analysis from HQ**
+**SQLite database is source of truth.** Staff interact via Slack bot.
 
-Staff never see the database. They see beautiful outputs.
+```
+┌─────────────────────────────────────────┐
+│              SQLite DB                  │
+│           (source of truth)             │
+└─────────────────────────────────────────┘
+         ▲            │            ▲
+         │            │            │
+    ┌────┴────┐       │      ┌─────┴─────┐
+    │  Slack  │       │      │Spreadsheet│
+    │  Bot    │       │      │(bulk only)│
+    └─────────┘       │      └───────────┘
+    • /aluno 139      │      • New enrollments
+    • /banda preta    ▼      • Start-of-year setup
+    • ATUALIZAÇÃO:... │      • MTB exam imports
+                      │
+               ┌──────┴───────┐
+               │   Website    │
+               │  (read-only) │
+               └──────────────┘
+               • Timetables (horarios-2026.html)
+               • Reports
+               • Public info
+```
+
+**The flow:**
+1. Staff query via Slack (`/aluno`, `/banda`, `/horario`)
+2. Staff request updates via Slack (`ATUALIZAÇÃO: 139 aula mudar Ter 18:30`)
+3. Bot confirms or flags conflicts
+4. DB updates, website regenerates
+5. Bulk imports (new students, start-of-year) still via spreadsheet → Tom
+
+**Backup:** Git version control. Every change committed. Rollback = `git checkout`.
+
+---
+
+## OLD MODEL (deprecated)
+
+~~Staff work in Google Sheets (their source of truth) → Tom exports CSVs → Claude imports to SQLite~~
+
+This created too much work for Tom as data entry clerk. New model has staff maintaining data via Slack.
 
 ---
 
@@ -27,64 +66,71 @@ Staff never see the database. They see beautiful outputs.
 
 ---
 
-## Core Tables
+## Current Tables (Jan 2026)
 
-### Students (Alunos)
-The master table - one row per human.
-- `student_id` (primary key)
-- `name`
-- `date_of_birth`
-- `gender`
-- `status` (Active / Inactive / Graduated)
-- `type` (School / Favela / Both)
-- `school` (current)
-- `community` (favela/neighborhood)
-- `guardian_name`
-- `guardian_phone`
-- `join_date`
+### Core Student Data
 
-### Student_Year
-Annual snapshot for data that changes year-to-year (avoids editing history):
-- `student_id` (FK)
-- `year`
-- `school` (that year)
-- `address`
-- `t_shirt_size`
-- `guardian_contacts`
-- `confirmed_on` (date)
-- `confirmed_by`
+**students** - Master table, one row per person
+- `id` (INTEGER, PK)
+- `name`, `birth_date`, `gender`
+- `status` (Ativo / Evadido / Ex-Aluno)
+- `community`, `school`
+- Contact and medical fields
 
----
+**student_status_history** → renamed to **Saidas** (departures log)
+- Only logs when students leave, with reason + explanation
+- Bulk year-end entries removed
 
-## Program Structure
+### Bands & Groups
 
-### Programmes / Activities
-Defines what the "thing" is:
-- `programme_id`
-- `name` ("School - Beginners", "Favela - Advanced", "Private Lessons", "Theory", "Rehearsal")
-- `type` (Private Lesson / Rehearsal / Theory / School Class)
-- `counts_towards_attendance` (yes/no)
+**groups** - Bands (Preta, Roxa, Verde, Amarela, Semente)
+- `id`, `name`, `conductor`, `period`
 
-### Groups (Turmas)
-The roster container - "Tuesdays 16:00 at Escola X with Teacher Y":
-- `group_id`
-- `programme_id` (FK)
-- `teacher`
-- `location` (school/favela site)
-- `day_time_pattern`
-- `term_start` / `term_end`
-- `roster_type` (Group / 1:1)
-- `active` (yes/no)
+**group_assignments** - Student → Band assignment
+- `student_id`, `group_id`
+- `theory_class` (e.g., `teoria_n3_pablo`, `teoria_n2_zola`)
+- `current_instrument`, `projected_instrument`
 
-### Enrolments
-Student joins a turma (can leave later):
-- `enrolment_id`
-- `student_id` (FK)
-- `group_id` (FK)
-- `start_date`
-- `end_date`
-- `instrument` (at that time)
-- `notes`
+### Timetable
+
+**activities** - Group activities (rehearsals, school workshops, theory classes)
+- `id`, `name`, `type`, `day_of_week`
+- `start_time`, `end_time`, `duration_hours`
+- `location`, `teacher`, `interpreter`
+
+**private_lessons** - 1:1 lessons
+- `id`, `teacher`, `student_id`
+- `day_of_week`, `start_time`, `duration_minutes`
+- `location`, `interpreter`, `active`
+
+### Instruments
+
+**instruments** - Inventory
+- `id`, `type`, `brand`, `model`, `serial_number`
+- `status`, `condition`
+
+**instrument_loans** - Who has what
+- `instrument_id`, `student_id`
+- `loan_date`, `return_date`, `status`
+
+**repairs** - Maintenance log
+
+### Assessments
+
+**assessments** - Combined practical and theory results
+- `student_name`, `category` (Prática/Teoria)
+- Score fields, `result`, `certificate_issued`
+
+### Teachers & Payroll
+
+**teachers** - Staff details, hourly rates
+**teacher_payments** - Payment records
+
+### Departures
+
+**Saidas** (formerly student_status_history)
+- `student_id`, `date`, `motivo`, `explicacao`
+- Dropdown reasons: Desmotivação, Questões de saúde, Distância/Transporte, etc.
 
 ---
 

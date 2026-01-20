@@ -53,34 +53,65 @@ HQ/
 
 ## Database
 
-`favelabrass/data/favelabrass.db` is SQLite.
+`favelabrass/data/favelabrass.db` is SQLite. **This is the source of truth.**
 
-- Tables are created as data is imported – schema evolves with real data
-- Likely tables: students, events, transactions, instruments, attendance
-- **Always check what tables exist before querying** – run `.tables` or query `sqlite_master`
+Current tables (Jan 2026):
+- `students` - master student list (~250 students)
+- `groups` / `group_assignments` - bands and theory class assignments
+- `activities` - group activities (rehearsals, workshops)
+- `private_lessons` - 1:1 lessons (70 lessons)
+- `instruments` / `instrument_loans` - inventory and who has what
+- `assessments` - MTB exam results
+- `teachers` - staff details, hourly rates
+- `student_status_history` - departure log (renamed to Saidas in spreadsheet)
 
-## Workflow
+**Always check what tables exist before querying** – run `.tables` or query `sqlite_master`
 
-1. Staff update Google Sheets (their source of truth)
-2. I export CSVs to `/imports`
-3. Claude helps process CSVs into database tables
-4. Claude reads database + docs to answer questions, generate reports
-5. Outputs go to `/outputs` or get published (GitHub Pages, etc.)
+## Workflow (NEW - Jan 2026)
+
+**SQLite DB is source of truth. Staff interact via Slack bot.**
+
+```
+SQLite DB (truth)
+    ↑           ↓           ↑
+  Slack      Website    Spreadsheet
+  (query     (read-     (bulk
+  + update)   only)      imports)
+```
+
+1. Staff query via Slack: `/aluno 139`, `/banda preta`, `/horario joana`
+2. Staff request updates via Slack: `ATUALIZAÇÃO: 139 aula mudar Ter 18:30`
+3. Bot confirms or flags conflicts
+4. DB updates, Git commits, website regenerates
+5. Bulk imports (new students, start-of-year) still via spreadsheet → Tom
+
+**Backup:** Git version control on entire HQ folder. Every DB change = commit. Rollback = `git checkout`.
 
 ## Key Principles
 
-- Claude reads data, doesn't write to source Sheets
-- Database writes happen via explicit import process with validation
-- **Verify counts and numbers** – don't trust first-pass generation
-- Staff see beautiful outputs, not the plumbing
+- **DB is truth** – not Google Sheets
+- **Staff self-serve** via Slack queries
+- **Updates require confirmation** – bot proposes, human approves
+- **Git protects everything** – any mistake is reversible
+- **Website is the output** – timetables, reports, public info
 
 ## Common Tasks
 
-- "Import this CSV into the database"
+- "Import this CSV into the database" (bulk imports)
+- "Regenerate the timetable website"
 - "How many students play trumpet?"
 - "Generate a report on X"
 - "What did we decide about Y?" (searches docs)
 - "Create an event summary for Z"
+- "Process the WhatsApp/Slack updates" (if not using bot)
+
+## Outputs
+
+Generated HTML files in `/outputs`:
+- `horarios-2026.html` - Timetable (private lessons + group activities)
+- `bandas.html` - Band rosters
+- Monthly financial reports
+- Annual reports
 
 ## Context Files
 
