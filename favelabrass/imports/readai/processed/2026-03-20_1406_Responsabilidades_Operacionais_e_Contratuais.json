@@ -1,0 +1,484 @@
+{
+  "session_id": "01KM5R23WRN7TGE40XH6YVZP71",
+  "trigger": "meeting_end",
+  "title": "Responsabilidades Operacionais e Contratuais",
+  "start_time": "2026-03-20T10:49:20-03:00",
+  "end_time": "2026-03-20T11:03:12-03:00",
+  "participants": [
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "wzadaa rj",
+      "first_name": "wzadaa",
+      "last_name": "rj",
+      "email": null
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião teve como objetivo alinhar e documentar as responsabilidades operacionais e contratuais do assistente para suporte às atividades e eventos. Inicialmente foram definidas tarefas rotineiras, como abertura e fechamento da casa, logística das aulas, transporte de lanches e eventuais buscas no centro, além da prestação de assistência em eventos específicos de produção, como bailes e shows.\n\nFoi confirmado que a atuação em bailes e apoio pontual em shows fará parte das atribuições, com a condição de que deslocamentos para shows — quando solicitados como serviço — terão pagamento adicional. A equipe estimou cerca de quatro viagens de suporte à produção, cada uma com duração prevista de 2–3 dias, e registrou a redução do número de bailes para quatro no ano corrente. Houve reconhecimento pelo trabalho do assistente e sugestão de oferta de curso de produção; também foi solicitado que o assistente envie material de captação de vídeo para avaliação e divulgação. Por fim, ficou acordado que Raíssa encaminhará o contrato para assinatura e que o assistente deve comunicar qualquer sobrecarga de demandas.",
+  "action_items": [
+    {
+      "text": "Tom Ashe: Busque ajuda adicional para cobrir aulas quando necessário ou reorganize equipe de apoio para viagens e aulas"
+    },
+    {
+      "text": "Anto: Informe a Tom imediatamente se as demandas de Raíssa, Wesley ou Edilene ficarem excessivas"
+    },
+    {
+      "text": "Anto: Envie ao Tom os vídeos e portfólio de captação/edição para avaliação e uso em divulgação"
+    },
+    {
+      "text": "Raíssa: Envie o contrato para o assistente assinar"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Como funcionará o pagamento quando o assistente for requisitado para um show?"
+    },
+    {
+      "text": "Você tem interesse em seguir carreira em produção?"
+    },
+    {
+      "text": "Você pode enviar suas gravações para avaliação?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "O assistente será responsável por abrir e fechar a casa e pela logística das aulas durante a semana"
+    },
+    {
+      "text": "O assistente deve transportar lanches da Ivonete de segunda a sexta-feira"
+    },
+    {
+      "text": "Haverá assistência de produção em bailes e apoio pontual em eventos, incluindo buscar compras quando necessário"
+    },
+    {
+      "text": "Viagens de apoio à produção foram estimadas em quatro viagens de aproximadamente 2–3 dias cada"
+    },
+    {
+      "text": "Shows fora das atividades regulares exigirão pagamento adicional de R$250 quando o assistente for requisitado"
+    },
+    {
+      "text": "O assistente deve comunicar Tom caso as demandas de diferentes membros se tornem excessivas"
+    },
+    {
+      "text": "Foi sugerido oferecer curso de produção ao assistente e foi pedido envio de portfólio de captação/edição de vídeo"
+    },
+    {
+      "text": "Raíssa enviará o contrato para assinatura do assistente"
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KM5R23WRN7TGE40XH6YVZP71",
+  "chapter_summaries": [
+    {
+      "title": "Abertura e objetivo da reunião",
+      "description": "Saudações iniciais e definição do objetivo de formalizar responsabilidades em contrato. Tom explica a intenção de \"amarrar\" as responsabilidades do assistente para documentar expectativas.",
+      "topics": []
+    },
+    {
+      "title": "Responsabilidades diárias e logística de aulas",
+      "description": "Discussão detalhada sobre abrir/fechar a casa, logística das aulas durante a semana e fechamento da casa 19B. Foram ressaltadas tarefas recorrentes de suporte nas aulas. (Note: continuação sobre lanches e entregas segue no capítulo seguinte.)",
+      "topics": [
+        "O assistente será responsável por abrir e fechar a casa e pela logística das aulas durante a semana"
+      ]
+    },
+    {
+      "title": "Transporte de lanches e compras",
+      "description": "Definição de transporte de lanches da Ivonete e compras de água, incluindo mudança de distribuidora e necessidade de compra quando doação não for suficiente. Também foi mencionada assistência pontual para buscar itens no centro.",
+      "topics": [
+        "O assistente deve transportar lanches da Ivonete de segunda a sexta-feira"
+      ]
+    },
+    {
+      "title": "Eventos, bailes e assistência de produção",
+      "description": "Papel do assistente em bailes, assistência de produção e buscas de materiais para eventos; esclarecimento sobre quando o trabalho em shows é fora do compromisso regular e pode gerar pagamento adicional.",
+      "topics": [
+        "Haverá assistência de produção em bailes e apoio pontual em eventos, incluindo buscar compras quando necessário"
+      ]
+    },
+    {
+      "title": "Viagens de apoio à produção",
+      "description": "Revisão de viagens realizadas no ano anterior e definição de previsão de quatro viagens de apoio, cada uma de dois a três dias, com discussão sobre disponibilidade do assistente.",
+      "topics": [
+        "Viagens de apoio à produção foram estimadas em quatro viagens de aproximadamente 2–3 dias cada"
+      ]
+    },
+    {
+      "title": "Limites, pagamento e reconhecimento",
+      "description": "Comunicação sobre redução do número de bailes para quatro no ano, condições para solicitar trabalho extra (R$250 por show) e instrução para o assistente comunicar sobre sobrecarga. Tom elogia o trabalho e destaca a importância do assistente para a equipe.",
+      "topics": [
+        "Shows fora das atividades regulares exigirão pagamento adicional de R$250 quando o assistente for requisitado",
+        "O assistente deve comunicar Tom caso as demandas de diferentes membros se tornem excessivas"
+      ]
+    },
+    {
+      "title": "Desenvolvimento profissional e fechamento contratual",
+      "description": "Proposta de curso de produção para o assistente, pedido para envio de gravações/portfólio para uso em reels e stories, e encaminhamento do contrato por Raíssa para assinatura, finalizando com agradecimentos.",
+      "topics": [
+        "Foi sugerido oferecer curso de produção ao assistente e foi pedido envio de portfólio de captação/edição de vídeo",
+        "Raíssa enviará o contrato para assinatura do assistente"
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1774014588869,
+        "end_time": 1774014590293,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Fala, Tom."
+      },
+      {
+        "start_time": 1774014590293,
+        "end_time": 1774014591006,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tranquilo?"
+      },
+      {
+        "start_time": 1774014591006,
+        "end_time": 1774014593142,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Fala, Wellington. Tranquilo."
+      },
+      {
+        "start_time": 1774014593142,
+        "end_time": 1774014595279,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E você aí?"
+      },
+      {
+        "start_time": 1774014595279,
+        "end_time": 1774014596704,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tranquilo também."
+      },
+      {
+        "start_time": 1774014596704,
+        "end_time": 1774014598841,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Ah, que bom."
+      },
+      {
+        "start_time": 1774014598841,
+        "end_time": 1774014661947,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Que bom. Era só de... Para amarrar, né? Fazer contrato para você. A gente amarrar exatamente as suas responsabilidades. Aí fazer a lista aqui para bater isso mesmo. Então vamos lá. O principal é você tá não. Você tá abrindo a minha casa fechando a minha casa a logística das aulas praticamente isso durante a semana. Isso logística das aulas abrindo. Fechando a casa 19B. Aí você pega os lanches, né?\n\n Tem, pega os lanches também."
+      },
+      {
+        "start_time": 1774014661947,
+        "end_time": 1774014665582,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Pega lanches na Ivonete."
+      },
+      {
+        "start_time": 1774014665582,
+        "end_time": 1774014819663,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aham. Transportar lanches da Ivonete. Isso é segunda a sexta, né? Isso. E é então é é mais ou menos seis até nove coisa assim ou é o acabo sendo mais e é a gente pode listar é lanche da Ivonet sim é logística lá na sua casa das aulas sim fica os sábados nos rola só que eu tenho que buscar o Ok, aí tem também logística do chá, nas aulas. Tem o baile também. É, que baile era assim, assistência de produção no baile, basicamente.\n\n Eu vou buscar as águas também quando pedem a água e tem coisas eventuais também é assim Tipo, se a gente precisa pegar alguma coisa, alguém chegou na comunidade, que nem você fez com a ganheira da porta, né? Isso. E você foi lá no centro pegar alguma coisa, não sei. Assistência pontual, né? Tem essa questão de buscar coisas no centro de vez em quando."
+      },
+      {
+        "start_time": 1774014819663,
+        "end_time": 1774014821092,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1774014821092,
+        "end_time": 1774014859424,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem alguma coisa que você está fazendo você está fazendo esse ano que você não estava fazendo no ano tem buscando as coisas no centro com coisas que você não fez no ano passado né é buscar as coisas no centro buscar as águas também não era eu que ia sim é isso é mensal é essa é aquela doação de É da Dona Natureza ou é só de comprar mesmo?"
+      },
+      {
+        "start_time": 1774014859424,
+        "end_time": 1774014865773,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Agora mudou a distribuidora, né? Eu acho que vocês não estão mais com a Dona Natureza, né?"
+      },
+      {
+        "start_time": 1774014865773,
+        "end_time": 1774014882536,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Que a gente falou da Dona Natureza, aí a raiz ficou de ver para eles se eles ainda estão fazendo aquela doação. Mas, pelo que eu entendi, não derem muita coisa. Então, a gente está buscando e compra de água, é isso? Sim, isso."
+      },
+      {
+        "start_time": 1774014882536,
+        "end_time": 1774014886811,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Assistente pontual para abrir casa, receber pessoas, etc."
+      },
+      {
+        "start_time": 1774014886811,
+        "end_time": 1774014951458,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Buscar a compra do centro, de vez em quando. E tem as viagens, né, também. É, só que as viagens agora vai ficar um pouco mais complicado porque eu tenho que ficar os sábados nas horas. Verdade. Ou a gente... Ou a gente... É verdade. Mas eu acho que a gente pode poder buscar ajuda para alguém fazer as aulas, sabe? E você veio nas viagens. No ano passado, você foi em quais viagens? Fui para Paraty e fui São Paulo.\n\n"
+      },
+      {
+        "start_time": 1774014951458,
+        "end_time": 1774014959818,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Sente o Margot, fui também, só que eu acho que não chegou a ser uma viagem, né?"
+      },
+      {
+        "start_time": 1774014959818,
+        "end_time": 1774014969995,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Foi mais... Ah, e você fez o Itaipab também, né? Não, Itaipava eu não fui não. Ah, perdeu essa?"
+      },
+      {
+        "start_time": 1774014969995,
+        "end_time": 1774014973173,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Eu fui em Petrópolis com você."
+      },
+      {
+        "start_time": 1774014973173,
+        "end_time": 1774014980588,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah sim, não, mas... Foi... Itaipava, você estava comigo, não estava? Ah, verdade, verdade."
+      },
+      {
+        "start_time": 1774014980588,
+        "end_time": 1774014984825,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, tudo bem. Então, vamos colocar as viagens."
+      },
+      {
+        "start_time": 1774014984825,
+        "end_time": 1774015021615,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu estou falando para a equipe, quatro viagens, para não ser sacanagem. Assistente de produção em arte de corte de viagens. De dois a três dias cada. Acho que é isso."
+      },
+      {
+        "start_time": 1774015021615,
+        "end_time": 1774015023042,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Deixa eu pensar."
+      },
+      {
+        "start_time": 1774015023042,
+        "end_time": 1774015025420,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "A gente não está fazendo..."
+      },
+      {
+        "start_time": 1774015025420,
+        "end_time": 1774015034931,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Agora, essa ano, a gente só vai ser... Não sei se você sabia, a gente só vai fazer quatro bailes."
+      },
+      {
+        "start_time": 1774015034931,
+        "end_time": 1774015036833,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Quatro bailes? Esse ano?"
+      },
+      {
+        "start_time": 1774015036833,
+        "end_time": 1774015096543,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Só vão ter quatro bailes. Mas, ao mesmo tempo, você está tendo que pegar para buscar água e fazer as compras no centro. Então eu sei de repente. Tá ok para você da forma que tá. Tá sim tá sim. Me fala sabe se você sente que o problema que a gente tem ou o WES é difícil que não que por exemplo às vezes vai precisar de alguma coisa nessas aulas. A Edilene vai precisar de alguma coisa ou outra. Mas você não está comprometido, você não tem que ir nos nossos shows.\n\n Se a gente tiver, vamos organizar, se você tem que fazer a apresentação é 250 reais a mais."
+      },
+      {
+        "start_time": 1774015096543,
+        "end_time": 1774015098694,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pode ser? Como assim?"
+      },
+      {
+        "start_time": 1774015099025,
+        "end_time": 1774015197307,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quando a gente faz, por exemplo, a gente faz um show hoje, você está indo no show? Normalmente não, né? Não, não. Então, se a gente, quer dizer, você não está comprometido, se a gente vai fazer um show num sábado, ir para tal lugar, essas coisas, você não tem esse compromisso, você não tem que ir no chão, né? Só para deixar claro. Aí, se a gente precisar de você como assistente de produção, para o show a gente tem que te pagar.\n\n Ah entendi. Entendeu? Sim. Então não sei se a gente coloca duzentos e cinquenta a mais caso você tiver que fazer um assistente num show. Fica bom para você? Fica sim. Para assistência em qualquer chão, que não seja o baile. Então é isso. Não tem muito conto. Durante a semana tem raiz, eu acho que como você não está recebendo demandas da Raíssa, Wesley e Ediliane, sabe? Porque vão ter essas coisas ou outras, especialmente coisas que...\n\n Coisas que dão na comunidade, você já está vendo como está. Mas se ficar demais, me fala, tá?"
+      },
+      {
+        "start_time": 1774015197307,
+        "end_time": 1774015199050,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá bom, tá bom."
+      },
+      {
+        "start_time": 1774015199050,
+        "end_time": 1774015232648,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Qualquer coisa eu falo com você. Qualquer coisa. Então, porque quando é uma pessoa, aí uma pessoa sabe medir, né? Mas de repente poderia ter a situação que dois, três pessoas estão todo mundo exigindo demais de você e está ficando sacanagem. Nesse momento, você pode falar comigo sem problema nenhum. Eu estou aqui. Só que eu queria colocar alguma coisa aqui. Todo mundo fala muito bem do seu trabalho.\n\n"
+      },
+      {
+        "start_time": 1774015235362,
+        "end_time": 1774015236783,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Pô, muito obrigado."
+      },
+      {
+        "start_time": 1774015236783,
+        "end_time": 1774015295555,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Fico muito feliz por isso. Todo mundo te elogia, a sua postura profissional, disponibilidade e disposição. Eu queria deixar muito claro que eu tô vendo que você é muito importante para a nossa equipe. Então, é mais ainda que eu tô falando isso para você. Qualquer problema, fala comigo, tá? Tá bom, obrigado. É muito importante. E a Raíssa estava falando de achar um curso de produção para você. Sim, sim.\n\n Era isso? Para você pegar... Você tem interesse de produção como carreira? Ou você está pensando... Você está estudando outra coisa? Como você pensa? Eu acho que não é uma carreira que eu quero seguir, eu não tenho certeza. Você acha que é ou você não acha que é?"
+      },
+      {
+        "start_time": 1774015295555,
+        "end_time": 1774015301165,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Desculpa. Eu acho que não é uma carreira que eu quero seguir. Tem jeito, tem jeito."
+      },
+      {
+        "start_time": 1774015301165,
+        "end_time": 1774015308529,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas eu não tenho certeza ainda, entendeu? O que você tá pensando? Só de curiosidade, né? Das outras coisas de carreira."
+      },
+      {
+        "start_time": 1774015308529,
+        "end_time": 1774015316594,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Eu gosto muito dessa área de captação, vídeo e tal. Ah, é? Sim, sim. Pode parecer que não, mas eu gosto bastante disso."
+      },
+      {
+        "start_time": 1774015317078,
+        "end_time": 1774015318817,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí você edita o vídeo?"
+      },
+      {
+        "start_time": 1774015318817,
+        "end_time": 1774015326817,
+        "speaker": {
+          "name": "wzadaa rj"
+        },
+        "words": "Então, eu tenho alguns aqui que eu mesmo gravo com meus amigos e tal, só que eu não posto nada, fica tudo guardado."
+      },
+      {
+        "start_time": 1774015326817,
+        "end_time": 1774015377601,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Manda para mim. Manda para mim, porque vira e mexe, a gente precisa de ajuda para captar imagens. E também, como você está nos ensaios, acho que isso é outra coisa que a gente poderia ter, né? E essa coisa, se você puder, isso é opcional, mas qual que é a gravação que você poderia mandar, me ajuda muito. Porque aí eu vou montando reels e montando stories, etc, etc. Mas me manda também, se tiver portfólio das suas coisas de gravar, essas coisas, me manda, tá?\n\n Tá bom. Porque aí a gente vai pensando. Então, acho que base no que a gente falou, acho que tem o suficiente para fazer o contrato, para fazer direitinho. E... E aí Raíssa manda alguma coisa para você assinar."
+      },
+      {
+        "start_time": 1774015377601,
+        "end_time": 1774015378546,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "OK. Beleza."
+      },
+      {
+        "start_time": 1774015378546,
+        "end_time": 1774015391768,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então obrigado, Anto. Mais uma vez parabéns pelo trabalho. Todo mundo está te elogiando muito. E daqui a pouco você vai receber a coisa para assinar da Raíssa."
+      },
+      {
+        "start_time": 1774015391768,
+        "end_time": 1774015392712,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá bom."
+      },
+      {
+        "start_time": 1774015392712,
+        "end_time": 1774015393657,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Obrigado. Tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Tom Ashe"
+      },
+      {
+        "name": "wzadaa rj"
+      }
+    ]
+  },
+  "platform_meeting_id": "brj-ekia-mto",
+  "platform": "meet"
+}

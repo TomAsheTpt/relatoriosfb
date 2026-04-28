@@ -1,0 +1,2317 @@
+{
+  "session_id": "01KQA2Z24V717NARY98MDJ0HP6",
+  "trigger": "meeting_end",
+  "title": "EDL",
+  "start_time": "2026-04-28T10:03:12-03:00",
+  "end_time": "2026-04-28T11:32:17-03:00",
+  "participants": [
+    {
+      "name": "Raíssa Celina da Costa Sousa",
+      "first_name": "Raíssa",
+      "last_name": "Celina da Costa Sousa",
+      "email": null
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Wesley Araujo",
+      "first_name": "Wesley",
+      "last_name": "Araujo",
+      "email": null
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião teve por objetivo revisar pendências operacionais, logísticas e financeiras e decidir ações imediatas diante do atraso no repasse do patrocinador Prio. A equipe atualizou compras e tarefas: Raíssa comprará uma torre de iluminação e lâmpadas, já enviou procuração ao Salique e repassou documentos ao Rolf; Tom e equipe avançam na atualização do portal e no controle de presenças pelo Slack; há cerca de R$38 mil disponíveis na associação, e a contabilidade exige notas fiscais e pagamento de contador.\n\nA discussão central foi sobre o atraso do pagamento da Prio, suas justificativas contratuais e o risco de impacto salarial. Tom informou que o contrato foi assinado e espera pagamento nesta semana; ficou acertado notificar professores com prazo até quinta-feira e, se não houver recebimento, reunir a equipe e possivelmente suspender aulas presenciais mantendo ensaios. Tom assumiu contato direto com a Prio; considerou-se pedir adiantamento para cobrir faltas até ativação de captação. A meta de captação definida foi R$200–250 mil de pessoas físicas, com liberação escalonada após 10% e objetivo operacional em R$225–250 mil, e Raíssa propôs meta de reserva de R$200 mil.\n\nForam avaliadas medidas de mitigação: priorizar a manutenção de Elton, dedicar uma semana para processar pagamentos assim que entrar receita, submeter projetos futuros (incluindo Lei Rouanet 2027) e avaliar viabilidade financeira de eventos (UTIB, domingo) considerando impostos sobre RPA. Logística de viagens para Belo Horizonte, alternativas de local para baile com grupo alemão e detalhes técnicos para captação (equipamentos disponíveis e opção de aluguel de teatro) também foram discutidos, sem fechar decisões finais sobre eventos.",
+  "action_items": [
+    {
+      "text": "Raíssa Celina da Costa Sousa: Comprar uma torre de iluminação e lâmpadas adequadas esta semana"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Marcar com Rolf a assinatura da procuração para o novo sistema de pagamento do Banco do Brasil"
+    },
+    {
+      "text": "Tom Ashe: Definir opções de auxílio emergencial (por exemplo transporte/uber) para professores que comprovarem necessidade imediata"
+    },
+    {
+      "text": "Wesley Araujo: Convocar e conduzir uma reunião online com os professores se o pagamento não ocorrer até quinta-feira"
+    },
+    {
+      "text": "Tom Ashe: Preparar e enviar comunicação aos professores até quinta-feira explicando a situação e as consequências caso o pagamento não ocorra"
+    },
+    {
+      "text": "Tom Ashe: Fale com os professores na quinta-feira sobre a postura a adotar em relação ao patrocínio e à comunicação interna"
+    },
+    {
+      "text": "Wesley Araujo: Convocar uma reunião de planejamento após o casamento do Tom para revisar cenários para 2027"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Estruture um plano para constituir uma reserva financeira de R$200.000 para operações"
+    },
+    {
+      "text": "Tom Ashe: Liderar a campanha de captação de pessoas físicas visando R$250.000 até dezembro para ativar o projeto"
+    },
+    {
+      "text": "Tom Ashe: Atualize o depósito de captação e confirme o objetivo operacional de R$250.000 para abrir a conta de captação conforme regras vigentes"
+    },
+    {
+      "text": "Tom Ashe: Pergunte à Prio sobre a possibilidade de adiantar pagamentos ou parcelamentos para cobrir faltas até a ativação do projeto"
+    },
+    {
+      "text": "Wesley Araujo: Convocar reunião com a equipe caso o pagamento não ocorra até quinta-feira"
+    },
+    {
+      "text": "Tom Ashe: Realizar a reunião na quinta-feira para decidir sobre suspensão e comunicar a equipe conforme a situação financeira"
+    },
+    {
+      "text": "Todos os participantes: Formar a força-tarefa para redigir o projeto de 2027 e iniciar a captação de recursos"
+    },
+    {
+      "text": "Tom Ashe: Comunicar aos colaboradores quando o pagamento for recebido para normalizar pagamentos e tranquilizar a equipe"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Verificar com Anjania a possibilidade de emitir uma única nota para pagamento acumulado de março e abril"
+    },
+    {
+      "text": "Tom Ashe: Aguardar confirmação de BH e coordenar decisão sobre a logística de viagem antes de desconfirmar outras opções"
+    },
+    {
+      "text": "Wesley Araujo: Planejar e ministrar a oficina de férias teórica para a Banda Preta com sessões curtas e sem lanche obrigatório"
+    },
+    {
+      "text": "Tom Ashe: Revisar o documento raiz com orçamento e textos preparados por Raíssa após envio para ajuste final"
+    },
+    {
+      "text": "Wesley Araujo: Organize inicialmente a reunião ou comunicação com professores sobre formatos de apresentação e divisão de turmas antes da reunião geral"
+    },
+    {
+      "text": "Tom Ashe: Visite o teatro e confirme com Renato (gerente/produtor) a possibilidade de aluguel e condições técnicas para gravação"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Pague a fatura/serviço pendente com os responsáveis do Click Science conforme acordo"
+    },
+    {
+      "text": "Tom Ashe: Convocar reunião com os professores na quinta-feira à tarde para alinhar metas e a prestação de contas do projeto"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Entenda 100% com a Jane/Jani sobre a transferência de recursos para a RUA-NEI 2027 para ativação do projeto"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Prepare o orçamento e os textos principais provisórios para a RUA-NEI 2026 e compartilhe para revisão"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Estão confirmados os envolvidos nas viagens e eventos?"
+    },
+    {
+      "text": "O dinheiro disponível na associação permite pagar um mês de salário?"
+    },
+    {
+      "text": "Como é que a gente vai agir? Peço opinião da Raíssa sobre postura e medidas imediatas"
+    },
+    {
+      "text": "Será que a Prio consegue fazer cinco pagamentos de R$200 mil ou adiantar recursos para completar a ativação?"
+    },
+    {
+      "text": "É válido fazer o evento no domingo, considerando custos e rendimento?"
+    },
+    {
+      "text": "Onde a gente está com as viagens e qual a decisão sobre BH?"
+    },
+    {
+      "text": "Essa oficina nas férias é específica para a Banda Preta?"
+    },
+    {
+      "text": "Como vamos controlar a superlotação caso haja muita gente no baile?"
+    },
+    {
+      "text": "Os alemães chegam na sexta e ficam até quando?"
+    },
+    {
+      "text": "Existe algum pagamento pendente para esta semana além do contador/Wellington?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Raíssa confirmou que comprará uma torre de iluminação e lâmpadas nesta semana."
+    },
+    {
+      "text": "O portal e o registro de presenças via Slack estão em processo de implementação e já apresentam avanços."
+    },
+    {
+      "text": "Raíssa informou que já encaminhou procuração ao Salique e organizou extratos e documentos financeiros."
+    },
+    {
+      "text": "O contrato necessário para liberar pagamento foi assinado pelo diretor e Tom espera que o repasse ocorra ainda esta semana."
+    },
+    {
+      "text": "A equipe avaliou opções emergenciais, incluindo auxílio individual para quem mais precisa, e debateu evitar pagamentos parciais antes do repasse da Prio."
+    },
+    {
+      "text": "Wesley propôs notificar os professores com prazo até quinta-feira e convocar reunião caso o pagamento não ocorra."
+    },
+    {
+      "text": "Tom explicou que a política de pagamento da Prio é trimestral e que isso está causando o atraso atual."
+    },
+    {
+      "text": "A equipe deve evitar transmitir insegurança sobre a relação com a Prio para não gerar uma profecia autorrealizável"
+    },
+    {
+      "text": "A presença de visitantes no dia 9 pode expor discussões internas e exige cuidado no posicionamento da equipe"
+    },
+    {
+      "text": "Há indícios de que a Prio está sinalizando reduzir o patrocínio no próximo ano, exigindo revisão do planejamento"
+    },
+    {
+      "text": "Raíssa propôs constituir um caixa de reserva de R$200 mil para cobrir atrasos e manter operações"
+    },
+    {
+      "text": "A meta operacional é captar R$200–250 mil de pessoas físicas/empresas para ativar o projeto no final do ano"
+    },
+    {
+      "text": "O sistema de captação exige 10% captado e R$225–250 mil para liberar os recursos de execução"
+    },
+    {
+      "text": "Foi sugerido pedir à Prio adiantamento de parcelas para cobrir eventuais faltas até a ativação do projeto"
+    },
+    {
+      "text": "Manter relação positiva com a Prio é estratégico enquanto se trabalha na diversificação de patrocínios"
+    },
+    {
+      "text": "A continuidade das atividades depende de um pagamento esperado até quinta-feira; se não ocorrer, o plano é suspender aulas e manter ensaios."
+    },
+    {
+      "text": "A associação tem cerca de R$38.000 disponíveis, que influenciam decisões de curto prazo."
+    },
+    {
+      "text": "Elton foi identificado como peça-chave operacional e deve ser preservado nas prioridades de pagamento e funcionamento."
+    },
+    {
+      "text": "Há risco financeiro por problemas externos (Instituto Marés / Banco Master) e foi proposta uma força-tarefa para redigir o projeto de 2027 como mitigação."
+    },
+    {
+      "text": "Eventos pontuais (UTIB/domingo) foram considerados possivelmente não remuneradores após impostos sobre RPA e custos de logística."
+    },
+    {
+      "text": "A contabilidade e emissão de notas condicionam o pagamento dos profissionais e exigirão um esforço concentrado de uma semana para regularização."
+    },
+    {
+      "text": "A definição sobre viagens para BH depende da confirmação logística e de patrocinadores, e só será tomada após retorno do contato com Roberto."
+    },
+    {
+      "text": "Foi proposta uma oficina de férias focada em teoria e preparação para provas para a Banda Preta, com apoio de Wesley e Tom."
+    },
+    {
+      "text": "O baile deve prever controle de público e possivelmente mudar de local ou dividir eventos para acomodar os 70 convidados alemães e bandas locais."
+    },
+    {
+      "text": "Há preocupação relevante com a segurança em Santa Teresa que influencia a escolha de locais e o planejamento noturno."
+    },
+    {
+      "text": "A alternativa sugerida é realizar atividades separadas com os alemães no domingo (pizzaria, coreto, piquenique ou futebol) para reduzir risco de superlotação e facilitar logística."
+    },
+    {
+      "text": "Foi definido iniciar preparação de proposta para a Lei Rouanet 2027 com metas, textos e orçamento como prioridade da semana."
+    },
+    {
+      "text": "Raíssa ficará responsável por preparar orçamento e textos provisórios para a RUA-NEI 2026 e pela clipagem resumida de 2025 já iniciada."
+    },
+    {
+      "text": "Foi discutida a possibilidade de gravar material em teatro para melhor captação de som e luzes, e há disponibilidade de equipamentos como GoPro e drone para registro."
+    },
+    {
+      "text": "Decidiu-se convocar reunião com os professores (e depois com a equipe inteira) para alinhamento das metas e atividades."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KQA2Z24V717NARY98MDJ0HP6",
+  "chapter_summaries": [
+    {
+      "title": "Abertura e problemas de conexão",
+      "description": "A reunião iniciou com comentários informais sobre problemas de internet e confirmação de presença de Tom no Rio, seguido pela convocação para iniciar a sessão. Esses primeiros minutos estabeleceram o contexto técnico e logístico para a reunião.",
+      "topics": []
+    },
+    {
+      "title": "Revisão de tarefas da semana passada",
+      "description": "Foram revisadas tarefas atribuídas, incluindo a compra de torre de iluminação por Raíssa e verificações no sistema realizadas por Tom. Raíssa assumiu a compra prevista para a semana e Tom confirmou ações concluídas no sistema.",
+      "topics": [
+        "Raíssa confirmou que comprará uma torre de iluminação e lâmpadas nesta semana."
+      ]
+    },
+    {
+      "title": "Logística da Banda Verde e treinamentos",
+      "description": "Discutiram-se confirmações de viagens, transporte para três alunos da Banda Verde e sondagem sobre primeiros socorros com a equipe pedagógica. Wesley explicou limitações de horários e alternativas de cursos privados e do corpo de bombeiros.",
+      "topics": []
+    },
+    {
+      "title": "Sistemas administrativos, portal e procurações",
+      "description": "Abordaram-se temas financeiros e administrativos, como estabelecimento de novo sistema de pagamento no Banco do Brasil, procurações necessárias e organização de extratos. Raíssa relatou envio de procuração ao Salique e repasse de documentos ao Rolf.",
+      "topics": [
+        "O portal e o registro de presenças via Slack estão em processo de implementação e já apresentam avanços.",
+        "Raíssa informou que já encaminhou procuração ao Salique e organizou extratos e documentos financeiros."
+      ]
+    },
+    {
+      "title": "Contratos escolares, início das aulas e registros",
+      "description": "Tratou-se da renovação de contratos com a SME, organização do início das aulas para o segundo semestre e do objetivo de ter 100% das presenças confiáveis no portal, com alguns ajustes ainda pendentes. O uso do Slack como canal de registro foi enfatizado.",
+      "topics": []
+    },
+    {
+      "title": "Crise de pagamentos com a Prio e opções operacionais",
+      "description": "A maior parte da reunião focou no atraso de repasses pela Prio, explicações sobre a assinatura de contratos e possíveis medidas para proteger professores (notificar, prazo até quinta e reunião de decisão). Discutiram-se impactos financeiros, opções de apoio emergencial e a necessidade de preservar o relacionamento com a Prio.",
+      "topics": [
+        "O contrato necessário para liberar pagamento foi assinado pelo diretor e Tom espera que o repasse ocorra ainda esta semana.",
+        "A equipe avaliou opções emergenciais, incluindo auxílio individual para quem mais precisa, e debateu evitar pagamentos parciais antes do repasse da Prio.",
+        "Wesley propôs notificar os professores com prazo até quinta-feira e convocar reunião caso o pagamento não ocorra.",
+        "Tom explicou que a política de pagamento da Prio é trimestral e que isso está causando o atraso atual."
+      ]
+    },
+    {
+      "title": "Risco de comunicação e profecia autorrealizável",
+      "description": "Tom introduz o conceito de profecia autorrealizável e alerta que demonstrar insegurança sobre o patrocínio pode levar a perdas e demissão de membros da equipe. Ele sugere que o tema seja tratado com cautela e proposto aos professores na quinta-feira, indicando que a postura interna pode afetar a relação com a Prio.",
+      "topics": [
+        "A equipe deve evitar transmitir insegurança sobre a relação com a Prio para não gerar uma profecia autorrealizável",
+        "A presença de visitantes no dia 9 pode expor discussões internas e exige cuidado no posicionamento da equipe"
+      ]
+    },
+    {
+      "title": "Preocupações com sinais da Prio e planejamento futuro",
+      "description": "Wesley relata que percebe sinais de que a Prio pode “tirar o pé” e recomenda que o grupo revise o planejamento pensando em 2027, antecipando possível redução de orçamento e necessidade de operar com menos recursos e pessoas.",
+      "topics": [
+        "Há indícios de que a Prio está sinalizando reduzir o patrocínio no próximo ano, exigindo revisão do planejamento"
+      ]
+    },
+    {
+      "title": "Proposta de caixa de reserva e impacto pessoal",
+      "description": "Tom pergunta como agir e Raíssa propõe constituir um fluxo de caixa com ao menos R$200 mil para evitar paralisação das atividades em casos de atraso. Raíssa também expõe dificuldades financeiras pessoais e sugere transparência seletiva com a equipe sobre instabilidade financeira do projeto.",
+      "topics": [
+        "Raíssa propôs constituir um caixa de reserva de R$200 mil para cobrir atrasos e manter operações"
+      ]
+    },
+    {
+      "title": "Interpretação das ações da Prio e justificativas internas",
+      "description": "Tom concorda com Raíssa e explica que a Prio teve um problema contábil que reduziu lucros e causou cautela; ressalta que a Prio ainda demonstrou interesse em projetos e visibilidade, mas quer reduzir dependências dos projetos sociais.",
+      "topics": []
+    },
+    {
+      "title": "Metas de captação e operação financeira",
+      "description": "O grupo estabelece metas de captação — R$200 mil de doações de pessoa física e meta ampliada para R$250 mil — e explica o mecanismo de contas (Captação e Movimento) que exige 10% e R$225–250 mil para liberar recursos de execução.",
+      "topics": [
+        "A meta operacional é captar R$200–250 mil de pessoas físicas/empresas para ativar o projeto no final do ano",
+        "O sistema de captação exige 10% captado e R$225–250 mil para liberar os recursos de execução"
+      ]
+    },
+    {
+      "title": "Estratégia para ativação do projeto e pedidos à Prio",
+      "description": "Tom propõe ativar o projeto no fim do ano ao atingir a captação necessária e sugere negociar com a Prio adiantamento de parcelas para cobrir eventuais faltas até a ativação, destacando a importância de mostrar redução de dependência financeira para a Prio e manter relacionamento positivo.",
+      "topics": [
+        "Foi sugerido pedir à Prio adiantamento de parcelas para cobrir eventuais faltas até a ativação do projeto"
+      ]
+    },
+    {
+      "title": "Incerteza sobre resultado final e comunicação com a equipe",
+      "description": "Tom lembra que a situação só ficará clara no final do ano e reforça a necessidade de manter energia e cuidado na comunicação com a equipe para não prejudicar a percepção da Prio, reconhecendo a situação desconfortável mas real da organização.",
+      "topics": [
+        "Manter relação positiva com a Prio é estratégico enquanto se trabalha na diversificação de patrocínios"
+      ]
+    },
+    {
+      "title": "Prioridade operacional e situação imediata de pagamento",
+      "description": "Wesley expôs o cenário de cobrança até quinta-feira e sugeriu suspender aulas mantendo ensaios para preservar atividades essenciais. Ele ressaltou a importância de Elton como funcionário multifuncional e defendeu priorizar sua manutenção caso haja corte de pagamentos.",
+      "topics": [
+        "A continuidade das atividades depende de um pagamento esperado até quinta-feira; se não ocorrer, o plano é suspender aulas e manter ensaios.",
+        "A associação tem cerca de R$38.000 disponíveis, que influenciam decisões de curto prazo.",
+        "Elton foi identificado como peça-chave operacional e deve ser preservado nas prioridades de pagamento e funcionamento."
+      ]
+    },
+    {
+      "title": "Decisões sobre suspensão de aulas e gerenciamento de pagamentos",
+      "description": "O grupo discutiu a necessidade de consultar a equipe antes de suspender, a responsabilidade do contador para cadastro de atas e o cronograma de pagamentos na quinta-feira, incluindo alinhamento sobre quem será pago. Tom confirmou que fará uma reunião na quinta se o pagamento não ocorrer.",
+      "topics": []
+    },
+    {
+      "title": "Análise de receitas externas e impactos institucionais",
+      "description": "Raíssa relatou atrasos e possíveis problemas de liquidez relacionados ao Instituto Marés e ao Banco Master, e sugeriu analisar o impacto com calma. O time ponderou que a situação exige cálculo e que projetos aprovados estão com pagamentos suspensos.",
+      "topics": [
+        "Há risco financeiro por problemas externos (Instituto Marés / Banco Master) e foi proposta uma força-tarefa para redigir o projeto de 2027 como mitigação."
+      ]
+    },
+    {
+      "title": "Estratégia de captação, projeto 2027 e questões fiscais (RPA)",
+      "description": "Foi proposta uma força-tarefa para redigir o projeto de 2027 e intensificar captação; ao mesmo tempo o grupo avaliou a inviabilidade financeira de eventos pagos via RPA devido a impostos e descontos na nota fiscal. Tom detalhou os impactos tributários e a redução do valor líquido recebido.",
+      "topics": [
+        "Eventos pontuais (UTIB/domingo) foram considerados possivelmente não remuneradores após impostos sobre RPA e custos de logística."
+      ]
+    },
+    {
+      "title": "Política de pausa em maio e procedimentos de pagamento acumulado",
+      "description": "Decidiu-se por pausar trabalhos remunerados até que os pagamentos sejam efetivados, com monitoramento contínuo; o grupo discutiu pagar notas acumuladas (março/abril) para acelerar processos e reativar participantes após emissão de nota.",
+      "topics": []
+    },
+    {
+      "title": "Logística e definição de viagens e transporte para BH",
+      "description": "Houve discussão sobre transporte para Belo Horizonte e resistência ao uso de ônibus comercial; o grupo optou por aguardar confirmação de BH e retorno do Roberto antes de decidir logística ou desmarcar outras opções.",
+      "topics": [
+        "A contabilidade e emissão de notas condicionam o pagamento dos profissionais e exigirão um esforço concentrado de uma semana para regularização.",
+        "A definição sobre viagens para BH depende da confirmação logística e de patrocinadores, e só será tomada após retorno do contato com Roberto."
+      ]
+    },
+    {
+      "title": "Oficina de férias e demandas da Banda Preta",
+      "description": "Wesley relatou interesse dos alunos da Banda Preta em realizar oficina de férias focada em teoria e preparação para provas, propondo sessões curtas sem lanche e com conteúdos práticos e teóricos; Tom ofereceu suporte inicial à organização.",
+      "topics": [
+        "Foi proposta uma oficina de férias focada em teoria e preparação para provas para a Banda Preta, com apoio de Wesley e Tom."
+      ]
+    },
+    {
+      "title": "Organização do baile e capacidade de público",
+      "description": "A equipe avaliou a presença de cerca de 70 convidados alemães e o risco de superlotação no Galeão, lembrando eventos anteriores em que bandas ocuparam todo o espaço. Foram levantadas opções como enviar partituras para tocar juntas, dividir o evento ou mudar de local para locais maiores ou alternativos.",
+      "topics": [
+        "O baile deve prever controle de público e possivelmente mudar de local ou dividir eventos para acomodar os 70 convidados alemães e bandas locais."
+      ]
+    },
+    {
+      "title": "Alternativas de programação com os alemães",
+      "description": "Discutiram-se alternativas à festa principal, incluindo antecipar o baile, dividir o evento, realizar atividades no domingo em pizzaria, coreto, piquenique ou futebol, e usar o coreto como local de menor logística e boa acústica para apresentações conjuntas.",
+      "topics": []
+    },
+    {
+      "title": "Segurança em Santa Teresa e impacto no planejamento",
+      "description": "Foram abordados relatos de aumento de assaltos e violência em Santa Teresa, que geraram preocupação sobre a segurança dos participantes e a necessidade de repensar atividades noturnas e locais de concentração.",
+      "topics": [
+        "Há preocupação relevante com a segurança em Santa Teresa que influencia a escolha de locais e o planejamento noturno.",
+        "A alternativa sugerida é realizar atividades separadas com os alemães no domingo (pizzaria, coreto, piquenique ou futebol) para reduzir risco de superlotação e facilitar logística."
+      ]
+    },
+    {
+      "title": "Preparação do projeto Rouanet / RUA-NEI",
+      "description": "Definiu-se começar os passos para a Lei Rouanet 2027 e preparar orçamento, metas e textos para a RUA-NEI 2026, incluindo discussão sobre valores-alvo, custo administrativo e necessidade de alinhamento com Jane/Jânico e o conselho financeiro.",
+      "topics": [
+        "Foi definido iniciar preparação de proposta para a Lei Rouanet 2027 com metas, textos e orçamento como prioridade da semana.",
+        "Raíssa ficará responsável por preparar orçamento e textos provisórios para a RUA-NEI 2026 e pela clipagem resumida de 2025 já iniciada."
+      ]
+    },
+    {
+      "title": "Gravações, equipamentos e logística de captação",
+      "description": "A equipe avaliou recursos técnicos disponíveis (GoPro, drone, microfones Shure, Zoom) e a possibilidade de usar um teatro para melhor acústica e luzes, além de considerar adiar gravação prevista para quinta devido à ausência de alunos-chave.",
+      "topics": [
+        "Foi discutida a possibilidade de gravar material em teatro para melhor captação de som e luzes, e há disponibilidade de equipamentos como GoPro e drone para registro."
+      ]
+    },
+    {
+      "title": "Questões administrativas e fechamento",
+      "description": "Foram resolvidas pendências de acesso e boletos do Click Science, confirmada a liberação de acessos e discutida a cobrança de pagamentos; finalizou-se com a convocação de reunião com professores e com a equipe para alinhar as ações definidas.",
+      "topics": [
+        "Decidiu-se convocar reunião com os professores (e depois com a equipe inteira) para alinhamento das metas e atividades."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1777381392008,
+        "end_time": 1777381399428,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "mas tá na internet da vizinha tá colado no mouro da vizinha?"
+      },
+      {
+        "start_time": 1777381399428,
+        "end_time": 1777381404375,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "cortaram a minha mas caraca, perdeu a internet?"
+      },
+      {
+        "start_time": 1777381404375,
+        "end_time": 1777381425534,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "não sei, eu peguei da emprestada aqui, eu tô tentando reerguer tá funcionando aí deu pau em tudo aqui, eu tô tendo que voltar Tá, tá, tá no Rio?"
+      },
+      {
+        "start_time": 1777381425534,
+        "end_time": 1777381453501,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tô, tô no Rio, tô. Beleza. Ok, vamos nessa, vamos fazer a cerimônia. As tarefas da semana passada, Raíssa, compra mais um torre de iluminação e lâmpedas adequadas. Eu ainda não fiz, porque eu estava..."
+      },
+      {
+        "start_time": 1777381453501,
+        "end_time": 1777381461966,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu realmente, na verdade, já esqueci mesmo. Vocês não serão esquecidos de fazer essa parte. Mas essa semana eu compro."
+      },
+      {
+        "start_time": 1777381461966,
+        "end_time": 1777381508447,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tudo bem. Tom, vê bastante luz portátil para lá de fora. Feito. Tom, investigar discrepâncias no sistema em termos de orar aos professores. Feito. Eu passei bastante tempo na sexta-feira tô passando para para eu fiz tudo no sistema Raíssa eu vou falar que eu recebi a notificação para verificar as coisas ok beleza até com até tentando incluir essa coisa de estimar pagar no final do mês corrigir depois então tem tudo deve ter vida para usar então Bruno e Roberto sobre viagens feito, Wesley com Caramuelo sobre baile e show com eles.\n\n"
+      },
+      {
+        "start_time": 1777381508447,
+        "end_time": 1777381508911,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Feito."
+      },
+      {
+        "start_time": 1777381508911,
+        "end_time": 1777381509837,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Estão confirmados?"
+      },
+      {
+        "start_time": 1777381509837,
+        "end_time": 1777381517713,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, ele me pediu um tempo só para ver a quantidade de pessoas disponíveis para o dia."
+      },
+      {
+        "start_time": 1777381517713,
+        "end_time": 1777381544771,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok, beleza. Descobri quantos alunos da Banda Verde precisariam de transporte para tocar nas aulas? Três. Três, show de bola. Wesley, então vamos continuar. Nacionalista de partes na Banda Verde na. O Wesley conversar com a equipe pedagógica sobre primeiros socorros. Então eu estou sondando a"
+      },
+      {
+        "start_time": 1777381544771,
+        "end_time": 1777381553259,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Até então todos que eu sondei o horário no bate para fazer."
+      },
+      {
+        "start_time": 1777381553259,
+        "end_time": 1777381554673,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então tá."
+      },
+      {
+        "start_time": 1777381554673,
+        "end_time": 1777381556795,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não beleza então."
+      },
+      {
+        "start_time": 1777381556803,
+        "end_time": 1777381562396,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu tenho essa questão dos horários meus, que é escola e tal."
+      },
+      {
+        "start_time": 1777381562396,
+        "end_time": 1777381563794,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ninguém está conseguindo?"
+      },
+      {
+        "start_time": 1777381563794,
+        "end_time": 1777381565659,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, eu, no caso."
+      },
+      {
+        "start_time": 1777381565659,
+        "end_time": 1777381576378,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho que você, sendo o primeiro socorrista, resolve. Você está quase todos os dias... Só se a gente fizer duas viagens juntos..."
+      },
+      {
+        "start_time": 1777381576378,
+        "end_time": 1777381605219,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A questão é mais para... Agora, não consigo abandonar as escolas, deixar a Nathânia errar da nossa, Estou lá com eles e os horários não estão batendo para fazer outra coisa. Sondei e continuo sondando. Tem os cursos privados, tem um curso feito pelo bombeiro, enfim."
+      },
+      {
+        "start_time": 1777381605219,
+        "end_time": 1777381606651,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Estou sondando."
+      },
+      {
+        "start_time": 1777381606651,
+        "end_time": 1777381648265,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Beleza. Vamos dar uma olhada nas nossas pedrinhas. Pagamento. Pedras. É escrito de projetos para 2027 em leis de incentivo. Estão indo em estrelas. Estabelecer novo sistema de pagamento do Banco do Brasil, com o Tom podendo fazer pagamentos."
+      },
+      {
+        "start_time": 1777381648265,
+        "end_time": 1777381656318,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Esse a gente tem que fazer a procuração, né? Tem que marcar com o Rolf."
+      },
+      {
+        "start_time": 1777381656318,
+        "end_time": 1777381736073,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, tem que colocar... Primeira coisa, o meu posse, mas a gente fala disso depois. Sucesso nas viagens de Paraty, BH, Tom. O Roberto está na mão dos deuses, mas a gente fala disso daqui a pouco. Adação total do portal como fonte principal e dados anualizados de toda a esfera da associação, com toda a equipe orientada e responsabilidade para clarificar os dados de forma autônoma. Está caminhando, acho que nós estamos vendo essa questão dos outros professores.\n\n Estou caminhando com a Iris e o fluxo com a Iris e Lilian, acho que está indo. Nos trilhos. Então, novo sistema de controle de métodos da rua e nem do portal, não feito, mas dá tempo. Site atualizado nos trilhos. Evento para captação de recursos via lei de incentivo, ainda não marcado, mas eu estou pensando nisso está nos trilhos. Concentrar a Iphone no projeto. Estabelecer ritmo de captação do Wellington e Caterina para as mídias sociais.\n\n A Iphone está funcionando agora, dá uns pulgados, mas está funcionando e tem e agora tem esse João também captando nas apresentações. Controle de fluxo de cápsulas, reembolsos e salique atualizados com as notas do primeiro semestre. Raíssa?"
+      },
+      {
+        "start_time": 1777381736073,
+        "end_time": 1777381748447,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tá nos trilhos, eu já enviei a procuração pro salique, tô esperando a aprovação e eu já tenho os extratos em mão também, já tô organizando as coisas."
+      },
+      {
+        "start_time": 1777381748447,
+        "end_time": 1777381759584,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então você tá aguardando pra ter acesso ao salique, né? Eu coloquei uma lista de assuntos, já podemos tirar isso, beleza. Cadastro na Ossipem?"
+      },
+      {
+        "start_time": 1777381759584,
+        "end_time": 1777381765799,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tá nos trilhos, já passei as coisas pro Rolf, ele já tá sabendo."
+      },
+      {
+        "start_time": 1777381765799,
+        "end_time": 1777381817792,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Show de bola. Wesley, renovação de contrato SME com as escolas. Show de bola. Organizar o início das aulas, das aulas para alunos da Escola Machado de Axis, do Governo Machado de Axis. Passados dia 6 no curvelo do segundo semestre. Todos os dados 100% confiáveis no portal. Apetências, presenças, saídas, divisões de grupos. Até tem presença das apresentações agora. Uma coisa para gravar. Está ficando bom.\n\n 100% das presenças sendo cadastradas pelo Slack."
+      },
+      {
+        "start_time": 1777381817792,
+        "end_time": 1777381825963,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Faltam mais alguns ajustes, não é? Mas aí está ajustando. Alguns alunos que entravam depois."
+      },
+      {
+        "start_time": 1777381825963,
+        "end_time": 1777382102387,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas acho que a gente chega lá, não é? Acho que a gente chega lá. Tudo sendo pelo Slack. Beleza. A gente não... Uma coisa para a gente fazer depois é começar essa coisa de ver os números. Um número ou outro. O que a gente fazia. Mas a gente não vamos organizar isso. Vou colocar isso no final. Meu Deus. Ok, deixa eu só ligar o ventilador aqui que tá abafado. Batatas quentes. Então, o pagamento prio, eu...\n\n Que travão nasce... Na assinatura de um diretor, que é... É chato, mas é entendível que um diretor de uma coisa da ponte dá frio. Dá para entender que vai demorar um pouquinho. Eu estava cutucando a Camila direto. Na quarta, Deixe-me ver quanto tempo levou. Na quarta passada, vi que não tinha caído o contrato. Falei que estava esperando o assinator de uma diretoria, um diretor, para ver se ela cutuca.\n\n Na sexta ainda não foi. Na sexta, perguntei para ela. Alguma previsão da assinatura, da diretoria, a equipe está aguardando e eu preciso dar uma posição para ela. Aí ela voltou com esse falar de... Então, a gente tem que ver essa coisa da captação de vocês, porque a gente fez esse curso de mentoria no ano passado, e aí a gente tem que sair dessa pressão Eu falei para ela, tipo, a gente captou mais 100 mil reais do final do ano passado, mas a gente não consegue acessar isso até o primeiro pagamento de abril, ou seja, o pagamento de abril libera essa verba também.\n\n Mas ela... Então, fui até o limite. Levei esse beck, mas está assinado. Hoje, o diretor assinou. E agora, com o contrato assinado, eu vi no documento que assinamos que está tudo anexado ao documento, todos os dados para pagamento, o print da conta, etc, etc. Então, eles sabem que é importante, e eu acho que vão pagar, acho que eles vão pagar essa semana. Aí, eu acho que o que a gente poderia fazer, por mim, eu acho, eu quero ouvir vocês, o Raíssa, Você está falando que as pessoas estão falando em Tom de parar.\n\n Estou pensando... Vamos pensar nas opções. Vou pensar em algumas opções e ver o que vocês acham. Uma opção é falar, olha, mais uma semana e a gente pensa nisso. Ou outra opção seria quem realmente precisa de ajuda, a gente tira da associação para dar Uber. Terceira opção... Acho que a gente não quer entrar no pagamento parcial com o pagamento, o depósito provavelmente sendo tão perto."
+      },
+      {
+        "start_time": 1777382102387,
+        "end_time": 1777382110735,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Wesley, o que você acha? Então, se você for colocar todo mundo para precisar..."
+      },
+      {
+        "start_time": 1777382110735,
+        "end_time": 1777382112523,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Todo mundo está."
+      },
+      {
+        "start_time": 1777382112523,
+        "end_time": 1777382116101,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Você está conseguindo uma vida legal?"
+      },
+      {
+        "start_time": 1777382116101,
+        "end_time": 1777382117293,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1777382117293,
+        "end_time": 1777382119082,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Todo mundo está."
+      },
+      {
+        "start_time": 1777382119091,
+        "end_time": 1777382152218,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu estou numa situação que não entendo a senhora. Até quarta-feira me permite. Mas, assim, eu acho que a gente deveria mandar uma mensagem para os professores, dar um prazo até na quinta-feira. E, na quinta-feira, caso o pagamento não seja feito, eu poderia fazer uma reunião online com os professores. Porque, na minha visão, acho que se não for pago até quinta-feira, deveria suspender as aulas e manter só os ensaios.\n\n"
+      },
+      {
+        "start_time": 1777382152218,
+        "end_time": 1777382167581,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Na minha visão. Você fala quinta-feira? Porque quinta-feira é dia 30. Ah, entendi. Entendi. Eu vou te dar um exemplo. A sexta-feira é feriado, isso? Sim, sexta-feira é feriado."
+      },
+      {
+        "start_time": 1777382167581,
+        "end_time": 1777382191219,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vou te dar um exemplo pra vocês aqui, cá entre nós. Por exemplo, eu recebi uma mensagem falando que precisava arrumar outro trabalho. Porque eu peguei dinheiro emprestado com um monte de gente, não sei o quê, está ruim para mim."
+      },
+      {
+        "start_time": 1777382191219,
+        "end_time": 1777382197251,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso é de professor... Sim, aí eles vieram conversar comigo."
+      },
+      {
+        "start_time": 1777382197251,
+        "end_time": 1777382220620,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Outros professores vieram conversar. Pô, cara, é uma translação muito complicada. O negócio aconteceu justamente nos meses fracos após o Carnaval. Se isso fosse durante o Carnaval, estava cagando de chamar esse cara. Passou o Carnaval, não tem serviço e estou tendo que vir para cá."
+      },
+      {
+        "start_time": 1777382220620,
+        "end_time": 1777382222528,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, assim, eu também..."
+      },
+      {
+        "start_time": 1777382222528,
+        "end_time": 1777382247081,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Se até quinta-feira não cair, suspenderia as aulas. Mas, antes de tomar essa atitude, faria uma reunião com os professores com os professores. Bom, o Renan Online, pessoal, olha, já fiz de tudo, a situação é essa. Até a sugestão de mandar a carta pra primo e o pessoal tá falando, vou mandar a carta pra gente. Calma, calma, isso vai ser resolvido. Sim."
+      },
+      {
+        "start_time": 1777382247081,
+        "end_time": 1777382248445,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Nunca aconteceu, calma, calma."
+      },
+      {
+        "start_time": 1777382248445,
+        "end_time": 1777382265851,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, assim, eu acho que a gente deve fazer o Renan com os professores só pra explicar a link pra eles. Por mais que a gente esteja mandando mensagem, mas você tá falando, olha, pessoal, A sugestão que pego é suspender as aulas."
+      },
+      {
+        "start_time": 1777382265851,
+        "end_time": 1777382337447,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu que trato com a frio, acho que a responsabilidade é minha. Quem tem que colocar a cabeça acima do muro sou eu, mas posso fazer isso. Pode ser na quinta-feira mesmo. Se não cair. É a questão, não é? A gente ainda vai fazer show no domingo. Por exemplo, a Etilene está com situação difícil também. Ela não falou em muito detalhe, mas ela não está emprestando dinheiro da mãe, todo mundo. Vamos supor, eles não depositam.\n\n Se Edilene precisa de uma uva para domingo etc., as pessoas precisam de uva para domingo, basicamente é você, Edilene."
+      },
+      {
+        "start_time": 1777382337447,
+        "end_time": 1777382340039,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas vai rolar?"
+      },
+      {
+        "start_time": 1777382340039,
+        "end_time": 1777382343496,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Porque está nessa incerteza."
+      },
+      {
+        "start_time": 1777382343504,
+        "end_time": 1777382350383,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "se vai rolar ou se não vai rolar, se vão pagar para a RPA, se não vai pagar... Sim, sim."
+      },
+      {
+        "start_time": 1777382350383,
+        "end_time": 1777382355886,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Isso é coisa para a gente falar. Eu botei lá, mas acho que não vai rolar."
+      },
+      {
+        "start_time": 1777382355886,
+        "end_time": 1777382385356,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aquele rapaz falou que não tem como fazer de outra maneira. Isso é coisa para a gente conversar aqui. Depois a gente resolve isso. Se a gente vai, se a gente não vai. Beleza. Mas, aí, coisa presencial. Tem professor, a gente lê, coisas com show, se a gente tem que fazer show, coisa assim, a gente tem que arcar com os custos das pessoas para chegar no show."
+      },
+      {
+        "start_time": 1777382385356,
+        "end_time": 1777382396158,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Deixe-me fazer uma pergunta. O dinheiro que a gente tem na associação, a gente consegue pagar um mês de salário?"
+      },
+      {
+        "start_time": 1777382396158,
+        "end_time": 1777382398858,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se desse, a gente pagava."
+      },
+      {
+        "start_time": 1777382398867,
+        "end_time": 1777382404294,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "A gente já gastou com as coisas."
+      },
+      {
+        "start_time": 1777382404294,
+        "end_time": 1777382491422,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E é isso, a gente só tem pouco dinheiro para manter as despesas recorrentes. Outra opção seria pagar aquela esquema dos mensalários. Mas a questão aqui é Acho que eles vão pagar. Dificilmente a gente chega... Acho que eles vão pagar nos próximos dias. Uma coisa que tem... A gente, diante da situação, não pode mudar a situação com a Prio, mas a gente poderia pelo menos mostrar atitude, o melhor que a gente pode para a equipe, essa coisa de depois de quinta-feira.\n\n E aí, eles ainda vão ser pagos para os dias que eles iam pagar? Porque, sabe, se eles não iam para as aulas, a gente não conta essas horas, essa hora-aula, a gente prejudica eles no longo prazo, que eles não ganham essa hora-aula. Então, acho que a gente teria que... E ter que pagar eles para o que eles não fizeram, basicamente."
+      },
+      {
+        "start_time": 1777382491422,
+        "end_time": 1777382501307,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O ideal vai ser mesmo conversar com os professores e buscar uma solução com eles."
+      },
+      {
+        "start_time": 1777382501307,
+        "end_time": 1777382991221,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas, entendendo que não dá, depois de dois meses, não dá, O que preocupa um pouco é que a gente tem que tomar cuidado. A gente está num momento que tem que ser dito para os professores. É delicado isso, tem que ser dito para vocês, por ser dito por professores. É chato este momento, mas é uma situação de um momento no relacionamento com a Prio. Eles mudaram a política interna, demorou o pagamento, e a gente vai fazer tudo para nunca mais ficar nessa situação.\n\n Mas a gente tem que olhar também a nossa situação de longo prazo é que a gente depende da pria e o mais que a gente quer pressionar e o mais que a gente tá vendo para diversificar o nosso melhor Então, a coisa mais importante nesse momento é a continuação do patrocínio da Prio. Então, a gente não pode deixar isso afetar o nosso relacionamento com a Prio. Isso é importante. Estou falando de vocês, de amigos, para a gente não perder o trabalho.\n\n Porque, imagina, a Prio quer fazer tem vários projetos brilhantes que eles querem colocar, e se eles escutam de alguém da nossa equipe, que é prio isso, prio aquilo, aí isso poderia dar justificativa para a corte, como a gente disse, Então, é muito ruim eu falar isso quando ninguém paga por dois meses, por causa dos políticos deles. Mas uma coisa que a gente... Se você olha o Tom da mensagem da Joana, essa carta de abril poderia ser tipo a gota de água e eles falam, olha...\n\n A Favela Bryce não, sabe? A gente teve essa... A gente tem que pagar no final do trimestre. A gente teve essa coisa da diretoria de ter contrato. O que eu posso fazer? Eu estou quase numa situação similar à Camila. Raíssa, parece que vocês estão recebendo mais, mas a gente recebe essas mensagens do pessoal, mas, no fundo, não tem muito o que a gente pode fazer. E eles, outros passando a limite... E o momento é, espera aí, cara, porque eu não posso fazer nada.\n\n É uma coisa estrutural, só para deixar claro. A gente pode tentar agitar isso, falar disso também, essa coisa de quando eles pagam. Mas, essencialmente, eles foram de pagar anualmente para pagar trimestralmente. Saber quanto que eles têm para pagar, via Lei Rouanet, quando eles têm os resultados deles no final do trimestre. Então, eles realmente só têm uma política de mão presa diante disso, que é final do trimestre, nosso lucro foi isso, 4% disso, agora vamos fazer os pagamentos, os projetos.\n\n Eu fui pesquisando, aí o lucro da Frio está assim, ao longo do ano, eles têm resultados, esses fãs de Trump. Então, realmente, não é o que é bom para a gente. Podem ser melhores, podem dar mais prioridade para a gente, eu acho, e falar que esses outros projetos estão vindo e vindo, mas, para validar a propriedade, eles vão garantir isso, mas eles não fizeram isso. Mas entendo que não é uma coisa de maldade ou de má-fé, coisa assim.\n\n É meio que... Defensivo, que eles esperam o final do semestre, eles dão o dinheiro e eles estão falando, não, não dão. A gente está dando esse dinheiro, tá precisando, mas a gente está dando, e aí é o que tem, sabe? A gente mesmo fica tendo que falar, não, é o que a gente tem. E aí, essa questão dos contratos, realmente, eu acho que foi uma falha da equipe. Dos patrocínios lá estar trabalhando com o contrato, que a gente sempre trabalhou com o contrato, e eu estava tentando pegar o contrato com eles.\n\n Aí eles tiveram essa crise, porque o financeiro pediu os contratos. Então, essa foi uma situação que aconteceu, e eles tinham que correr atrás dos contratos. Aí a gente adiantou isso. Mas só para essa coisa, a gente tem que tomar muito ligado com esse Tom. Porque todo mundo quer ser pago agora, mas também a gente quer ter trabalho no ano que vem. E tem uma coisa... A gente fala da profecia autorrealizável.\n\n Sabe esse termo? Se a gente está... Não sei se está legal comprir, etc., etc., aí essa vibe passa para eles, aí a gente está com problema. E, mesmo sendo, mesmo a gente querendo arrumar outro patrocinador, com certeza, até a gente ter esse patrocinador, a prioridade é de manter a energia em cima, como a Priu. Eu empurrei um pouco nessa pressão de ter prazo para esse pagamento agora. Mas a minha preocupação é que, se a gente tiver com essa coisa da Priu, Priu isso, Priu aquilo, dentro da equipe...\n\n E também, nós três é a nossa principal fonte de dinheiro. Mas outras pessoas, sabe? A gente vai... Meu Deus! Obviamente, sei que nós Junto com a Prio, a gente não vai falar nada que poderia dar problema. Mas tem outras pessoas na equipe e outras pessoas com quem eles poderiam falar, que não tem tanto no jogo com isso, e poderiam falar alguma coisa. Imagina aquela que a gente vai ter visita. Dia 9, a gente vai ter visita.\n\n Alguém vê, vier, e alguém acha graça um direto sobre a Priu etc. Essa é a coisa. Se eles percebem que a gente está com essa coisa e a Priu, Priu isso, Priu aquilo, eles vão soltar a gente e a gente vai perder nossos trabalhos. Só para colocar isso no nosso radar, acho que é alguma coisa que tem que ser falada com os professores, que é chato, mas não é necessariamente maldade, Na quinta-feira, a gente poderia propor isso e você estar falando com o pessoal.\n\n"
+      },
+      {
+        "start_time": 1777382991221,
+        "end_time": 1777383173290,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Você é a melhor pessoa para estar falando. Tudo que eu podia segurar com os professores, até mesmo eu fiz, mas agora não tenho mais nem o que falar. E eu entendo a situação deles, porque eu também estou nessa. É, eu também. Mas essa questão de... E, assim, não querendo ir para o futuro, mas é uma coisa que eu já tinha falado contigo, Tom, até nas nossas conversas com a Heiske. Eu estou assim... Jamais eu vou transparenciar isso para a Priu, mas eu estou sentindo que parece que eles estão querendo tirar o pé do acelerador com a gente.\n\n Isso é ruim. Então, acho que a gente tem que ter um pensamento para 2027, já avisando que isso novamente pode acontecer em 2027, de atrasar e tal. É uma coisa que a gente deveria estar revendo no nosso planejamento para que isso realmente não aconteça. E tem a questão, até mesmo deles já terem falado diminuir o patrocínio do ano que vem, que você trouxe pra gente. Então, é uma coisa que a gente tem que botar no nosso radar, né, do planejamento pro ano que vem, e se a gente não conseguir um outro patrocinador, seja quem for, a gente vai ter que já pensar e começar com menos do que a gente tem, com um número de pessoas menores do que a gente tem, pra gente não ter esse tipo de problema, entendeu?\n\n Então, é só pra gente botar isso no nosso radar, porque se isso aconteceu agora e eles já estão falando Ah, você não conseguiu do patrocinador, a gente vai diminuir. Aí você foi cobrar a Camila agora. Ah, mas a gente pagou custo pra vocês, pra vocês conseguirem do patrocinador. Ou seja, eles já estão dando sinais claros de que, sabe? Eles estão meio que recuando. Não quer manter um milhão. Não é que eles vão abandonar a gente, mas na minha concepção, eles estão dando sinais claros de que não vai manter da maneira que tá pro ano que vem.\n\n Então, é uma coisa que a gente tem que sentar, olha. Vamos lá, gente. Vamos imaginar um outro cenário aqui com isso tudo que eles estão falando. Com isso tudo que estão... Essas indiretas que eles estão deixando pra gente, entende? E não é indireta, é direta mesmo, é isso. Né, Neném? Eles vão falar, ó. O que você conseguiu do patrocinador é isso. Ó, mas você tem que conseguir não sei o quê. Então, eu não vejo sentido da história de falarem isso, entende?\n\n A não ser essa maneira que eles estão querendo realmente tirar o pé, entende? E eu fico com medo disso. Acho que a gente deveria já, assim que passar o seu casamento, assim que você voltar de tudo, a gente sentar e... Pessoal, é isso, é essa a situação. Vamos lá, vamos pensar um cenário aqui para o ano que vem, para que isso não aconteça. E já prevendo que pode ser que eles diminuam esse orçamento e tal.\n\n"
+      },
+      {
+        "start_time": 1777383173290,
+        "end_time": 1777383176196,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Como é que a gente vai agir? Raíssa?"
+      },
+      {
+        "start_time": 1777383178021,
+        "end_time": 1777383348434,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho assim, que a gente de alguma forma, pegando esse gancho do que a gente tá falando, foi uma das batalhas que a gente teve, que era justamente ter esse fluxo de caixa. Pelo menos ter 200 mil em conta e aumentar gradativamente a cada ano para esses casos de situação. Por isso que acho que essa coisa de economizar, é economizar justamente porque a gente sabe que o apelo atrasa o pagamento, a gente tem um fluxo de caixa para as atividades não pararem.\n\n Essa é uma situação que é atípica do que já aconteceu desde 2022 por conta dessa mudança né mas concordo com você e concordo com você que essa é o sintoma do que eles não querem que a gente permaneça permaneçam pagando a gente com patrocínio não é uma coisa que vai ser longíquo a gente precisa encontrar outros caminhos de patrocínio e em relação a relação interna né com a equipe eu particularmente por exemplo eu não tenho mais como pagar o aluguel eu trabalhei esses dois eu trabalhei positivamente paguei o aluguel de março e paguei o de abril mas eu não tenho como pagar agora as contas são vendendo de novo tipo meu cartão de crédito tá tudo bloqueado não tem mais nem cartão de crédito e eu não tenho para quem pedir emprestado é o pior de tudo aí eu não tenho para quem pedir emprestado assim que eu não tenho quem recorrer mesmo não estou trabalhando então assim se da minha parte assim pensando na equipe sentido de eu vou ter que sair para trabalhar por exemplo veio uma proposta de trabalho que era filmando eu falei assim não vou fazer porque eu sei que eu não posso me ausentar um mês que é 12 horas de trabalho por dia mas eu sei que pagaria minhas contas só que tipo é isso aí você fica sempre nessa sensação mas e aí como é que eu vou pagar as contas né tipo é uma sensação que dá às vezes angústia assim que não tem para como solucionar eu imagino que esteja assim uma comunicação com o sua, de assegurar que é isso, ser sincero, acho que às vezes nesse caso, ser sincero, a gente é um projeto social, que a gente não tem como garantir estabilidade financeira para as pessoas, e aí tem que ser uma escolha também de todo mundo, de equipe, porque como eles nunca passaram por isso, a gente sempre segurou as contas, eles não sabem disso, eu acho que vale a falar de quais problemas a gente já teve e que são problemas que podem ser recorrentes e ver com quem realmente consegue abraçar essa causa porque também eu sei que é desgastante para você que tá nesse lugar sendo cobrado sabendo que a gente é um projeto social a gente não é uma empresa né eu acho que trazer essa diferença acho que é importante assim é eu Só para...\n\n"
+      },
+      {
+        "start_time": 1777383348434,
+        "end_time": 1777383655359,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu concordo com tudo isso. Obrigado por não pegar esse trabalho de um mês para não deixar a gente ir na mão. Estou vendo que a galera está sendo leal à gente. A questão da CRIU está dando sinais de que eles estão com o pé atrás da gente. Eu acho... Acho que eles querem que a gente tome exatamente eu não acho que é que eles estão querendo tirar dinheiro da gente eles não querem a gente nessa dependência não é que eles querem dar não tem dinheiro não quer querem tirar o dinheiro da gente tão atrás com o projeto isso é importante que onde tá a nossa cabeça vai transmitir e acho que eles não estão com isso eles estão a gente tem o projeto do Cool Hunt Favela, aqueles fotógrafos que vieram, que vão fazer no dia 9.\n\n Eles estão fazendo essa coisa com a blogueira, essa atriz de São Paulo, que vai fazer coisa de influenciador para divulgar a gente. Eles estão colocando a gente na Carandai. Eles estão colocando a gente num projeto com teatro privado. Então, eles querem a gente, por mim fica claro que eles ainda querem a gente, essas são coisas diretas, que eles estão querendo, no relator de impacto deles, que eles soltaram no LinkedIn, a gente está principal lá.\n\n Mas eu acho que o que aconteceu é que eles tinham um problema em 2024, eles tinham uma é uma coisa interna, de contabilidade, do que eles fizeram, que abaixou os lucros. E eles levaram um susto. Porque quem estava na equipe dos projetos sociais pensou, porra, se isso, sabe, de repente... Bom, muito menos perpa, eles pensaram, caraca, a gente tem todos os nossos projetos dependentes da gente, E a gente pode não ter nenhum lucro em algum trimestre.\n\n Então, pelo amor de Deus, o que a gente pode fazer para esses projetos não ficarem dependentes da gente? Aí a Camila chega com essa ideia da coisa de impulso. E também esse curso de impulso realmente foi uma forma deles ter a conversa com a gente de que, olha, vocês precisam Então, acho que vem desse lugar. Isso que não vem é importante. Isso que não vem do ponto de vista de que a gente já está cansado da favela Bryce e a gente quer tirar eles e a gente quer uma calaboca para falar que a gente deu um curso para eles depois de tirar.\n\n É que eles levaram um susto em 2004 com essa recapitalização, como se fala em português, de uma parte, essa manobra contábil que baixou os lucros. Então, eles estão nisso. Quando a Camila fala para mim no final do ano, mas a gente vai ter que pensar depois de uma coisa assim, ela está colocando medo, sabe? Porque elas estão, não, essa galera tem que organizar outros patrocinadores, a gente não pode ficar dependente.\n\n Então, ela está meio que manipulando dessa forma, entendeu? E mesma coisa, quando eu falo com ela, então, olha, me dê uma previsão, por favor, para quando vocês vão pegar, ela fala, então, vocês precisam se diversificar. Então, é importante essa distinção. Eles estão nessa coisa de não podem depender, eles não querem a gente dependendo deles, mas não necessariamente que eles vão estar cortando verba.\n\n Então, por isso, mais uma vez, é superimportante a gente não fazer essa autoprofecia, essa profecia autorrealizável, que é aquilo que está atrás da gente e pensando isso. Porque aí, cara, sabe, aí que a gente tem que tomar muito, tem que ter cuidado, porque a gente tem que tentar manter as coisas positivas com a Prio, e a gente em frente, a melhor coisa é realmente correr atrás dessa captação e das pessoas físicas, para a gente, o mais importante, a gente ter o dinheiro para ativar o projeto.\n\n"
+      },
+      {
+        "start_time": 1777383655474,
+        "end_time": 1777383659890,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "200 mil de doação de pessoa física e 200 mil na conta."
+      },
+      {
+        "start_time": 1777383659890,
+        "end_time": 1777383998456,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Essa é a nossa meta. Exatamente, Raíssa. A ideia é de a gente ativar no início, no final, no dezembro desse ano, 10 de dinheiro para ativar o projeto. Eu acho que isso é a meta. Eu vou ser aberto para você concorrer. E eu acho que o mais concreto disso é atacar a coisa das pessoas físicas e fazer uma meta de 250 mil reais pessoas físicas ou empresas para a gente ativar. Só para você saber a situação, Wesley, a gente está com 115 mil, tem duas contas na Ruané, Captação e Movimento da Ação.\n\n O Captação, todo mundo deposita no Captação da Ruané, aí quando o projeto entra na execução, Captação entra no Movimento e a gente pode acessar. A gente está com 115 no Captação porque, para ativar o você precisa ter 10% captado. Então, a gente só consegue acessar a conta de captação quando a gente tiver 225 mil captados pelo tamanho do nosso projeto. Então, quando eu abrir o depósito, agora eu vou colocar 250 mil, a gente vai ficar com 360 mil na conta de captação, vai abrir.\n\n O que a gente tem que... O nosso... O nosso desafio é para, no final do ano que vem, a gente ter uma décima do nosso projeto de aprovado, a gente ter 225, 250 de Anaconda de Capitação para começar, porque aí a gente começa o ano São nossos R$ 200 mil da associação mais R$ 250 mil, e a gente está muito mais protegido. Essa questão de montar esse evento de cárceres de só meia pessoa física, etc., e correr atrás das empresas.\n\n E até conversar com o Prio. Eu pensei em conversar com o Prio. Será que vocês conseguem fazer cinco pagamentos de 200 mil, por exemplo. Colocar um no dezembro, ou se a gente consegue o mapar, ou começar com a PRI para ver se eles conseguem completar até a gente ativar o projeto. Imagina se a gente fica faltando 50 mil no final do ano para ativar o projeto. Vocês consigam adiantar 50 mil nesse último trimestre para que a gente Acho que é esse tipo de...\n\n Basicamente, está certo, Wesley. E é isso que o foco está... Porque, se a gente consegue entrar no ONU com o projeto ativado, e a gente põe esse dinheirinho na conta, isso vai certificar... A Prio vai gostar muitos dias, porque a gente está mostrando que a gente... A gente está tirando essa dependência e a gente não vai estar atrasando nos salários. Então, acho que o foco é nisso. Mas, dito isso, Weston, também, a gente não sabe o que vai acontecer com o april.\n\n Mas, infelizmente, da forma que isso está, a gente só vai saber se eles vão fazer alguma coisa, é no final do ano que a gente sabe. Não tem... Eles... Sabendo como está a final do ano, as coisas ficam tão... Para a gente ajustar a nova realidade da Prius, se tiver, só no final do ano que a gente sabe o que vai ser, porque tem muitos cenários. Mas acho que é basicamente Mas é chato para caramba falar para a galera.\n\n A gente tem que manter a energia em cima com a Crio na hora que está trazendo o dinheiro. Mas a realidade é essa. A gente está onde a gente está. A gente tem que manter a energia em cima com o relacionamento. E eu acho que eles vão continuar com a gente, mas a gente não pode dar Nenhum, porque eles são. Eles falaram para mim – eu estava conversando com a Anny e a Camila – que tiveram vários projetos.\n\n A gente gostou de você. Teve alguns que a gente não viu direto com quem estava na frente dos projetos, mas a gente gostou deles. Você sabe como é a abertária, como está na energia. Então, se eles sintem essa sensação... Eles estão atrasando, mas estão dando um milhão por ano. Se eles sintem que a gente é, de alguma forma, mordendo a mão que alimenta, aí que realmente vira a realidade deles que estão querendo cortar.\n\n Então, é muito importante. Tudo que eu começo falando com vocês, depois vocês falando com o resto da equipe, a gente tem que tomar muito cuidado não pintar, a galera não ficar pintando a pria."
+      },
+      {
+        "start_time": 1777383998456,
+        "end_time": 1777384011757,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Esse é o meu pensamento, é sempre assim. Com todas as pessoas que vieram me perguntar, eu falei assim, acho que é melhor esperar o comunicador, eu não tenho como falar nada."
+      },
+      {
+        "start_time": 1777384011757,
+        "end_time": 1777384050493,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu sempre queria essa política, de não falar nada, porque é isso, sempre acho que o porta-voz dessa questão tem que ser você mesma. Também tem... Tem quem não é professor que ainda vai estar trabalhando, que é a Iris. Eu sou a Iris. Eu sou a Lilian. Então, eu vou continuar trabalhando enquanto os professores não estão trabalhando? É complicado, não é? A sugestão que eu dou é a seguinte."
+      },
+      {
+        "start_time": 1777384050886,
+        "end_time": 1777384063254,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Se chegar até quinta-feira e eles não pagarem... Uma pergunta. Quanto a gente tem na associação?"
+      },
+      {
+        "start_time": 1777384063254,
+        "end_time": 1777384068665,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Agora, acho que 38 disponíveis, 38 mil."
+      },
+      {
+        "start_time": 1777384068665,
+        "end_time": 1777384131413,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "38 mil disponíveis. Assim, minha opinião. O Wellington é empresa que antiga. Então, o Elton, pra ser bem sincero, o Elton para, tudo para ali. O Elton é o camarada que é o da manutenção, é o que leva o lanche, é o que fecha tudo, é o que abre tudo, é o que vai... É o Coringa. É o Coringa. O Elton não pode parar. Então, se chegar quinta-feira e não parar, aí eu acho que você deve consultar, fazer uma reunião com as pessoas sobre isso, mas o que eu faria?\n\n Disso. Eu pararia, se ele fosse meu pai, eu diria cobrança. Eu faria os ensaios, só cancelaria as aulas. Eu faria os ensaios, sabe? Todas as bandas, eu assumiria esses ensaios e manteria o Elton, entende? É isso, é isso."
+      },
+      {
+        "start_time": 1777384132100,
+        "end_time": 1777384136034,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O Wellington deve estar na mesma posição, não é? É."
+      },
+      {
+        "start_time": 1777384136034,
+        "end_time": 1777384138002,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Estou vendo a insatisfação dele."
+      },
+      {
+        "start_time": 1777384138002,
+        "end_time": 1777384153739,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Estou vendo que ontem eu vi que está meio cheio de conta para pagar. Então, tipo assim, eu acho que, de repente, assim como a gente apagou os professores auxiliares, um mês, acho que a gente deveria apagar o Wellington."
+      },
+      {
+        "start_time": 1777384153739,
+        "end_time": 1777384240599,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente deveria apagar o Wellington um mês, pelo menos para dar uma segurada nele, fazer ele no sábado eu preciso né e é isso e eu vou eu vou segurando a onda fazendo do jeito que dá e sabe outra pessoa que a gente tem que pagar também raíça o contador e a gente tem que pagar a gente consegue pagar ele na sexta então sexta-feirada a gente tem que fazer os pagamentos na quinta é isso que eu ia tá beleza não então tá na quinta e só tem que avisar o Que sem ele a gente não consegue cadastrar a ata.\n\n Para eu poder fazer pagamentos. Mas ele está ciente do que está acontecendo. Sim, mas ele está meio terceiro. Infelizmente contador tem esse poder. Infelizmente. A decisão a gente paga o Wellington, a gente paga o computador. Beleza. Cara, então, basicamente isso. Aí eu vou falar, se não cair é até quinta-feira, a gente vai fazer a reunião na quinta-feira só. É isso aí."
+      },
+      {
+        "start_time": 1777384240599,
+        "end_time": 1777384247614,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Se perde a sal, depois paga a compra. Como se tivessem acontecido as aulas."
+      },
+      {
+        "start_time": 1777384247614,
+        "end_time": 1777384256406,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim. Isso é coisa. A gente, pelo menos a gente como organização, pode ser generoso na nossa parte. É, você explicava aí."
+      },
+      {
+        "start_time": 1777384256406,
+        "end_time": 1777384270550,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Pessoal, a gente vai suspender as aulas, mas vocês, assim que cair o pagamento, vocês vão receber. Vocês não vão ser prejudicados. Assim que cair o dinheiro, vocês vão receber como se tivessem trabalhado, e é isso."
+      },
+      {
+        "start_time": 1777384270550,
+        "end_time": 1777384292603,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim. Exatamente. E a coisa é assim, se demorar duas semanas isso, seria muito surpresa. Não surpresa, mas já tudo confirmado, é só o financeiro pagar, mas a gente não sabe também, poderia parar no financeiro."
+      },
+      {
+        "start_time": 1777384292603,
+        "end_time": 1777384308354,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Assim como está com a gente, pode ser que esteja também as outras ondas, não sei. Em relação ao pagamento, não sei se é só a Favela Brás."
+      },
+      {
+        "start_time": 1777384308354,
+        "end_time": 1777384309417,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, não."
+      },
+      {
+        "start_time": 1777384309417,
+        "end_time": 1777384320051,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eles falaram que se tivesse uma força de tarefa, dividir os projetos entre Camila e João para oferecer os contratos."
+      },
+      {
+        "start_time": 1777384320051,
+        "end_time": 1777384324836,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Vocês lembram que apresentaram com o pessoal dos pescadores?"
+      },
+      {
+        "start_time": 1777384324836,
+        "end_time": 1777384326963,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "O pessoal da Acam?"
+      },
+      {
+        "start_time": 1777384326963,
+        "end_time": 1777384358778,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Isso. Ele tem esses projetos aprovados né e eu faço parte do Instituto Marais que a gente presta serviço para eles eventualmente tem um projeto que tá desde dezembro também que eles não pagaram nada a suspensa também sim eu não tava recebendo aqui pode pode ser que eles já estão dando pra ele pode ser até que eles estão dando pra gente é o que ferrou pra mim fez porque eu não tô pagando Mas sabe o que aconteceu com eles?\n\n"
+      },
+      {
+        "start_time": 1777384358778,
+        "end_time": 1777384365876,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eles fizeram isso? Eles cagaram nisso? Eu não sei se eles perderam a verba do primeiro trimestre."
+      },
+      {
+        "start_time": 1777384365876,
+        "end_time": 1777384377984,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que tem muito a ver com o Banco Master. Está rolando muita fofoca lá no Instituto Marés que é problema com o Banco Master, de aplicações deles."
+      },
+      {
+        "start_time": 1777384377984,
+        "end_time": 1777384380489,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Banco Master que foi que faliu."
+      },
+      {
+        "start_time": 1777384380489,
+        "end_time": 1777384383830,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Faliu. E que está sendo tudo judiciado, processado."
+      },
+      {
+        "start_time": 1777384383905,
+        "end_time": 1777384390874,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, a gente sabe que, entre a gente, a gente sabe... Entre a gente, muitos fatores, é isso."
+      },
+      {
+        "start_time": 1777384390874,
+        "end_time": 1777384404423,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Acho que é bom a gente calcular e analisar mais para frente também como é que vai ficar essa situação. Mas acho que fazer também uma força-tarefa da gente escrever logo o projeto de 2027."
+      },
+      {
+        "start_time": 1777384404423,
+        "end_time": 1777384497872,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, sim, exatamente. Então, basicamente, já é importante a gente conversar, mas a parte que o que a gente como a gente pode influenciar? Acho que a gente foi até o limite em termos de pressionar eles. A gente pode ser aberto com os que estão trabalhando com a gente. Essa é a nossa ideia, essa é a ideia das coisas de quinta-feira. A gente pode fazer isso. Outra coisa que a gente pode fazer é atacar a questão da captação etc etc e aí a primeira coisa para isso né não tipo eu tô eu tô indo lá no consulado amanhã com isso mas a gente tem que aprovar esse projeto de rua né então será que a gente faz uma força tarefa para mandar o projeto de rua nessas tá com a gente aí então é desculpa Então, se isso realmente acontecer, e na quinta-feira a gente suspender o Instituto, eu preciso de ajuda, porque eu não tenho nem gasolina, você já sabe.\n\n Não, mas o dinheiro... Isso que você está falando. O dinheiro, esse 28 mil está... Eu coloco isso totalmente à disposição de cobrar os custos das pessoas. Por exemplo, se os professores da quinta-feira falam, não, mas a gente pode, mas a gente não tem dinheiro para gasolina, etc., etc., E a gente tá a encher..."
+      },
+      {
+        "start_time": 1777384497872,
+        "end_time": 1777384520058,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É, o que eu tinha pensado assim, que o Uber às vezes é muito caro, mas uma ajuda de custo de 200 reais, 300 reais pra transporte, não sei se ajudaria, porque, por exemplo, o Henri, que eu conversei com o Henri, é que ele mora, você falou que ele tá morando muito longe, tipo, não dá pra pagar o Uber dele porque vai sair 100 reais por dia."
+      },
+      {
+        "start_time": 1777384520058,
+        "end_time": 1777384544177,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí eles fazem notificar pra associar. Isso, com uma ajuda de custo... Quero que ajude com isso, não. Eu converso isso com o Norton, mas acho que é isso. Esse 28 mil é para isso. Agora, essa questão, misturando os assuntos, essa questão de domingo, a gente faz ou a gente não faz?"
+      },
+      {
+        "start_time": 1777384544177,
+        "end_time": 1777384545164,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É válido?"
+      },
+      {
+        "start_time": 1777384545164,
+        "end_time": 1777384548622,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A gente vai gastar 30% de recurso."
+      },
+      {
+        "start_time": 1777384548622,
+        "end_time": 1777384552079,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tem que ver se vale, né, Tom?"
+      },
+      {
+        "start_time": 1777384552448,
+        "end_time": 1777384556450,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque quanto tempo eles levaram para pagar da UTIB?"
+      },
+      {
+        "start_time": 1777384556450,
+        "end_time": 1777384558229,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Muito tempo, dois meses."
+      },
+      {
+        "start_time": 1777384558229,
+        "end_time": 1777384566233,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Está tudo em cima da hora. E essa coisa da UTIB, eu não quero perder energia com isso."
+      },
+      {
+        "start_time": 1777384566233,
+        "end_time": 1777384568456,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Porque a experiência foi legal."
+      },
+      {
+        "start_time": 1777384568456,
+        "end_time": 1777384589812,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Como foi para os alunos? Foi legal. Para os alunos sempre é bom, para as crianças. Mas aí a gente vai gastar dois mil. A questão da UTIB, É o seguinte, eu não sei se falei para você, Raíssa. RPA, eles estão achando que RPA chega com imposto pago."
+      },
+      {
+        "start_time": 1777384589812,
+        "end_time": 1777384594049,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, eles são loucos. A gente paga e eles pagam."
+      },
+      {
+        "start_time": 1777384594049,
+        "end_time": 1777384595743,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eles são muito doidos."
+      },
+      {
+        "start_time": 1777384595743,
+        "end_time": 1777384596591,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É, é."
+      },
+      {
+        "start_time": 1777384596591,
+        "end_time": 1777384730286,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se eu, Tom, recebo, eu tenho que declarar mais R$6.000 no meu imposto de renda no ano que vem, mais R$1.000 do meu imposto de renda. Então, só para a gente colocar no ponto do lápis. A gente, a nota vem com desconto, uma nota que é mais de R$6.000 para R$4.800. Então, essas coisas retiradas da nota. Aí eu recebo R$4.800 líquidos. Só que também vai ter, eu vou pagar 27,5% de imposto no ano que vem.\n\n Que é mais mil reais. Então acaba sendo 3.800 para a gente fazer. Micro-ônibus está mais caro, certo, Raíssa? Então a gente sai com 2 mil reais. É isso. Aí vai ver se vale a pena para a gente fazer para 2 mil reais. Porque você não faz Porque é errado, de qualquer forma, RPA. Eu, Tom Asch, vou receber como Favela Bryce. Não está certo, sabe? A contabilidade não está certa. Fiquei triste com o que você fez no ano passado, Raíssa.\n\n Fiquei refletindo isso. Não está certa a contabilidade. A gente paga a ônibus, mas o nosso problema não é necessariamente de não ter dinheiro. Problema de não ter dinheiro agora né eu não sei por que você escolheu essa modalidade para ele seria tão mais fácil sem feijota a gente não conseguiu entender porque eles querem repelar não faz sentido não exatamente aqui é um instituto né que tá pagando mas aí é essa questão né e a gente tá pedindo para edilene trabalhar a galera trabalhando no vinho quando ninguém tá pago incluindo você eu acho que é um Eu acho que se fosse em outro momento, mas é um momento bem delicado das relações, né?\n\n Mas fala o que vocês acham."
+      },
+      {
+        "start_time": 1777384730286,
+        "end_time": 1777384732770,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, dessa maneira não vale a pena."
+      },
+      {
+        "start_time": 1777384732770,
+        "end_time": 1777384743417,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que não vale a pena e eu acho que é delicado as relações, então eu acho que eu não forçaria barra com ninguém da equipe nesse momento, sabe?"
+      },
+      {
+        "start_time": 1777384743417,
+        "end_time": 1777384751693,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Dessa maneira não vale a pena e ainda tem a questão do pessoal do Amigo da Caceta não vai estar aí, Ah, sim."
+      },
+      {
+        "start_time": 1777384751693,
+        "end_time": 1777384844458,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, tudo bem. Aí a gente... Ele falou, você pode me retornar até meio-dia. Aí eu vou retornar a ele logo depois desse. Eu vou tentar. Eu fui meio rabogento nessa questão. Não rabogento, mas eu estava realmente... Você não pode receber essa RPA porque a informalidade não está do nosso lado, né? A gente está com a LPJ. Mas eu vou, sabe, com a galera do Sinfônica Ambulante, Vou falar mesmo que a gente já adorou da outra vez.\n\n Adoramos que eles iam fazer launch da gente, mas a gente está... Vou explicar que a gente está numa situação difícil de não ter pago as pessoas, e essa coisa fica muito puxada para a gente. O problema é salvar a gente, mas... O problema é que vai ficar... A questão realmente, a gente tem diretores, diretoria aí a gente entra com o novo tênis nova diretoria a gente começa né nova esquema de pagamento a gente começa fazendo meio que besteira nas contas é complicado então beleza então decisão feita vamos eu vou só acompanhar rapidinho é complicado né todo mundo vai ficar trabalhando, vai ficar correndo atrás das comprovações, certo e certo, ninguém paga.\n\n"
+      },
+      {
+        "start_time": 1777384844458,
+        "end_time": 1777384874445,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tom, até me veio na cabeça agora, acho que a gente poderia dar essa respirada de suspender, se não acontecer, suspender as aulas mesmo, ficar só com os ensaios. Mesmo que na outra semana o dinheiro caiu, Vamos dar uma respirada aí por uns 15 dias, sei lá, organizar tudo, pagar, o que é que fazer e voltar. Eu acho arriscado. Eu acho estranho. Desculpe."
+      },
+      {
+        "start_time": 1777384874445,
+        "end_time": 1777384882786,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se cair o dinheiro dessa quinta, eu acho que o Tom tem que comunicar para deixar as pessoas tranquilas e normalizadas."
+      },
+      {
+        "start_time": 1777384882786,
+        "end_time": 1777384886759,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, não, não. É isso que eu estou falando, não."
+      },
+      {
+        "start_time": 1777384886759,
+        "end_time": 1777384891128,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É isso que eu estou falando, não. Pelo amor de Deus."
+      },
+      {
+        "start_time": 1777384891255,
+        "end_time": 1777384924428,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "não entendi errado eu tô falando na na pagamentos de uma vez só, ou mais, quase 100 pagamentos."
+      },
+      {
+        "start_time": 1777384924428,
+        "end_time": 1777384939522,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Vai ser uma semana para isso, gente, essa semana vai ser de pagamento, aí você está falando que diminuiu o ritmo nessa semana que as pessoas estão... Isso, exatamente isso."
+      },
+      {
+        "start_time": 1777384939522,
+        "end_time": 1777384951731,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Acho que agora entendi, Tom. Vamos colocar dessa forma, até a pessoa receber, aí resolve, É isso, entendeu? Vamos dar uma pausa."
+      },
+      {
+        "start_time": 1777384951731,
+        "end_time": 1777384960071,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Pessoal, peraí. A gente vai dar uma pausa até vocês receberem. Pá, entende?"
+      },
+      {
+        "start_time": 1777384960071,
+        "end_time": 1777384989653,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Basicamente, em maio, ninguém trabalha até receber. A gente vai monitorando isso, a gente vai arranhando como se fosse Wesley e Iris. Assim que a cada pessoa cair o pagamento, a gente não vai fazer a cerimônia de pagar durante a semana. Se a gente conseguir pagar na terça-feira, a gente paga na terça-feira."
+      },
+      {
+        "start_time": 1777384989653,
+        "end_time": 1777384990595,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Desculpa, Rolfi."
+      },
+      {
+        "start_time": 1777384990595,
+        "end_time": 1777384998130,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tem que ter muito cuidado porque a gente só pode pagar depois da emissão da nota."
+      },
+      {
+        "start_time": 1777384998130,
+        "end_time": 1777385004159,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente. A pessoa está desativada. A partir de maio, está desativado, só ativado novamente."
+      },
+      {
+        "start_time": 1777385004159,
+        "end_time": 1777385017620,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "O que eu vim ver com a Anjania hoje, até notei aqui, que era para ver se eu consigo pagar para algumas pessoas uma única nota março e abril. Acho que a gente chegou a fazer isso em outros projetos. Lembra?"
+      },
+      {
+        "start_time": 1777385017620,
+        "end_time": 1777385029112,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente acumulou... Sim, sim, vai ser isso. A única nota para a pessoa não ter que lembrar. Pode ser mais rápido o processo. Com certeza, com certeza. Eles fazem essa nota e é isso."
+      },
+      {
+        "start_time": 1777385029120,
+        "end_time": 1777385033208,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Só depois que a gente faz os..."
+      },
+      {
+        "start_time": 1777385033208,
+        "end_time": 1777385043721,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Deixa eu ver a lista de outras coisas. Definição das viagens. Onde a gente está com as viagens?"
+      },
+      {
+        "start_time": 1777385043721,
+        "end_time": 1777385053066,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Até então, a gente tinha cogitado da banda ir para BH e Cassilda ir para Paraty."
+      },
+      {
+        "start_time": 1777385053066,
+        "end_time": 1777385211385,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas o quê? Exatamente, mas a gente tem questão com BH, porque BH está querendo colocar a gente em um ônibus comercial, que para a gente, a gente não aceita. A Edilene falou com a produtora, eu falei com o Bruno, o organizador mesmo, Então, eu estou com duas mensagens para ele que eu expliquei educadamente, que até provavelmente nem tem muito diferença de preço, poderia até ser mais barato, mas que faz mais sentido esse tratamento.\n\n A gente não está com esse retorno. Então, a gente tem que esperar, e o Roberto não entrou em contato comigo. Ele falou que volta de Nova Orleans no domingo e vai falar comigo. Então, a gente está basicamente... Para tomar essa decisão, a gente está aguardando o BH. Eu não vou queimar o nosso filme como... Eu não vou ligar para o Roberto para queimar o nosso filme como para ti, até saber a situação de BH.\n\n Vai que tem problema na BH, e o Roberto consegue o patrocínio. Então, a gente tem que ter um pouquinho de jogo de cintura aí, aí eu vou esperar, mas eu concordo com você, Wesley. Aí, basicamente, BH firmando essa questão, logística tudo certo com BH, a gente firma com BH, quando o Roberto liga, eu falo, Infelizmente, a gente recebeu essa proposta de levar todo mundo para BH, mas a gente tem uns ex-alunos que a gente já estava querendo fazer essa ponte.\n\n Agora que eles têm perfil, eu posso mandar as coisas de imprensa deles, etc. Eles estão chegando lá. Eu acho que é isso. Não dá para definir. A princípio, vai ficar por isso, esperando o BH confirmar 100% antes de desconfirmar com o partido. Beleza. Oficina das Férias. Então, o que acontece?"
+      },
+      {
+        "start_time": 1777385211385,
+        "end_time": 1777385235052,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu estava ontem vendo isso com os alunos da banda preta. O pessoal estava querendo fazer... É tipo fazer uma recuperação, fazer uma oficina nas férias, não parar de fato. Mas é tipo um tensivão, o pessoal mais velho... Você falou de Júlio?"
+      },
+      {
+        "start_time": 1777385235052,
+        "end_time": 1777385237690,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É. Caraca! A galera estava morrendo, hein?"
+      },
+      {
+        "start_time": 1777385237690,
+        "end_time": 1777385291493,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu tenho debatido muito com os alunos da Banda P, tem até uma coisa que eu vou levar para a reunião dos pais, o porquê da cobrança, porque o pessoal está vendo. Eu vou sair, fim do ano, fazer o quê? Eu tô preparado pra fazer uma prova da marinha, do exército, aeronáutica, entende? Então, eu acho que é mais essa questão. Eles tão entendendo que não é somente o tocar, não é somente o improvisar, mas tem também a parte de teoria, tem também toda essa questão que cai na prova.\n\n Tanto é que todas as aulas eu tenho, trago pra ele algumas questões de algumas provas que caíram anteriormente. Ó, questão tal que caiu na passada marinha. O que que é isso? Pá, Eu boto eles pra pensar. Então, eles meio que têm levantado isso e a galera gostaria de estudar algumas coisas durante as férias, não parar de fato."
+      },
+      {
+        "start_time": 1777385291493,
+        "end_time": 1777385295970,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, eles querem fazer muito esse fã de teoria nas férias?"
+      },
+      {
+        "start_time": 1777385295970,
+        "end_time": 1777385298819,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "No todo, né? Música, como no todo."
+      },
+      {
+        "start_time": 1777385298819,
+        "end_time": 1777385311753,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Teoria também, mas assim, a parte de tocar, de... Sim, sim, entendi, mas eles não estão querendo aprimorar a banda, eles estão querendo... A aprendizagem técnica individual deles? A ideia seria essa."
+      },
+      {
+        "start_time": 1777385311753,
+        "end_time": 1777385326806,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu levantei esse questionamento para eles do estudo voltado para as provas. Entende? Da prova de teoria. E a galera meio que se animou. Aí eu falei que eu ia conversar. Mas isso é sua banda preta, basicamente?"
+      },
+      {
+        "start_time": 1777385326806,
+        "end_time": 1777385332352,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Banda preta, banda preta. Mas você toparia fazer? Eu vou estar aqui no Rio."
+      },
+      {
+        "start_time": 1777385332352,
+        "end_time": 1777385336709,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vou estar subindo e descendo, mas vou estar aqui pelo Rio."
+      },
+      {
+        "start_time": 1777385336966,
+        "end_time": 1777385341083,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "esse coração de ouro na Heinze, vai fazer com ele, que legal."
+      },
+      {
+        "start_time": 1777385341083,
+        "end_time": 1777385366803,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu acho que é super válido, porque, assim, até mesmo o pessoal que já saiu, sabe? Eu acho válido estar trazendo essas questões pra eles, pra eles já começarem a analisar, por exemplo, o resultado das provas desse ano já tem disponível, o que caiu esse ano. Não vai ser muito diferente do que vai cair ano que vem. Então é só, galera, vamos lá, vamos buscar isso aqui, Vamos interpretar isso aqui, entende?\n\n"
+      },
+      {
+        "start_time": 1777385366803,
+        "end_time": 1777385374133,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você vai fazer essa aula com eles. De boa. Para mim é questão do lanche, mas a gente..."
+      },
+      {
+        "start_time": 1777385374133,
+        "end_time": 1777385418140,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas aí, no caso, não vai ser duas horas e pouca, vai ser uma hora, uma hora e pouca. Uma coisa que não precisa de lanche, sabe? Só para quem quiser, para quem quiser, eu vou instalar e a gente pode passar conversar, fazer um debate sobre isso, conversar, estudar sobre as provas que passaram. E também a parte musical. Algumas coisas, alguma... Estava mostrando para eles que as provas têm prova oral, a prova escrita e a prova prática.\n\n O que caiu na prova prática do ano passado? Caiu isso aqui, isso aqui, isso aqui, exercício do Arban, Closé, pá, pá, pá. Para eles..."
+      },
+      {
+        "start_time": 1777385418140,
+        "end_time": 1777385511457,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, é isso. Isso serve como orientação. Você fala, olha, durante essa semana a gente vai ver o desafio. Eu vou te ajudar a colocar os primeiros pedaços. Você vai ver o desafio. Quem vai andar o caminho agora no resto do ano é vocês. Perfeito. Outra coisa das férias. A gente tem essa coisa com a galera de Mannheim na segunda-feira. A gente ia até o recado deles. A gente tem o baile no sábado. Eu não vou estar aqui porque tenho que estar na Alemanha para fazer essa coisa que estou fazendo para a galera da Bavária.\n\n Sábado eu não vou estar para o baile. Mas, no baile, a gente vai ter caramuela, provavelmente, E os alemães? O que eu estava falando para os alemães, eles poderiam... São 70. Então, o Galeão vai ficar pequeno. Mas dá. Mas, tipo, o Gávala tem muita gente. E os alemães, eles podem... Eu acho que a gente poderia mandar nossos partitores para eles, para eles juntar. Com os nossos alunos, para fazer uma parte onde os metais toquem com os nossos metais.\n\n"
+      },
+      {
+        "start_time": 1777385511457,
+        "end_time": 1777385517158,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tá. Tudo bem. Vai ficar cheio, né? Vai ficar cheio."
+      },
+      {
+        "start_time": 1777385517158,
+        "end_time": 1777385520008,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vai ficar, só deles vai..."
+      },
+      {
+        "start_time": 1777385520008,
+        "end_time": 1777385525708,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vai ficar bem atentado a mim, vai ficar muito cheio."
+      },
+      {
+        "start_time": 1777385525708,
+        "end_time": 1777385543583,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É o que vocês têm que pensar. É. A gente vai precisar de algum protocolo para superlatação. No caso de muita gente, algum tipo de controle. Essa é a questão."
+      },
+      {
+        "start_time": 1777385543583,
+        "end_time": 1777385549632,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Como é que eu vou botar a pessoa para fora?"
+      },
+      {
+        "start_time": 1777385549632,
+        "end_time": 1777385562992,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não tem como. Não, mas pode pensar num... Eles são 70. Caramuelas são o quê? 30? É... Por aí."
+      },
+      {
+        "start_time": 1777385562992,
+        "end_time": 1777385593367,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Acho que 35, mais ou menos. É muita gente. Se você pensa no último baile, teve espaço no último baile? Só pra você ver, o último baile que o Caramuela foi, e eles tocaram com a gente, lotou. Só da banda deles. O Pablo tocou, na época, lembro. Estava lotado, lotado. Eles ocuparam toda a área de tocar ali, onde a gente teve que tirar a cadeira."
+      },
+      {
+        "start_time": 1777385593367,
+        "end_time": 1777385597661,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "A questão é que o galinhão ficou pequeno para o caramuelo."
+      },
+      {
+        "start_time": 1777385597661,
+        "end_time": 1777385603906,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Isso. O baile do caramuelo superlotou. Mas é uma possibilidade de a gente mudar de lugar?"
+      },
+      {
+        "start_time": 1777385603906,
+        "end_time": 1777385606248,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, não? Então, eis a questão."
+      },
+      {
+        "start_time": 1777385606248,
+        "end_time": 1777385613623,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só que o caramuelo lotou, lembro disso. Aí vai vir um caramuelo mais setenta, abuso da Alemanha."
+      },
+      {
+        "start_time": 1777385613623,
+        "end_time": 1777385624020,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ou a gente repensa sobre a galera de Alemanha, ou a gente... Vai ter que mudar de lugar."
+      },
+      {
+        "start_time": 1777385624020,
+        "end_time": 1777385634994,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tom, a casa da La Bohème está vazia, não é? Talvez. Seria uma profissão eventual com os alemães separados."
+      },
+      {
+        "start_time": 1777385634994,
+        "end_time": 1777385642051,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Está vazia? A gente fez no ABCD, por exemplo. Fez eventos para o ABCD."
+      },
+      {
+        "start_time": 1777385642051,
+        "end_time": 1777385645012,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí o problema é que o baile nesse..."
+      },
+      {
+        "start_time": 1777385645012,
+        "end_time": 1777385646493,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "O Favelinha, no Favelinha."
+      },
+      {
+        "start_time": 1777385646493,
+        "end_time": 1777385654266,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ou a gente adianta o baile, coloca o baile em outra data e faz alguma coisa só com os alemães nesse..."
+      },
+      {
+        "start_time": 1777385654266,
+        "end_time": 1777385661298,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "A gente vai dividir o evento, porque acho que aí vai ficar até meio confuso, vai ficar muito longo."
+      },
+      {
+        "start_time": 1777385661298,
+        "end_time": 1777385667121,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Os alemães chegaram na sexta, não é isso? Eles ficam até domingo?"
+      },
+      {
+        "start_time": 1777385667121,
+        "end_time": 1777385685743,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eles ficam, eles estão domingo. Fazemos alguma coisa no domingo com eles. Numa praça, né? Ah, tem, ó. Tem uma pizzaria. Tem uma pizzaria? Tem uma pizzaria. Ah, gente, vocês estão sabendo que tá tendo muito assalto?"
+      },
+      {
+        "start_time": 1777385685743,
+        "end_time": 1777385693796,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Quase 15 por dia em Santa Tereza. Sério? É. É muito perigoso. Tendo assalto a mão."
+      },
+      {
+        "start_time": 1777385693805,
+        "end_time": 1777385698486,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Teve uma aluna nossa que foi assaltada. Ah, meu Deus!"
+      },
+      {
+        "start_time": 1777385698486,
+        "end_time": 1777385702700,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Assaltaram todo mundo do Curvelo essa noite, na sexta-feira."
+      },
+      {
+        "start_time": 1777385702700,
+        "end_time": 1777385708786,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Assaltaram a Sara, a percussionista da banda roxa. Ela é a mãe dela."
+      },
+      {
+        "start_time": 1777385708786,
+        "end_time": 1777385716276,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Está tendo briga entre associações depois do assassinato do dono dos Prazeres. Está insuportável, Santa Teresa."
+      },
+      {
+        "start_time": 1777385716276,
+        "end_time": 1777385720021,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ih, meu Deus! Perderam o controle, o equilíbrio."
+      },
+      {
+        "start_time": 1777385720021,
+        "end_time": 1777385721425,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Está sem controle."
+      },
+      {
+        "start_time": 1777385721425,
+        "end_time": 1777385722980,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, merda! Entendeu?"
+      },
+      {
+        "start_time": 1777385722980,
+        "end_time": 1777385729836,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É bom você falar com o Ivo. Esqueci o nome dele, do alemão lá da Zola. O velho."
+      },
+      {
+        "start_time": 1777385729836,
+        "end_time": 1777385733264,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas é Simon que está no dia a dia."
+      },
+      {
+        "start_time": 1777385733264,
+        "end_time": 1777385739739,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Perguntar como é que foi, porque eu soube que assaltaram um bar no Curvelo com mão armada."
+      },
+      {
+        "start_time": 1777385739739,
+        "end_time": 1777385741644,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não sei se foi lá."
+      },
+      {
+        "start_time": 1777385741644,
+        "end_time": 1777385780473,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Foi um chapa, está até com a perna machucada, porque uma moto atropelou ele na calçada. Tá nesse nível assim de violência bem bizarro aí a gente tem que pensar na noite que a gente for tocar eu fiquei preocupada e aí o que é incontrolável a situação e assaltar o bar do gomes tão passando tão fazendo arrastão né de moto e roubando Mas o que a gente faria com os alemães?"
+      },
+      {
+        "start_time": 1777385780473,
+        "end_time": 1777385790873,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente poderia fazer aquele com fractivinação, como a gente fez no ABCD, com os outros alemães. Isso deria certo."
+      },
+      {
+        "start_time": 1777385790873,
+        "end_time": 1777385792953,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eles pagariam um churrasco."
+      },
+      {
+        "start_time": 1777385792953,
+        "end_time": 1777385793993,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pode ser."
+      },
+      {
+        "start_time": 1777385793993,
+        "end_time": 1777385802313,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ou a gente faz um futebol mesmo com eles. Ou um piquenique na terra do Flamengo."
+      },
+      {
+        "start_time": 1777385803510,
+        "end_time": 1777385804021,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É..."
+      },
+      {
+        "start_time": 1777385804021,
+        "end_time": 1777385814233,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu acho que a gente poderia... Acho que o domingo, lá na pizzaria, seria uma boa. Só a banda preta."
+      },
+      {
+        "start_time": 1777385814233,
+        "end_time": 1777385828019,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É porque a gente... Ou até... É... Até experimentar fazer alguma coisa no Coreto. Donde a gente tem. Fazer alguma coisa do nosso... Da nossa coisa lá."
+      },
+      {
+        "start_time": 1777385828019,
+        "end_time": 1777385828529,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É..."
+      },
+      {
+        "start_time": 1777385828529,
+        "end_time": 1777385829551,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pode ser."
+      },
+      {
+        "start_time": 1777385829551,
+        "end_time": 1777385830572,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pode ser."
+      },
+      {
+        "start_time": 1777385830572,
+        "end_time": 1777385843187,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu me desculpo alguma coisa lá com os alemães, ver se a gente vende isso para os... Para o Simon, o Vey. Fazer..."
+      },
+      {
+        "start_time": 1777385843187,
+        "end_time": 1777385849164,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tem tanto ali quanto a parte de cima da pizzaria, né?"
+      },
+      {
+        "start_time": 1777385849164,
+        "end_time": 1777385849707,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1777385849707,
+        "end_time": 1777385854597,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Para comportar 70 pessoas dele, mais a banda preta..."
+      },
+      {
+        "start_time": 1777385854597,
+        "end_time": 1777385904640,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É mais público, porque a gente poderia fazer um eventozinho lá no Coreto. Ventozinho lá no coreto e... A gente leva a banda preta e a gente fica... Porque o coreto é confortável, né? É agradável para a banda. Fazer aquela coisa de tocar juntos no coreto. Aquela coisa, né? Mas o vibe que você está pensando para a terra é isso. Só que a gente tem mais cobertor de... Menos logística, né? E mais sala para guardar.\n\n As coisas poderiam ser legais. A gente ia organizar um encontro no domingo. Legal. A gente tinha falado que estava quase para cair, por isso não tinha pensado."
+      },
+      {
+        "start_time": 1777385904640,
+        "end_time": 1777385907083,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Mas não é tão grave."
+      },
+      {
+        "start_time": 1777385907083,
+        "end_time": 1777385945423,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Para mim, não parece que está prestes a cair. O Wesley estava falando que tem os sinais de que isso é manutenção lá para frente. Pode dar ruim, mas eu não acho que apresente um risco iminente. Vamos pensar nisso, então. Rouanet 2027. Vamos organizar para fazer algum passo para Rouanet essa semana, Raíssa, entre a gente, só para botar o que a gente precisa. Você não tem salíquia ainda, né?"
+      },
+      {
+        "start_time": 1777385946340,
+        "end_time": 1777385957221,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Mas assim, eu acho que tem algumas coisas digitais que a gente perdeu prazo no passado, que foi a da Vale, que a gente não conseguiu escrever."
+      },
+      {
+        "start_time": 1777385957221,
+        "end_time": 1777385960042,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, o que a gente conseguia adiantar?"
+      },
+      {
+        "start_time": 1777385960042,
+        "end_time": 1777385979250,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que são as metas, as metas e objetivos, porque o resto é escrito, é você fazer o briefing só das metas e objetivos, de escola, de número de aulas, esses números. E aí o resto eu posso ir tocando, que são as documentações."
+      },
+      {
+        "start_time": 1777385979250,
+        "end_time": 1777385979684,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1777385979684,
+        "end_time": 1777385986622,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu tenho que fazer a clipagem. Eu já até fiz, né? A clipagem resumida de 2025."
+      },
+      {
+        "start_time": 1777385986622,
+        "end_time": 1777386040023,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Acho que já tá até pronta pra prestação. Eu fiz uma clipagem. Será que tá no portal? Agora eu tô fazendo a clipagem automática pelo cloud. Aí depois pega comigo. Mas, de qualquer forma, é incrível. Eu falei, Cláudio, pega todos esses clipes sobre a gente, tira screenshot, faça um clipe que ele fez e dá para renovar. Mas, tem os textos, o escopo e o orçamento, basicamente. A gente monta você monta um documento com os textos.\n\n E aquela coisa, o orçamento, realmente agora tem a coisa, né? O orçamento, a gente não quer..."
+      },
+      {
+        "start_time": 1777386040023,
+        "end_time": 1777386087363,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Isso que eu tava falando assim, talvez uma estratégia é pensar num projeto de 2027 no valor de um milhão e pouco, quando os 10% a gente consegue, que é uma meta que a gente com a pessoa física. Outra ideia que surgiu... Porque a gente migrou dinheiro para associação, mas esse dinheiro a gente poderia ter migrado para o projeto desse ano. No final do ano, a gente migrou dinheiro para associação, mas tudo bem, não era muito dinheiro, não resolveria.\n\n Mas fiquei pensando, se a gente não migra, porque a gente só migrou R$100, deixei R$98. Se a gente não... Ele sabe..."
+      },
+      {
+        "start_time": 1777386087363,
+        "end_time": 1777386088657,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "De acordo..."
+      },
+      {
+        "start_time": 1777386088657,
+        "end_time": 1777386109275,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente isso. Vou conversar com eles, porque a gente... Exatamente. Assim, a gente tem que ver com o Jânico, mas, a princípio... Vamos colocar isso só para a gente ver. Esse 100%?"
+      },
+      {
+        "start_time": 1777386109275,
+        "end_time": 1777386117429,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que combinar essas duas coisas pra gente poder entrar no ano de trabalho."
+      },
+      {
+        "start_time": 1777386117429,
+        "end_time": 1777386265808,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente, entender 100% com o Jani, sobrepassar, aí a gente tem essa questão do custo de admin, que ela sempre dá uma resposta diferente cada vez que você pergunta, mas ou entender 100% com jane sobrepassar o dinheiro para a Rua Ney 227 para ativar. Porque se bobear, se bobear, isso já é mais 50 mil reais. Eu acho um pouco arriscado diminuir muito a nossa o valor captado porque a gente realmente poderia ter monta um prédio que me colocar que é mais valente que seja mais viável para gente a gente poderia eu acho que a gente pode pensar em não aumentar muito ver se a gente consegue mais da faixa de dois milhões por exemplo mas é pesado de um milhão e meio para gente conseguir alcançar o teto com doação de É, mas a gente também tem que pensar, a gente tem que dar a oportunidade...\n\n Vamos botar no pôr-do-lápis o Orçamento, mas a gente vai trabalhar com isso em mente, porque agora não é mero... A gente tem uma questão de colocar valor muito cheio para a captação, porque ainda a gente poderia... A gente poderia conseguir outras empresas e se arrepender de não ficar limitado na quantidade de capital. Mas, também, com um milhão e meio, a gente já está feliz. Mas também isso é coisa que entra na questão da diretoria, essa coisa estratégica que está com o conselho, envolve o conselho tesoureiro também.\n\n Mas a gente, eu acho, que essas duas coisas juntas já ajudam, e a gente entende essa situação 100% com a Jane. Então você, em termos de... Você prepara o orçamento e textos provisórios num doc raiz, aí eu vou lá revisar, pode ser isso? Pode."
+      },
+      {
+        "start_time": 1777386265808,
+        "end_time": 1777386278941,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que é só uma dúvida que eu tenho, mantém a mesma progressão de número, no sentido de metas."
+      },
+      {
+        "start_time": 1777386278941,
+        "end_time": 1777386371319,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E aí qualquer coisa se ajusta. A gente poderia ir alinhando e depois a gente bate uma tela na nossa reunião na semana que vem. Sobre exatamente as metas, a gente vai alinhando, mas não vai ser muito diferente, não. Acrescentar machado de assis durante a semana, mas muito, sei lá, não vejo muita coisa grande estrutural. Na raiz, se você agora tem os dados de conta, a gente está pagando todo mês, próximos etc etc aí se preparar o orçamento e textos principais né e é realmente diretoria o conselho está envolvido nisso porque a gente tem tudo mas a gente é ocimento Quinta-feira, só rapidinho, quinta-feira é essa gravação.\n\n A gente está com alunos voltando, né? A gente está sem Rian, sem Bárbaro para quinta-feira, porque eles vão para Porto Alegre, certo? Sim. Sem Vini também. Vini também."
+      },
+      {
+        "start_time": 1777386371319,
+        "end_time": 1777386373263,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eles confirmaram isso, né?"
+      },
+      {
+        "start_time": 1777386373263,
+        "end_time": 1777386383999,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, acho que nem vale a pena a gente fazer essa gravação na quinta-feira. O nosso showreel, sabe?"
+      },
+      {
+        "start_time": 1777386383999,
+        "end_time": 1777386405000,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu peguei umas coisinhas com o Instituto Marais, porque eles fizeram o Frila Corizontal, e está comigo uma GoPro. Vou pegar quarta-feira um drone, que vou aprender a usar. Sempre que você quiser usar no Favela Brás, você pode usar. Vou tentar aprender até a viagem, se tiver partido."
+      },
+      {
+        "start_time": 1777386405000,
+        "end_time": 1777386417554,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Outra coisa que a gente poderia fazer, que também não era ideia, porque a gente tem bateria atrás. O ideal seria a gente conseguir teatro primo num dia, né?"
+      },
+      {
+        "start_time": 1777386417554,
+        "end_time": 1777386427415,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Foi isso que você falou, e eu tava pensando muito nisso, porque a GoPro que a gente tem é uma grande angular, né?"
+      },
+      {
+        "start_time": 1777386427415,
+        "end_time": 1777386432560,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Testei ela ontem, assim, ela filma em 5K. Aí você não brinca."
+      },
+      {
+        "start_time": 1777386432560,
+        "end_time": 1777386435132,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "O som não é muito bom."
+      },
+      {
+        "start_time": 1777386435132,
+        "end_time": 1777386438990,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, mas o som a gente vai fazer externo."
+      },
+      {
+        "start_time": 1777386438999,
+        "end_time": 1777386440042,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então, beleza."
+      },
+      {
+        "start_time": 1777386440042,
+        "end_time": 1777386458830,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas fica essa ideia, que eu até posso falar com você. Esse cara, Renato, é gerente do teatro ou é produtor que está movimentando esse projeto e está alugando o teatro? Você sabe, Wesley? Não sei."
+      },
+      {
+        "start_time": 1777386458830,
+        "end_time": 1777386461438,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tudo bem, eu vou começar."
+      },
+      {
+        "start_time": 1777386461438,
+        "end_time": 1777386464570,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se deixar, eu posso ir lá."
+      },
+      {
+        "start_time": 1777386464570,
+        "end_time": 1777386477913,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu vou lá. É porque... Eu vou entender esse copo aí, porque, se a gente consegue isso... É o melhor lugar para a gente fazer, não é?"
+      },
+      {
+        "start_time": 1777386477913,
+        "end_time": 1777386478868,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Acústica, tudo."
+      },
+      {
+        "start_time": 1777386478868,
+        "end_time": 1777386502492,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Acústica, luzes... Você falou... Eu sei que o Zoom não está muito bom, mas posso usar o Zoom da Escola de Cinema, que eles deixam usar o equipamento de lá. Estou vendo se a gente pode... E lá eles tem um Shure, um microfone Shure bom, que não é unidirecional, é unidirecional."
+      },
+      {
+        "start_time": 1777386502492,
+        "end_time": 1777386514916,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, eu tô vendo também com a Inglaterra, se a gente conseguir comprar um Zoom bem legal, eu tô vendo aí. Beleza, e o Click Science, a gente tem um minuto."
+      },
+      {
+        "start_time": 1777386514916,
+        "end_time": 1777386536167,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ah, não, foi confusão deles, porque eu tinha pedido pra eles segurarem os boletos até a conta liberar, só que eles me mandaram Eles me mandaram dois boletos no mesmo e-mail. Eu só paguei um. Aí eu falei que tinha tudo para eles juntarem. Eu jurava que eu estava pagando os dois meses."
+      },
+      {
+        "start_time": 1777386536167,
+        "end_time": 1777386541274,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas já liberou. Já liberou o acesso. Já liberou. Então, consegue pegar os..."
+      },
+      {
+        "start_time": 1777386541274,
+        "end_time": 1777386542453,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Consegue pegar os..."
+      },
+      {
+        "start_time": 1777386542453,
+        "end_time": 1777386542846,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Os..."
+      },
+      {
+        "start_time": 1777386542846,
+        "end_time": 1777386550310,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O que? E consegue pegar as assinaturas para a minha posse. Que é... Não, eu já resolvi com eles."
+      },
+      {
+        "start_time": 1777386550310,
+        "end_time": 1777386555940,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu vou pagar com eles. Que eu vou pagar eles a sua assistência."
+      },
+      {
+        "start_time": 1777386555940,
+        "end_time": 1777386606704,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então eu eu convoco essa reunião com os professores da quinta-feira à tarde. Então tarefas, Raíssa entender 100% com o Jani sobre passar dinheiro para a RUA-NEI 2027 para ativar. De repente, se você digita alguma coisa no grupo, aí a gente vê por escrito. Raíssa, preparar orçamento e textos principais para a RUA-NEI do ano de 2026, então revisar e então marcar reunião com professores. É com professores ou com a equipe inteira?\n\n Com a equipe inteira. Mas aí a questão é que a equipe vai continuar trabalhando, mas então marcar reunião com a equipe inteira."
+      },
+      {
+        "start_time": 1777386606704,
+        "end_time": 1777386620093,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ou então faz separado Então, faz só os professores que vão ser... Os professores vão ser de um jeito, então faz com os professores. E depois faz com a equipe."
+      },
+      {
+        "start_time": 1777386620093,
+        "end_time": 1777386625576,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A equipe é o casa-paz, então faz só com os professores, não é?"
+      },
+      {
+        "start_time": 1777386625576,
+        "end_time": 1777386625998,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1777386625998,
+        "end_time": 1777386629371,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Os professores todos estão no mesmo balaio, então..."
+      },
+      {
+        "start_time": 1777386629371,
+        "end_time": 1777386630215,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É verdade."
+      },
+      {
+        "start_time": 1777386630215,
+        "end_time": 1777386640490,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Pode ser decisões diferentes, não é? Não sei se tem aquela coisa do ágito de custos, Ok, já tá bom."
+      },
+      {
+        "start_time": 1777386640490,
+        "end_time": 1777386645999,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Avaliação da reunião, Raíssa? Desculpe, faltou só uma coisinha."
+      },
+      {
+        "start_time": 1777386645999,
+        "end_time": 1777386660689,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tem algum outro pagamento pendente para essa semana? Alguma coisa além do contador, Wellington, que vocês me passaram? Tem alguma outra coisa de urgência?"
+      },
+      {
+        "start_time": 1777386660689,
+        "end_time": 1777386663749,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O João, pagar o João?"
+      },
+      {
+        "start_time": 1777386663749,
+        "end_time": 1777386668034,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, o João a gente já pagou."
+      },
+      {
+        "start_time": 1777386668042,
+        "end_time": 1777386730438,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "é só essa questão se se realmente for suspender e eu vou precisar do suporte os ajustes de custos com certeza a melhor dois dias verão a raíça seu seu avaliação só adição eu acho que a gente conversou que a gente deve conversar muito obrigado gente não vai ter um evento domingo domingo eu vou ter vou dar resposta para ele tá que eu vou falar aqui, então ela colocou no grupo que vai ter, mas não vai ter.\n\n Sim, a gente não confirmou 100%, mas..."
+      },
+      {
+        "start_time": 1777386730438,
+        "end_time": 1777386735275,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela falou que não vai ter pra colocar no grupo lá que foi cancelado."
+      },
+      {
+        "start_time": 1777386735275,
+        "end_time": 1777386737348,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Perfeito, ok. Valeu. Obrigado, gente. Tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Raíssa Celina da Costa Sousa"
+      },
+      {
+        "name": "Wesley Araujo"
+      },
+      {
+        "name": "Tom Ashe"
+      }
+    ]
+  },
+  "platform_meeting_id": "kvi-hiio-tqq",
+  "platform": "meet"
+}

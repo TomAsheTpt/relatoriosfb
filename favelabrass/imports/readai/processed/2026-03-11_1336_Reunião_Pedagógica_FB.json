@@ -1,0 +1,2303 @@
+{
+  "session_id": "01KKEDF13ESDR0K3BB8Q0RYAT6",
+  "trigger": "meeting_end",
+  "title": "Reunião Pedagógica FB",
+  "start_time": "2026-03-11T09:30:49-03:00",
+  "end_time": "2026-03-11T10:33:38-03:00",
+  "participants": [
+    {
+      "name": "Iris Nascimento",
+      "first_name": "Iris",
+      "last_name": "Nascimento",
+      "email": "secretaria@favelabrass.org"
+    },
+    {
+      "name": "Lilian Diniz",
+      "first_name": "Lilian",
+      "last_name": "Diniz",
+      "email": "lilidiniz76@hotmail.com"
+    },
+    {
+      "name": "tom@favelabrass.org",
+      "first_name": "tom@favelabrass.org",
+      "last_name": null,
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Wesley Araujo",
+      "first_name": "Wesley",
+      "last_name": "Araujo",
+      "email": "wesley@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Iris Nascimento",
+    "first_name": "Iris",
+    "last_name": "Nascimento",
+    "email": "secretaria@favelabrass.org"
+  },
+  "summary": "A reunião tratou da programação, logística e comunicação operacional do projeto musical Favela Brás, incluindo confirmações de viagens e apresentações e ajustes de hospedagem. Foram confirmadas apresentações em Paraty e Belo Horizonte, a atuação na Pizzaria Zola em dia 20 com início às 6h30 e necessidade de definir vagas e divulgação; Wesley preparou texto para divulgar os ensaios finais aos sábados e informou a contratação da professora Karina para aulas de teoria a partir de abril, com horários entre 8h30–9h30 e 10h–11h.\n\nA equipe debateu o calendário do baile Bale Brás (dia 18) e o impacto nas aulas, avaliando suspender a aula do dia para evitar sobrecarga de deslocamento de famílias. Foram tratadas transferências e novas matrículas, confirmação de formulários, a mudança da aluna Lúcia para sábado e repasses de contatos para visitas ao local. Surgiram conflitos entre responsáveis por mal-entendidos sobre divisão de turmas e finanças; a percepção pública sobre receitas não inclui despesas com viagens, manutenção e pagamento de professores, e foi marcada reunião conduzida por Tom para esclarecimentos. Houve ainda debate sobre comportamento de uma familiar (Diana), orientação para limitar respostas fora do combinado, verificação de acompanhamento no Capsi, devolução de instrumento em caso de desligamento, distribuição de uniformes por banda e atenção ao custo e segurança do transporte das famílias.",
+  "action_items": [
+    {
+      "text": "Wesley Araujo: Entrar em contato com Iris sobre a vaga e os alunos que vão direto para organizar a viagem"
+    },
+    {
+      "text": "Iris Nascimento: Não divulgar as viagens ainda e aguardar instrução para publicar apenas a apresentação do dia 20"
+    },
+    {
+      "text": "Wesley Araujo: Elaborar e postar no grupo o texto de divulgação sobre os ensaios de sábado e a recepção de pizza"
+    },
+    {
+      "text": "Wesley Araujo: Conversar com Tom sobre participação das bandas iniciantes no baile e definição de aulas nesse dia"
+    },
+    {
+      "text": "Wesley Araujo: Confirmar com Rafaela a decisão sobre aulas no dia do baile e alinhamento com Tom"
+    },
+    {
+      "text": "Lilian Diniz: Enviar mensagem hoje para os responsáveis que ainda não preencheram o formulário dos novos alunos"
+    },
+    {
+      "text": "Iris Nascimento: Repassar os contatos das entrevistas para Lilian conforme combinado"
+    },
+    {
+      "text": "Wesley Araujo: Informar no grupo a divisão da Banda Preta e quem vai para Paraty e Belo Horizonte"
+    },
+    {
+      "text": "Tom: Conduzir a reunião solicitada pelos responsáveis para esclarecer acusações e questões financeiras"
+    },
+    {
+      "text": "Wesley Araujo: Enviar mensagem para Tom solicitando reunião de dez minutos para tratar da transição e dos dados relevantes"
+    },
+    {
+      "text": "Wesley Araujo: Copiar o calendário e enviá‑lo para o grupo de professores"
+    },
+    {
+      "text": "Iris Nascimento: Preparar e compartilhar versão do calendário com as informações que os professores precisam (baile e fim das aulas)"
+    },
+    {
+      "text": "Wesley Araujo: Conversar com Tom para deixar claro os dados e argumentos sobre falta de alunos na Pereira antes de comunicar famílias"
+    },
+    {
+      "text": "Lilian Diniz: Verificar com famílias da Coroa condições de transporte e sinalizar às responsáveis sobre possível mudança de unidade a partir de agosto"
+    },
+    {
+      "text": "Wesley Araujo: Conversar com Tom sobre a questão logística e de deslocamento dos alunos"
+    },
+    {
+      "text": "Lilian Diniz: Tentar contatar a Maria do Capsi e confirmar se há acompanhamento do aluno citado"
+    },
+    {
+      "text": "Wesley Araujo: Enviar mensagem para Paulo e tentar agendar a reunião para amanhã de manhã"
+    },
+    {
+      "text": "Wesley Araujo: Distribuir as camisas roxas trazidas e garantir que cada aluno tenha uma camisa para apresentação"
+    },
+    {
+      "text": "Lilian Diniz: Solicitar a devolução do instrumento e encaminhar o documento de desligamento para assinatura"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "A viagem para Paraty já está confirmada?"
+    },
+    {
+      "text": "Qual é a data do Bale Brás?"
+    },
+    {
+      "text": "A Lúcia será transferida para sábado?"
+    },
+    {
+      "text": "O que você acha de eu esperar você estar lá com o Tom? Sei lá, é seguro?"
+    },
+    {
+      "text": "Nós já temos a data das feiras de escola?"
+    },
+    {
+      "text": "Você tem o contato com o pessoal de lá?"
+    },
+    {
+      "text": "A mãe dela vai entregar o instrumento quando?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "A viagem para Paraty foi confirmada e ainda depende de ajuste de hospedagem e alocação de vagas."
+    },
+    {
+      "text": "O evento na Pizzaria Zola ocorrerá no dia 20 com início às 6h30 e exige definição de vagas e texto de divulgação para os ensaios finais."
+    },
+    {
+      "text": "Foi contratada uma professora de teoria, Karina, com início previsto em abril e horários definidos pela manhã."
+    },
+    {
+      "text": "O Bale Brás foi incluído no calendário para o dia 18 e a equipe discutiu impactos sobre aulas e presença dos alunos."
+    },
+    {
+      "text": "Há pendências de novos alunos que não preencheram formulários e necessidade de articular visitas ao local de aula."
+    },
+    {
+      "text": "Existem conflitos com responsáveis e rumores no grupo que motivaram a marcação de uma reunião conduzida pelo Tom para esclarecimentos."
+    },
+    {
+      "text": "Responsáveis entenderam que o projeto não poderia dar apoio logístico e isso gerou atrito com famílias."
+    },
+    {
+      "text": "Wesley afirmou que a decisão atual sobre alocação é a melhor opção disponível e não pode ser alterada no momento."
+    },
+    {
+      "text": "Problemas prévios com grupos de pais e menção de possíveis processos já existiam quando Wesley entrou no projeto."
+    },
+    {
+      "text": "Houve mal-entendidos sobre receitas do projeto porque responsáveis veem apenas o valor recebido e não as despesas."
+    },
+    {
+      "text": "Wesley está preocupado com contratação de professores e com a comunicação desse cenário aos novos contratados."
+    },
+    {
+      "text": "Há risco de confusão ao iniciar alunos em Pereira e depois transferi-los para Zola no meio do semestre."
+    },
+    {
+      "text": "A transição de diretoria e a presença do novo presidente (Hoffman) podem exigir reuniões e alinhamento de comunicação institucional."
+    },
+    {
+      "text": "É necessário esclarecer calendário escolar e datas de apresentações (6–11 de julho, recesso até dia 20) para professores e responsáveis."
+    },
+    {
+      "text": "Wesley pretende conversar com Tom e registrar dados e argumentos para lidar com a transição."
+    },
+    {
+      "text": "O custo e a segurança do transporte para famílias da Coroa são barreiras potenciais à permanência dos alunos."
+    },
+    {
+      "text": "Foi identificado que familiares podem arcar com custos de transporte extras, o que pode inviabilizar a permanência de alguns alunos no curso."
+    },
+    {
+      "text": "A principal preocupação é a logística e deslocamento dos alunos caso o curso mude de local ou aumente frequência, e Wesley ficará responsável por falar com Tom sobre isso."
+    },
+    {
+      "text": "A equipe concordou em aplicar uma tática de não responder a mensagens fora do combinado com a aluna Diana e esperar para avaliar o comportamento no próximo sábado."
+    },
+    {
+      "text": "Lilian e Wesley vão tentar contato com o Capsi e com a pessoa chamada Maria para verificar acompanhamento e histórico do aluno citado."
+    },
+    {
+      "text": "A distribuição de camisas e uniformes foi organizada por banda; a Banda Roxa ainda precisa receber camisas."
+    },
+    {
+      "text": "Há necessidade de devolução do instrumento por parte de um aluno em processo de desligamento e de formalizar documento de desligamento para assinatura."
+    },
+    {
+      "text": "Foi confirmado que as aulas começarão em Pereira Passos na sexta-feira e que haverá divulgação ativa para preencher vagas remanescentes."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KKEDF13ESDR0K3BB8Q0RYAT6",
+  "chapter_summaries": [
+    {
+      "title": "Abertura e cumprimentos",
+      "description": "Pequeno diálogo inicial com saudações e comentários informais entre Lilian e Wesley antes do início dos assuntos administrativos. O trecho contém trocas de comentários pessoais e confirmação de presença de participantes.",
+      "topics": []
+    },
+    {
+      "title": "Viagens e logística para Paraty e Belo Horizonte",
+      "description": "Wesley confirmou a viagem para Paraty e mencionou que Belo Horizonte também está certo, mas que a hospedagem e divisão de lugares precisam de ajustes; foi citado número de alunos e preocupações com capacidade. Também foi discutida a organização de um bloco para a apresentação na pizzaria Azola e a necessidade de definir vagas e divulgar no grupo correto.",
+      "topics": [
+        "A viagem para Paraty foi confirmada e ainda depende de ajuste de hospedagem e alocação de vagas."
+      ]
+    },
+    {
+      "title": "Evento na Pizzaria Zola e divulgação dos ensaios",
+      "description": "Foi informado que o evento na Pizzaria Zola começará às 6h30 no dia 20 e sugerida a criação de um texto para divulgar que, aos sábados, haverá um ensaio geral com recepção de pizza ao final. A equipe debateu o que divulgar e quando publicar nos grupos.",
+      "topics": [
+        "O evento na Pizzaria Zola ocorrerá no dia 20 com início às 6h30 e exige definição de vagas e texto de divulgação para os ensaios finais."
+      ]
+    },
+    {
+      "title": "Aulas de teoria e programação de professores",
+      "description": "Wesley anunciou a contratação da professora Karina para aulas de teoria com início em abril e horários definidos das 8h30–9h30 e 10h–11h; a informação foi considerada para divulgação nos grupos da Banda Amarela e Grupo Semente. Foi também mencionada a abertura de outras aulas e ajustes de horário na comunidade.",
+      "topics": [
+        "Foi contratada uma professora de teoria, Karina, com início previsto em abril e horários definidos pela manhã."
+      ]
+    },
+    {
+      "title": "Bale Brás e conflito com calendário de aulas",
+      "description": "A data do Bale Brás foi confirmada para dia 18 e a equipe discutiu o impacto do baile nas faltas e na necessidade de ajustar aulas, com proposta inicial de cancelar a aula para evitar sobrecarga de pais e alunos e debate com Tom sobre participação das bandas iniciantes.",
+      "topics": [
+        "O Bale Brás foi incluído no calendário para o dia 18 e a equipe discutiu impactos sobre aulas e presença dos alunos."
+      ]
+    },
+    {
+      "title": "Novos alunos, formulários e transferências",
+      "description": "A pauta abordou o início das aulas para novos alunos, pendências de formulários que Lilian se comprometeu a cobrar, e a sugestão de articular visitas ao espaço de aula com apoio de Wellington e Lívia; foi mencionada a transferência da Lúcia para o sábado.",
+      "topics": [
+        "Há pendências de novos alunos que não preencheram formulários e necessidade de articular visitas ao local de aula."
+      ]
+    },
+    {
+      "title": "Conflitos com responsáveis, rumores e reunião do Tom",
+      "description": "Houve discussão extensa sobre reclamações de responsáveis, acusações de favorecimento financeiro e divulgação de informações pessoais no grupo, com menção de que Carol e a mãe de um aluno estão cobrando reuniões; Tom ficou responsável por convocar e conduzir uma reunião para esclarecer as questões.",
+      "topics": [
+        "Existem conflitos com responsáveis e rumores no grupo que motivaram a marcação de uma reunião conduzida pelo Tom para esclarecimentos."
+      ]
+    },
+    {
+      "title": "Reclamação e esclarecimento sobre comunicação com responsáveis",
+      "description": "Wesley relata desapontamento porque a mensagem passada à família foi diferente do que ele havia explicado, e descreve o diálogo com a responsável que alegou não ter suporte para levar a filha ao projeto. A conversa inclui frustrações sobre a interpretação das palavras usadas e a repercussão emocional entre os envolvidos.",
+      "topics": [
+        "Responsáveis entenderam que o projeto não poderia dar apoio logístico e isso gerou atrito com famílias.",
+        "Wesley afirmou que a decisão atual sobre alocação é a melhor opção disponível e não pode ser alterada no momento."
+      ]
+    },
+    {
+      "title": "Contexto de limitações estruturais e exemplos pessoais",
+      "description": "Wesley e Lilian explicam que o projeto não tem estrutura para oferecer suporte individualizado a crianças com necessidades especiais, usando exemplos pessoais e detalhando a rotina escolar que não pode ser replicada no Favela Brás. Eles reforçam que a decisão decorre de falta de recursos e estrutura, não de vontade de excluir.",
+      "topics": []
+    },
+    {
+      "title": "Histórico de conflitos com familiares e percepção sobre dinheiro",
+      "description": "Wesley relata que, ao chegar no programa, já havia relatos sobre pais problemáticos e movimentos de processar o projeto; também explica que responsáveis discutem valores recebidos sem ver as despesas do projeto, gerando mal-entendidos. O grupo comenta exemplos de gastos operacionais que não são visíveis externamente, como manutenção, instrumentos e deslocamentos.",
+      "topics": [
+        "Problemas prévios com grupos de pais e menção de possíveis processos já existiam quando Wesley entrou no projeto.",
+        "Houve mal-entendidos sobre receitas do projeto porque responsáveis veem apenas o valor recebido e não as despesas."
+      ]
+    },
+    {
+      "title": "Preocupações operacionais, contratação e planejamento de aulas",
+      "description": "Wesley demonstra preocupação com professores recém-contratados diante do impasse atual e descreve seu plano de supervisão inicial nas escolas e ensaios, além da proposta de dividir responsabilidades de teoria e iniciantes entre professores. Ele também menciona a intenção de limitar o período inicial de formação (seis ou três meses) antes de transições.",
+      "topics": [
+        "Wesley está preocupado com contratação de professores e com a comunicação desse cenário aos novos contratados.",
+        "Há risco de confusão ao iniciar alunos em Pereira e depois transferi-los para Zola no meio do semestre."
+      ]
+    },
+    {
+      "title": "Calendário escolar, apresentações e recesso",
+      "description": "O grupo confirma datas associadas a apresentações e fim de ano letivo, citando apresentações nas escolas entre 6 e 10 de julho e encerramento/baile em 11 de julho, com recesso iniciando por volta do dia 20, e decide comunicar calendário aos professores. Iris se compromete a preparar as informações necessárias para os professores.",
+      "topics": [
+        "É necessário esclarecer calendário escolar e datas de apresentações (6–11 de julho, recesso até dia 20) para professores e responsáveis."
+      ]
+    },
+    {
+      "title": "Discussão sobre transição de alunos entre Pereira e Zola",
+      "description": "Wesley expõe preocupação com iniciar alunos em Pereira e transferi-los depois para Zola, pois a comunidade de origem não tem mais crianças na faixa etária desejada e a mudança pode gerar confusão entre famílias e alunos. Ele planeja conversar com Tom para alinhar dados e evitar conflitos com responsáveis.",
+      "topics": [
+        "Wesley pretende conversar com Tom e registrar dados e argumentos para lidar com a transição."
+      ]
+    },
+    {
+      "title": "Logística e custo de transporte para famílias da Coroa",
+      "description": "Lilian e Iris discutem o impacto do custo e do trajeto para famílias da Coroa, incluindo necessidade de avaliar se as famílias suportam despesas de transporte e se o percurso a pé envolve riscos de segurança; concluem que essas variáveis podem influenciar a permanência das crianças no projeto e devem ser comunicadas antecipadamente.",
+      "topics": [
+        "O custo e a segurança do transporte para famílias da Coroa são barreiras potenciais à permanência dos alunos."
+      ]
+    },
+    {
+      "title": "Logística de horários e frequência do curso",
+      "description": "Debateu-se o formato das aulas (uma vez por semana, sábados inteiros) e o risco de perda de alunos caso se altere local ou aumente a frequência, destacando custos de transporte e necessidade de esclarecimento prévio às famílias; Wesley se compromete a conversar com Tom sobre esse problema prioritário.",
+      "topics": []
+    },
+    {
+      "title": "Organização de horários por grupos e bandas",
+      "description": "Foram tratados detalhes sobre horários do grupo Semente, conflitos entre teoria e ensaio de banda, e a necessidade de manter turnos entre 8h e 10h30 para evitar deslocamentos adicionais; identificou-se que alguns alunos chegam mais tarde e isso afeta a programação das aulas.",
+      "topics": [
+        "Foi identificado que familiares podem arcar com custos de transporte extras, o que pode inviabilizar a permanência de alguns alunos no curso.",
+        "A principal preocupação é a logística e deslocamento dos alunos caso o curso mude de local ou aumente frequência, e Wesley ficará responsável por falar com Tom sobre isso."
+      ]
+    },
+    {
+      "title": "Problema comportamental com a aluna Diana e protocolo de comunicação",
+      "description": "A equipe avaliou o impacto negativo do comportamento de Diana e do volume de mensagens no fim de semana; combinaram reduzir respostas, aguardar o próximo sábado para observar comportamento e, se necessário, acionar interações formais e parceiros como o Capsi.",
+      "topics": [
+        "A equipe concordou em aplicar uma tática de não responder a mensagens fora do combinado com a aluna Diana e esperar para avaliar o comportamento no próximo sábado."
+      ]
+    },
+    {
+      "title": "Contato com parceiros (Capsi/Maria) e verificação de acompanhamento",
+      "description": "Lilian mencionou contatos prévios com uma Maria do Capsi e propôs que fará aproximação para confirmar se há acompanhamento do aluno, enquanto Wesley também sinalizou tentar contato com esse suporte externo.",
+      "topics": [
+        "Lilian e Wesley vão tentar contato com o Capsi e com a pessoa chamada Maria para verificar acompanhamento e histórico do aluno citado."
+      ]
+    },
+    {
+      "title": "Uniformes e controle de camisas por banda",
+      "description": "Foi feito levantamento das camisas por banda: amarelo, verde e preto têm estoque suficiente, e foi informado que a Banda Roxa ainda precisa receber camisas; Wesley planeja distribuir as camisas para garantir que todos tenham ao menos uma peça para apresentação.",
+      "topics": []
+    },
+    {
+      "title": "Instrumentos, desligamento de aluno e evento com horários definidos",
+      "description": "Tratou-se da possibilidade de desligamento de um aluno, necessidade de formalizar documento de desligamento e solicitar devolução do saxofone; também se discutiu a logística de um evento com saída às 18h30 e primeiro bloco às 19h, confirmando tempo suficiente para deslocamento.",
+      "topics": [
+        "Há necessidade de devolução do instrumento por parte de um aluno em processo de desligamento e de formalizar documento de desligamento para assinatura."
+      ]
+    },
+    {
+      "title": "Início das aulas, inscrição e encerramento da reunião",
+      "description": "Foi confirmado o início das aulas em Pereira Passos na sexta-feira, estratégia de divulgação para preencher vagas remanescentes e a conclusão da reunião com a equipe disponível para contato via WhatsApp para eventuais pendências.",
+      "topics": [
+        "Foi confirmado que as aulas começarão em Pereira Passos na sexta-feira e que haverá divulgação ativa para preencher vagas remanescentes."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1773232384662,
+        "end_time": 1773232386420,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Bom dia, menina, tudo bem?"
+      },
+      {
+        "start_time": 1773232386420,
+        "end_time": 1773232387475,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tudo, e você?"
+      },
+      {
+        "start_time": 1773232387475,
+        "end_time": 1773232388179,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Já, tranquilo."
+      },
+      {
+        "start_time": 1773232388179,
+        "end_time": 1773232411741,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Amanhã, mãe. Correria, né, cara? Tá com uma carinha de sono, cara. Tadinho. Tô cansado. Eu imagino. Eu acho que é a hora que o sono domina a gente, na verdade. Não sei se eu digo assim. Comigo, cara, tem dia que eu tô sentada, um dia eu dormi no Uber. Quando eu fui, acho que eu tava dormindo no Uber. Voltando do hospital. Fiquei com medo."
+      },
+      {
+        "start_time": 1773232413193,
+        "end_time": 1773232416457,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Bom dia."
+      },
+      {
+        "start_time": 1773232416457,
+        "end_time": 1773232422985,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Bom dia, bom dia."
+      },
+      {
+        "start_time": 1773232422985,
+        "end_time": 1773232427881,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tudo bem, gente?"
+      },
+      {
+        "start_time": 1773232427881,
+        "end_time": 1773232439305,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Está confirmada a nossa viagem para Paraty."
+      },
+      {
+        "start_time": 1773232441776,
+        "end_time": 1773232443780,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Confirmou? Praticamente tudo fechado."
+      },
+      {
+        "start_time": 1773232443780,
+        "end_time": 1773232453804,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Para que pareça, BH está tudo certo, Paraty também, mas Paraty e o Tom ainda vão fazer uma reunião com..."
+      },
+      {
+        "start_time": 1773232453804,
+        "end_time": 1773232455307,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Com a Roberta."
+      },
+      {
+        "start_time": 1773232455307,
+        "end_time": 1773232476569,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Com a Roberta, é. Porque, no passado, já teve aquela questão de ele meio que reclamou da quantidade de alunos, de pessoas que foram e tal. Hospedagem e etc. Aí parece que não vai mesmo ser bom."
+      },
+      {
+        "start_time": 1773232476569,
+        "end_time": 1773232479331,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "11 pessoas 11 alunos."
+      },
+      {
+        "start_time": 1773232479331,
+        "end_time": 1773232490378,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "11 alunos mais 4 ou 5 pessoas quase metade não vai dar. Mas ano passado foram."
+      },
+      {
+        "start_time": 1773232490378,
+        "end_time": 1773232514612,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "A gente tem 15 alunos 15 alunos mais é o bitfoca né? É, foi eu... Eu, kikitarol, Iris, wellitor, natan, natan? É natan o n não lembro, o n foi eu acho que não, né?"
+      },
+      {
+        "start_time": 1773232514612,
+        "end_time": 1773232517914,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "acho que foi marquinhos e..."
+      },
+      {
+        "start_time": 1773232517914,
+        "end_time": 1773232523918,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "marquinhos foi natan, natan foi É, mas é isso aí."
+      },
+      {
+        "start_time": 1773232523918,
+        "end_time": 1773232540084,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Aí, vamos dizer, esse erro vai. Vai mesmo, né? Então, isso acho que vai dar certo. Mas a questão é, ele deve ajustar os lugares onde o pessoal vai ficar."
+      },
+      {
+        "start_time": 1773232540084,
+        "end_time": 1773232541700,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vai ser isso."
+      },
+      {
+        "start_time": 1773232541700,
+        "end_time": 1773232555849,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "E na Azola agora a gente vai fazer Lá da Preta, vai pra lá, a gente tá tentando fechar um bloco pra ir junto."
+      },
+      {
+        "start_time": 1773232555849,
+        "end_time": 1773232557120,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá tudo certo."
+      },
+      {
+        "start_time": 1773232557120,
+        "end_time": 1773232576617,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Às 6h30 começa o evento, no dia 20, sexta-feira, lá na Pizzaria Zola. Aí eu pedi pra ele entrar em contato contigo, Iris, em relação a... Porque vai dar uma vaga. Aí dá pra ver os alunos que vão direto e tal, você tem que dar..."
+      },
+      {
+        "start_time": 1773232576625,
+        "end_time": 1773232577997,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "de viagem."
+      },
+      {
+        "start_time": 1773232577997,
+        "end_time": 1773232583483,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "6 e meia começa o evento, olha só."
+      },
+      {
+        "start_time": 1773232583483,
+        "end_time": 1773232584854,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Dia 20."
+      },
+      {
+        "start_time": 1773232584854,
+        "end_time": 1773232590340,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "E até o Martel, né, Didi, das apresentações."
+      },
+      {
+        "start_time": 1773232590340,
+        "end_time": 1773232599940,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Deixa eu te perguntar, pode divulgar já as viagens no grupo da Amanda Preta?"
+      },
+      {
+        "start_time": 1773232599940,
+        "end_time": 1773232601311,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu espero."
+      },
+      {
+        "start_time": 1773232604316,
+        "end_time": 1773232611470,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vamos esperar um pouquinho. Vamos divulgar só o do dia 20 mesmo."
+      },
+      {
+        "start_time": 1773232611470,
+        "end_time": 1773232612066,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1773232612066,
+        "end_time": 1773232627566,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A apresentação do dia 20. E... A gente procurou lá um texto pra banda amarela, né? Que bateu o martelo, que todo sábado vai ter aquele..."
+      },
+      {
+        "start_time": 1773232627566,
+        "end_time": 1773232628758,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Aquela participação."
+      },
+      {
+        "start_time": 1773232628758,
+        "end_time": 1773232652420,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Aquele passadão ali no finalzinho. Receber pizza e tal. Seria bom a gente estar bolando um texto para estar colocando lá no grupo. Todo sábado, no finalzinho do ensaio, eles vão fazer um... Não é apresentação, é um ensaio geral, um ensaio geral. Ali, em frente à pizzeria Azola, eles estarão recebendo pizza e etc."
+      },
+      {
+        "start_time": 1773232654074,
+        "end_time": 1773232654379,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tchau."
+      },
+      {
+        "start_time": 1773232682656,
+        "end_time": 1773232728800,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A outra notícia é que, graças a Deus, conseguimos finalmente uma professora de teoria. Eu acho que a gente poderia também estar divulgando isso no grupo, Iris, tanto da Banda Amarela quanto lá do Grupo Semente, que a partir do primeiro sábado, a partir de abril, acho que é dia 4, mesmo para acalmar o relatório, a partir do dia 4 vão começar as aulas de teoria com a professora Karina, de 8h30 a 9h30, depois de 10h às 11h.\n\n"
+      },
+      {
+        "start_time": 1773232728800,
+        "end_time": 1773232733264,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Ela é a partir de abril que vai começar?"
+      },
+      {
+        "start_time": 1773232733264,
+        "end_time": 1773232735248,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A partir de abril?"
+      },
+      {
+        "start_time": 1773232735418,
+        "end_time": 1773232785009,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "isso e aí e aí e aí Pô, meu filho tá ficando aí um tempão, não sei o quê, não sei o quê. Já pra acalmar essa área aí. A outra questão é o Bale Brés. Nós já temos data. Você viu lá? O Tom já colocado no calendário. Esse também já pode divulgar."
+      },
+      {
+        "start_time": 1773232785009,
+        "end_time": 1773232787660,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Esse aí abriu, né? Isso."
+      },
+      {
+        "start_time": 1773232787660,
+        "end_time": 1773232788190,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "18."
+      },
+      {
+        "start_time": 1773232788190,
+        "end_time": 1773232806888,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Isso. Bale Brás, nem sei como é que eu vou fazer com a banda roxa no site do Inverno. Nossa, meu Deus do céu. Assustador. Bale Brás com um bloco alto astral."
+      },
+      {
+        "start_time": 1773232806888,
+        "end_time": 1773232808609,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pode divulgar também."
+      },
+      {
+        "start_time": 1773232808609,
+        "end_time": 1773232813770,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Vai ser qual data, Werdum? Qual é a data?"
+      },
+      {
+        "start_time": 1773232813770,
+        "end_time": 1773232814917,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É 18."
+      },
+      {
+        "start_time": 1773232817336,
+        "end_time": 1773232868035,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "de oito a gente abriu e abriu É porque a gente vai ter esses questionamentos, entendeu? Se no dia do baile eles vão ter que fazer isso porque aí os pais vão ter que ficar praticamente o dia todo a disposição todos conseguem, então acredito que o número de faltas pelo menos na banda grana e amarela possa ser alto."
+      },
+      {
+        "start_time": 1773232868035,
+        "end_time": 1773232875514,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu lembro que a gente fez isso quando tinha aula de boateiro, que a gente abonava."
+      },
+      {
+        "start_time": 1773232875514,
+        "end_time": 1773232883928,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, vai ser alto ou no baile, o número de faltas, ou vai ser alto nas aulas mental."
+      },
+      {
+        "start_time": 1773232883928,
+        "end_time": 1773232885797,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não vai fazer sentido."
+      },
+      {
+        "start_time": 1773232885806,
+        "end_time": 1773232932766,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, eu lembro que no sábado, quando tinha aula no Ateu, a gente passava lá para as aulas Só pensa nisso para a gente já se antecipar e ficar evitando esses questionamentos, sabe? Tipo, a gente tem que estar o dia todo, como é que vai ser isso? Só colocar isso no padar, porque provavelmente vai ter esse tipo de problema, porque faz sentido Esse negócio também, olha só, vamos parar pra pensar, se a aula vai até por volta de uma e pouca, duas horas, né, que eles terminam, comer a pizza e tal, praticamente às vezes não dá nem tempo de ir em casa e retornar.\n\n Qual o gasto, né, de deslocamento para a maioria? Passagem, de tudo."
+      },
+      {
+        "start_time": 1773232932766,
+        "end_time": 1773232968558,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, é só pra gente pensar nisso porque vai ter essa situação, a princípio é cancelar é cancelar o mas eu acho que a minha opinião é um prejuízo muito grande para gente eu acho prejuízo E só tem aula uma vez na semana."
+      },
+      {
+        "start_time": 1773232968558,
+        "end_time": 1773232971835,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu entendo. Vai estar na semana, então."
+      },
+      {
+        "start_time": 1773232971835,
+        "end_time": 1773232979325,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ainda mais agora, que estão no tempo para o salão de auditoria. Vai ter aula de..."
+      },
+      {
+        "start_time": 1773232979325,
+        "end_time": 1773232981666,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Entendeu? Não tem como, não."
+      },
+      {
+        "start_time": 1773232981666,
+        "end_time": 1773233038441,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas, de qualquer forma, é uma questão do horário. Não tem como. Eu acho para eles... Eu até achava interessante eles não participarem participação da dessas bandas iniciantes porque eu podia ficar só com a verde roxa e preta então é essa a sugestão que eu havia dado mas eu não acho legal acho que tem que é o baile brez é o é o evento que é para juntar todo mundo não mas eles continuarão ainda né só não vão tocar O Tom não achou legal.\n\n Acho que tem que participar mais assim. Não tem como fazer de ir para a aula de manhã e depois ir lá para o baile. O pai nenhum vai concordar com isso."
+      },
+      {
+        "start_time": 1773233038441,
+        "end_time": 1773233042704,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Com razão, porque vai ficar o dia inteiro."
+      },
+      {
+        "start_time": 1773233042704,
+        "end_time": 1773233091847,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não dá, não dá. É uma coisa que eu vou ter que... Eu vou conversar com o Tom, mas, a princípio, eles não vão ter aula nesse dia. Eles não vão ter aula. É menos um ensaio, é menos uma aula. Eu não acho isso legal. Eu não acho isso legal, mas... Vou conversar com o Tom mais uma vez, só pra ver o que ele acha. Mas, a princípio, é isso. Eles não vão ter aula nesse dia, vão direto pro bairro. É uma conversa com a Rafaela também em relação a isso.\n\n O que ficou de tarefa na semana passada? É o início das aulas, começa semana que vem, os alunos novos."
+      },
+      {
+        "start_time": 1773233091847,
+        "end_time": 1773233099963,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Lilian, ainda não te passei, porque tem alguns que ainda não preencheram o formulário."
+      },
+      {
+        "start_time": 1773233099963,
+        "end_time": 1773233128887,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É, preencheu o livro, vai ficar muito em cima para eu tá não vou te mandar agora a questão e temos sete sete ou oito e esse desse sete ou oito alguns não preencheram é isso isso já preencheu eu já vou mandar mensagem hoje Tá."
+      },
+      {
+        "start_time": 1773233128887,
+        "end_time": 1773233136277,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tem atualização nas escolas? Desculpa, vou terminar aí depois se favor."
+      },
+      {
+        "start_time": 1773233136277,
+        "end_time": 1773233144338,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Novos alunos, combinar com os responsáveis para mostrar o local de aula."
+      },
+      {
+        "start_time": 1773233144338,
+        "end_time": 1773233171746,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Você pode até articular isso com o Wellington, Lívia. Você pode apoiar isso. Repassar contatos para Lilian, que foi das entrevistas santa, vou fazer agora. Aulas de teoria sem previsão, mas já temos. Transferir a Lúcia para sábado. Vai confirmar isso, né?"
+      },
+      {
+        "start_time": 1773233171746,
+        "end_time": 1773233173942,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela vai para sábado?"
+      },
+      {
+        "start_time": 1773233173942,
+        "end_time": 1773233181076,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Já abriu. Outra aula foi na hora, pelo jeito. Não abriu na comunidade."
+      },
+      {
+        "start_time": 1773233183029,
+        "end_time": 1773233194047,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "a União Codiana, a União Pós-Produção Importante e as viagens no final de maio. Pensando na obedecência da Banda Preta."
+      },
+      {
+        "start_time": 1773233194047,
+        "end_time": 1773233215338,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Aí eu fiz a divisão da Banda Preta, fiz lá a divisão da Banda Preta. Depois eu vou botar no grupo lá para vocês verem, quem vai para Paraty, Eles já estão sabendo quem vai pra Paraty, quem vai pra Belo Horizonte."
+      },
+      {
+        "start_time": 1773233215338,
+        "end_time": 1773233216087,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Você sabe?"
+      },
+      {
+        "start_time": 1773233216087,
+        "end_time": 1773233218332,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Já. Fui bem aberto com eles."
+      },
+      {
+        "start_time": 1773233218332,
+        "end_time": 1773233219828,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eles ficaram de acordo?"
+      },
+      {
+        "start_time": 1773233219828,
+        "end_time": 1773233220577,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ou teve..."
+      },
+      {
+        "start_time": 1773233220577,
+        "end_time": 1773233224319,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Sempre tem um assunto, né? A maioria ficou de acordo."
+      },
+      {
+        "start_time": 1773233224319,
+        "end_time": 1773233231802,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só o Marquinho mesmo que... Mas ele não fala. Mas você vê que ele... Ele fala com a mãe dele."
+      },
+      {
+        "start_time": 1773233231802,
+        "end_time": 1773233236667,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Ele fala com a mãe dele, né? Ele fala com a mãe dele."
+      },
+      {
+        "start_time": 1773233236667,
+        "end_time": 1773233242950,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E a mãe dele adora botar Ela tá lá cobrando a reunião, a negociação."
+      },
+      {
+        "start_time": 1773233242950,
+        "end_time": 1773233250440,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Que coisa chata isso, né? Assim, eu achei tão desnecessário quando aquela fofoca no grupo, né?"
+      },
+      {
+        "start_time": 1773233250440,
+        "end_time": 1773233261207,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Foi tudo por parte dela, no final das contas. Aí ela tá até agora ainda cobrando no grupo, aberto, pra marcar a reunião."
+      },
+      {
+        "start_time": 1773233261207,
+        "end_time": 1773233265420,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas só ela tá lá pra fazer uma ideia."
+      },
+      {
+        "start_time": 1773233265428,
+        "end_time": 1773233271348,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "levantando a bandeira pra fazer reunião, é ela. Com a Kelly, né? Da associação. Mas só ela?"
+      },
+      {
+        "start_time": 1773233271348,
+        "end_time": 1773233272392,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É só ela."
+      },
+      {
+        "start_time": 1773233272392,
+        "end_time": 1773233279356,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu acho que de mãe nesse grupo, tem a mãe... Tem ela, tem a mãe desse Bernardo, não é isso?"
+      },
+      {
+        "start_time": 1773233279356,
+        "end_time": 1773233283186,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Não, tem várias mães lá, só que elas não se expõem."
+      },
+      {
+        "start_time": 1773233283186,
+        "end_time": 1773233285972,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "A Angélica, só que as mães tem mais..."
+      },
+      {
+        "start_time": 1773233285972,
+        "end_time": 1773233290150,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tem a mãe da Ingrid também. Tem a mãe da Maria Rita."
+      },
+      {
+        "start_time": 1773233290150,
+        "end_time": 1773233291543,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Todo mundo gatinho, né?"
+      },
+      {
+        "start_time": 1773233291543,
+        "end_time": 1773233299051,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Não, a mãe da Maria Rita lá também, que meio que concordava, mas que ela estava muito cansada."
+      },
+      {
+        "start_time": 1773233299051,
+        "end_time": 1773233301631,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Mas ela concordava com o que?"
+      },
+      {
+        "start_time": 1773233301631,
+        "end_time": 1773233356480,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Com o que a garota estava falando. Aí a mãe da Ingrid só falou uma coisa que, tipo, sobre as aulas em Nacer e na Pereira. A mãe do Bernardo criticou e uma outra mãe lá que falou que já foi do projeto criticou também. Mas o Tom ele já entrou em contato no privado com as mães que reclamaram para poder marcar essa reunião só que elas não estão dando retorno ele falou com a Kelly também no privado aí a Carol tá jogando lá no grupo de novo perguntando pra Kelly se já tinha marcado a reunião Então, complicado.\n\n Ela quer ficar expondo o projeto ali. Exatamente. Acho, sim."
+      },
+      {
+        "start_time": 1773233356480,
+        "end_time": 1773233363072,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Pelo que eu tô entendendo, ela tá tentando levantar o coro."
+      },
+      {
+        "start_time": 1773233363072,
+        "end_time": 1773233375056,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Pra fazer essa reunião, só que geral tá... É, ele diz que não vai ficar assistindo esse ano também, né?"
+      },
+      {
+        "start_time": 1773233375065,
+        "end_time": 1773233380111,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Que isso, as coisas não mudam porque uma pessoa quer."
+      },
+      {
+        "start_time": 1773233380111,
+        "end_time": 1773233430608,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, e eu acho que o que ela tá querendo inflamar no grupo é que as crianças agora precisam começar a receber algum retorno de dinheiro, enfim, por conta das apresentações que fazem e por conta do tempo que são no projeto e porque levar Roberto, né? Fizeram o projeto crescer, blá, blá, blá. Então, assim, eu acho que ela vai ficar tocando nessa tecla da questão financeira o tempo inteiro. Porque, na verdade, o que eu entendi que ela tá cobrando ali, é como se tivesse que pagar agora eles pra se apresentarem, né?\n\n Então, vem todo um custo que, às vezes, a gente tem que deixar de fazer coisas porque não tem dinheiro pra fazer agora. Pois é. Acho que tudo é de grau."
+      },
+      {
+        "start_time": 1773233430616,
+        "end_time": 1773233436668,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "que a gente tá tocando, que parece que tá ganhando, aí ela quer relacionar isso."
+      },
+      {
+        "start_time": 1773233436668,
+        "end_time": 1773233441912,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Ah, porque foi no Fluminense, deve ter ganho alguma coisa, não é isso?"
+      },
+      {
+        "start_time": 1773233443366,
+        "end_time": 1773233445761,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Aí isso deve estar estimulando mais ainda ela."
+      },
+      {
+        "start_time": 1773233445761,
+        "end_time": 1773233446359,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pode ser."
+      },
+      {
+        "start_time": 1773233446359,
+        "end_time": 1773233456198,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "De repente seria bom, Lilian, tu conversar até com o Tom, pra... Porque o Tom que vai participar dessa reunião Então, mas conversar não tem sentido."
+      },
+      {
+        "start_time": 1773233456198,
+        "end_time": 1773233458600,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Essa questão que eu falei do dinheiro?"
+      },
+      {
+        "start_time": 1773233458600,
+        "end_time": 1773233462716,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, do dinheiro, dar um toque nele, porque isso vai ser falado."
+      },
+      {
+        "start_time": 1773233462716,
+        "end_time": 1773233526465,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, eu percebi pela conversa, não sei se vão ter essa percepção, eu até falo com ele. Eu percebi por essa conversa que o viés está sendo financeiro, não é? Porque ele está no lugar desse ou de. Não acho que isso. Não acho. Você vê que ela fala que tinha que levar as crianças transporte, tinha que levar, tinha que buscar, tinha que não sei o que. Isso até por conta de algo que aconteceu no passado quando as alas eram no Aterro ou no Siete, que tinha aquela questão do transporte, né?\n\n Só que parece assim, que às vezes eu acho que as pessoas também não querem entender as coisas, né? Porque eu percebo que elas acham que deixamos de levar elas, né? As crianças com transporte pra ficar com dinheiro pra gente. Porque diz que a gente também tá com, né? Uma questão financeira maravilhosa, linda, estamos cheio do dinheiro. Então, parece que a gente tá aportando coisas no projeto pra benefício nosso, não, né?\n\n Tirando das crianças pra gente. É muito isso na conversa. Pra gente indivíduo, né?"
+      },
+      {
+        "start_time": 1773233526465,
+        "end_time": 1773233530589,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eles têm conforto deles, eles têm o suficiente deles."
+      },
+      {
+        "start_time": 1773233530589,
+        "end_time": 1773233598927,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, assim, acho que as pessoas estão observando, né? Devem observar a gente, ó, pessoas observam. E aí acho que tudo nosso só vem do projeto. Tipo, né? Não, é sério. É verdade, é verdade. Então, por exemplo, se você... Vou chutar aqui. Se amanhã você trocar de carro, você tá ferrado. Exatamente. Não, sério. Você trocou o seu carro porque você pegou o dinheiro das crianças e trocou o seu carro. Então, você...\n\n É isso. Se você aparecer com objeto, sei lá, um telefone, qualquer coisa, vamos falar, ah, tá vendo, fila das crianças, agora tá com dinheiro pra comprar telefone, tá com dinheiro pra praticar, tá com dinheiro pra fazer isso, fazer aquilo, as pessoas são muito assim, elas só tem, né, o que interessa, na verdade, não vê que você tem outros trabalhos, que tem outros trabalhos, que tem outras coisas, ninguém vai lá ver você.\n\n Sim. É isso. Só que tem que ter um cuidado pra falar sobre isso, Jogou lá no grupo a questão do Tom ter comprado a casa? Sim!"
+      },
+      {
+        "start_time": 1773233598927,
+        "end_time": 1773233609498,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Pois isso, né? Que é uma coisa dele como pessoa, não tem nada a ver com o projeto. Ah, eu acho que ela coloca de uma forma..."
+      },
+      {
+        "start_time": 1773233609498,
+        "end_time": 1773233702329,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Você jogou, Carol, que jogou isso? Jogou, e ela coloca de uma forma como se ela tivesse tido uma participação na negociação. Eu entendi mais ou menos isso, não sei se foi. Uma fonte, uma coisa pra facilitar essa compra da casa pelo Tom Como se fosse assim, ah, Wendy, olha, eu vou conversar com a pessoa pra te vender e tal, não sei o quê Entendeu? Eu entendo, assim, gente, não corri isso pra nada aí, mas eu tô entendendo essas coisas mais ou menos dessa forma Depois até releio, mas parece isso Não, mas parece isso mesmo, talvez porque precisa de declaração da associação pra trazer os produtos obrigação dela mesmo enquanto o presidente da associação do morador está só que ela se coloca numa posição de favor no favor né é como se ela tinha facilitado você facilita toda a negociação isso só para me entender estão falando é quem falou foi aquele que ela me facilita no grupo ela facilitou a compra dessa casa da comunidade isso Até por conta do Tom ser um estrangeiro, ela fala muito disso, né?\n\n Dele ser um gringo, lá, lá, lá. Aí ela meio que deu essa facilitada pra ele começar o projeto ali e agora é como se ele estivesse dando as costas pra todo mundo e, tipo, se dane em vocês porque eu tô cheia de dinheiro."
+      },
+      {
+        "start_time": 1773233702329,
+        "end_time": 1773233703112,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Maluquice, né?"
+      },
+      {
+        "start_time": 1773233703112,
+        "end_time": 1773233703504,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendeu?"
+      },
+      {
+        "start_time": 1773233703504,
+        "end_time": 1773233721944,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Só que quanto mais a gente vai debatendo, é pior. É o que eu acho interessante, o Tom vai fazer essa reunião, ele vai expor, tá lá, quem quiser ver disso, quem não quiser, não vê, só ele para de falar besteira, porque o que tá acontecendo é o que essas mulheres querem."
+      },
+      {
+        "start_time": 1773233721944,
+        "end_time": 1773233811508,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Assim, sinceramente, em relação a isso daí, eu não tenho muito o que fazer, porque é o Tom e tal, mas o que tá me... Ah, fala de você se quiser ficar, sai. O que tá me deixando muito, muito chateado é isso, porque não foi isso que foi dito. Ela veio até mim, eu fui pra uma reunião, eu expliquei a situação pra todo mundo, vocês estavam lá, eu falei, gente, olha, infelizmente, aí o Tom explicou, ou melhor, o Tom explicou, falou da divisão e tal, que tinha vindo dessa função, blá, blá, blá.\n\n Ela não foi na reunião, que é a que o Tom que falou, ela foi no dia que eu falei, eu falei, eu expliquei da mesma forma, aí ela veio falar comigo. Ah, Weldon, olha só, é porque não tem quem leve a minha filha e tal, e não sei o quê, é... É, se a Ana Laura sair, o Marcos também vai sair, porque não tem como deixar um e tirar o outro. O que que eu Eu sinto muito, a gente não tem muito o que fazer no momento.\n\n Eu sinto muito de verdade. Não tem como a gente mudar nada agora no momento. Essa é a melhor opção que temos para atender todo mundo. Infelizmente, eu sinto muito mesmo. Eu fico triste com essa situação, mas a gente não tem o que fazer. Aí ela tá um pouco assim."
+      },
+      {
+        "start_time": 1773233811508,
+        "end_time": 1773233813216,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Se quiser, vai ser assim."
+      },
+      {
+        "start_time": 1773233813216,
+        "end_time": 1773233814241,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Entende? Se quiser..."
+      },
+      {
+        "start_time": 1773233814241,
+        "end_time": 1773233816974,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Na cabeça dela, a leitura dela é essa."
+      },
+      {
+        "start_time": 1773233816983,
+        "end_time": 1773233839289,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não foi isso que eu... Foi assim que eu falei contigo? Se quiser vai ser assim? Foi assim que eu falei com você? Foi essa a palavra que eu usei? Caramba, que escroto que eu sou, pelo amor de Deus. O que eu falei? Infelizmente, a gente não tem o que fazer. Não tem o que mudar. Foi a melhor maneira que a gente teve."
+      },
+      {
+        "start_time": 1773233839289,
+        "end_time": 1773233869100,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Só que se você reparar, Wesley, da mesma forma que você falou isso pra Camila, Quando você explica pra Diana, que a gente também não tem essa estrutura, né? De sustentar o Tia no projeto, sustentar no sentido de, né? Faltou, atrasou, lá, lá, não sei o quê. Ela entende da mesma forma. Tu viu uma das mensagens que eu botei lá, que ela escreveu mais ou menos isso também? Ah, então não tem como, sai do projeto.\n\n Não é sair do projeto."
+      },
+      {
+        "start_time": 1773233869100,
+        "end_time": 1773233873292,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É porque a gente não tem como dar esse apoio pra ele."
+      },
+      {
+        "start_time": 1773233873300,
+        "end_time": 1773233878276,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Traduzindo para... Por exemplo, eu, Wesley, tenho um filho autista."
+      },
+      {
+        "start_time": 1773233878276,
+        "end_time": 1773233930439,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O meu filho, na escola, tem uma pessoa que fica com ele dentro da sala. Eu não tenho como fazer isso aqui no Favela... A gente não tem essa estrutura aqui no Favela Brás. Eu não tenho como pegar uma pessoa e deixar diretamente com ele. Entende? Eu desenhei, trouxe até a minha vida para ela entender que não tem como fazer. E outra, ainda bem que vocês gravaram a conversa, porque ela falou que o filho dela se espelha no Felipe, que o filho dela quer ser o Felipe.\n\n O Felipe vai quatro dias, o Felipe não falta, o Felipe passando mal, ele vai tocar."
+      },
+      {
+        "start_time": 1773233930439,
+        "end_time": 1773233939259,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Aí depois ela falou assim, é que ela falou que o o tio falou assim, mas eu sou eu, eu Filipe, eu Filipe, ué?"
+      },
+      {
+        "start_time": 1773233939259,
+        "end_time": 1773233982337,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Gente, tá entendendo? Ainda bem que tá gravado, ainda bem que tá gravado. Então, tipo assim, eh eh são pessoas, quando eu cheguei no Favela Branca, só pra gente não olhar muito a reunião, eh eh, são pessoas que quando eu cheguei no programa, já me foram falando dessas pessoas. O Tom foi a pessoa que falou. A Carol, a mãe do Bianchi, a mãe da Maria Rita, a Diana. Tudo isso foi passado. Não, já foi passado, porque eles já eram problemáticos.\n\n"
+      },
+      {
+        "start_time": 1773233982337,
+        "end_time": 1773233985338,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Já eram problemáticos? Quem? Sim."
+      },
+      {
+        "start_time": 1773233985338,
+        "end_time": 1773233987263,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu não peguei essa parte."
+      },
+      {
+        "start_time": 1773233987263,
+        "end_time": 1773233990342,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu peguei ela já mais ou menos assim."
+      },
+      {
+        "start_time": 1773233990342,
+        "end_time": 1773233997271,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Era, era bastante. Porque tinha uma época atrás... Eles se juntavam, as mães, eram mães que se juntavam."
+      },
+      {
+        "start_time": 1773233997271,
+        "end_time": 1773234012631,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Isso quando eu entrei no projeto. Eles queriam até processar, isso é verdade mesmo. Quando eu cheguei no projeto, já estava rolando essa questão de processo. Entendo. Um grupo que estava se juntando para processar, no caramba, na questão..."
+      },
+      {
+        "start_time": 1773234012631,
+        "end_time": 1773234020236,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E era também por conta de dinheiro, no final das contas, achando que as crianças tinham que receber pelas coisas."
+      },
+      {
+        "start_time": 1773234020236,
+        "end_time": 1773234039349,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Se falava muito de dinheiro por quê? Só pra vocês entenderem uma questão. Se falava muito de dinheiro porque no portal tá lá dizendo o quanto que o projeto recebeu da patrocinadora. Só que eles não vêem. Eles só veem o quanto entrou."
+      },
+      {
+        "start_time": 1773234039349,
+        "end_time": 1773234044639,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eles não veem o quanto está saindo, para onde está saindo tudo."
+      },
+      {
+        "start_time": 1773234044639,
+        "end_time": 1773234055217,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Choro. Mas, Marcelo, o que interessa? Ah, entrou R$ 1 milhão. R$ 1 milhão para 300 crianças durante... Entendeu? Viagem, roupa, isso e isso."
+      },
+      {
+        "start_time": 1773234055484,
+        "end_time": 1773234056959,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Isso não existe."
+      },
+      {
+        "start_time": 1773234056959,
+        "end_time": 1773234182854,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Os professores têm que sair de casa para dar aula de graça. Na cabeça deles, não entra isso. Os instrumentos não são comprados. A manutenção é feita de graça. O guidolímico é igual. Um carro que a porta não está abrindo... Vem lá de Campo Grande com o dinheiro dele de graça. Consertar de graça. Na cabeça deles isso, que tem em todo lugar, que muitas das vezes a gente tá lutando igual um maluco por gasto e não ser maior que a receita.\n\n A gente tá aqui lutando igual agora. Essa mensagem que a gente recebeu, como é que a gente faz? Tô aqui com a minha cabeça, meu Deus do céu, preocupado com todo mundo, professor que eu tô contratando agora, contratando uma professora de teoria agora, já entrando nessa situação. Imagina, imagina, eu tive que sentar pra conversar com a professora que tá chegando agora, Isso não acontece no projeto, mas, infelizmente...\n\n Nossa, sei que vai acontecer essa situação. Não, não tem isso. Vamos lá, estamos aí, eu sei como é que é. Vamos embora. Dá bem, dá bem, porque eu estou... Caraca, pelo amor de Deus, preciso de uma oficina de historia. Caraca, me ajuda. Então, assim, o pessoal da comunidade... Embora, sendo muito sincero, isso também é uma opinião minha. Eu acho... Nesses 12 anos de Favela Brás, que o projeto já...\n\n Em relação a ali, a gente já tirou o que tinha que tirar da Pereira. Não estou falando que o projeto... Concordo plenamente que o projeto não tenha que sair da Pereira. O projeto não tem que sair da Pereira, ali é a nossa casa, ali é onde o projeto... Um doce, etc. E tal, concordo plenamente. Só que em relação à nova geração, eu acho que ali... Até porque desses sete alunos aí que se matricularam, quantos são de fato da Pereira?\n\n Nenhum. Nenhuma da Pereira."
+      },
+      {
+        "start_time": 1773234182854,
+        "end_time": 1773234183329,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendeu?"
+      },
+      {
+        "start_time": 1773234183329,
+        "end_time": 1773234198962,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Aí é uma coisa que eu preciso conversar com o Tom. Por quê? Olha só a confusão. Decisão. Os alunos vão começar na Pereira. Depois vão ter que ir para Zola. Esses novos, né?"
+      },
+      {
+        "start_time": 1773234198962,
+        "end_time": 1773234199406,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1773234199406,
+        "end_time": 1773234210953,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, isso que eu ia falar agora, tem uma coisa que estava plantada aqui, essa transição, eu acho que ela vai ser um pouco problemática, gente."
+      },
+      {
+        "start_time": 1773234210953,
+        "end_time": 1773234221717,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, ela vai ser, antes de conversar com os alunos, antes de conversar com os alunos sobre isso, É tentar pedir uma reunião..."
+      },
+      {
+        "start_time": 1773234221717,
+        "end_time": 1773234225179,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, se puder até antes de eu fazer a entrevista..."
+      },
+      {
+        "start_time": 1773234225179,
+        "end_time": 1773234226910,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É importante ter isso esclarecido."
+      },
+      {
+        "start_time": 1773234226910,
+        "end_time": 1773234231065,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu vou tentar, porque eu vou sair daqui correndo pra escola hoje."
+      },
+      {
+        "start_time": 1773234231065,
+        "end_time": 1773234235566,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Hoje começa o mês de sábado. Ah, vou até avisar no grupo lá."
+      },
+      {
+        "start_time": 1773234235566,
+        "end_time": 1773234237297,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E depois é Estados Unidos."
+      },
+      {
+        "start_time": 1773234237297,
+        "end_time": 1773234241452,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Meu carro tá com os acessórios. Enfim, eu tenho que estar lá."
+      },
+      {
+        "start_time": 1773234241452,
+        "end_time": 1773234247684,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Mas o que você acha de eu esperar você estar lá com o Tom? Sei lá, é seguro?"
+      },
+      {
+        "start_time": 1773234247692,
+        "end_time": 1773234316856,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "mundo a ver só no máximo não sei só para eu poder ver eu vou eu vou eu vou conversar eu vou mandar mensagem para o Tom que hoje eu tô o dia inteiro com a vela vai sair e a noite quem sai da banda roxa eu vou tentar marcar com ele amanhã de manhã eu não sei é porque agora houve vocês estão sabendo mas já houve a transição da diretoria e agora a gente tem um novo presidente que é o Hoffman é bom ele ele é bom ele é do biquíni jogador ele tá ele tá subindo como presidente né da projeto e enfim tá subindo a auditoria eu não sei que dia que a reunião se é hoje se amanhã mas assim que acabar que eu já vou mandar mensagem para saber se eu posso fazer dez minutos de reunião com ele, até porque na sexta-feira ele vai estar aí na comunidade, que ele vai fazer a filmagem da banda preta.\n\n"
+      },
+      {
+        "start_time": 1773234316856,
+        "end_time": 1773234320284,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Esse que vem, né? Nessa apresentação das obras."
+      },
+      {
+        "start_time": 1773234320284,
+        "end_time": 1773234334530,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, sexta agora. É que o Tom está fazendo a comunicação. Então, ele ia vir combinado comigo de sexta-feira agora. Fazer a filmagem da banda. Então... Lá pra tu sair, né?"
+      },
+      {
+        "start_time": 1773234334530,
+        "end_time": 1773234335745,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, não, não."
+      },
+      {
+        "start_time": 1773234335745,
+        "end_time": 1773234386246,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Fazer a filmagem do ensaio. Ele quer filmar a banda pra fazer vídeo, sabe? Ah, tá. Botar no Instagram e etc. Tá fazendo vocal? Isso, pra mandar lá pro Bom Paraty, no festival de BH. Então, ele fez um arranjo lá que ele vai estar filmando esse arranjo e outras músicas também. Ah, tá. Fazendo isso, mas eu vou conversar com ele sobre essa questão que eu acho que vai ser um problema. Por exemplo, eu, meu planejamento não é fazer um ano de inicialização com eles não, é seis meses, seis meses.\n\n Começar agora a flauta para no meio do semestre, já transicionar."
+      },
+      {
+        "start_time": 1773234386246,
+        "end_time": 1773234390917,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Na verdade, eu também, mas são três meses."
+      },
+      {
+        "start_time": 1773234390917,
+        "end_time": 1773234409604,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A minha ideia é, no máximo, como estou começando agora, no máximo final de junho, entendeu? Falando nisso, só abrir um parênteses aqui. Nós já temos a data das feiras de escola?"
+      },
+      {
+        "start_time": 1773234409604,
+        "end_time": 1773234410772,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "No idioma?"
+      },
+      {
+        "start_time": 1773234411086,
+        "end_time": 1773234425499,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Já deve ter, já sim, mas a gente não sei se a gente tá colocando isso no calendário A segunda quinzena de julho Geralmente, a segunda quinzena de julho Aqui no calendário, tá?"
+      },
+      {
+        "start_time": 1773234425499,
+        "end_time": 1773234444767,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Apresentações nas escolas São de 6 a 10 de julho, então deve ser na semana seguinte São de 6 a 10, né? É E julho? E julho, aquela livragem de encerramento dia 11 de julho. Então, deve ser o Baile Brás e já é o as férias."
+      },
+      {
+        "start_time": 1773234444767,
+        "end_time": 1773234447225,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Mas férias na segunda quinzena, é isso?"
+      },
+      {
+        "start_time": 1773234447225,
+        "end_time": 1773234451086,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, que tem que ter aqueles quinze dias de férias, certo?"
+      },
+      {
+        "start_time": 1773234451086,
+        "end_time": 1773234452490,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Que a gente para."
+      },
+      {
+        "start_time": 1773234452490,
+        "end_time": 1773234463021,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Então, dois semanas. Então, desde aqui não tá quinze. Ah, não tá. É o baile dia onze, aí depois até o dia vinte. Dia vinte começa o recesso, na verdade."
+      },
+      {
+        "start_time": 1773234463021,
+        "end_time": 1773234498548,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Você pode passar essa data por chance, por favor? Ele tava esperando pra eu vou copiar o calendário vou mandar para eles no grupo pode pode acho que esse calendário a gente deve colocar lá no número de professores por favor pessoal tá geral pedindo é então tem umas informações aqui talvez não interesse a eles eu vou fazer um que nem na base das bandas é não fazer na filtro não dá na agenda portal não consigo fazer não tô falando Acho que para os professores.\n\n"
+      },
+      {
+        "start_time": 1773234498548,
+        "end_time": 1773234509846,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Para os professores. Então, vou fazer o que eles precisam. O baile e o fim das aulas."
+      },
+      {
+        "start_time": 1773234509846,
+        "end_time": 1773234511175,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá, beleza."
+      },
+      {
+        "start_time": 1773234511175,
+        "end_time": 1773234514498,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Deixa eu até anotar aqui."
+      },
+      {
+        "start_time": 1773234514498,
+        "end_time": 1773234543826,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas aí, qual é a minha preocupação? A minha preocupação é essa. A gente... Já não tem ninguém na comunidade. A gente não consegue mais alunos na comunidade. E olha que a divulgação tá sendo grande. Ô Iris, o Tom, ele tá naquele grupo geral que você colocou? Naquele grupo geral, tá?"
+      },
+      {
+        "start_time": 1773234543826,
+        "end_time": 1773234544374,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1773234544374,
+        "end_time": 1773234547663,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas fala pra mim, só pra..."
+      },
+      {
+        "start_time": 1773234547927,
+        "end_time": 1773234550725,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não sei ele como administrador."
+      },
+      {
+        "start_time": 1773234550725,
+        "end_time": 1773234553523,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Todos os responsáveis estão lá."
+      },
+      {
+        "start_time": 1773234553523,
+        "end_time": 1773234555202,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Sim, sim, sim."
+      },
+      {
+        "start_time": 1773234555202,
+        "end_time": 1773234612281,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só porque eu senti uma questão na conversa aqui. Reposta nos outros grupos. Nos outros grupos que eu digo. Nas bandas e no... Reposta, vai por mim. Reposta depois, lá nos grupos das bandas. Não do colégio. Vai misturar as coisas. Mas não das bandas, em grupos de sementes, em repostas. Eu vou fazer essa conversa com ele só para deixar bem claro esses dados. Ele está com todos esses dados, mas só para eu ter o que argumentar.\n\n Porque, realmente, na Assunção, na Pereira da Silva, não tem mais ninguém. Há dois anos atrás, Acho que todo mundo que tinha que vir nessa faixa de idade que a gente está pegando, já foi. Pode ser que há dois anos..."
+      },
+      {
+        "start_time": 1773234612281,
+        "end_time": 1773234614158,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Uns anos talvez tenha, né?"
+      },
+      {
+        "start_time": 1773234614158,
+        "end_time": 1773234787163,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Pessoal tem muito pequenininho ali e tal. Eu fico vendo a Ana Sofia brincando com o pessoal muito novinho, que parece ter sete, oito anos. A gente só... No Favela Bresa, a pessoa tem que ter nove anos, né? Então, Pelo é... Que estou observando, pelo menos esse ano e ano que vem, acho que não entra ninguém no projeto da Pereira. Na minha cabeça, não fez muito sentido... Não está fazendo sentido essa questão de começar com os alunos ali e depois ter que mandar eles para lá.\n\n Por quê? Se não tivesse todo esse arranca-rabo que teve, toda essa briga que teve nos grupos aí. Seria um trajeto normal, a gente conversaria, olha, acho que elas vão começar aqui e vão para lá. Até porque se eu botasse... Eu não vou estar os sábados na Pizzeria Zola. Vou mais uns dois sábados aí, só para deixar engatilhado, Vou no dia da aula de teoria, minha aula de teoria, e depois as coisas vão caminhando, eu vou só me achecando, não é que eu vou parar de ir lá, mas totalmente, mas eu vou lá uma vez ou outra, não vou ficar indo...\n\n Igual nas escolas, se eu parar pra ir em todas as escolas, todos os dias, eu vou ficar doido. Não vou fazer uma faculdade, vou fazer nada, vou ficar maluco. Mas eu vou, isso praticamente, eu vou numa escola, eu vou, Eu vou em todas as escolas agora no início, pra engrenar. Vou em tudo, ver o que tá faltando e tal. Depois eu vou nessa, e aí, como é que tá aí e tal. Amanhã eu vou na outra e tal. Semana que vem eu vou dar uma passada no ensaio da Banda Verde, pra ver como é que tá funcionando, se tá funcionando alguma coisa e tal.\n\n E vou supervisionando. Vai ser a mesma coisa lá nas aulas. Se eu colocasse os alunos iniciantes lá, eu teria que arrumar mais um outro professor. A ideia seria esse professor de teoria fazer. Iniciantes e teoria, que é flauta. Essa seria a ideia. Mas, com esse tumulto todo, sei lá, eu vou começar com o Tom só para, tipo assim, eu acho que vai dar problema tirar o pessoal no meio do semestre para levar lá para as aulas.\n\n Eu acho que a gente vai ter confusão aí."
+      },
+      {
+        "start_time": 1773234787163,
+        "end_time": 1773234791454,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Esse pessoal, a maioria é da onde? Coroa, Palermo? Coroa."
+      },
+      {
+        "start_time": 1773234791454,
+        "end_time": 1773234800932,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Então vai ter que pagar transporte para ir para lá, né? Não é? Eu queria falar até com você pra conversar sobre isso."
+      },
+      {
+        "start_time": 1773234800932,
+        "end_time": 1773234880908,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu sempre pergunto, até porque isso é uma forma de você, você vai acabar trazendo um gasto pra família, entendeu? Então, você tem que entender se a família, de fato, tem condições de estar andando com esse custo. Porque, às vezes, ela começa na empolgação e aí vê, querendo ou não, 20 reais por semana, não sei quanto vai ser, mas 80 reais por um mês ou às vezes 100, dependendo da quantidade de semanas, vai fazer uma diferença no orçamento e aí isso implica na permanência da criança no projeto.\n\n Sim, sim, sim. Isso eu sempre pergunto e geralmente falam que tá tudo ok, né? Só que aí, por exemplo, eu não sei porque assim, a gente tá falando de um lugar que, apesar de perto, é interessante isso. Ele é muito chamão, né? Por exemplo, se eu duas condições eu pego dois ônibus gente o projeto eu tenho que pegar um daqui até a bônus pra ele né e o da bônus dele eu pego o menino para subir se a gente parar para pensar eu acho que tá o que cinco reais na passagem né é 10 para ir 10 para voltar isso tá falando de mim ok mas são 20 reais se tem eu e meu filho são Entendeu?\n\n"
+      },
+      {
+        "start_time": 1773234880908,
+        "end_time": 1773234892150,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Entendeu? O pessoal, o pessoal, o pessoal que é da Coroa, a Coroa é aquela comunidade que é depois do túnel, é isso? Isso. Qual túnel?"
+      },
+      {
+        "start_time": 1773234892150,
+        "end_time": 1773234893015,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Santa Bárbara."
+      },
+      {
+        "start_time": 1773234893015,
+        "end_time": 1773234895177,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Isso, é esse mesmo. Entendeu?"
+      },
+      {
+        "start_time": 1773234895177,
+        "end_time": 1773234896042,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não tem..."
+      },
+      {
+        "start_time": 1773234896042,
+        "end_time": 1773234901231,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tem conexão ali pra Santa Tereza, dá pra subir por Santa Tereza."
+      },
+      {
+        "start_time": 1773234901231,
+        "end_time": 1773234949790,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Sim, dá pra ir a pé, essas coisas, mas só que a gente tem que entender também também algumas outras situações, né? Por exemplo, as irmãs falando, tem que passar por lugares que tem tráfico, tem que passar por lugares que são mais desertos, mais complicados dentro da comunidade. Então, assim, eu não conheço realmente o local, né? Mas estou te falando que, assim, se for em relação ao transporte, a gente tem que pesar essas questões de custo e também, se for a pé, avaliar esse trajeto.\n\n Se são crianças muito pequenas, a gente precisa seja, né? Ele vai levar E aí você demanda um tempo muito maior, por exemplo, se de ônibus eu levo, sei lá, meia hora pra chegar no projeto, se eu for a pé, eu tenho que sair pelo menos uma hora, uma hora e pouco de antecedência."
+      },
+      {
+        "start_time": 1773234949790,
+        "end_time": 1773234950108,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Né?"
+      },
+      {
+        "start_time": 1773234950108,
+        "end_time": 1773235000185,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Que vai a pé, vai caminhando, a escada, sei lá, a escada, não sei. Eu só acho que a gente tem que conversar tudo isso, porque é justamente pra não ter aquela empolgação, né? Eu quero, mas fica o projeto mega bacana, enfim. Só que às vezes o dia-a-dia do projeto acaba demandando algumas dificuldades que as famílias não tem como ficar sustentando. Entendeu? Então, eu vou procedendo sobre isso. E aí, se tem essa possibilidade da mudança, eu já tenho que sinalizar, falar, ó, provavelmente a partir de julho ou agosto, geralmente agosto, então retorno mais ao mês de agosto, provavelmente a partir de agosto, Seu filho já não vai mais ficar indo para a função, ele vai ter que ir para o governo para chegar lá.\n\n"
+      },
+      {
+        "start_time": 1773235000185,
+        "end_time": 1773235002610,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Como é que é? Não sei."
+      },
+      {
+        "start_time": 1773235002610,
+        "end_time": 1773235005844,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Acho que é mais distante ainda da coroa."
+      },
+      {
+        "start_time": 1773235005844,
+        "end_time": 1773235013120,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É, mas é mais acessível, né? De transporte, que é custo. É isso que eu estou falando, entendeu?"
+      },
+      {
+        "start_time": 1773235013120,
+        "end_time": 1773235079294,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vamos conversar com o Tom sobre por isso que eu tô vendo um problema aí, entendeu? Tô vendo um problema que vai dar um... E o meu medo todo é, tipo, a gente chegar pra eles agora e falar assim, olha, o curso você vai fazer reunião com eles. Olha, o curso vai ser assim, eles vão começar aqui, uma aula por semana, vão ter aula aqui, inicialização musical para daqui no próximo semestre eles concluindo o semestre eles vão lá para as aulas aí depois eles voltam para lá mais dias por semana não assim eles vão demorar ainda nas aulas um dois anos mas é só do fato de você falar que eles vão aqui aqui eles chegar.\n\n Aí, mas daqui a seis meses, pra gente continuar, a gente vai ter que pasar as aulas e o pessoal nem ficar no curso."
+      },
+      {
+        "start_time": 1773235079294,
+        "end_time": 1773235097623,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Ah, não, porque eu não vou conseguir levar. É isso. Só lembrando que agora é, uma vez por semana, uma hora só. E há os sábados, né? Na verdade, é todo sábado, mas é de oito e meia, meia de meia. Então, é amanhã inteira."
+      },
+      {
+        "start_time": 1773235097623,
+        "end_time": 1773235098942,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Só lembrando isso também."
+      },
+      {
+        "start_time": 1773235098942,
+        "end_time": 1773235101911,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Mas sábado eles vão começar com o instrumento, né?"
+      },
+      {
+        "start_time": 1773235101911,
+        "end_time": 1773235105210,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, mas aí eles começam, eles vão para a teoria."
+      },
+      {
+        "start_time": 1773235105210,
+        "end_time": 1773235110818,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, mas aí é contra a teoria. Não, é menos. Então, mas aí é contra a teoria."
+      },
+      {
+        "start_time": 1773235110818,
+        "end_time": 1773235112798,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "De meio é só a banda."
+      },
+      {
+        "start_time": 1773235112798,
+        "end_time": 1773235115437,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, na banda vai ter meio de meio."
+      },
+      {
+        "start_time": 1773235115437,
+        "end_time": 1773235117086,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ah, é isso, isso, isso."
+      },
+      {
+        "start_time": 1773235117086,
+        "end_time": 1773235120715,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, mas aí eles ficariam até que sóres, mais ou menos."
+      },
+      {
+        "start_time": 1773235120715,
+        "end_time": 1773235153975,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só para eu passar para... Eles fazem a aula de teoria o grupo semente o grupo semente eles estão tendo aula no horário que sai da banda o horário da aula de fala que vai ser mais ou menos isso aí vai ser o chance da aula para duas meninas do grupo semente então mas aí então ela não chega cedo ela chega mais tarde elas chegam 10 horas Então vai ser mais ou menos entre 10h e meia-de-meia, é isso?"
+      },
+      {
+        "start_time": 1773235153975,
+        "end_time": 1773235161341,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, eles têm que ficar com esse horário entre 8h e meia-de-meia, porque se eles forem pra Bruna, eles vão ter que ficar."
+      },
+      {
+        "start_time": 1773235161341,
+        "end_time": 1773235199087,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Por quê? Porque o responsável provavelmente vai ter que ficar lá. Ele não vai poder ir embora e voltar, porque tem custo isso, né? Deixar a criança embora e voltar pra buscar. Eu acho que pesar não vale a pena, porque ele tem que pagar mais um passagem pra ir embora, depois mais duas para voltar e depois mais duas para ir embora com a criança, mais duas não, mais quatro. Entendeu? Então, assim, é só para esclarecer essa logística para eles se organizarem e pensarem, né?\n\n Para não chegar lá na frente e começar a conversão, ah, não vai ficar, ah, não vai dar."
+      },
+      {
+        "start_time": 1773235199087,
+        "end_time": 1773235208907,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu vou começar com o Tom, exatamente sobre isso, acho que esse É o nosso maior problema. É o mais sério."
+      },
+      {
+        "start_time": 1773235208907,
+        "end_time": 1773235216518,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Aí depois você me dá um retorno e aí eu marco bem, entendeu? Só pra não..."
+      },
+      {
+        "start_time": 1773235216518,
+        "end_time": 1773235221275,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Vou ver se ele pode me atender amanhã de manhã."
+      },
+      {
+        "start_time": 1773235221275,
+        "end_time": 1773235222702,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Tá falando, né?"
+      },
+      {
+        "start_time": 1773235222702,
+        "end_time": 1773235319197,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Falando com você agora, o que Beleza. Você A falou. Outra questão que eu queria ver com vocês é sobre a... Bom, só para finalizar a conversa sobre a Diana. Vamos fazer uma tática diferente. Porque, tipo, eu acho que a gente... Eu acho que a gente está fazendo um trabalho... A equipe está trabalhando da melhor forma, fizemos tudo que estava ao nosso alcance, mas é muito ruim ela estragar o nosso fim de semana, enchendo, bombardeando a gente de mensagem.\n\n Caraca, sábado foi péssimo. É, é muito ruim isso. Eu fico a semana inteira, o projeto não tem nada a ver com isso, são escolhas minhas, da minha família, mas eu fico a semana inteira escrevendo, porque aqui o projeto está ao máximo, eu acho que todo mundo vê isso, eu fico aqui, saio daqui quase dez da noite, Ontem foi o dia do conferir instrumentos, que tem aula de tuba. Enfim, fui atender professor.\n\n Eu me dedico ao máximo um pouco. No fim de semana, eu subi a minha serra e curti a minha família. Pô, um monte de mensagem bombardeando, né? Acho que você não merece isso, eu não mereço isso. Então, vamos fazer o seguinte. Sábado. Chegou, bem. Não chegou, não manda mensagem, não fala nada. Segunda fila, só chega a advertência e é isso. Já foi conversado, já foi falado."
+      },
+      {
+        "start_time": 1773235319197,
+        "end_time": 1773235364924,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, mas a gente não tá mandando mensagem, não. O que que acontece? Ela se compromete, igual ela se comprometeu de ir no sábado, aí vem que ela não vai cumprir com o combinado, aí ela já começa. Aí começa com o Iris, aí depois começa comigo, aí vai com a Rafaela, aí vai pra quem, entendeu? Ela começa por ela mesma. A gente não pergunta não, tipo, ué, não veio hoje, por quê? Não, não tem esse tipo de diálogo.\n\n Ela que é tão sem noção, ok? E ela é bastante ardilosa, que ela quer se cercar. Tá comunicando que houve uma situação. Pra depois falar, ó, eu mandei, vocês que não me responderam. Entendeu? Ela faz isso."
+      },
+      {
+        "start_time": 1773235364924,
+        "end_time": 1773235368883,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Porque qualquer coisa... Pra ela já aceita as perspectivas? Não, não sei."
+      },
+      {
+        "start_time": 1773235368883,
+        "end_time": 1773235397881,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Sábado eu não falei com ela a semana inteira e não vou falar, tá? Aí ela encerrou a... Eu até falei, vou entrar no atendimento. Era mentira, porque eu não aguentava tanto, cara. Aí ela, mesmo assim, ainda mandou uma mensagem, não sei o quê. Depois eu perguntei pra ela. Após o final de semana, ela disse o quê? Acabou. Aí eu não falei nada. Não tem uma mensagem minha pra ela essa semana. Não mandei, nem vou mandar.\n\n E eles acreditam também, não. E nem ela pra gente. Ela não falou o que? Ela falou o que?"
+      },
+      {
+        "start_time": 1773235397881,
+        "end_time": 1773235399107,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ela falou lá."
+      },
+      {
+        "start_time": 1773235399107,
+        "end_time": 1773235461711,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Ah, sim, sim. Mas assim, a gente não falou nada. Vamos ver sábado o que ela vai falar da vida dela. E aí assim, eu acho que a gente... Aí ela começa, já tem aula de teoria. Ah, não, não tem ainda, né? Então, ela ainda vai usar esse argumento de que não vai ficar lá esse tempo esperando, não sei o que. Ele vai só pro ensaio da banda, o que eu acho um absurdo também, porque aí tem aula particular com Marquinhos, ela quer ignorar, ela quer pular essa aula particular com Marquinhos e já ir direto pro ensaio da banda.\n\n Cara, como é que você não vai pro ensaio da banda, você nem faz aula particular, não faz nada, né? Só que assim, vamos esperar sábado agora pra ver como é que ela vai se cortar, pra gente a partir daí conseguir pra comentar com ela. Fala, Diana, não vem por longe. Aí, aí eu posso até perguntar, fala aí, Diana, conseguiu? Porque eu pedi pra ela ir essa semana no Capsi. Ela falou que não ia conseguir.\n\n Olha isso. Você tem contato com o pessoal de lá?"
+      },
+      {
+        "start_time": 1773235461711,
+        "end_time": 1773235461975,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Hã?"
+      },
+      {
+        "start_time": 1773235461975,
+        "end_time": 1773235464870,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Você tem o contato com o pessoal de lá? Eu tenho."
+      },
+      {
+        "start_time": 1773235464870,
+        "end_time": 1773235481784,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Ou acho até que essa Maria que ela comentou comigo, que era bem dele, ou acho até que eu tenho esse telefone da Sra. Maria que eu já, em algum processo que eu atuei, eu fui no Capsi lá e eu acho que eu falei com essa menina. Mas nesse que eu não tinha falado, eu posso fazer contato."
+      },
+      {
+        "start_time": 1773235481784,
+        "end_time": 1773235483822,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela falou que a Sra."
+      },
+      {
+        "start_time": 1773235483822,
+        "end_time": 1773235497680,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Maria mesmo queria conversar com a gente, mas acho que eu vou me antecipar e vou conversar com ele. Eu vou tentar mandar a mensagem pra lá e vou ver se alguém me retorna."
+      },
+      {
+        "start_time": 1773235497680,
+        "end_time": 1773235499310,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vou tentar fazer isso."
+      },
+      {
+        "start_time": 1773235499310,
+        "end_time": 1773235522582,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Só que assim, vou falar assim, ó, só queria saber se você viu algum aluno nosso, tem um acompanhamento, vou até falar que tem um acompanhamento aí com vocês. A gente cada vez vai falar, não, não vem aqui desde 1980, entendeu? E eu acho que é o que tá acontecendo. Da mesma forma que ela fura com a gente, ela fura com todos os outros lugares também."
+      },
+      {
+        "start_time": 1773235522582,
+        "end_time": 1773235523870,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Aham, eu também acho."
+      },
+      {
+        "start_time": 1773235523870,
+        "end_time": 1773235553270,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Com a escola, se ela quer ficar contestando a escola. E é aquilo, é sempre essa visão da culpa. A culpa é sempre do outro. Nunca é dela, é sempre do outro. Que tá fazendo alguma coisa contra o filho dela. Ou é o projeto, ou é a escola, ou é o médico, sei lá quem é. Enfim, é a família, é todo mundo. Eu acho que a gente tem que valorar. Tipo assim, ninguém manda mensagem, vai ter uma palavra."
+      },
+      {
+        "start_time": 1773235553270,
+        "end_time": 1773235553651,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Beleza."
+      },
+      {
+        "start_time": 1773235553651,
+        "end_time": 1773235557087,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então é isso, pessoal. Alguém tem mais alguma questão?"
+      },
+      {
+        "start_time": 1773235557087,
+        "end_time": 1773235568339,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, eu acho que é mais assim, a gente tem que considerar o a gente vai falar com o Paulo pra ele poder ajudar com a entrevista, tá?"
+      },
+      {
+        "start_time": 1773235568339,
+        "end_time": 1773235586347,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Por favor, assim que acabar, eu vou mandar mensagem pra ele tentando marcar essa reunião pra amanhã e se ele puder me atender amanhã de manhã. Beleza. Pra eu poder resolver essa questão, tá bom? Antes sim. Em relação a uniforme, gente, eu..."
+      },
+      {
+        "start_time": 1773235586347,
+        "end_time": 1773235589697,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, gente, o Ronald já roubou a camisa?"
+      },
+      {
+        "start_time": 1773235590325,
+        "end_time": 1773235727074,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "devolveu a mãe não respondeu mas eu vou lá mas ok ela devolveu a simbólica devolveu ontem eu tava usando as camisas pretas ah tá que susto é mais porque que acontece é essa questão do conseguir fazer camisa né então a banda amarela todos todos estão com duas camisas a banda amarela todos tem camisa tem camisa para ensaiar tudo todos eles tem peguei camisa de 10 anos tudo bonitinho para ed também para ensaio tá todos eles tem a banda verde todos tem duas sobrando camisa para caramba verde lá todos todos têm conseguiu da maria antônia tem gelado então jeito ok para que as camisas dela a raíssa foi ontem lá entregue as camisas da raíssa a banda verde tudo tá completinho ainda tem muita camisa verde sobrando a banda preta tem duas camisas, todas, todas tem duas camisas novas, praticamente, ainda tem duas sobrando lá.\n\n Quem não tem é a Banda Roxa. Então, ontem, o pessoal da Apocaísta foi promovido, a Banda Pieta trouxe as camisas, a Marina, que foi pro Grupo Sementes, trouxe camisa roxa, todo mundo foi trazendo e hoje eu vou distribuir, pelo menos a gente fica dedicado com uma camisa, pra gente se Todo mundo tem um foto. Todo mundo tem. Pra se apresentar. Todo mundo tem camisa rosto. Pelo menos isso, né? Mas... Só pra vocês entenderem...\n\n O pessoal pode reclamar em relação a por enquanto, mas a gente não vai fazer camisa nem tão cedo, pelo que eu tenho visto. Mas todo mundo tem camisa, entendeu?"
+      },
+      {
+        "start_time": 1773235727083,
+        "end_time": 1773235741073,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "é só fazer uma observação, vocês viram que eu botei lá no Twitter as notificativas, que a mãe vai viajar, e aí não vai ter como ela ficar aqui, então vai ter que ir pra casa da avó."
+      },
+      {
+        "start_time": 1773235741073,
+        "end_time": 1773235760096,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então... Deixa eu só botar uma situação, a gente tem toda essa situação, mas a raiz já tá ficando muito pra trás, muito, muito, muito pra trás. Enfim, mas vamos deixar o decorrer do É bom ver quanto tempo ela vai ficar porque a Nicole saiu."
+      },
+      {
+        "start_time": 1773235760096,
+        "end_time": 1773235764007,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "A mãe dela vai entregar o instrumento quando?"
+      },
+      {
+        "start_time": 1773235764007,
+        "end_time": 1773235767429,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu queria ver essa situação de desligamento."
+      },
+      {
+        "start_time": 1773235767429,
+        "end_time": 1773235778184,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Vou falar com ela e pedir a entrega do instrumento. Ah não, vai ser a Raíssa que me dá aula essa semana."
+      },
+      {
+        "start_time": 1773235778184,
+        "end_time": 1773235780139,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A Raíssa vai amanhã."
+      },
+      {
+        "start_time": 1773235780139,
+        "end_time": 1773235840838,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não. Ela vai pra Irajá. De repente se hoje ela tiver em casa eu vou pedir para levar entendeu ela já assinou o desligamento ainda não né eu tô esperando só esse retorno para o documento do desligamento para você assinar é só avisar a devolução do instrumento a gente precisa de saxofone eu vou eu vou falar com ela a possibilidade e aí eu retorno para vocês é o é a gente avançar para o dia 20 vai sair seis e meia da função é isso e seis horas seis e meia seis e meia seis e meia saindo o evento começa às sete perdão primeiro bloco toca às sete Dá tempo, dá.\n\n"
+      },
+      {
+        "start_time": 1773235840838,
+        "end_time": 1773235842902,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Dá. É muito perto."
+      },
+      {
+        "start_time": 1773235842902,
+        "end_time": 1773235844965,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É muito pertinho ali."
+      },
+      {
+        "start_time": 1773235853578,
+        "end_time": 1773235866959,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "E aí depois também ver o Wesley, para a gente, se eu não esquecer, a questão do baile, da aula no dia do baile."
+      },
+      {
+        "start_time": 1773235866959,
+        "end_time": 1773235875879,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Então as duas coisas tem que ver com o Tom, como é que vai ficar isso."
+      },
+      {
+        "start_time": 1773235875879,
+        "end_time": 1773235876436,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Né?"
+      },
+      {
+        "start_time": 1773235876436,
+        "end_time": 1773235880339,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Como é que vai ser no dia?"
+      },
+      {
+        "start_time": 1773235880348,
+        "end_time": 1773235942939,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "e aí o pessoal tem mais alguma coisa aí e aí eu mando aí para você então assim assim que eu consigo falar com o pão já já mando mensagem aqui a gente faz uma boa tá bom a dos inscritos hoje foi aquilo mesmo lado onde eu andei ontem teve demais aí eu te mando no eu mando no nosso grupo da escola mais alguns ontem e tal e foi estados unidos pereira passos ainda estou recebendo ainda tem mais uma mensagem aqui tem 10 mensagens então tá rolando vai ter uma média boa eu acho que E mesmo quando começar, será que a gente não consegue absorver, não?\n\n"
+      },
+      {
+        "start_time": 1773235942939,
+        "end_time": 1773235978236,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, a ideia, por exemplo... A ideia é... Até sexta-feira, a gente vai começar a aula, né? Sexta-feira, na Pereira Passos. Aí, semana que vem, no sábado, você vai mudar um panorama. Mas, olha, entraram em tantas inscrições e tal, ainda tem várias. Tá a escola, tá a escola, tá a escola, aí eu vou na sala, confletando, entendeu? Acho que é primeiro, foi o que eu expliquei pro Tom, acho que primeiro a gente tem que começar, começando, pum.\n\n"
+      },
+      {
+        "start_time": 1773235978236,
+        "end_time": 1773235981116,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Começam a ver as pessoas fazendo, se informar."
+      },
+      {
+        "start_time": 1773235981116,
+        "end_time": 1773236007456,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Pessoal vai ver o barulho e tal, de música e tal, viu? Beleza. Passou a primeira, começou a primeira aula, aí no fim de semana eles vão Eu sempre dizia, ó, ué, teve tantos inscritos aqui e tal, mas ainda tem vaga. Aí eu vou passando na escola, ó, ainda tem tantas vagas. Vamos lá, quem quiser, entendeu? Última chamada, última chamada, ó. Tem tantas vagas ainda, alguém quer?"
+      },
+      {
+        "start_time": 1773236007456,
+        "end_time": 1773236009038,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Acho que é isso."
+      },
+      {
+        "start_time": 1773236009038,
+        "end_time": 1773236009433,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1773236009433,
+        "end_time": 1773236009829,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Beleza?"
+      },
+      {
+        "start_time": 1773236009829,
+        "end_time": 1773236010619,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu tenho."
+      },
+      {
+        "start_time": 1773236010619,
+        "end_time": 1773236014574,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então tá bom, gente. Qualquer coisinha, eu tô no zap."
+      },
+      {
+        "start_time": 1773236014574,
+        "end_time": 1773236015365,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Valeu? Valeu."
+      },
+      {
+        "start_time": 1773236015365,
+        "end_time": 1773236016156,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Beijo. Tchau."
+      },
+      {
+        "start_time": 1773236016156,
+        "end_time": 1773236016551,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Wesley Araujo"
+      },
+      {
+        "name": "Iris Nascimento"
+      },
+      {
+        "name": "Lilian Diniz"
+      }
+    ]
+  },
+  "platform_meeting_id": "isk-dizq-jpf",
+  "platform": "meet"
+}

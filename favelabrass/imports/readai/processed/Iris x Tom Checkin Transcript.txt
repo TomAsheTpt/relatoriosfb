@@ -1,0 +1,779 @@
+Iris x Tom Checkin
+Fri, Jan 30, 2026
+
+0:01 - Tom Ashe
+Espera aí. Tudo bem? Desculpa, eu estava vendo outras coisas aqui. Tudo certo? Como foi lá na reunião pedagógica?
+
+0:11 - Iris Nascimento
+Tranquila? Foi tranquilo, sim. Foi rápido. A gente falou como foram esses processos das reuniões. Deu tudo certo. Todo mundo assinou o manual. Aparentemente, todo mundo entendeu.
+
+0:26 - Tom Ashe
+Que bom. Isso, vamos ver na prática. Vamos ver como vai ser. Então, você teve coisa para ver? Você fez uma pauta? Mandei lá no nosso grupo. Banco de dados. Na nossa reunião, no nosso converso.
+
+1:00 - Iris Nascimento
+Andamento do Banco de Dadas.
+
+1:04 - Unidentified Speaker
+Deixa eu botar aí aqui no chat.
+
+1:10 - Iris Nascimento
+Andamento do Banco de Dadas. Ok. Banco de Dadas.
+
+1:16 - Tom Ashe
+Você conseguiu dar uma olhada lá? Eu não...
+
+1:24 - Iris Nascimento
+Depois você vai ter que falar... A planilha está com você, não é?
+
+1:31 - Tom Ashe
+Você não compartilhou a planilha comigo.
+
+1:34 - Iris Nascimento
+Qual planilha?
+
+1:36 - Unidentified Speaker
+Do banco de dados.
+
+1:38 - Tom Ashe
+Mas não vai ter planilha, porque a gente está trabalhando com banco de dados.
+
+1:46 - Iris Nascimento
+Sim, mas é como se fosse uma planilha que você vai editando e ajustando.
+
+1:53 - Tom Ashe
+Eu posso... Tá, eu posso fazer um site, onde você vê os dados, pode fazer assim.
+
+2:02 - Iris Nascimento
+Então, mas os dados estão aonde? Estão no seu computador?
+
+2:07 - Tom Ashe
+Estão no servidor. No servidor. Mas aí... Eu tinha um Docs. Não, você não vai poder acessar diretamente. Ah, não vou, tá. Deixa... Entendi.
+
+2:20 - Iris Nascimento
+Acho que vale a pena eu explicar. Me explica.
+
+2:27 - Tom Ashe
+Eu achei que eu ia ter acesso para editar. Deixe-me explicar um pouquinho melhor. O banco de dados... Entendi. Não, o banco de dados, eu só preciso que você faz o novo cadastro e eu consigo atualizar o banco de dados central que a gente tem aqui. Mas você vai atualizar manualmente?
+
+3:02 - Unidentified Speaker
+Não, eu vou usar IA.
+
+3:04 - Tom Ashe
+Eu vou pegar quando você tiver, quando a gente tiver, a gente vai entrar novos dados agora, certo? Você vai fazer com todo mundo. Eu vou pegar isso, eu já tenho o nosso banco de dados atual no nosso banco de dados mesmo. Tipo, arquivo.dbm, arquivo de banco de dados. Eu já tenho tudo isso. Agora, eu só preciso... Eu só preciso... Esse novo... O resultado dos Google Forms das novas inscrições. Então, aí isso dá para colocar no banco de dados. Aí vai ficar aqui e eu vou... Criar alguma coisa para poder basicamente... Vocês, a ideia é de atualizar o banco de dados via Slack. Não vai ter uma planilha, nem um lugar para... A gente vai guardar o resultado do Google Formulário. A gente vai guardar isso para ficar lá como referência. Mas para...
+
+4:35 - Unidentified Speaker
+Já está no nosso drive.
+
+4:38 - Tom Ashe
+Sim, exatamente. Mas aí, o banco de dados mesmo vai ser no nosso servidor, ao arquivo .db, e eu posso criar um site para, se quiser, você já vai poder consultar. Via Slack dá para consultar. Eu vou ter um Slack vai conversar com o banco de dados. Então, vão ter comandos para consultar e vão ter comandos para atualizar o banco de dados. Entendi. Uma dúvida.
+
+5:16 - Iris Nascimento
+Eu vi que você mandou essa questão dos horários aqui. Mudou algumas coisas. Porque eu tive que ajustar alguns alunos.
+
+5:27 - Unidentified Speaker
+Sim. Exatamente.
+
+5:30 - Iris Nascimento
+Então, entrar em contato com você para você fazer mudanças.
+
+5:35 - Tom Ashe
+Eu vou precisar... Da forma que isso funciona, o jeito mais prático para isso, você faz uma lista das mudanças, eu copio e colo essa lista de mudanças aqui no Cloud Code, ele vai fazer simples assim. Mas eu preciso de você revisar tudo e falar o que está certo e o que não está certo. Mas aí tem um padrão para seguir? Não. Pode ser linguagem natural. Só falar o que você tem. Coloque isso e ele vai atualizar. Só preciso que você me avise o que tem que mudar. E isso vai ser rápido. Eu, basicamente, eu tava tentando conseguir esses dados, né? De onde tá tudo. Aí eu fiz o melhor que eu podia com os dados que eu tinha, né? Então, eu... Não tem muita coisa também não, né?
+
+6:42 - Iris Nascimento
+Só aqueles dados do cadastro e das aulas.
+
+6:46 - Tom Ashe
+Aí, se você puder, se você puder, só mandar essa lista que vai E eu queria... Eu tenho a sensação de que estou... Eu fico trabalhando nisso e chego a um ponto em que tenho que explicar direitinho para vocês, sabe? Sim. Para vocês entenderem aquela coisa. Tudo isso vai ser em todos os dados. Tudo. Produção, pedagógica, instrumentos, tudo. Imagina tudo que isso é na rádio. Em um arquivo DB no nosso servidor, que vai ser acessado por Cloud Code. E a gente vai acessar isso, vai ter esses sites, que você já viu um que eu fiz, eu vou te mostrar outro agora. Sites para consultar e o Slack vai conversar com isso. Então, com o Slack você usa como para atualizar. A sua próxima pauta foi presença. Eu queria te mostrar alguma coisa, então. Ele, novamente, eu não dormi nada, só para te deixar... Meu Deus! Eu não sei se eu te falei, a gente está com esse esquema de desenvolvimento, não desenvolvimento, mas Tiago, Ele ficou associando dormir com mamar. Isso quer dizer que ele acordou, estava acordando o tempo inteiro, chorando, querendo... Vocês não botam chupeta ali. Nunca teve chupeta. A única forma de quebrar isso, à noite, só eu que vou lá para atender ele. E não a Tamires. Então, ontem à noite... Não, eu sei, eu entendo completamente.
+
+8:47 - Unidentified Speaker
+Se eu não estou me expressando...
+
+8:50 - Tom Ashe
+Tranquilo.
+
+8:50 - Iris Nascimento
+Se você quer marcar outro dia, a gente pode marcar amanhã também, mas amanhã é sábado. Sem problema nenhum, é só para você me dar esse desconto, tá?
+
+9:02 - Tom Ashe
+Tranquilo. Acho que eu consigo explicar. O que eu vou fazer agora, eu vou abrir o Slack, eu vou te mostrar onde Por exemplo, eu vou fazer na conversa com você, tá? Eu estou compartilhando aqui. Estou aqui no Slack, tá? Basicamente, eu estou criando comandos para a gente poder conversar com o banco de dados via Slack. Então, poderia ser uma coisa simples de consultar. Por exemplo, se eu colocar esse, está vendo aqui? Também está chegando em todos os comandos.
+
+9:43 - Iris Nascimento
+Você consegue me enviar depois o link do Slack para eu abrir aqui?
+
+9:49 - Tom Ashe
+É porque eu baixei ele no celular, mas dá para acessar pela internet. É assim, mas deve ser slack.com, coisa assim. Imagina Slack como o WhatsApp, basicamente. É o WhatsApp comparativo e tem vantagens, porque depois você vai fazer mas tem, ao invés de grupos, você tem canalhas. E você pode incluir todo mundo que, por exemplo, eu tenho uma canalha, eu criei um canal de compras. No canal de compras, qualquer coisa de nota fiscal para compras, né? A galera pode colocar aqui, e diferente do WhatsApp, as fotos, os arquivos não vão sumir, entendeu? E, crucialmente, o Cloud Code conceito e conversar super com isso. Então, eu posso pedir para o Cláudio dar uma olhada no Slack, ver se tem alguma coisa que a gente tem que atualizar, etc. Mas a coisa é, aqui nessa conversa, está vendo no screenshot, na tela compartilhada aqui, por exemplo, eu vou dar alguns exemplos das coisas que a gente pode fazer. Aquela banda preta, por exemplo. Se eu colocar a banda preta, vai me dar uma lista de tudo que está na banda preta. Sim. Agora, outra coisa. Deixa eu ver. S-lunches. Lunch. Ok. Acho que não configurei essa. Mas o importante para você é... Tinha um lanche ali. Oi? Tinha um lanche ali. Ah, sim, sim, mas eu acho que não tá configurado. Mas o que eu queria mostrar pra você mesmo aqui. Vamos supor, na segunda-feira o Wesley vai fazer a banda preta, certo? Aí ele coloca... Ele coloca... Tá comigo? Tô com você. Ah, tá tranquilo. Aí o Wesley coloca, quer fazer a presença da banda preta. Qual que é a banda? Slash presença e a banda. Então, presença preta. Tá vendo aqui que aparece? Ah, sim. Aí consegue marcar. Dez marcas, uns que faltaram. Qual que é professor vai poder fazer isso no celular?
+
+12:28 - Iris Nascimento
+Mas aí a data?
+
+12:29 - Tom Ashe
+Aí é a parte onde eu quero o meu prêmio, porque vai gravar a data que a coisa está feita, entendeu? No dia que ele preenche?
+
+12:41 - Iris Nascimento
+Então, se ele preencher, por exemplo, ele não consegue preencher o do dia anterior?
+
+12:47 - Tom Ashe
+Não, eu vou colocar para isso também, mas dá para fazer isso, mas a coisa é para eles fazerem na hora mesmo, e também quem vai conseguir a presença de memória do dia seguinte.
+
+13:01 - Iris Nascimento
+Então, não pode botar a pirinela... É, porque, por exemplo, lá não funcionou. Agora é na sua casa, né?
+
+13:08 - Tom Ashe
+Vai ter Wi-Fi, né? Sim. A internet não funcionou. Não, não, tudo bem. Tem tudo isso. E talvez uma... Mesmo se eles fizeram no dia seguinte, só ia mudar a data de um dia, mas a coisa é que, sabem, tudo esse quebra de cabeça teve aula, teve aula, se teve aula, entendeu? É implícito. Então, todo mundo tem que estar no Dilec, todos os professores. Exatamente, exatamente. Aí, isso é o desafio. Mas, olha que não é difícil. E tem as outras, a gente tem que ver como comunicar isso. De repente, quem está fazendo segunda-feira, comunicar com eles antes. Ou eu poderia gravar um vídeo, talvez, se eu fosse gravar um vídeo, mas é bem simples. Não, eu posso fazer uma reunião com eles, Lucas. Ah, meu Deus, obrigado.
+
+14:05 - Iris Nascimento
+Eu acho que é melhor.
+
+14:08 - Tom Ashe
+Deixa eu mostrar outro. Aqui eu preciso entender bem para tirar as dúvidas. Tem presença, presença aula é melhor ainda. Presença aula, Joana, tá? Vai Eles vão ter que fazer no dia. Vai saber o dia que ela tá... Espera aí. A Joana não tem aula na sexta.
+
+14:31 - Iris Nascimento
+Quem tem aula na sexta?
+
+14:34 - Tom Ashe
+Wesley e Anderson. Caraca, gostei. Presença, aula. Anderson. Vou botar Anderson, vai ver se tem.
+
+14:42 - Iris Nascimento
+Ah, não tá.
+
+14:45 - Tom Ashe
+Tá vendo?
+
+14:46 - Iris Nascimento
+Ah, sim, aí aparece aí, dia 30.
+
+14:50 - Unidentified Speaker
+Perfeito.
+
+14:51 - Iris Nascimento
+Perfeito.
+
+14:51 - Unidentified Speaker
+Aí, bom...
+
+14:52 - Tom Ashe
+E aí, isso atualiza automaticamente no relatório?
+
+14:56 - Iris Nascimento
+Eu vou chegar no relatório daqui a pouquinho, já estou fazendo.
+
+15:02 - Tom Ashe
+Porque aí eu consigo ir olhando todo dia, no final do dia eu consigo olhar para ver se eles Sim, e presença...
+
+15:14 - Iris Nascimento
+A gente conversou agora na reunião pedagógica. Eu vou ter que fazer esse monitoramento diário para poder ver os alunos que faltaram e não justificaram, entendeu?
+
+15:25 - Tom Ashe
+Mas eu vou falar, isso aí... A gente vai fazer o básico agora, mas isso aí não vai ser você monitorando todo dia. Isso vai ser você recebendo uma mensagem no Slack automatizado do Ducard falando isso. Falta os fulano. Entendi.
+
+15:43 - Iris Nascimento
+Ah, isso aí é um sonho, né? É um sonho.
+
+15:48 - Tom Ashe
+Por isso, eu sei que é muito contramão, né? A gente já estava na coda, mas não tem como.
+
+15:58 - Iris Nascimento
+Isso é tão melhor que a coda, que é tão mais visual e mais... Como é que eu posso dizer? É mais... É inacessível mesmo a forma de lidar.
+
+16:12 - Tom Ashe
+Sim. Então, eu tenho que torturar a equipe mais um pouquinho, mas depois vai ser legal.
+
+16:20 - Iris Nascimento
+Não, mas aí vai ser um ganho 100% no trabalho. Depois de o pessoal se adaptar com a coda. Ah, ainda tem o nome de compras aqui, que agora que eu vi.
+
+16:35 - Tom Ashe
+Sim. Sim, isso vai ser tão prático. Eu vou, eu tô na minha lista para criar, para estruturar isso das canais, eles, isso vai ajudar a gente muito. Mas a presença, tem outro presente aqui, presença e teoria. Aula de teoria, presente e teoria, Joana. Não tem hoje, então não vai retornar. Ah, tá. Joana tem dois termos de teoria.
+
+17:04 - Unidentified Speaker
+Isso, exatamente. TRN1.
+
+17:05 - Unidentified Speaker
+Isso.
+
+17:06 - Tom Ashe
+Não vai abrir porque não é hoje, né? Exatamente. Mas aí a gente consegue ajustar para poder liberar.
+
+17:15 - Iris Nascimento
+Eu acho que na segunda... Pode acontecer de não conseguir preencher no dia. Sim. Não, tudo bem.
+
+17:25 - Tom Ashe
+Na verdade, eu acho... Tá, deixa eu colocar isso na minha lista para colocar essa flexibilidade. Porque eu acho que já tem, mas eu esqueci como é que eu fiz. Mas eu vou colocar. Professores mandando... Mas eles... Tem uma parte disso, detalhe nisso, que acho que você vai gostar. Você vai gostar. Alô? Tô ouvindo. Ah, a parte que você vai gostar. É que eu tô escrevendo. Tem uma parte que você vai gostar. A gente calcula a folha salarial dos professores as horas dos professores através das presenças. Ah, sim.
+
+18:20 - Iris Nascimento
+Se teve aula, vai ter presença.
+
+18:23 - Tom Ashe
+Então, na hora de mandar a presença, entra na folha de pagamento, outra parte dos bancos de dados, a hora que o professor fez. Então, quer dizer, não tem presença, não tem pagamento. Então, é um incentivozinho pra galera.
+
+18:44 - Iris Nascimento
+para eu deixar as coisas em dia. Mas, por exemplo, quando o aluno...
+
+18:52 - Tom Ashe
+Ali a gente só coloca a presença. E falta. E justificado. Então, isso vai gravar só presente e não presente. Depois, a Lillian vai ter essa função... Está vendo esse justificado?
+
+19:12 - Iris Nascimento
+E vai aparecer só os dias de falta, será?
+
+19:17 - Tom Ashe
+Ou ela vai ter que colocar a data e o... Ela vai colocar, justificar o número do aluno. Então, vai ser justificar, deixa eu ver, que está aqui na... Na própria escrita, primeiro o nome do aluno. Nome aluno, data e motivo. Quer dizer, vai ser... Vai ficar...
+
+19:44 - Unidentified Speaker
+Justificar.
+
+19:44 - Unidentified Speaker
+Tudo...
+
+19:45 - Tom Ashe
+Outra coisa importante, todo aluno tem uma ideia. Você vai ver lá no roteiro, todo aluno vai ter uma ideia que vai ajudar, sabe? Para a gente... Então, vai justificar 214, 12 de... 12 de janeiro, sei lá, 2026, aí depois escrever a justificativa. E isso vai entrar no banco de dados. Deixa eu te mostrar uma outra coisa aqui.
+
+20:20 - Iris Nascimento
+A gente consegue fazer teste? Tipo...
+
+20:23 - Tom Ashe
+A gente vai ter que fazer teste.
+
+20:27 - Unidentified Speaker
+A gente vai ter que fazer teste antes, né?
+
+20:31 - Tom Ashe
+Sim. O que eu tô fazendo agora...
+
+20:35 - Iris Nascimento
+Tá vendo isso aqui?
+
+20:37 - Tom Ashe
+Ok. Por exemplo... Pode rolar. Ok. As presenças aqui, o grupo, isso vai tirar todas as coisas do banco dos dados e vai apresentar. Estou trabalhando nesse site, só para você ter uma ideia. Por aluno, por exemplo. Está vendo aqui?
+
+21:44 - Unidentified Speaker
+Sim.
+
+21:45 - Iris Nascimento
+Aí sim, aí já vem um negocinho. A gente não consegue imprimir, né? Só copiar e colar.
+
+21:54 - Tom Ashe
+Eu posso fazer assim, mas a coisa que relatórios, fichas mensais para WhatsApp, eu não testei isso.
+
+22:03 - Iris Nascimento
+Ah, legal, ainda tem o formato de copiar e colar.
+
+22:08 - Tom Ashe
+Olha só. E eu tô organizando que a gente tem um sistema diferente de presença no momento, não é aqui, no final do mês. Aquela coisa, no primeiro não autorizado, eles recebem uma coisa.
+
+22:28 - Iris Nascimento
+Você lembra do manual?
+
+22:30 - Tom Ashe
+No primeiro, falta, não é? Você lembra como a gente mudou o manual em termos da política das presenças? Das presenças. Sim, entendi. São três, uma falta no semestre.
+
+22:46 - Unidentified Speaker
+Sim, sim.
+
+22:47 - Tom Ashe
+Acho que a gente acaba com três faltas não autorizadas.
+
+22:51 - Tom Ashe
+Coisa assim no semestre. Três faltas não autorizadas no semestre, isso. É, mas o que eu estou criando aqui, não sei se atualizou com isso, mas a ideia, não é ideia, o que eu vou fazer é quando tiver uma alerta, vai gerar uma ficha para ser mandada na hora. Eles ainda recebem mensal, essas mensais, que é trabalhoso, mas dá para fazer. Até dá para automatizar depois. Mas, o...
+
+23:24 - Iris Nascimento
+Não, mas, estando pronto, copiar e colar é tranquilo. Eu já faço esses contatos.
+
+23:31 - Tom Ashe
+Sim, mas, além disso, a gente vai colocar ficha para quando fazer a advertência, já tem uma ficha para mandar de presente, sabe? Uma ficha atual, ó, tá no primeiro, tá no segundo, essas coisas. Então, e aqui, alertas de frequência. Eu coloquei dados fictícios aqui só para ver como vai funcionar, né? Aquela coisa de estar checando, como você falou. E aqui, tá vendo? Alertas de frequência. Aí vou criar alguma coisa que vocês vão lá e vai estar tudo lá. Você não vai tem que ficar estudando uma planilha, tudo que precisa.
+
+24:08 - Tom Ashe
+As informações estão todas aí, sim.
+
+24:10 - Tom Ashe
+Aí, se quiser checar um aluno, como está a ARL? Ah, tá.
+
+24:15 - Iris Nascimento
+E eu consigo ver as aulas por aluno também, tipo, tudo que o aluno faz no dia, na semana, por exemplo, todas as atividades do aluno. Por exemplo, se eu buscar um aluno aí nessa busca, aí eu consigo Não, isso seria mais...
+
+24:34 - Tom Ashe
+Deixa eu ver, se eu não tivesse... De forma geral, se você precisar de alguma coisa, me fala. Não, só pra saber mesmo.
+
+24:43 - Unidentified Speaker
+Não, não, não, é isso mesmo.
+
+24:46 - Tom Ashe
+Eu não coloquei por aluno aqui, eu posso colocar por aluno.
+
+24:51 - Iris Nascimento
+É, e aí eu queria conferir também se tá o horário certinho. No caso, naquele... Ah, isso aí é pesado. Não é o mesmo que você me mandou o nome.
+
+25:04 - Tom Ashe
+Não, esse é o roteiro. É o roteiro. Presença, eu coloquei uma senha, que é Amigos da Castelo, por enquanto.
+
+25:14 - Iris Nascimento
+Se você puder depois me enviar isso que você já tem, para eu só ir conferindo e sinalizar o que precisa ajustar.
+
+25:24 - Tom Ashe
+Sim, ok. Roteiro. Roteiro, aí me fala o que você sente falta, etc. Ainda tem um para o roteiro, para saber quem faz o quê, quando, etc. Eu vou colocar para o aluno aqui. Isso vai ser rápido. Deixa eu ver se eu consigo fazer isso enquanto a gente fala. Ah não, peraí, deixa eu ver se tá no Slack.
+
+26:13 - Iris Nascimento
+Eu posso colocar isso no Slack?
+
+26:27 - Tom Ashe
+Eu acho que eu tenho que O problema é que eu ainda não quero apresentar alguma coisa antes de terminar totalmente, mas deixa eu te mostrar aqui. Mas deixa eu te mostrar alguma coisa aqui, Iris. A comanda aqui, no Slack. Está olhando no Slack? Está vendo a tela? Eu vou colocar aluno, sei lá, 53.
+
+27:14 - Iris Nascimento
+Tá vendo? Eu coloquei no chat mesmo. Ah, tá aqui no nosso chat?
+
+27:21 - Tom Ashe
+Eu vou fazer de novo.
+
+27:23 - Tom Ashe
+Aqui não chegou não.
+
+27:25 - Tom Ashe
+Você tá olhando a tela que eu tô compartilhando?
+
+27:30 - Unidentified Speaker
+Tô, tô vendo.
+
+27:31 - Tom Ashe
+Ok. Aí você vai poder fazer isso. Aluno 53, por exemplo. Manda. E o bot vai te mandar essa resposta.
+
+27:42 - Tom Ashe
+Não, porque não está atualizando para mim, não, a tela.
+
+27:48 - Iris Nascimento
+Será que a internet está... Está no Slash Commons.
+
+27:53 - Tom Ashe
+Slash Commons. Não está compartilhando certinho? Deixa eu ver se está certo aqui. Aqui dá para ver? Agora foi, agora foi. Então, desculpa. Aí eu coloco aluno 53. Aí vai me dar esse retorno.
+
+28:16 - Unidentified Speaker
+Tá olhando?
+
+28:18 - Tom Ashe
+Tá olhando. Então, aí vai falar o grupo dele. Grupo Semente, Teoria N1, Zola, Aula, Joana Saraiva. Beleza.
+
+28:33 - Iris Nascimento
+Olha, eu tô aqui no Slack, está avisando essas mensagens para mim. É que eu estou mandando uma conversa para você.
+
+28:44 - Tom Ashe
+Para mim, é.
+
+28:46 - Iris Nascimento
+Pois é, mas aqui não está chegando.
+
+28:48 - Tom Ashe
+Eu vou mandar ouvir diretamente para você. Está aqui, está escrevendo.
+
+28:53 - Iris Nascimento
+Está escrito visível só para você. Ah, sim. Isso é ótimo.
+
+28:57 - Tom Ashe
+Isso é quando eu estou consultando o bot. Então faz sentido que não chegue para você. Eu não sabia disso. Melhor ainda. Teste chegou. Estou de bola. Então, André, deixa eu ver aí. Colocando esses outros. Horário, por exemplo. Horário e chance.
+
+29:20 - Unidentified Speaker
+Ah, perfeito.
+
+29:21 - Unidentified Speaker
+Entendeu?
+
+29:22 - Tom Ashe
+E eu posso...
+
+29:24 - Tom Ashe
+É porque isso é legal de consultar, mas aí para eu dar uma...
+
+29:34 - Iris Nascimento
+dá uma confirmada geral, eu precisava de olhar...
+
+29:38 - Tom Ashe
+Do site, do site. Exatamente, são as duas coisas. Então, por isso o site. Agora...
+
+29:44 - Iris Nascimento
+Não, mas para consultar, show, que aí eu posso até, quando os professores já estiverem dentro do Slack, eu mando os horários para eles aí também, para eles deixarem registrado.
+
+29:57 - Tom Ashe
+Mas a gente vai ensinar aos professores para consultar seus horários, Não, com certeza.
+
+30:04 - Iris Nascimento
+Só para no início, quando for começar o processo, aí eu já deixo de estar.
+
+30:13 - Tom Ashe
+Por exemplo, horários. Por exemplo, os professores podem... Pô, professor, eu sou o Shams, por exemplo.
+
+30:22 - Unidentified Speaker
+Aqui?
+
+30:23 - Iris Nascimento
+Sim. Esse site, eles vão ter acesso.
+
+30:28 - Tom Ashe
+a gente pode compartilhar com eles. Exatamente. É por isso mesmo. Aí eu vou, eu posso colocar por aluno também para você acompanhar também. Tá, beleza.
+
+30:39 - Iris Nascimento
+Porque fica legal, porque fica mais visual também para os... Sim, exatamente. Não dá para o pai esquecer o horário.
+
+30:48 - Tom Ashe
+Aí, eu acho que para os pais, a gente cria outra coisa para os pais. Vamos criar, depois, com calma, a gente cria um link para os pais, com a agenda, etc., etc., que aqui é diferente do nosso. Porque a gente tem que pensar essa dinâmica aqui. A gente não quer que todos os pais... A gente tem que tomar um pouco de cuidado com a quantidade de informação que a gente espalha. Sim, com certeza. Mas um site para os pais com...
+
+31:21 - Iris Nascimento
+Pelo menos com a agenda seria ótimo.
+
+31:24 - Tom Ashe
+Isso, exatamente.
+
+31:24 - Tom Ashe
+Estou trabalhando em tudo isso. E, novamente, é preciso que isso me fale, que eu faça. Essa coisa dos horários aqui é essa página aí. E outra coisa, só uma coisa importante. O que está no banco de dados, não podemos ter dados fora desse banco de dados. No sentido de que qualquer sistema de informática tem que ter... Tem que estar vinculado. Eles falam de source of truth, fonte de verdade. Sabe, quando eu estou nessas conversas com vocês, eu estou falando, ah, vocês digitaram uma planilha, não, mas essa parte está nessa planilha, e vocês estão com uma planilha, e eu estou aqui trabalhando. Isso, tudo isso, a gente tem que trabalhar juntos para, basicamente, se não tiver não existe, a gente tem que pensar assim. Aí a gente pode fazer rascunho, fora, etc, etc, mas o... Isso tem que ser referente para todo mundo, porque se não, se tiver uma, sabe, se tiver outra planilha, ah, não, tá lá no site do Tom, mas tá atualizado, desatualizado, vendo na planilha, isso aí vai levar a gente à loucura, sabe? É, sim, porque vai dar muita coisa A cor espalhada. Sim. E com isso a gente consegue centralizar tudo, organizar super bem. Então, basicamente, a coisa que eu vou mais precisar de você é de você vendo que os dados nesse sistema estão corretos. E nesse momento inicial, realmente, você pode... Eu preciso que você mude isso, isso, isso. Até eu tiver, até os comandos, a gente está entendendo o sistema, tem os comandos de Slack, coisas automatizadas, mas por enquanto, qualquer mudança, se anota as mudanças, manda para mim, e eu até posso pegar e colar esses comandos para a Cloud, ele faz na hora, sabe? Entendendo o que a gente faz. É bem, as coisas avançaram no final do ano passado. Então, é basicamente isso. Então, a coisa que eu queria mais, se você está vendo essa página aqui, eu chutei as salas.
+
+33:56 - Iris Nascimento
+Está tranquilo. A gente vai ter sala dentro, por exemplo, na tua casa, vai ter sala 1, sala 2? Isso.
+
+34:07 - Tom Ashe
+Sala 1 é a sala maior, ali embaixo.
+
+34:11 - Tom Ashe
+A sala, o quarto maior, sala 2 é o quarto menor, a sala grande é em cima, e percussão é a sala de percussão. E tem o estúdio também, onde eu estou agora, né? Do lado da sala grande.
+
+34:28 - Iris Nascimento
+Você já foi aqui, né? Já fui na sua casa, mas depois da reforma, não. Ah, tá. Mas aqui é...
+
+34:36 - Tom Ashe
+Segunda-feira eu vou aí. Sim. E tá todo mundo organizando para... Está tudo certo com a obra. Está tudo caminhando. Está tudo certo. Está instalando o ar hoje, já entregaram as portas e janelas, amanhã fecha tudo. É? Sim.
+
+34:54 - Iris Nascimento
+Vai ser só a parte de limpeza, organização e...
+
+34:58 - Tom Ashe
+Organização. E está... Acho que o Wesley falou de fazer uma coisa para organizar tudo na segunda-feira, é isso? Todo mundo entrar e...
+
+35:09 - Unidentified Speaker
+Com o Wesley, eu acho que com os meninos.
+
+35:13 - Tom Ashe
+Sim, sim. Mas eu devo ir aí.
+
+35:15 - Tom Ashe
+Sim, exatamente.
+
+35:16 - Tom Ashe
+Acho que vai dar certo. No momento, estão todas as coisas espalhadas, mas vai dar sim para fazer na segunda-feira e ir embora. Vocês falaram sobre a Banda Verde ensaiando Dawson Song ou não foi levantado? Deixe-me ver isso com o Wesley. Não, não levantamos sobre isso. Porque é uma possibilidade.
+
+35:37 - Iris Nascimento
+Toda vez de ensaio, ainda, na quinta-feira.
+
+35:41 - Tom Ashe
+Estava colocado na minha casa, mas é complicado, porque a gente não tem ensaio só na parte de cima, que é uma obra maior ainda. É para não atrapalhar tanto os vizinhos. Eu não acho muito prudente colocar, mas eu vou começar com Wesley. Eu queria ver é a possibilidade de colocar... Seria bom também? Ou seja, se não é possível. Se fosse possível...
+
+36:12 - Iris Nascimento
+Conversar com a vizinha aí, não é?
+
+36:15 - Tom Ashe
+Não, eu estou aqui fazendo isso... Eu já comecei, vou conversar com os outros agora mesmo.
+
+36:21 - Iris Nascimento
+Eu acho que, temporariamente, a Banda Vez poderia, sim, fazer nossa função, mas aí teria que conversar com o Ivan.
+
+36:29 - Tom Ashe
+Sim, não, o Ivan já deu... O Ivan já deu... Já falou que a gente pode usar quando a gente quiser.
+
+36:37 - Iris Nascimento
+Exatamente isso que eu penso. Vai ser só isso, só esse dia, uma da vez, que é pequena.
+
+36:44 - Tom Ashe
+Mas é melhor eu ver esse dia com o Wesley. Eu só queria ver com vocês se ele já falou alguma coisa.
+
+36:52 - Iris Nascimento
+Ele falou que ia conversar com você.
+
+36:54 - Tom Ashe
+Ele comentou. Ah, tá certo. Vou conversar com ele. A gente resolve aí. Beleza. Mas o que eu preciso de você Você falou que tem... Qual sala cada coisa vai acontecer? Não, a sala não tenho.
+
+37:07 - Iris Nascimento
+A sala não tenho. Acho que o Wesley ainda vai definir, não sei se ele já definiu.
+
+37:14 - Tom Ashe
+Sim, eu vou ter que mandar para o Wesley então. De repente fechar isso com ele, é. Mas se você puder... De repente eu deixo essa tarefa...
+
+37:23 - Iris Nascimento
+Ele me fala, entra em contato comigo, ele me passa, entendeu?
+
+37:29 - Tom Ashe
+Ele pode me passar também. Pode ser também. Eu só confiro se está tudo de acordo.
+
+37:36 - Iris Nascimento
+Não, beleza.
+
+37:37 - Tom Ashe
+Em algum momento, eu vou ter que marcar essa sessão de mostrar como usar isso, mas é aquela coisa que...
+
+37:46 - Iris Nascimento
+A gente vai ter que marcar uma hora e meia, pelo menos.
+
+37:51 - Tom Ashe
+Sim, mas com os professores é mais básico. Não, com os professores, O que eu posso fazer individualmente com eles? Professores, é passar o site e gravar um vídeo e mandar para eles.
+
+38:06 - Iris Nascimento
+E passar os comandos para eles, para eles entenderem como funciona o Slack.
+
+38:11 - Unidentified Speaker
+Sim, sim.
+
+38:12 - Iris Nascimento
+Vai ser basicamente o Slack, vai ser a ferramenta de trabalho deles, e o site vai ser só consulta.
+
+38:20 - Tom Ashe
+Exatamente, a gente vai ter... Exatamente. Slack, a gente vai para poder fazer ajustes no Slack, sabe? No momento, você pode falar, ó, Miguel, sei lá, Miguel mudou de bando para essa banda. Pode me mandar, eu coloco lá, que vai funcionar da mesma forma. Mas depois vai ter comandos para tudo isso no Slack. Mas para consulta, vão ter vários sites para consulta no roteiro, presença, e esses sites vão ser onde as pessoas podem se informar.
+
+38:50 - Iris Nascimento
+Beleza. Então, Eu já tenho o link do roteiro, de repente você me mandar esse link de... Outro link que você está usando.
+
+38:59 - Tom Ashe
+É, das pesas para eu olhar. Só para deixar claro, essa desprezença não tem dados, porque a gente não tem dados. Aliás...
+
+39:07 - Tom Ashe
+Não, sim, é só para ver como é que está o layout.
+
+39:12 - Tom Ashe
+Você está gravando uma coisa onde eu como em Mosca. Eu estava preparando tudo para as aulas começando no... No fevereiro, mas a gente tem que gravar. Já está começando, né? Tem essas coisas do Assumpção. Você está conseguindo gravar as faltas do Assumpção?
+
+39:28 - Iris Nascimento
+Está, estou registrando. Registrei, já. Só tenho que pegar de quarto. Mas, assim, a gente conversou isso na reunião também pedagógica. Essa primeira semana, agora, foi como se fosse um ensaio extra. A gente cobrou a presença para que eles, enfim, já comecem nos trilhos da política. Então, todo mundo que faltou, justificou, entre aspas. E teve uma presença bem forte, assim, acho que foram dois ou três que faltaram. Foi quase todos os alunos, né, de todas as bandas. Então, os que faltaram e não justificaram, eu mandei uma mensagem, tipo uma mensagem de atenção, para que isso não se repita nas próximas semanas, nas aulas regulares, porque é realmente a aula, obrigatória, né, e tal.
+
+40:15 - Unidentified Speaker
+Sim.
+
+40:16 - Iris Nascimento
+E aí a gente pensou em não, não, a gente pode considerar como presença, mas não considerar as faltas que aconteceram, entendeu? Que não foram justificadas. E considerar a partir do início das aulas mesmo de segunda-feira. Ok, então a gente nem coloca, basicamente. É, eu diria que não precisaria, agora. Mas eu tenho registrado, qualquer coisa eu tenho registrado.
+
+40:41 - Tom Ashe
+Então, basicamente, A nossa missão, quem tem aula na segunda-feira? Todo mundo que tem aula na segunda-feira tem que saber colocar no Slack. Deixa eu ver.
+
+40:55 - Unidentified Speaker
+Por dia, segunda-feira, tem Joana, Pabllo, Tiago, Ira e Wesley.
+
+41:01 - Tom Ashe
+Então, é isso.
+
+41:02 - Iris Nascimento
+Eu posso colocar a presença deles, se for o caso? Eu poderia?
+
+41:10 - Tom Ashe
+Mas façam eles, a ideia é essa, façam eles. É porque eu teria que explicar como é que é.
+
+41:21 - Iris Nascimento
+O Tiago, por exemplo, ele é meio difícil.
+
+41:26 - Tom Ashe
+Mas uma coisa que Slack, se eles conseguem usar WhatsApp, eles conseguem usar Slack.
+
+41:34 - Iris Nascimento
+Pois é, mas essa é a questão. Eu não sei se isso tá ruim para você.
+
+41:43 - Tom Ashe
+E se você passar lá na segunda-feira, só no final da aula, que tá do lado da sua casa?
+
+41:51 - Iris Nascimento
+Então, eu pensei deles me mandar.
+
+41:53 - Iris Nascimento
+Eu posso passar lá, mas eu pensei deles me mandarem as presenças no WhatsApp, que eu já registro logo.
+
+42:02 - Tom Ashe
+Na mesma hora que eles me mandam, eu já registro. Mas eu quero... Eu quero tirar essa fricção. Eu quero eles colocando direto. Ah, tá.
+
+42:12 - Iris Nascimento
+Você diz eu passar lá e mostrar para eles como é.
+
+42:16 - Tom Ashe
+Imagina, você faz... Eu penso, ou você faz isso uma vez, ou em ano inteiro eles estão te mandando essas coisas, sabe? Você faz esse setup e se eles não... Sabe? Eles não mandam, eles não vão receber. Tipo, não que eles não vão receber, se eles não mandar, vai aparecer no nosso sistema. Eu vou ver para verificar isso. Tudo vai ficar aparente. Eu vou poder criar um check. Eu vou colocar isso no programa. Create check for... Para você não ter que... Mesma coisa das... Das evidências, essas coisas. Poderia ser que... Um alerta no dia que eles não preenchem.
+
+43:11 - Unidentified Speaker
+De repente, sabe?
+
+43:12 - Tom Ashe
+Nem para você, sabe? Um alerta para o professor. Você teve aula ontem, mas a presença não foi registrada. Você quer, um, registrar a presença, dois, registrar que a aula não aconteceu, ou... Três, falar com o vendedor, não estou brincando. É uma coisa dessas. Eu posso ter um canal aberto com você nesses próximos dias, em termos dos dados. O que estou vendo aqui? Estou vendo um trabalho, no início, erros. A gente vendo, isso não funcionou, mas tendo que checar dados, mas depois disso, eu juro que isso vai facilitar a vida muito. E cada vez você vai...
+
+44:05 - Iris Nascimento
+O meu receio é a gente registrar isso tudo via Slack e, enfim, aparecer erros, aparecer questões, e a gente não conseguir fazer o monitoramento das faltas, por exemplo, que a gente precisa fazer. Quem faltou tem que levar advertência.
+
+44:25 - Tom Ashe
+Não, isso vai dar certo. Isso a gente vai conseguir. Eu tenho certeza. Se as pessoas cadastram alguma coisa, vai no banco de dados e a gente não vai perder dados.
+
+44:36 - Iris Nascimento
+Mas, por exemplo, eu ainda não conferi os horários certinhos dos alunos. Então, eu vou ter...
+
+44:42 - Tom Ashe
+Isso, sim, a gente tem que ter. Isso, sim, a gente tem que ter. E a gente vai... Precisaria de um tempo só para conferir.
+
+44:51 - Iris Nascimento
+iria certinho estar de acordo.
+
+44:54 - Tom Ashe
+O que eu preciso de você, mais de qualquer coisa, é verificar esses dados nesse site de roteiro. Só isso. Estar firme com isso seria fantástico. Mas, na verdade, é o Wesley que vai checar? Ou o Wesley vai checar os...
+
+45:14 - Unidentified Speaker
+As salas.
+
+45:15 - Tom Ashe
+O Wesley vai checar as salas. Vai checar tudo.
+
+45:20 - Unidentified Speaker
+E eu vou checar geralzão.
+
+45:23 - Tom Ashe
+Sim. E, novamente, se você... Então, mas eu queria poder ver o aluno por aluno ou coisa assim, qualquer coisa que você quer um site para poder visualizar, só falar.
+
+45:40 - Unidentified Speaker
+Que eu crio.
+
+45:42 - Unidentified Speaker
+Tá.
+
+45:42 - Tom Ashe
+Beleza. Mais alguma coisa?
+
+45:45 - Iris Nascimento
+A minha dúvida é como é que isso vai ser atrelado ao aluno. Por exemplo, eu não falo A justificativa, se a Lília registrar a justificativa, já vai automaticamente... Exatamente.
+
+46:19 - Iris Nascimento
+Apontar a falta e muda, vira jota, alguma coisa assim?
+
+46:24 - Tom Ashe
+Exatamente, exatamente. É banco de dados. É exatamente isso. Vai achar aquele, a falta não é justificada, vai mudar para justificada e vai adicionar o comentário da Lília de por que foi justificada. E tudo vai começar.
+
+46:41 - Unidentified Speaker
+Tá.
+
+46:46 - Iris Nascimento
+Tá, acho que é isso então.
+
+46:49 - Tom Ashe
+Então, a prioridade é fazer o roteiro, né, atualizar o roteiro.
+
+46:55 - Iris Nascimento
+Confirmar se tudo certo, fazer os ajustes necessários. Aí, segunda-feira, eu iria lá presencialmente, no final da aula, para poder pedir para os professores já. Eu já tenho que falar antes então, pedir para todos eles baixarem os leques.
+
+47:14 - Tom Ashe
+Sim, por favor.
+
+47:16 - Iris Nascimento
+E aí, você vai ter que convidar eles para entrar no Uru.
+
+47:21 - Tom Ashe
+Isso, fala para eles baixarem Slack e eu vou fazer o convite.
+
+47:26 - Iris Nascimento
+De repente, criar um canal só de presenças, ou um canal só de professores, não sei se dá para fazer isso.
+
+47:35 - Tom Ashe
+Eu vou pensar nisso, eu vou pensar na estrutura como um todo.
+
+47:40 - Iris Nascimento
+Eles não precisam ter acesso a todos os canais. Exatamente, vou mapeando isso. Qualquer coisa, se eles não conseguirem baixar o Slack, aí eu mostro pelo meu, e aí eu consigo registrar a presença?
+
+48:02 - Tom Ashe
+Se eles conseguem baixar o WhatsApp, eles conseguem baixar o Slack. Vão conseguir, eles têm que conseguir.
+
+48:16 - Tom Ashe
+Que é aquela coisa...
+
+48:18 - Unidentified Speaker
+Eu vou mandar uma mensagem, então.
+
+48:23 - Unidentified Speaker
+É, sim.
+
+48:24 - Unidentified Speaker
+Aí, você me manda, então, o link que eu...
+
+48:30 - Iris Nascimento
+Não, na verdade, eu vou mandar uma mensagem lá, No grupo de professores, sim. É, depois que eu mandar uma mensagem.
+
+48:47 - Unidentified Speaker
+Atualização da agenda, né, beleza.
+
+48:50 - Unidentified Speaker
+Justificativos.
+
+48:51 - Tom Ashe
+Ah, é da agenda, isso. A gente ia falar também. A agenda, eu vou criar, eu vou criar isso. No momento a gente vamos até eu coloquei a gente vai ser a mesma coisa mas até isso a gente tá trabalhando naquele link na agenda 226 só que tem aquela a Carol cria um que eu não saber e eu criei outro em branco você tá trabalhando no que começou em branco que eu te mandei só que os dados daquela da Carol né é o da cara tá De repente, é só ajustar o dela. Mas está com coisa que não... Também está desatualizado até um ponto. É só excluir.
+
+49:44 - Iris Nascimento
+Ela já tinha um padrão meio que formado. E o seu está totalmente em branco. Eu teria que ficar olhando o dela para poder relacionar as coisas. E ela ficava nessa responsabilidade da agenda. Então, tem os padrões lá da coluna que ela já deixava preenchido, de acordo com as características do evento.
+
+50:10 - Iris Nascimento
+Então, a banda tal...
+
+50:11 - Unidentified Speaker
+Sim, sim, sim.
+
+50:12 - Iris Nascimento
+Não sei o quê. Aí o setor totalmente branco, então eu vou meio que ter que copiar dela para poder entender o que casa.
+
+50:22 - Tom Ashe
+No meio, é só copiar os... Tem que copiar As colunas. Não, o que é row? Não é coluna. É a linha. Tem que copiar a linha inteira para aparecer o menu, para colocar, etc, etc. Mas como você quiser. É só escolher um ou outro. Depois me fala e montar. É que o dela não tem acesso.
+
+50:45 - Iris Nascimento
+Eu não sei se está com você o acesso. Eu posso pedir o acesso e aí você libera. Ah, sim.
+
+50:53 - Tom Ashe
+Deve chegar para mim.
+
+50:54 - Unidentified Speaker
+Se quiser...
+
+50:55 - Tom Ashe
+Mas você viu aquela coisa? A gente pode fazer o baile quatro vezes por ano. Eu vi, sim. Estava lá no contrato.
+
+51:04 - Iris Nascimento
+Você me mandou? Mas as datas...
+
+51:06 - Tom Ashe
+Eu não sei se eu coloquei as datas lá, mas as datas devem estar lá.
+
+51:12 - Unidentified Speaker
+Estão lá também, as datas.
+
+51:14 - Tom Ashe
+Eu não sei se eu coloquei comando de agenda Não, mas eu vou colocar. Mas isso vai ser uma outra coisa. Vai ter agenda.favelabrasco.org. Eu acho que isso poderia servir, sim, para professores e os pais também. E aquela coisa, essa é a agenda. Pode ter alguma coisa, sabe?
+
+51:36 - Iris Nascimento
+Sim, essa é a principal. Tem que ser autorizada.
+
+51:39 - Tom Ashe
+Na verdade, a gente vai ter uma agenda interna da gente, provavelmente, com tudo. Mas também vai ter uma agenda só dos shows, para os pais. Poderem consultar a qualquer hora. Mas eu sei que tem que jogar no grupo, mas...
+
+51:56 - Iris Nascimento
+Só para eu fechar as minhas dúvidas. Você, então, vai ser o responsável central por atualizar todas as informações. Eu não consigo fazer atualização nenhuma pelo Slack. Eu não teria essa, como é que fala?
+
+52:11 - Tom Ashe
+Sim, sim. Você vai poder atualizar pelo Slack, sim. E você vai responsabilidade para a atualização dos dados.
+
+52:20 - Iris Nascimento
+Não, porque eu fiquei nessa dúvida, porque aí talvez você fique sobrecarregado com muita atualização.
+
+52:27 - Tom Ashe
+Só para deixar claro, eu estou querendo chegar no ponto que você, agenda, é sua responsabilidade para atualizar. O mecanismo, no momento, o mecanismo, talvez você vai ter que mandar para mim só eu no no posição de apoio técnico, de eu vou mudar isso, isso, ok, vou mudar, mas a responsável para responsáveis para os dados vão ser vocês, só que eu, no momento, vou estar facilitando para tudo chegar no sistema.
+
+53:05 - Iris Nascimento
+Entendi, entendi. No caso, a minha competência vai ser referente à agenda, atualização da agenda, de evento e vocês me confirmando, eu incluo na agenda, e o restante eu vou só monitorar.
+
+53:20 - Tom Ashe
+Mas vai ter, vai, mas você vai, por exemplo...
+
+53:24 - Iris Nascimento
+Talvez nem precise monitorar, porque vai ter já o alerta, mas mesmo assim...
+
+53:29 - Tom Ashe
+É, mas você tá responsável por esses dados sim, os dados da presença, mesmo os professores fazendo, o responsável máximo para ver que tá tudo certo com as presenças é você, né? A mesma coisa, o roteiro, você tem que ver que está certo. E a gente vai... Vai ajustando, né? Dá para conectar Slack com o Google Drive também. Enfim, vale a pena dar uma clicada. E a ideia seria, a Lílian coloca os justificativos, etc, etc. De repente, na sexta-feira, vocês fazem uma revisada na reunião, o que foi justificado, o que não foi justificado, por quê.
+
+55:17 - Iris Nascimento
+Não, não, a gente sempre faz isso.
+
+55:21 - Tom Ashe
+Toda sexta-feira, a gente avalia os advertências. Isso já vai... E tudo isso vai Sabe, é só olhar no site e vai estar aparente isso.
+
+55:36 - Iris Nascimento
+Se alguma coisa não fica clara, me fala, e eu crio outra coisa para vocês verem. Tá bom, então. Beleza. Então é isso.
+
+55:51 - Tom Ashe
+Ok, obrigado, Inês. Eu prometo que vai ficar Tchau, tchau.
+
+56:00 - Iris Nascimento
+Tchau, bom dia.

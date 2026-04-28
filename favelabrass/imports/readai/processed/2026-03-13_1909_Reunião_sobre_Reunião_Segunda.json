@@ -1,0 +1,1722 @@
+{
+  "session_id": "01KKM5AMMXGE3PZXA1MXRA3YFK",
+  "trigger": "meeting_end",
+  "title": "Reunião sobre Reunião Segunda",
+  "start_time": "2026-03-13T15:01:55-03:00",
+  "end_time": "2026-03-13T16:02:43-03:00",
+  "participants": [
+    {
+      "name": "Lilian Diniz",
+      "first_name": "Lilian",
+      "last_name": "Diniz",
+      "email": "lilidinizz76@gmail.com"
+    },
+    {
+      "name": "secretaria@favelabrass.org",
+      "first_name": "secretaria@favelabrass.org",
+      "last_name": null,
+      "email": "secretaria@favelabrass.org"
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Wesley Araujo",
+      "first_name": "Wesley",
+      "last_name": "Araujo",
+      "email": "wesley@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião teve como objetivo alinhar questões operacionais e resolver conflitos de comunicação com famílias do projeto. Iniciou-se com a apresentação da alta demanda na escola \"Piranha da Paz\" (48 vagas abertas, quase 40 preenchidas) e com o relato de Tom sobre conversa com Kelly via Associação de Moradores para esclarecer mal-entendidos que chegaram à mãe Carol, reduzindo provisoriamente risco de saída dela do projeto.\n\nEm seguida, Lilian esclareceu que a participação nas atividades é parte da aula, que ficar para comer pizza é opcional e que ausências por viagens serão justificadas mediante comunicação; ela se comprometeu a confirmar o horário das aulas com a equipe. A maior parte da discussão tratou da logística de transporte para as aulas de sábado: crédito do cartão (76 viagens), garantia de gratuidade para a maioria das crianças, exceções potenciais (Ana Laura/Carolina), custo para acompanhantes de crianças pequenas e alternativas para crianças que perderam vagas com mudança de local (caso de Bernardo). Foram debatidos pontos de encontro, reembolso/ajuda de custo, organização de grupos, carga de materiais e escalas de monitores (Natan, Wellington, Elton).\n\nTambém foram abordadas acusações públicas sobre uso de recursos do projeto; Tom Ashe assegurou ausência de irregularidades, explicou que os valores são reinvestidos e se responsabilizou por esclarecer a origem dos recursos. A equipe discutiu limites de atuação e fluxo de mensagens em grupos externos, planejou coletar depoimentos de Angélica e Mai para apresentar aos pais e definiu ações para ampliar a captação na comunidade Pereira, com início de aulas previsto para terça e necessidade de agendamento imediato. Permanecem em aberto a confirmação formal da gratuidade para alunos específicos e a comunicação oficial da posição do projeto à comunidade.",
+  "action_items": [
+    {
+      "text": "Lilian Diniz: Fale com a equipe sobre a inclusão de Carol no horário de apresentação e retorne com confirmação"
+    },
+    {
+      "text": "Wesley Araujo: Confirmar se Ana Laura/Carolina têm direito à gratuidade do transporte"
+    },
+    {
+      "text": "Tom Ashe: Informar na próxima reunião que a equipe está estudando a situação do transporte e da gratuidade"
+    },
+    {
+      "text": "Tom Ashe: Preparar uma proposta logística com opções (pontos de encontro, reembolso, monitoria) para apresentar na segunda-feira"
+    },
+    {
+      "text": "Tom Ashe: Formalizar e oferecer prioridade de retorno ao Bernardo quando houver vaga adequada no projeto"
+    },
+    {
+      "text": "Tom Ashe: Esclarecer publicamente e documentar a origem e o uso dos recursos do projeto para rebater as acusações de irregularidade"
+    },
+    {
+      "text": "Lilian Diniz: Solicitar e coletar um depoimento escrito de Angélica para levar à reunião com pais"
+    },
+    {
+      "text": "Lilian Diniz: Pedir que Mai envie um depoimento para apresentação na reunião, evitando que ela entre em conflito público no grupo"
+    },
+    {
+      "text": "Tom Ashe: Contatar Kelly e pedir apoio para captar três ou quatro crianças da comunidade Pereira como resultado da reunião com pais"
+    },
+    {
+      "text": "Lilian Diniz: Realizar entrevistas com os pais dos alunos que começam nas aulas de flauta e agendar as turmas, confirmando início na terça-feira"
+    },
+    {
+      "text": "Tom Ashe: Verificar e responder às mensagens sobre pagamentos e comunicar orientações sobre divulgar valores no site ou grupos"
+    },
+    {
+      "text": "Lilian Diniz: Agendar com os pais e confirmar logística das aulas de terça e sábado conforme necessidade de transporte e frequência"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "A participação na apresentação é obrigatória?"
+    },
+    {
+      "text": "Carol/Ana Laura têm gratuidade no transporte por estudarem em escola particular ou serem bolsistas?"
+    },
+    {
+      "text": "A criança precisa pegar um ônibus só para ir à escola?"
+    },
+    {
+      "text": "Moradores de Santa Tereza têm acesso gratuito ao bondinho?"
+    },
+    {
+      "text": "As crianças deveriam receber?"
+    },
+    {
+      "text": "Será que a Angélica poderia mandar um depoimento em vez de postar no grupo?"
+    },
+    {
+      "text": "O que acontece com os alunos da Pereira no segundo semestre; vão continuar na Pereira?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "A escola Piranha da Paz abriu 48 vagas e já tem quase 40 inscritos"
+    },
+    {
+      "text": "A pauta principal foi realizar um alinhamento interno descrito como \"reunião sobre reunião\""
+    },
+    {
+      "text": "Tom informou ter conversado com Kelly para esclarecer boatos que chegavam à mãe Carol"
+    },
+    {
+      "text": "Carol questionou se a apresentação era obrigatória"
+    },
+    {
+      "text": "Lilian afirmou que a apresentação está inserida na aula e que permanecer para a pizza é opcional"
+    },
+    {
+      "text": "A equipe está avaliando a gratuidade do transporte para as crianças, citando 76 créditos no cartão que podem cobrir os deslocamentos mensais."
+    },
+    {
+      "text": "A equipe reconfirmou que o bonde (bondinho) não é solução viável aos sábados por ser muito turístico e lotado."
+    },
+    {
+      "text": "Há necessidade de esclarecer formalmente quem tem direito à gratuidade (escolas municipais) e comunicar a situação aos pais na segunda-feira."
+    },
+    {
+      "text": "Foi discutida a opção de organizar pontos de encontro e deslocamentos coletivos (ex.: descer e subir juntos com Wellington) para reduzir custos e responsabilidade individual."
+    },
+    {
+      "text": "Há preocupação sobre crianças que precisam de acompanhantes, o custo mensal estimado e o impacto disso na participação aos sábados."
+    },
+    {
+      "text": "O projeto reconhece que a mudança de sede fez com que crianças como Bernardo perdessem aulas e propôs prioridade de retorno quando houver vagas."
+    },
+    {
+      "text": "O grupo concordou que crianças não devem ser remuneradas como parte das atividades sociais e que receitas do projeto são reinvestidas."
+    },
+    {
+      "text": "Tom assegurou que não há irregularidades financeiras no projeto e se ofereceu para esclarecer publicamente as acusações sobre dinheiro."
+    },
+    {
+      "text": "Decidiu-se solicitar depoimentos de Angélica e Mai para apresentar na reunião com pais e evitar que elas entrem em conflitos no grupo principal."
+    },
+    {
+      "text": "Foi identificado um problema de comunicação externa: mensagens em grupos de moradores e de pais têm amplificado críticas e precisam ser tratadas com cuidado, sem vigiar pais, mas orientando canais oficiais."
+    },
+    {
+      "text": "Há necessidade de ações para aumentar inscrições de crianças da comunidade Pereira e melhorar logística (transporte e dias de aula), com possível solução de aulas aos sábados e continuidade no próprio bairro a médio prazo."
+    },
+    {
+      "text": "Lilian ficou responsável por entrevistar e agendar pais dos alunos que começam nas aulas de flauta e banda, com início de aulas na terça-feira e agendamento imediato."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KKM5AMMXGE3PZXA1MXRA3YFK",
+  "chapter_summaries": [
+    {
+      "title": "Demonstração pessoal e comentários informais",
+      "description": "Wesley apresentou e comentou sobre um produto visual (lace/lença) e sua naturalidade, enfatizando que a tela fica transparente contra a pele e que os fios parecem sair do couro cabeludo, além de discutir sua experiência profissional com trombone e apresentações. Esses comentários foram informais e não conectados diretamente à pauta principal da reunião.",
+      "topics": []
+    },
+    {
+      "title": "Abertura e logísticas iniciais",
+      "description": "Houve saudações, ajustes de entrada de participantes e comentários sobre o início do encontro; Tom pediu foco para resolver a \"reunião sobre reunião\" rapidamente e mencionou aspectos práticos como agradecimentos e checagem de chamadas feitas do hospital. Também foi mencionada a escola Piranha da Paz como a melhor escola, com referências a problemas relatados por pais e ao número de vagas abertas.",
+      "topics": [
+        "A escola Piranha da Paz abriu 48 vagas e já tem quase 40 inscritos"
+      ]
+    },
+    {
+      "title": "Alinhamento sobre Kelly e Carol; participação em apresentações",
+      "description": "O grupo discutiu conflitos de comunicação envolvendo Kelly e Carol, com Tom relatando conversa com Kelly pela Associação de Moradores e preocupação inicial sobre perder Kelly, mas com expectativa de resolução. Lilian detalhou interações com Carol sobre a apresentação, esclareceu que a participação está dentro do horário de aula e que ficar para a pizza é opcional, e afirmou que justificaria ausência em caso de viagem de Carol.",
+      "topics": [
+        "A pauta principal foi realizar um alinhamento interno descrito como \"reunião sobre reunião\"",
+        "Tom informou ter conversado com Kelly para esclarecer boatos que chegavam à mãe Carol",
+        "Carol questionou se a apresentação era obrigatória",
+        "Lilian afirmou que a apresentação está inserida na aula e que permanecer para a pizza é opcional"
+      ]
+    },
+    {
+      "title": "Transporte e créditos do cartão",
+      "description": "Discussão sobre cobertura do transporte aos sábados, esclarecimento sobre o cartão com 76 créditos e dúvidas sobre quem tem direito à gratuidade. Foram levantadas hipóteses de que a maioria das crianças pode viajar sem custo e identificadas exceções potenciais.",
+      "topics": [
+        "A equipe está avaliando a gratuidade do transporte para as crianças, citando 76 créditos no cartão que podem cobrir os deslocamentos mensais."
+      ]
+    },
+    {
+      "title": "Como viabilizar deslocamento das crianças",
+      "description": "Conversa sobre número de viagens mensais, necessidade de acompanhantes, pontos de encontro e alternativas como organização comunitária para descer/juntar crianças e reembolsos pontuais.",
+      "topics": []
+    },
+    {
+      "title": "Bondinho e capacidade aos sábados",
+      "description": "Avaliação do bondinho como alternativa, com ênfase de que sábados são muito cheios e portanto pouco práticos para levar alunos; foram citados exemplos de famílias que usam regularmente.",
+      "topics": [
+        "A equipe reconfirmou que o bonde (bondinho) não é solução viável aos sábados por ser muito turístico e lotado.",
+        "Há necessidade de esclarecer formalmente quem tem direito à gratuidade (escolas municipais) e comunicar a situação aos pais na segunda-feira.",
+        "Foi discutida a opção de organizar pontos de encontro e deslocamentos coletivos (ex.: descer e subir juntos com Wellington) para reduzir custos e responsabilidade individual."
+      ]
+    },
+    {
+      "title": "Logística de pessoas responsáveis e materiais",
+      "description": "Debate sobre quem acompanhará as crianças (Wellington, Natan, Elton), necessidade de levar lanche e material e alterações na função de vendedores/lojinhas aos sábados.",
+      "topics": []
+    },
+    {
+      "title": "Custos do acompanhante e cálculo mensal",
+      "description": "Cálculo do custo estimado para acompanhantes (R$80–120/mês dependendo do caso) e implicações na decisão de subsidiar ou não o transporte para casos isolados.",
+      "topics": [
+        "Há preocupação sobre crianças que precisam de acompanhantes, o custo mensal estimado e o impacto disso na participação aos sábados."
+      ]
+    },
+    {
+      "title": "Capacidade do projeto e prioridades de atendimento",
+      "description": "Discussão sobre limitação de espaço e priorização de alunos que já investiram anos no projeto; efeitos da mudança de local e possíveis soluções de prioridade de retorno.",
+      "topics": []
+    },
+    {
+      "title": "Conflitos de comunicação e preparação para reunião com famílias",
+      "description": "Relato de mal-entendidos e reclamações (principalmente da Carol) e acordo em comunicar na próxima reunião que o projeto está estudando soluções; menção à necessidade de Kelly ouvir explicações.",
+      "topics": [
+        "O projeto reconhece que a mudança de sede fez com que crianças como Bernardo perdessem aulas e propôs prioridade de retorno quando houver vagas."
+      ]
+    },
+    {
+      "title": "Questões financeiras e defesa do projeto",
+      "description": "A conversa começa com a pergunta sobre se as crianças deveriam receber e com Wesley levantando a preocupação financeira. Tom Ashe assume responsabilizar-se por esclarecer que não há irregularidade e que os recursos do projeto são reinvestidos, afirmando que irá responder às acusações e explicar confusões sobre compra de casa e uso de verbas.",
+      "topics": [
+        "O grupo concordou que crianças não devem ser remuneradas como parte das atividades sociais e que receitas do projeto são reinvestidas.",
+        "Tom assegurou que não há irregularidades financeiras no projeto e se ofereceu para esclarecer publicamente as acusações sobre dinheiro."
+      ]
+    },
+    {
+      "title": "Preparação de depoimentos e abordagens para a reunião com pais",
+      "description": "O grupo organiza a coleta de depoimentos de Angélica e de Mai para levar à reunião, visando evitar que entrem em conflitos públicos no grupo, e discute como apresentar respostas às mensagens que circularam no grupo de pais.",
+      "topics": [
+        "Decidiu-se solicitar depoimentos de Angélica e Mai para apresentar na reunião com pais e evitar que elas entrem em conflitos no grupo principal."
+      ]
+    },
+    {
+      "title": "Representatividade, liderança e ataques a Carol",
+      "description": "Debate sobre a falta de representatividade das mães no conselho e sobre Carol não representar as famílias; houve preocupação com tentativas estratégicas de desestabilizar o projeto e com postagens inadequadas de Carol em grupos de moradores.",
+      "topics": [
+        "Foi identificado um problema de comunicação externa: mensagens em grupos de moradores e de pais têm amplificado críticas e precisam ser tratadas com cuidado, sem vigiar pais, mas orientando canais oficiais."
+      ]
+    },
+    {
+      "title": "Comunicação com grupos de pais e limites de atuação",
+      "description": "Discussão sobre a existência de grupos de pais fora dos canais oficiais, sobre não ser possível vigiar tais grupos e sobre a necessidade de orientar que dúvidas sejam trazidas pelos representantes para responder consolidadamente.",
+      "topics": []
+    },
+    {
+      "title": "Captação de alunos e engajamento na comunidade Pereira",
+      "description": "Planejamento para aumentar inscrições vindas da Pereira, envolvendo Kelly e a Associação de Moradores, e análise da composição atual de alunos de outras comunidades; objetivo de ter três ou quatro alunos da Pereira como resultado da conversa com pais.",
+      "topics": [
+        "Há necessidade de ações para aumentar inscrições de crianças da comunidade Pereira e melhorar logística (transporte e dias de aula), com possível solução de aulas aos sábados e continuidade no próprio bairro a médio prazo."
+      ]
+    },
+    {
+      "title": "Logística de aulas, transporte e continuidade pedagógica",
+      "description": "Discussão sobre custos e logística das aulas (frequência, transporte e possibilidade de aulas aos sábados), dificuldades de manter turmas coerentes na Pereira por falta de iniciantes e o desejo de permitir continuidade local para novos alunos a médio prazo.",
+      "topics": []
+    },
+    {
+      "title": "Agendamento de entrevistas com pais e início das aulas",
+      "description": "Wesley e Lilian alinham que Lilian fará entrevistas com pais para alunos que começam a partir de terça; ficou definido agendar imediatamente e tratar detalhes de transferência dos alunos para o segundo semestre e duração dos cursos de flauta (cerca de três meses).",
+      "topics": [
+        "Lilian ficou responsável por entrevistar e agendar pais dos alunos que começam nas aulas de flauta e banda, com início de aulas na terça-feira e agendamento imediato."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1773424952856,
+        "end_time": 1773424958948,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O trabalho da escola, eu era profissionista."
+      },
+      {
+        "start_time": 1773424958948,
+        "end_time": 1773424985817,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu tinha trombone, mas como tinha que ser arrepiado, não tinha o próprio trombone, tinha que ser profissionista. Ah, mas eu não uso o Lace porque fica artificial."
+      },
+      {
+        "start_time": 1773424985817,
+        "end_time": 1773424992239,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Olha isso aqui, então. Olha isso aqui."
+      },
+      {
+        "start_time": 1773424992239,
+        "end_time": 1773424993156,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Lace."
+      },
+      {
+        "start_time": 1773424993156,
+        "end_time": 1773424998660,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E olha a naturalidade dessa tela."
+      },
+      {
+        "start_time": 1773424998660,
+        "end_time": 1773425001412,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sem colar, tá?"
+      },
+      {
+        "start_time": 1773425001412,
+        "end_time": 1773425005082,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aqui, vocês estão vendo?"
+      },
+      {
+        "start_time": 1773425005846,
+        "end_time": 1773425008867,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Olha, não tem como enxergar a tela."
+      },
+      {
+        "start_time": 1773425008867,
+        "end_time": 1773425037422,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Fica transparente o contato com a minha pele e a única coisa que você vê são as fios que parecem que estão saindo do meu couro cada um. Olha só isso. Vocês estão vendo os poros da minha pele, meu suor, meu pilote, mas vocês não estão vendo a tela dessa lença. Quem disse que eu estou usando lença?"
+      },
+      {
+        "start_time": 1773425811176,
+        "end_time": 1773425832521,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Olá, tudo bem? Acho que a leilinha dele está entrando."
+      },
+      {
+        "start_time": 1773425832521,
+        "end_time": 1773425837569,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Começamos bem hoje lá na Piranha da Paz."
+      },
+      {
+        "start_time": 1773425837569,
+        "end_time": 1773425860696,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Piranha da Paz é a nossa melhor escola. Disparado. Disparado. Um monte de pais já dizendo que teve problema, mas semana que vem vai estar. Estamos chegando já. Abriu 48 vagas lá, já tem quase 40."
+      },
+      {
+        "start_time": 1773425860696,
+        "end_time": 1773425863365,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vamos fechar esse final."
+      },
+      {
+        "start_time": 1773425863365,
+        "end_time": 1773425864700,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Oi, gente."
+      },
+      {
+        "start_time": 1773425864700,
+        "end_time": 1773425866035,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Ei, Lilian."
+      },
+      {
+        "start_time": 1773425866035,
+        "end_time": 1773425866702,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Lilian."
+      },
+      {
+        "start_time": 1773425866702,
+        "end_time": 1773425868704,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Desculpa o atraso."
+      },
+      {
+        "start_time": 1773425868704,
+        "end_time": 1773425879382,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tranquilo. Obrigado por fazer chamada lá do hospital. É, não, eu só estava vendo o logo."
+      },
+      {
+        "start_time": 1773425881148,
+        "end_time": 1773425890785,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "pra não ficar sendo interrompido essas coisas, entendeu? Mas tá tranquilo, dá pra fazer."
+      },
+      {
+        "start_time": 1773425890785,
+        "end_time": 1773425896981,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, vamos atacar então a reunião sobre reunião, né?"
+      },
+      {
+        "start_time": 1773425896981,
+        "end_time": 1773425899735,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "A reunião sobre reunião."
+      },
+      {
+        "start_time": 1773425899735,
+        "end_time": 1773425903865,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Pior tipo de reunião que tem."
+      },
+      {
+        "start_time": 1773425903865,
+        "end_time": 1773425949132,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, vamos tentar resolver relativamente rápido. Eu conversei com a Kelly pelo telefone da Associação dos Moradores e eu acho que ela já está entendendo que a Carol não fala para todas as mães, que a Carol nem deve estar falando dessas coisas e que as coisas que estão chegando para ela não são verdade, sabe? Agora, então, eu acho que De qualquer forma, a minha preocupação principal foi que a gente tava perdendo a Kelly.\n\n Mas eu acho que vai tá ok. Famosas últimas palavras, né? Mas eu acho que segunda-feira..."
+      },
+      {
+        "start_time": 1773425949132,
+        "end_time": 1773426021057,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu acho que a Carol, eu percebi que até nesses últimos dias que ela veio falando comigo também, ela tá buscando alguma coisa pra arrumar algum tipo de confusão com o projeto. Porque, assim, ela veio reclamar daquela apresentação que eu já sabia que ela estava incluída no horário de aula, que era normal, que era até acho que de meio dia, meio de meia, mais ou menos isso, né, do pessoal lá da banda.\n\n Aí, não satisfeita, ela perguntou se era obrigatório. Aí eu falei assim, então faça um minutinho, eu vou falar com a equipe e já te retorno. Eu já sabia o que que era. Que não é nada que é obrigatório, tá dentro da aula, ué, tem que estar lá. Não é obrigatório ficar para comer a pizza, por exemplo, é opcional. E aí quiser ir embora, um beijo, tchau. Sei. Aí ela vai e já começa, puxa outro assunto, ó, dia 3 de abril eu vou viajar, não sei o quê.\n\n Sabe, como quem diz assim, já que isso aqui não deu certo, já vou buscar outro. Que é o feriado de Páscoa, que tem um sábado aí no meio, eu não sei o que que ainda ficou resolvido, se vocês já resolveram alguma coisa. Aí eu já respondi, tá, gente? Eu falei, ó, caso você viaje, Carol, fica tranquila que tá justificado."
+      },
+      {
+        "start_time": 1773426021065,
+        "end_time": 1773426024068,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "não vou ficar rendendo para ela."
+      },
+      {
+        "start_time": 1773426024068,
+        "end_time": 1773426139834,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, é porque a gente tem uma expressão na Inglaterra, se chama, a gente fala se não é uma coisa é outra. Tem pessoas do mundo inteiro assim e tem outra coisa que Manguinho falou, Laranissa, sempre tem alguém que acha que é o dono do projeto. Exato. Então é isso. Não fui envolvido nessas decisões, mas só focando naquela coisa do nosso alinhamento. A coisa difícil, eu acho, vocês podem falar de coisas também, mas a gente...\n\n A questão do transporte nos sábados, por exemplo, a gente está oferecendo uma aula que vai requer todo mundo que desce e eles vão ter que pagar ônibus. O cartão já é breve 76 viagens sem custo para criança por mês. A Carol ou a Ana Lara não tem porque ela estuda no colégio francês particular onde o pai dela é exilador. Mas eu posso estar me enganado, ter me enganado, mas essas crianças realmente vão ter que pagar para descer para o covelo?\n\n Porque sabe o que eu estou pensando? A minha inclinação é da gente focar em como não botar tudo de cabeça para baixo, acho que a gente tem esse espaço vivo no covelo, E a gente, para isso, para outras coisas, tem que estar pensando na logística das crianças irem para o covelo. E essa coisa da passagem do ônibus, pelo que eu pesquisei, eu estou entendendo que todas as nossas crianças podem chegar lá grátis.\n\n"
+      },
+      {
+        "start_time": 1773426139834,
+        "end_time": 1773426150407,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Grátis, que você diz, usando o cartão que é do colégio. Mas o colégio, ele não coloca a quantidade certinha? Isso, realmente, eu não sei."
+      },
+      {
+        "start_time": 1773426150416,
+        "end_time": 1773426152230,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "76 por mês."
+      },
+      {
+        "start_time": 1773426152230,
+        "end_time": 1773426158280,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Independente do número de dias de aula, é isso? Sim."
+      },
+      {
+        "start_time": 1773426158280,
+        "end_time": 1773426165539,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "São 76 créditos. 76, então, colocando isso no ponto do lápis, isso..."
+      },
+      {
+        "start_time": 1773426165539,
+        "end_time": 1773426169774,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "38. 38 dias, tipo, e de volta."
+      },
+      {
+        "start_time": 1773426169774,
+        "end_time": 1773426180440,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente, são mais do que duas, são dois, três viagens todo dia do mês, então, Então, dois pontos."
+      },
+      {
+        "start_time": 1773426180440,
+        "end_time": 1773426186965,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela pegar um ônibus só para ir para a escola? Eu não sei."
+      },
+      {
+        "start_time": 1773426186965,
+        "end_time": 1773426190478,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu acho que vai ser uma viagem."
+      },
+      {
+        "start_time": 1773426190478,
+        "end_time": 1773426193490,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sei lá. Esse é um ponto."
+      },
+      {
+        "start_time": 1773426193490,
+        "end_time": 1773426202022,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O outro ponto é o seguinte. Os moradores de Santa Tereza não têm acesso gratuito a bondinho?"
+      },
+      {
+        "start_time": 1773426202022,
+        "end_time": 1773426206540,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas o problema é que no sábado está lotado."
+      },
+      {
+        "start_time": 1773426206548,
+        "end_time": 1773426209482,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Sábado é mais turístico, não é..."
+      },
+      {
+        "start_time": 1773426209482,
+        "end_time": 1773426223174,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Wesley, eu achei que seria a coisa mais linda, os nossos alunos chegando de bonde. O problema é que sábado é cheio, cheiaço. Eu tentei pegar o bonde..."
+      },
+      {
+        "start_time": 1773426223174,
+        "end_time": 1773426232954,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas eu estou matizando porque, tipo, a mãe da Maria Helena sobe e desce com o bondinho direto. Não entendi."
+      },
+      {
+        "start_time": 1773426233645,
+        "end_time": 1773426314791,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Essa é a questão. É possível, é mais ou menos, eles têm essa segunda chance, mas a gente tem que realmente, eu acho que é uma questão, para quando a gente chegar na segunda-feira, a nossa postura deveria ser, olha, a gente sabe que existe gratuidade para as crianças nos ônibus, então a gente está vendo como os pais, como melhor viabilizar isso. A gente tem outras opções, porque cada cada criança tendo alguém levando eles, também se a galera se organizar, quando a gente fez lá no Aterro, eu desci a favela com todo mundo e voltei com todo mundo.\n\n Aí é uma coisa de... A nossa postura, só para a gente não... A gente pode dizer que a nossa postura é que a gente vai ficar desse jeito por enquanto porque é o que a gente tem e a gente está tentando fazer isso de funcionar. No futuro, dependendo se a gente consegue outros sites na comunidade, quem sabe a gente consiga uma coisa paralela, onde todo mundo que começa na comunidade fica na comunidade.\n\n No momento, não dá pra fazer isso, mas a gente tá vendo como é a melhor forma de fazer, entendendo que a gente tá vendo que outras pessoas reclamaram do ônibus."
+      },
+      {
+        "start_time": 1773426315937,
+        "end_time": 1773426320677,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "do valor que a gente reclamou foi ela e a mãe do Bernardo."
+      },
+      {
+        "start_time": 1773426320677,
+        "end_time": 1773426321406,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O Bernardo."
+      },
+      {
+        "start_time": 1773426321406,
+        "end_time": 1773426366682,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, a gente tem que... Ah, mas o Bernardo nem foi. Ah, o Bernardo saiu do projeto. Então, basicamente, podemos combinar mais basicamente essa fala, que a gente entende que eles têm gratuidade, não tivemos sorte. De quem está ativo no curso, de custo, a gente só teve reclamação da Carol. A gente está talvez se entendendo porque ela não tem essa gratuidade. Eu não sei se é ridículo a gente dar uma gratuidade, a gente ver uma forma de arcar com o ônibus.\n\n Se todos os outros têm grátis e a Ana Laura é a única que tem que pagar, a gente poderia pagar o ônibus da Ana Laura, sei lá. Ou vai haver um precedente muito difícil."
+      },
+      {
+        "start_time": 1773426366682,
+        "end_time": 1773426375481,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu acho que ela não tem que pagar não. Eu acho que ela tem gratuidade. Seria interessante a gente confirmar isso."
+      },
+      {
+        "start_time": 1773426375481,
+        "end_time": 1773426378777,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas ela não está em escola pública?"
+      },
+      {
+        "start_time": 1773426378777,
+        "end_time": 1773426391491,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, Laura, não tem gratuidade. Mas ela não é bolsista? Não, mas bolsista é só em relação à escola. O transporte gratuito é só as escolas municipais."
+      },
+      {
+        "start_time": 1773426391491,
+        "end_time": 1773426412060,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Então, para quem não tiver gratuidade... Se eu não tiver gratuidade, eu acho que... Eu não gosto disso, a gente paga alguma coisa para uma coisa, para uma pessoa que tem que pagar, mas a coisa que ela não... Ela seria uma que não tem gratuidade."
+      },
+      {
+        "start_time": 1773426412060,
+        "end_time": 1773426419028,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O problema é se a gente colocar um carro para levar, vai ter que levar todo mundo."
+      },
+      {
+        "start_time": 1773426419028,
+        "end_time": 1773426424766,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não é para colocar carro, Wesley, a gente está falando de reembolsar um ônibus."
+      },
+      {
+        "start_time": 1773426424766,
+        "end_time": 1773426430302,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ou reembolsar, ou disponibilizar uma voz, vai ter que fazer para todo mundo."
+      },
+      {
+        "start_time": 1773426430302,
+        "end_time": 1773426439353,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, às vezes, é questão muito de, enfim, eu acho... Todo mundo que não tem gratuidade, né, no caso."
+      },
+      {
+        "start_time": 1773426439353,
+        "end_time": 1773426441735,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas os outros têm gratuidade."
+      },
+      {
+        "start_time": 1773426441735,
+        "end_time": 1773426444593,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Os outros têm, exatamente. Quem tem?"
+      },
+      {
+        "start_time": 1773426444593,
+        "end_time": 1773426513591,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O que a gente pode falar na segunda-feira, que estamos olhando essa situação, de quem tem gratuidade e quem não tem gratuidade. A gente não faz Quando a gente fala, a gente está estudando, e isso é uma coisa que a gente tem que entender. A gente não promete isso, mas a gente está estudando isso. Mas a gente entende que existe gratuidade, que 76 é mais do que duas viagens por dia, cada criança. Se quem tivesse, imagina se tem uma criança, que tem que pegar dois ônibus por dia, essa criança ia acabar com quatro jornadas por dia, e isso ia prejudicar ele.\n\n Então, talvez eles já estão pensando nisso, porque já tem um sistema parecido, você pega um ônibus, quando você pega outro, dá um cadastro com o outro. Eu imagino que já está assim. Então, o que seria interessante, já que ninguém mais falou nada das passagens, então, é isso."
+      },
+      {
+        "start_time": 1773426513692,
+        "end_time": 1773426530814,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu gostaria de falar que a gente tá estudando isso, mas a gente acha que tudo não tem muita atividade. Eu acho que... Pô, posso estar muito errado o que eu vou falar agora, mas acho que... Só os dois informados, porque o restante é tudo de fora. Com exceção daquela menina lá de Sofia."
+      },
+      {
+        "start_time": 1773426530814,
+        "end_time": 1773426532371,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ela vai a pé, né?"
+      },
+      {
+        "start_time": 1773426532371,
+        "end_time": 1773426535795,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela vai a pé. Sim. O restante é tudo de fora."
+      },
+      {
+        "start_time": 1773426535795,
+        "end_time": 1773426539842,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas eles também pegam ônibus, né? Quem é da Água do Falete..."
+      },
+      {
+        "start_time": 1773426539842,
+        "end_time": 1773426542022,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ah, sim, todo mundo pega lá, sim."
+      },
+      {
+        "start_time": 1773426542030,
+        "end_time": 1773426554288,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Por exemplo, tem o irmão do Davi, que vai também da Pereira. Isso, o Miguel. Mas o Miguel..."
+      },
+      {
+        "start_time": 1773426554288,
+        "end_time": 1773426569271,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "A mãe tinha falado alguma coisa. O Miguel só faltou, ele vai continuar. Sim, mas a gente sabe como ele está chegando."
+      },
+      {
+        "start_time": 1773426570349,
+        "end_time": 1773426572565,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu não sei se é a mãe."
+      },
+      {
+        "start_time": 1773426572565,
+        "end_time": 1773426578578,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu acho que é de onde, porque quando eu saí outro dia, o Davi estava com ele lá no..."
+      },
+      {
+        "start_time": 1773426578578,
+        "end_time": 1773426600591,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, e aí tem esse problema, porque como eles são pequenos, sempre tem que ter um adulto pra ir junto, e esse adulto vai pagar a passagem. Que aí, no caso, quando a... Como é que fala? A Carolina reclama, né? Ela diz que é porque o Marcos também tem que pagar, porque ele que vai levar. Aí ele teria que pagar a passagem também. Ficar lá esperando."
+      },
+      {
+        "start_time": 1773426600591,
+        "end_time": 1773426613477,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas essa coisa se eu só estou abrindo ideias aqui tá mas se se eles desceram com Wellington e voltaram com Wellington no ônibus estão acompanhados. Sim."
+      },
+      {
+        "start_time": 1773426613477,
+        "end_time": 1773426623976,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Você diz colocar o Wellington no ponto de encontro ali na função da hora todo mundo chegar e descer juntos de ônibus."
+      },
+      {
+        "start_time": 1773426623976,
+        "end_time": 1773426664306,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim aí quem quem se atrasa então Não é culpa da gente. Não é nossa culpa. Só para lembrar que eu fiz isso. Eu desci a Peneira da Silva, fui juntando eles descendo, fui para o Aterro e foi isso. Agora, podemos oferecer, quem quiser vir com os pais, beleza, mas a gente também oferece, a gente está oferecendo esse serviço. Ou os próprios pais podem ter um pai que leva, mas seria bom a gente ter alguém, se fosse possível, porque o Wellington tem que chegar lá cedo, de qualquer forma, né?\n\n"
+      },
+      {
+        "start_time": 1773426664306,
+        "end_time": 1773426670418,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O Wellington tá indo de ônibus? Eu acho que não, que ele tá levando material pra lá."
+      },
+      {
+        "start_time": 1773426670418,
+        "end_time": 1773426675091,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas qual material? Ele vai ter que levar material toda semana? É, lanche."
+      },
+      {
+        "start_time": 1773426675091,
+        "end_time": 1773426679045,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É, o lanche tem que ir pra lá, de alguma forma."
+      },
+      {
+        "start_time": 1773426679045,
+        "end_time": 1773426681202,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não dá pra levar no ônibus."
+      },
+      {
+        "start_time": 1773426681202,
+        "end_time": 1773426696113,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, não sei se ele tá indo de ônibus. Muita coisa para carregar. E ainda tem também a questão do... É uma coisa que a gente ia conversar na reunião de que liderança, ele também estava levando a lojinha."
+      },
+      {
+        "start_time": 1773426696113,
+        "end_time": 1773426716224,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, mas ele não vai mais levar a lojinha nos sábados, já combinamos isso, não vai. Mas aí a questão é, então a gente não consegue ninguém para levar eles, porque essa é a coisa, todos os pais vindo juntos, se fosse eu, pai de criança, eu queria organizar com outros."
+      },
+      {
+        "start_time": 1773426716224,
+        "end_time": 1773426737404,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "E aí a volta, porque aí a gente vai ter outra questão, a volta, o Wellington vem com eles também? Sim. Então o Wellington não poderia ficar, como é que fala, para guardar a pizza, né? Ele não poderia ajudar nesse sentido."
+      },
+      {
+        "start_time": 1773426737404,
+        "end_time": 1773426778902,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, mas ele... Seja o Wellington, seja quem for, voltaria depois da pizza, né? Então, mas é isso que eu te falo, a pizza é tipo duas da tarde aí começa a outra a perturbar falando que não sei o que entendeu beleza então então a gente a gente vai liberar o Natan ou não sei se Natan e ele estão lá nesses dias não exatamente o Natan tá lá não fazendo muita coisa então não é Natan mas ele tá auxiliando aula, mas ele...\n\n"
+      },
+      {
+        "start_time": 1773426778902,
+        "end_time": 1773426798657,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "E aí perguntar assim, logo, dependendo de quem são esses alunos, a gente já perguntar, quem vai ficar para participar, para lanchar, né, após a aula? E aí quer, ah, não, minha filha não vai, então ok, mês e meio tá retornando com o Natão."
+      },
+      {
+        "start_time": 1773426798657,
+        "end_time": 1773426831303,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas o problema aqui também, a gente tem alunos, no longo prazo a gente vai ter Porque o Natan, quem vai? Ah, não, mas eles podem se encontrar no Assunção, né? Sim. Um bonde do Assunção. Sim. E o Natan mora do lado do Assunção. Não carrega nada. Mas o Natan está escalado com quais horas, Wesley?"
+      },
+      {
+        "start_time": 1773426831303,
+        "end_time": 1773426833177,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Natan de 11h30."
+      },
+      {
+        "start_time": 1773426833415,
+        "end_time": 1773426853923,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, a gente teve o curso de datar. De dia que ele chegar lá, 8h30, aí é só mais duas horas. Só para ele levar eles. Mas quem mais está lá no início?"
+      },
+      {
+        "start_time": 1773426853923,
+        "end_time": 1773426857031,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "No início, só o Elton."
+      },
+      {
+        "start_time": 1773426857031,
+        "end_time": 1773426860138,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, eles viriam com ele?"
+      },
+      {
+        "start_time": 1773426860826,
+        "end_time": 1773426902819,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "com ele com ela então a mais velha também julga que faz o lanche né que você falou essa menina de lenha ela não aparece lá não para trazer nada a aos sábados ou não ela tá lá mas ela tá lá mais na hora da apresentação é complicado a Mas, para a reunião, a gente pode falar que também... Será que o fim do mundo parece essa galera pagar um ônibus uma vez por semana?"
+      },
+      {
+        "start_time": 1773426902819,
+        "end_time": 1773426917478,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, mas olha só, se for para ter uma acompanhante para levar e buscar, dá um valor considerável. Porque acho que vai a 120 reais mensais."
+      },
+      {
+        "start_time": 1773426917478,
+        "end_time": 1773426921419,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se a criança tiver... Se a criança... Ah, tá."
+      },
+      {
+        "start_time": 1773426921419,
+        "end_time": 1773426927549,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Se a criança tiver cartão, aí é metade. 60. Então, são duas viagens, né?"
+      },
+      {
+        "start_time": 1773426927549,
+        "end_time": 1773426928862,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É. São duas..."
+      },
+      {
+        "start_time": 1773426928862,
+        "end_time": 1773426934555,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Por exemplo, vai pra lá. 10 reais. Mas é 4 reais, não é?"
+      },
+      {
+        "start_time": 1773426934555,
+        "end_time": 1773426935868,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "5 reais. Não."
+      },
+      {
+        "start_time": 1773426935868,
+        "end_time": 1773426938933,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É 5 reais o ônibus. 5 reais."
+      },
+      {
+        "start_time": 1773426938933,
+        "end_time": 1773426940685,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então vai pra lá."
+      },
+      {
+        "start_time": 1773426940685,
+        "end_time": 1773426954358,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "10. Aí a pessoa que tá lá, se não ficar lá, ela volta pra casa, 15. Aí depois a pessoa que voltou, vai voltar pra buscar, 20."
+      },
+      {
+        "start_time": 1773426954358,
+        "end_time": 1773426961174,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E as duas passagens pra voltar, 30. Aí dá 30 vezes 4, 120, entendeu?"
+      },
+      {
+        "start_time": 1773426961174,
+        "end_time": 1773426973352,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Aí na verdade vai dar um pouquinho mais até, porque a criança não vai pagar, vai ser 20 reais, 80 reais por mês, só pro acompanhante."
+      },
+      {
+        "start_time": 1773426973352,
+        "end_time": 1773426973770,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendeu?"
+      },
+      {
+        "start_time": 1773426973770,
+        "end_time": 1773426985868,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É 80 reais do acompanhante, porque assim, o acompanhante vai, 5, ele volta pra casa, 10, ele vai buscar, 15, ele volta pra casa, 20. 20 vezes 4, 80."
+      },
+      {
+        "start_time": 1773426985868,
+        "end_time": 1773426999218,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas a gente tem gente que vai direto, que tem muita gente que, por exemplo, Coroa não é tão longe de lá pra andar, mas a criança não pode andar sozinho, né?"
+      },
+      {
+        "start_time": 1773426999336,
+        "end_time": 1773427006328,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "o problema tá sendo que os pequenos estão estudando lá. Não são os adolescentes não."
+      },
+      {
+        "start_time": 1773427006328,
+        "end_time": 1773427038160,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso foi o motivo de colocar no sábado porque imagina fazer sua noite durante a semana esquenta. Exatamente. Então a gente tá entre monitor ou uma ajuda de custos para quem tá fazendo ou se organizar com os mais, né, para estarem trazendo outras crianças, que é complicado, porque eu não sei o quanto vão se organizar. Ou a gente organiza monitoria no ônibus."
+      },
+      {
+        "start_time": 1773427038160,
+        "end_time": 1773427039265,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É assim."
+      },
+      {
+        "start_time": 1773427039265,
+        "end_time": 1773427049766,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, mas para segunda-feira, a gente poderia falar que a gente está estudando isso. A gente está estudando isso."
+      },
+      {
+        "start_time": 1773427049766,
+        "end_time": 1773427137971,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu só gostaria só de... De complementar uma situação. O que que acontece? É uma coisa que tá, confesso a vocês, que tá na minha cabeça, me perturbou de verdade. Porque eu não esperava isso tudo. Não esperava da Karolina. E ela tá torcendo o que eu disse na reunião. E isso tá acontecendo muito mal. Eu expliquei na reunião, ela não foi no dia da reunião, e no outro dia, Ela não foi na reunião da banda preta, ou vice-versa.\n\n O negócio é assim, em vez de ir nas duas reuniões, que é do Marquinhos e Ana Laura, ela foi só em uma. Acho que foi só no do Marquinhos e tal. E aí ela veio falar comigo. Olha, já comecei com a Iris, ou com a Galit, e vai ficar muito difícil eu ir lá pra baixo, tem que pagar duas passagens, E se continuar dessa maneira, eu vou ter que tirar os dois, porque eu não posso só manter um no projeto e tirar o outro.\n\n A palavra que eu disse foi, olha, infelizmente, essa foi a melhor solução que nós tivemos. Infelizmente, nós não temos muito o que fazer. E agora tá falando que ou fica, que foi a palavra que eu disse, ou é assim ou não é, entende? Sinceramente, isso não condiz com a realidade. Sim, sim."
+      },
+      {
+        "start_time": 1773427137971,
+        "end_time": 1773427213730,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, você vai ter a oportunidade... A Carol nem vem na reunião, né? Ela tem outra coisa. Mas você vai ter a oportunidade de falar isso na reunião. Isso é importante para a Kelly ouvir isso. Mas acho que a Kelly entende, porque qualquer projeto, a gente... Eu já falei, como eu falei para a Kelly, a gente teve um tech enorme. Foi a situação de um projeto que perdeu a sua sede, a gente perdeu o nosso lugar e a gente está correndo atrás para conseguir uma solução, não está perfeita, mas a gente está...\n\n E em algum momento vai chegar. Então, não é que a gente não quer fazer isso para vocês, mas é o que a gente tem, para entender. Está tudo bem. Tipo, eu acho que você vai... Você vai ter uma oportunidade para explicar isso hoje, que você está sendo pintada para aparecer em Smile, basicamente para a Carolina. E tem essa outra questão, essa questão do Bernardo, não pedir aos finais de semana, por ser final de semana, nem sempre está na Pereira.\n\n Então, vai ter família do Bernardo lá."
+      },
+      {
+        "start_time": 1773427213730,
+        "end_time": 1773427230266,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O caso do Bernardo é que não faz sentido ele sair da Pereira. Esse cara falou que não faz sentido o projeto que é da Pereira, ele ter que ir para outro lugar para fazer o projeto."
+      },
+      {
+        "start_time": 1773427230266,
+        "end_time": 1773427288500,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente fala que não quer isso, mas a gente não consegue dar conta de todas as crianças na minha casa. Galenhão é um espaço aberto, não dá para dividir em aulas. Então, a gente vai explicar isso, a gente fica com isso. Mas é triste, no caso... É muito triste de Bernardo perder a aula, é muito triste, é a pior coisa. Dessa mudança, uma criança saiu por causa disso. Mas é difícil, porque a gente não teria onde colocá-lo, pensando no caso dele, o que a gente poderia fazer para ele, é complicado.\n\n Porque ele não está no nível para estar nas bandas avançadas. Ele estava indo para o saxofone, saiu da percussão, foi para o saxofone. Queria aprender saxofone. Mais difícil ainda."
+      },
+      {
+        "start_time": 1773427288500,
+        "end_time": 1773427295489,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Foi ele, Marina, Corria, todo mundo saiu da percussão, foi para o saxofone."
+      },
+      {
+        "start_time": 1773427295489,
+        "end_time": 1773427362743,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente fala, a gente está tentando, o melhor que a gente pode tentar. A gente fica com ele, a gente pode falar que ele tem prioridade para voltar no projeto. A Se gente na consegue hora oferecer que condições que ele ele consegue, pode voltar, ele já volta, saque o fone. Eu acho que a gente pode falar pelo menos isso. Ou não? Você não quer oferecer isso, Wesley? Não, eu concordo plenamente. É muita coisa para pensar.\n\n Mas eu acho que o que a gente fala para a gente, olha, não é que a gente não quer atender, a gente não tem como atender todo mundo na comunidade, ainda mais que ele está voltando do zero no saxofone, os iniciantes estão lá por enquanto. Por quê? Porque também a gente tem que dar prioridade para quem já investiu anos no projeto também. Eu concordo plenamente, isso aí é..."
+      },
+      {
+        "start_time": 1773427362743,
+        "end_time": 1773427382938,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A única coisa que é ruim, por exemplo, a Carol não vai na reunião, beleza, mas ela se minou toda aquela... Sabe? Toda essa questão. E por trás, manda mensagem agradecendo que estão fazendo tudo pelo amor de Deus."
+      },
+      {
+        "start_time": 1773427382938,
+        "end_time": 1773427401934,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Sim. Mas, Carol, honestamente, eu acho que a ficha caiu com a Kelly. Acho que a ficha caiu. Então, a gente vai ter família do Bernardo, que ou vai chegar ou não vai chegar. Mas acho que é bem possível que... A Duny falou que ia, né?"
+      },
+      {
+        "start_time": 1773427401943,
+        "end_time": 1773427412146,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "E a questão do dinheiro, Tom, que foi levantado no grupo? Os crianças deveriam receber? Deixe isso comigo."
+      },
+      {
+        "start_time": 1773427412146,
+        "end_time": 1773427491391,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Pode deixar as crianças estarem tranquilos. Nenhum projeto faz assim de remunerar crianças que fazem parte de projetos sociais. O dinheiro é revertido para investir no projeto, por isso que eles têm de investimentos grátis, sabe? Essa parte eu me garanto. Eu posso... Deixa essa parte comigo, por favor, que aqui eu... Não tem como. Não tem irregularidade lá. Também a parte da minha casa, vou explicar as coisas que estão erradas, eles achando que minha casa foi comprada com dinheiro do projeto.\n\n Seria bom a gente ter uma noção das... Das mentiras que foram... Não sei se eles anotaram todas as coisas que foram colocadas no grupo, que a gente poderia responder. Mas eu acho que a gente... O que eles perguntam, a ideia disso, é que as pessoas tenham oportunidade para perguntar, por exemplo, outras coisas que eu estava pensando. A Angélica não vai poder, segundo ela. Mas será que a gente pede um depoimento ao invés de ela jogar no grupo?\n\n"
+      },
+      {
+        "start_time": 1773427491391,
+        "end_time": 1773427493893,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "A Angélica tem falado comigo direto também."
+      },
+      {
+        "start_time": 1773427493893,
+        "end_time": 1773427502471,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, comigo também, mas ela poderia, se você falar, de repente ela mandar um depoimento para a gente levar à reunião. E aí conversa?"
+      },
+      {
+        "start_time": 1773427502471,
+        "end_time": 1773427504258,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Sim, o que você acha?"
+      },
+      {
+        "start_time": 1773427504258,
+        "end_time": 1773427542180,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque aí a gente, então, uma coisa que a gente gostaria de falar, é um momento, uma coisa que a gente gostaria de falar aqui pelas mensagens, Enquanto essas mensagens estavam rolando no grupo, teve Mai, que até igual a gente, não quer responder para entrar numa briga, mas eles estão falando da gente à parte. Então, gostaria de apresentar ou falar de uma Mai, ela mandar para a gente para apresentar na reunião, para ela não ter que entrar no grupo e ter essa situação da galera caindo em cima dela.\n\n"
+      },
+      {
+        "start_time": 1773427542233,
+        "end_time": 1773427543365,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu acho que..."
+      },
+      {
+        "start_time": 1773427543365,
+        "end_time": 1773427544876,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "O que você acha?"
+      },
+      {
+        "start_time": 1773427544876,
+        "end_time": 1773427547897,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, eu posso falar com ela, ela faz."
+      },
+      {
+        "start_time": 1773427547897,
+        "end_time": 1773427555826,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, aí a gente fala essa coisa, porque a coisa que tem que ficar clara para eles é que isso não..."
+      },
+      {
+        "start_time": 1773427555826,
+        "end_time": 1773427558092,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A Carol não representa as mães."
+      },
+      {
+        "start_time": 1773427558092,
+        "end_time": 1773427565644,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente, eu acho. Não representa, de forma alguma. Nem a mãe do Bernardo, e essas são as pessoas que nem..."
+      },
+      {
+        "start_time": 1773427565644,
+        "end_time": 1773427634892,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "O que seria interessante, se a gente ainda tem a presença das reuniões, saber quantas reuniões né essas pessoas foram e a Carol fala a Carol vai nas reuniões e não vai quase né porque sim então a gente tem quando vai ela não fala nada disso com a gente ela só fala que tá ótimo lindo e maravilhoso não é exatamente e a gente perceba já cometer isso eu tenho a sensação que tem alguém por trás, que aí não adianta, eu não vou saber quem, mas eu tenho a sensação que tem alguma pessoa por trás buscando algumas pessoas estrategicamente para derrubar o projeto.\n\n Até porque a fala não condiz com a pessoa, entendeu? As mensagens que eu mando para a gente não condiz com... Estou falando que a pessoa é burra não, pelo amor de Deus, mas eu digo que não é a forma que a pessoa normalmente se expressa com a gente, entendeu?"
+      },
+      {
+        "start_time": 1773427634892,
+        "end_time": 1773427638572,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Claro, mas a coisa é, juridicamente, eles não têm nada."
+      },
+      {
+        "start_time": 1773427638572,
+        "end_time": 1773427639676,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, não têm."
+      },
+      {
+        "start_time": 1773427639676,
+        "end_time": 1773427752414,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, ok. E a outra coisa é que só para a gente tentar, em termos do que a gente tem que alinhar, depois vocês falam se faltam outras coisas para a gente alinhar. Outra coisa para alinhar é essa questão que aquele próprio equilíbrio falou, não, mas vocês estão aqui, o que poderia acontecer? E aquele super virar contra o Carol e falar... O engraçado disso é que aquele já me falou para colocar o Carol fora do projeto, sabe?\n\n E a coisa é que a Carol está falando toda essa coisa no grupo dos moradores, que não é apropriado. Então, qual é a nossa sobre isso. Eu penso que tem algumas coisas que a gente não pode controlar. A gente pode falar que isso... Aconselhar os pais nas reuniões para direcionar... A gente tem os nossos canais de comunicação, né? Fala com ele. Lili West, vocês estão totalmente abertos. Caso seja, eu entro.\n\n Mas, então, não achamos isso a proporção e a gente pode falar para os pais, porque a gente não pode estar falando que, se você fala mal do projeto em outros lugares, a gente vai te tirar do projeto, porque aí é meio tirânico da nossa parte. Não sei o que vocês acham, mas acho que... A Angélica pensa assim também, mas a gente tem que tomar cuidado com isso. Pois é, em algum momento teve um grupo das mães fora dos nossos grupos.\n\n Mas a gente não pode policiar isso. Isso aí não tem como. A Angélica até me perguntou se existia algum grupo de pais."
+      },
+      {
+        "start_time": 1773427752414,
+        "end_time": 1773427779441,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu falei que eu não sabia, que provavelmente devia ter. Não com todos, mas com alguns. E ela perguntou, o que você acha de você estar nesse grupo? Eu falei, Angélica, eu posso até estar, mas eu não vou falar nada. Até porque... Eu não acho que a gente tem que falar nada em grupo de pais, os pais tem total liberdade para ter um representante que caso queira conversar com a gente, a gente está super disponível.\n\n"
+      },
+      {
+        "start_time": 1773427779441,
+        "end_time": 1773427785336,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas essa coisa, tudo, a gente tem, todo pai pode falar com você, pode levantar a questionamento."
+      },
+      {
+        "start_time": 1773427785336,
+        "end_time": 1773427802823,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, mas eu digo assim, eles falam que lá eles falam muito sobre várias coisas, aí ao invés de várias pessoas querem falando comigo a mesma coisa, por exemplo, eles entrarem num consenso, eles terem e essa pessoa me perguntar, eu responder e essa pessoa levar a resposta."
+      },
+      {
+        "start_time": 1773427802823,
+        "end_time": 1773427803285,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente."
+      },
+      {
+        "start_time": 1773427803285,
+        "end_time": 1773427804210,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É isso."
+      },
+      {
+        "start_time": 1773427804210,
+        "end_time": 1773427930661,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Um ponto fraco que eles podem falar é que não tem pai no nosso concelho, no nosso diretorio, não tem um pai. Antigamente teve a Cris, mas a razão real para isso é que não tem... É difícil a gente ter um pai Quando a gente pediu para eles fazerem um conselho dos pais, a gente acabou com o Karol, Dani, é complicado. A gente não tem mais um conselho, que não é nosso político, mas o que você falou, acho que entra nesse lugar.\n\n A gente, a nossa forma de comunicação com os pais são as reuniões e são direto com a Lilian. É isso. Estava pensando em outra. Coisas para a gente definir. Mas essa coisa de falar fora do projeto, acho que não tem muito que a gente pode fazer com isso, mas a gente também poderia falar para a pessoa que a gente acha inapropriado. Essas coisas de estar vigiando, a nossa Uber, quem pega a Uber, aquela mensagem que ele estava mandando no grupo, se ela tiver essa questão, por que ela está levando no grupo e não se informando com a gente?\n\n A gente precisa que eles com se a informem gente antes de jogar para o público, que é o problema. E a outra coisa que eu queria com a reunião é que a melhor coisa que poderia acontecer com isso é que a gente fale para aquele, olha o que aconteceu. A gente estava criando uma dúzia de novos alunos na comunidade, que a gente falou, não um grupo muito grande que vai entorpecer, mas uma dúzia para o ano está ótimo para a gente.\n\n Olhando a composição desse grupo, a gente tem forteiro, a gente tem coroa, né? Mas a gente não tem ninguém da Pereira."
+      },
+      {
+        "start_time": 1773427930661,
+        "end_time": 1773427933932,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, eu acho interessante levar esse dado, tá?"
+      },
+      {
+        "start_time": 1773427933932,
+        "end_time": 1773428006606,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim, sim. Porque a Kelly, a própria Kelly, é o trabalho dela, esse engajamento. Então, a gente fala, não, as inscrições ainda estão abertas lá. Se a gente... Bote para a Kelly. Se a gente como você conseguir, uns três, quatro da Pereira, como resultado dessa conversa, ser ótimo, e bota para aquele. Então, como a gente faz? A gente tentou o grupo de WhatsApp de vocês, porque a própria Kelly, depois, vai se pronunciar num outro grupo, sabe?\n\n E ela poderia pronunciar no nosso favor, sabe? Então, a gente tem que falar para a Kelly, então, bota para ela. Ok. O problema é que a gente não está tendo criança da Pereira, para ajudar. E a ideia que a gente consegue é uma parceria lá, que ela ajuda a gente, que ela também está na Associação dos Moradores do Palácio Foleteiro, então a gente bota para ela. Que a melhor coisa seria... A gente tem essas seis crianças de outras comunidades, seria muito bom a gente ter até alguns da Pereira da Silva, que isso é verdade, que a gente não está com novos crianças da Pereira da Silva entrando.\n\n E falar isso com ela."
+      },
+      {
+        "start_time": 1773428008329,
+        "end_time": 1773428027536,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É, acho que é importante ela ver que a própria comunidade pessoal não tá rindo. E aí a gente ainda traz um outro dado, porque geralmente alguns até conseguem ir a pé, mas muitas vezes também quem anda a coroa, por exemplo, pega um ônibus."
+      },
+      {
+        "start_time": 1773428027536,
+        "end_time": 1773428122630,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, e essa coisa três vezes por semana, eles estão pegando ônibus para ir para Pereira, sabe? Porque aquela coisa A reunião, quando a gente coloca tudo no sábado, eu acho que é uma solução mais fácil para eles. Que eles, durante a semana, vindo três vezes. Perto do futuro dessas crianças, vindo três vezes por semana até a Pereira, com os pais vindo juntos, andando à noite. Então, sábado tem suas dificuldades, mas tem suas benefícias.\n\n Isso também. Então, seria bom se a gente conseguisse hoje pensar numa solução que a gente pode apresentar lá. A gente vai ter que chegar lá, mas a gente está estudando isso para entender exatamente o que está custando todo mundo todo mês e como a gente poderia organizar isso para, pelo menos, melhorar a logística de sábado. Mas, por longo prazo, a gente gostaria de ter uma situação onde quem começa na Pereira pode continuar na Pereira.\n\n Não temos isso porque também quem está na banda amarela na Pereira, se eles têm ela na Pereira, eles não vão ter ninguém para tocar junto, eles não vão poder tocar com o bando, porque a gente vai ter três crianças tocando, não é uma banda. Então, a gente não tem alunos iniciantes suficientes da Pereira para eles terem uma turma coerente na Pereira, tem isso também. Mais alguma coisa que a gente tem que alinhar entre a gente?\n\n O que vocês acham?"
+      },
+      {
+        "start_time": 1773428122630,
+        "end_time": 1773428135731,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Bom, assim, a questão que o Wesley estava trazendo, que eles falam da questão financeira, você falou que já vai, porque você viu que eles acusam, né? Isso é muito grave, né? Falam que a gente está tendo boa vida."
+      },
+      {
+        "start_time": 1773428135731,
+        "end_time": 1773428138024,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "O que é muito chato isso, né?"
+      },
+      {
+        "start_time": 1773428138024,
+        "end_time": 1773428154279,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Fala que a equipe, né? Está tendo boa vida às custas, como se fosse uma exploração, né? Porque assim, querendo ou não, nas entrelinhas é como se a gente estivesse explorando os para os filhos deles, para a gente ganhar dinheiro, viver super bem."
+      },
+      {
+        "start_time": 1773428154279,
+        "end_time": 1773428154750,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E..."
+      },
+      {
+        "start_time": 1773428154750,
+        "end_time": 1773428182848,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Esses argumentos eu já tenho ensaiado, que eu já tinha que apresentar para eles antes. Então, é isso. Aquela coisa. A Favela Bryce faz um show para 100 mil reais. O meu salário permanece igual. Todo mundo! Não é dividido por lucros. A Favela Bryce é uma CNPJ, sempre instrucrativas, e a gente faz para mostrar que não tem distribuição de lucros."
+      },
+      {
+        "start_time": 1773428182848,
+        "end_time": 1773428203085,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "E, às vezes, tem algumas apresentações que elas, entre aspas, não são nem... Não é que elas não são vantajosas, mas elas não trazem nenhum retorno tão positivo, porque o próprio projeto tem que botar dinheiro. Mas faz no sentido da divulgação do projeto e de possibilidades de futuras parcerias, né? Sexta-feira."
+      },
+      {
+        "start_time": 1773428203085,
+        "end_time": 1773428205809,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sexta-feira a gente vai pagar para trocar..."
+      },
+      {
+        "start_time": 1773428205857,
+        "end_time": 1773428206272,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Exatamente."
+      },
+      {
+        "start_time": 1773428206272,
+        "end_time": 1773428223728,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Todo show esse ano tem sido assim. Exatamente. Mas essa coisa de dinheiro... É porque eu acho que quando tem lá no site o valor, que é repassado, porque é repassado um valor, assim, quando você olha aquele valor, caramba, muito dinheiro."
+      },
+      {
+        "start_time": 1773428223728,
+        "end_time": 1773428239437,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Só que as pessoas não conseguem entender o que está por trás desse dinheiro, a quantidade de coisas que são pagas e que, por vezes, É, bota um milhão, divide por 12, 80 mil, metade dos custos, 40 mil."
+      },
+      {
+        "start_time": 1773428239437,
+        "end_time": 1773428246643,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quantas pessoas que estamos empregando nos 24? Gente, mas ele só pensa assim, o Tom está recebendo um milhão."
+      },
+      {
+        "start_time": 1773428246643,
+        "end_time": 1773428269203,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Tom, você está muito rico, você por favor para explorar meu filho porque eu não estou aguentando mais. Só que, por exemplo, a gente até estava conversando numa reunião, na nossa reunião de equipe, eu, Wesley e Iris, porque, por exemplo, a própria Carolina, quando ela traz isso, né? O menino passou a tocar e recebeu, né?"
+      },
+      {
+        "start_time": 1773428269203,
+        "end_time": 1773428271843,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Quando ele foi tocar no Fluminense."
+      },
+      {
+        "start_time": 1773428271843,
+        "end_time": 1773428296200,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Então, ele recebe... Recebeu mesmo? Você? Aham. Olha isso, então. Aí ele recebe o valor fechado, sei lá, recebeu cem reais. Os cem reais foram limpos pro bolso dele. Então, as pessoas têm a errada ideia de que quando tá lá o que você recebeu da Prio, por exemplo, esse valor tá só pra você."
+      },
+      {
+        "start_time": 1773428296200,
+        "end_time": 1773428314712,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas são organizações... Talvez a gente não tenha coisa pra entender, mas são tipos de organizações diferentes. Isso é uma banda profissional. Eles não têm missão de dar aulas. Não, exatamente. Eles não revertem tudo que eles recebem pra essa missão."
+      },
+      {
+        "start_time": 1773428318004,
+        "end_time": 1773428346594,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É exatamente isso. Agora que a Carolina, ela já tinha essa visão errada. Desde que eu me cheguei no pé, ela já tinha essa visão errada que as crianças tinham que receber. E agora que o Marquinhos tá fazendo gig, com a autorização dela e tal, e tá ganhando dinheiro, ela tá trazendo essa visão. Não, ele tá se apresentando no Favela Brás, ele tem que ganhar. Entende? Agora que ela tomou essa visão, não é isso.\n\n Tá completamente errado. Mas... Exatamente."
+      },
+      {
+        "start_time": 1773428346594,
+        "end_time": 1773428350029,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É uma visão deturpada de duas coisas totalmente diferentes."
+      },
+      {
+        "start_time": 1773428350029,
+        "end_time": 1773428354608,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, mas isso a gente consegue explicar lá no dia, com certeza."
+      },
+      {
+        "start_time": 1773428354608,
+        "end_time": 1773428369108,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Sim, sim. A gente até faz isso a nível de esclarecimento mesmo, porque eu acho que lá na hora muitas pessoas não vão nem perguntar e nem falar metade das coisas que foram ditas no grupo. Sim. Entendeu?"
+      },
+      {
+        "start_time": 1773428369108,
+        "end_time": 1773428373306,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A gente tem mais alguma coisa pra falar sobre esse negócio?"
+      },
+      {
+        "start_time": 1773428373573,
+        "end_time": 1773428375006,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Esse você não tem."
+      },
+      {
+        "start_time": 1773428375006,
+        "end_time": 1773428397579,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, não, eu só queria aproveitar que nós estamos nós três aqui, só para levantar aquela questão, Tom, que a Lilian que vai fazer a entrevista com os pais dos alunos que vão entrar na aula a partir de sexta e terça-feira, lá na Pereira. O que acontece? A princípio, no segundo semestre, eles vão sair de lá e vão para as aulas."
+      },
+      {
+        "start_time": 1773428397579,
+        "end_time": 1773428401520,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. É só isso que, no caso... Explique isso para eles."
+      },
+      {
+        "start_time": 1773428401529,
+        "end_time": 1773428405246,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "É, eu vou explicar. Não, eu já vou explicar."
+      },
+      {
+        "start_time": 1773428405246,
+        "end_time": 1773428407725,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque flauta é só um semestre."
+      },
+      {
+        "start_time": 1773428407725,
+        "end_time": 1773428409377,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Que não é semestre."
+      },
+      {
+        "start_time": 1773428409377,
+        "end_time": 1773428415160,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Que não é semestre. São três ou quatro meses, se eu não me engano."
+      },
+      {
+        "start_time": 1773428415160,
+        "end_time": 1773428441360,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Três meses, mais ou menos. Ano passado funcionou da seguinte forma. Até junho eles fizeram flauta. Então? Segundo semestre, junho já começou e no fim do ano entraram na banda. No ano seguinte entraram na banda. Que já vem funcionando há um tempo. Esses seis alunos que estão matriculados ali, a princípio, vai ser da mesma forma. Eu que vou dar aula de flauta nessas feiras."
+      },
+      {
+        "start_time": 1773428441360,
+        "end_time": 1773428448729,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quando eles vão para o Grupo Semente, eles não podem entrar na feireira na parte do Grupo Semente, não, né?"
+      },
+      {
+        "start_time": 1773428448729,
+        "end_time": 1773428450571,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, essa é a questão."
+      },
+      {
+        "start_time": 1773428450571,
+        "end_time": 1773428503831,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Até pode, mas aí eu acho que a gente vai criar problema com... Com os outros. Então, só para... Essa questão dos pagamentos, e manda mensagem aqui, eu tenho que ver isso. Só para... O que eu estou entendendo? A gente vai ter que explicar para eles que no momento da forma que as coisas estão, o próximo passo vai estar lá no curfilo. Então, eles têm que entender que é isso. A gente está fazendo, olhando o que a gente pode fazer em termos de infraestrutura, como a gente pode organizar isso melhor para não ficar pesado com os pais.\n\n Mas, afinal das contas, no momento, vão ter que levar as crianças para o governo no segundo semestre. E explicar isso, mas a gente não, como você falou, fica complicado para os outros se a gente dá as aulas particulares na comunidade. Eu estou falando rápido aqui agora, porque eu tenho que..."
+      },
+      {
+        "start_time": 1773428503831,
+        "end_time": 1773428512930,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Na segunda-feira, de repente, quando terminar lá na Associação dos Moradores, a gente pode falar sobre isso rapidinho? Sim, a gente pensa mais sobre isso."
+      },
+      {
+        "start_time": 1773428512930,
+        "end_time": 1773428519109,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Porque aí a gente já mesmo, vai a estar gente fala, lá e hora aí eu começo a agendar a partir de terça."
+      },
+      {
+        "start_time": 1773428519540,
+        "end_time": 1773428521630,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É, porque aí começa no sábado."
+      },
+      {
+        "start_time": 1773428521630,
+        "end_time": 1773428523371,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Não, a aula começa terça."
+      },
+      {
+        "start_time": 1773428523371,
+        "end_time": 1773428525809,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, começa terça, tem que agendar logo."
+      },
+      {
+        "start_time": 1773428525809,
+        "end_time": 1773428528247,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vai ter que falar isso para eles."
+      },
+      {
+        "start_time": 1773428528247,
+        "end_time": 1773428533472,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu já vou falar hoje logo, tá? Beleza, eu já vou marcar logo com eles."
+      },
+      {
+        "start_time": 1773428533472,
+        "end_time": 1773428541483,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok, aí depois a gente vai pensando como a gente consegue melhorar isso no futuro, mas eu acho que não tem muito como..."
+      },
+      {
+        "start_time": 1773428541483,
+        "end_time": 1773428543572,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu tenho essa dia 17, né?"
+      },
+      {
+        "start_time": 1773428543572,
+        "end_time": 1773428558373,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Outra coisa para pensar, se eles não conseguem procurvê-lo daqui seis meses, Se isso é alguma coisa que vai fazer que eles não fazem aula, então eles nem teriam ido no covelo para começar no covelo. Mas, enfim."
+      },
+      {
+        "start_time": 1773428558373,
+        "end_time": 1773428560006,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Eu vou fazer, tá?"
+      },
+      {
+        "start_time": 1773428560006,
+        "end_time": 1773428561638,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Perfeito. Muito obrigado, gente."
+      },
+      {
+        "start_time": 1773428561638,
+        "end_time": 1773428562455,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Nada, gente."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Lilian Diniz"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Tom Ashe"
+      },
+      {
+        "name": "Wesley Araujo"
+      }
+    ]
+  },
+  "platform_meeting_id": "yii-amzv-vmz",
+  "platform": "meet"
+}

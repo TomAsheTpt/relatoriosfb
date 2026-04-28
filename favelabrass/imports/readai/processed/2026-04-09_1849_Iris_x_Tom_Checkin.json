@@ -1,0 +1,2446 @@
+{
+  "session_id": "01KNSP3XGPRKCNMCKFQNXEWR7H",
+  "trigger": "meeting_end",
+  "title": "Iris x Tom Checkin",
+  "start_time": "2026-04-09T18:04:24+00:00",
+  "end_time": "2026-04-09T18:45:38+00:00",
+  "participants": [
+    {
+      "name": "Iris Nascimento",
+      "first_name": "Iris",
+      "last_name": "Nascimento",
+      "email": "secretaria@favelabrass.org"
+    },
+    {
+      "name": "tom@favelabrass.org",
+      "first_name": "tom@favelabrass.org",
+      "last_name": null,
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Wesley Araujo",
+      "first_name": "Wesley",
+      "last_name": "Araujo",
+      "email": "wesley@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "tom@favelabrass.org",
+    "first_name": "tom@favelabrass.org",
+    "last_name": null,
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião teve como objetivo revisar inconsistências no programa de horários, na alocação de alunos por banda e instrumentos, e tratar de ausências e comunicações com responsáveis. Após checagem de áudio e rápida conversa sobre provas e licenciatura, os participantes identificaram problemas no sistema de turmas, incluindo nomes ausentes ou incorretos e permissões de edição restritas, e decidiram incluir Karina e a aluna Nicole corretamente no horário e contatar a responsável da nova aluna para confirmação. Em seguida a equipe corrigiu atribuições de instrumentos e bandas, redistribuiu alunos para evitar sobrecarga em instrumentos e registrou faltas recorrentes como as do Marcos, com pedido de contato a Lílian. O grupo também revisou o cadastro de provas práticas e níveis no sistema Coda, identificou inconsistências e agendou sessão futura para revisar e atualizar registros, além de orientar alunos que enviaram material por WhatsApp ou Slack e confirmar horários e professores por escola para o segundo semestre. Foi feito inventário de instrumentos por escola, apontada a falta do saxofone alto nº 240 e necessidade de melhorar a catalogação de percussão, e combinadas tarefas operacionais imediatas como recolher material na casa do Tom, ajustar horários e agendar reunião fixa na quinta para sincronizar a Coda. A reunião de responsáveis para o grupo semente de flauta foi marcada para terça às 7:30 com apresentação do manual, Lílian ficará responsável pelo acompanhamento social após a apresentação, e foram definidas ações logísticas sobre escaletas e transporte, com Wesley e outro participante assumindo contatos com responsáveis e com a mãe da Nicole.",
+  "action_items": [
+    {
+      "text": "Participante da sala de conferência: Acrescentar Karina no sistema de horários onde está aparecendo sem professor"
+    },
+    {
+      "text": "Participante da sala de conferência: Ligar para a mãe da Nicole para confirmar informações da aluna"
+    },
+    {
+      "text": "Tom: Avaliar e promover um membro da banda Amarela para equilibrar a seção de trombones após saída de Vitória"
+    },
+    {
+      "text": "Participante da sala de conferência: Corrigir o instrumento de Rian para sax alto no cadastro"
+    },
+    {
+      "text": "Participante da sala de conferência: Corrigir o instrumento de Ronald para timbal no cadastro"
+    },
+    {
+      "text": "Participante da sala de conferência: Anotar e reunir as informações pendentes sobre níveis para revisar posteriormente na Coda"
+    },
+    {
+      "text": "Participante da sala de conferência: Orientar o Natan no sábado sobre a prova e procedimentos de envio"
+    },
+    {
+      "text": "Wesley Araujo: Confirmar e lembrar sobre os livros para serem levados/impressos"
+    },
+    {
+      "text": "Participante da sala de conferência: Pegar folhas na casa do Tom hoje"
+    },
+    {
+      "text": "Participante da sala de conferência: Colocar os livros, o quadro e o apagador na bolsa e trazer para a reunião/entrega (levar para Carina)"
+    },
+    {
+      "text": "Participante da sala de conferência: Investigar e localizar o saxofone alto nº 240 e registrar sua situação no sistema"
+    },
+    {
+      "text": "Participante da sala de conferência: Ajustar no sistema a aula de teoria com os horários corretos e verificar porque César Augusto não aparece"
+    },
+    {
+      "text": "Participante da sala de conferência: Abrir a Coda em conjunto com Wesley e ajustar níveis e dados desatualizados na próxima quinta-feira"
+    },
+    {
+      "text": "Wesley Araujo: Fale com a Lílian para alinhar os nomes dos alunos e a organização da reunião com os pais"
+    },
+    {
+      "text": "Participante da sala de conferência: Combine com Wellington para ajudar no transporte das escaletas, se necessário"
+    },
+    {
+      "text": "Participante da sala de conferência: Ligue para a mãe da Nicole e explique o funcionamento, entregando o manual amanhã"
+    },
+    {
+      "text": "Participante da sala de conferência: Leve o manual para a mãe da Nicole"
+    },
+    {
+      "text": "Participante da sala de conferência: Reforce no grupo a divulgação da aula de teoria e peça aos alunos que levem a escaleta"
+    },
+    {
+      "text": "Participante da sala de conferência: Distribua escaletas na aula e faça a marcação de quem ainda não tem instrumento"
+    },
+    {
+      "text": "Participante da sala de conferência: Separe e limpe as escaletas na casa do Tom e carregue‑as no carro para levar ao local das aulas"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Você já entrou em contato com a mãe da Nicole?"
+    },
+    {
+      "text": "O Pabllo já foi incluído no sistema?"
+    },
+    {
+      "text": "Qual é a escola da Maria Eduarda Figueiredo?"
+    },
+    {
+      "text": "Dá para ver se os professores de cada escola estão corretos?"
+    },
+    {
+      "text": "Como editar os horários no sistema e qual era o procedimento?"
+    },
+    {
+      "text": "Onde está o saxofone alto que consta como faltando?"
+    },
+    {
+      "text": "A reunião dos iniciantes ficou marcada para terça às 7:30?"
+    },
+    {
+      "text": "Poderia a reunião ser antes da aula para ajustar a presença de quem dá aula?"
+    },
+    {
+      "text": "Você vai adicionar a responsável da Nicole no grupo hoje?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Os participantes identificaram erros no cadastro do programa relacionados a professores e alunos ausentes no sistema"
+    },
+    {
+      "text": "Karina precisa ser adicionada ao quadro de horários porque aparece sem professor atribuído"
+    },
+    {
+      "text": "Nem todos os usuários têm permissão para editar horários; presença pode ser alterada pela participante, mas horários não"
+    },
+    {
+      "text": "A nova aluna Nicole foi registrada no primeiro horário e a responsável será contatada para confirmar detalhes"
+    },
+    {
+      "text": "O caso de faltas frequentes do aluno Marcos foi tratado e Lilian foi acionada para contato com a família"
+    },
+    {
+      "text": "Vários alunos estavam sem banda ou com bandas/incorporações incorretas e exigem realocação"
+    },
+    {
+      "text": "Há necessidade de promover um integrante da banda Amarela para equilibrar a seção de trombones após saída de aluna"
+    },
+    {
+      "text": "Foram identificadas discrepâncias de instrumentos, por exemplo, Rian e Ronald precisam ter seus instrumentos corrigidos no cadastro"
+    },
+    {
+      "text": "Foi detectada discrepância no registro de nível do Davi no saxofone barítono que está sendo contado como trompete."
+    },
+    {
+      "text": "As provas recentes já foram lançadas no sistema, mas ainda há itens pendentes para lançar manualmente."
+    },
+    {
+      "text": "Tarefas logísticas foram atribuídas, incluindo pegar folhas, livros e material didático na casa do Tom."
+    },
+    {
+      "text": "As aulas práticas de instrumento começam no segundo semestre e os horários por escola foram confirmados."
+    },
+    {
+      "text": "A catalogação dos instrumentos nas escolas está majoritariamente correta, faltando catalogar instrumentos de percussão específicos."
+    },
+    {
+      "text": "Há um saxofone alto desaparecido (nº 240) sem registro associado no sistema, exigindo investigação."
+    },
+    {
+      "text": "Foi acordada uma sessão de atualização da Coda na próxima quinta-feira para corrigir níveis e dados desatualizados."
+    },
+    {
+      "text": "A reunião inicial com os pais e apresentação do manual foi marcada para terça às 7:30."
+    },
+    {
+      "text": "Lílian ficará responsável por acompanhar socialmente os alunos considerados problemáticos após a reunião inicial."
+    },
+    {
+      "text": "Haverá uma sondagem sobre acompanhamento psicológico ou uso de medicamento entre os pais para guiar o trabalho com os alunos."
+    },
+    {
+      "text": "Wesley se comprometeu a falar com a Lílian para alinhar nomes e responsáveis dos alunos."
+    },
+    {
+      "text": "A mãe da Nicole será contactada e receberá o manual pessoalmente."
+    },
+    {
+      "text": "Foi decidido distribuir escaletas para alunos que não possuem e mapear quem precisa receber uma."
+    },
+    {
+      "text": "Será organizada a separação e transporte das escaletas na casa do Tom para limpeza e distribuição."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KNSP3XGPRKCNMCKFQNXEWR7H",
+  "chapter_summaries": [
+    {
+      "title": "Verificação de áudio e introdução informal",
+      "description": "A reunião começou com checagens de áudio e cumprimentos breves entre os participantes, seguidos por comentários pessoais sobre provas e conteúdos da licenciatura que causaram atrasos. Esse segmento estabeleceu a disponibilidade dos participantes para iniciar a revisão do programa.",
+      "topics": []
+    },
+    {
+      "title": "Identificação inicial de problemas no programa e permissões",
+      "description": "Os participantes iniciaram a análise do módulo \"programa\", apontando inconsistências nos horários e ausência de professores em alguns registros; discutiram também limitações de permissão no sistema, onde alguns usuários conseguem somente marcar presença, mas não editar horários ou alunos. A inclusão de Karina foi destacada como necessária.",
+      "topics": [
+        "Os participantes identificaram erros no cadastro do programa relacionados a professores e alunos ausentes no sistema",
+        "Karina precisa ser adicionada ao quadro de horários porque aparece sem professor atribuído",
+        "Nem todos os usuários têm permissão para editar horários; presença pode ser alterada pela participante, mas horários não"
+      ]
+    },
+    {
+      "title": "Comunicação com responsáveis e inclusão de nova aluna",
+      "description": "Foi discutida a inclusão da nova aluna Nicole no primeiro horário ao lado de Maria Fernanda, e a participante informou que já havia enviado mensagem para a mãe sem resposta, comprometendo-se a ligar para confirmar informações. Também foram mencionadas justificativas de falta de outros alunos e a necessidade de contato com suas famílias.",
+      "topics": [
+        "A nova aluna Nicole foi registrada no primeiro horário e a responsável será contatada para confirmar detalhes",
+        "O caso de faltas frequentes do aluno Marcos foi tratado e Lilian foi acionada para contato com a família"
+      ]
+    },
+    {
+      "title": "Revisão e correção de atribuições por banda",
+      "description": "O grupo percorreu a lista de bandas e alunos, identificando estudantes sem banda atribuída, atribuições incorretas de bandas e necessidade de ajuste de instrumentos. Foram feitas correções específicas de escola e instrumento e levantada a necessidade de promover um músico na banda Amarela após saída de integrante.",
+      "topics": [
+        "Vários alunos estavam sem banda ou com bandas/incorporações incorretas e exigem realocação"
+      ]
+    },
+    {
+      "title": "Ajustes finos de instrumentos e alocação por banda",
+      "description": "Nesta seção foram detalhadas correções de instrumentos (por exemplo, Rian como sax alto, Ronald como timbal) e confirmações de posições de alunos em bandas específicas, além de checagens finais sobre nomes que precisavam ser movidos ou removidos de determinadas listas.",
+      "topics": [
+        "Há necessidade de promover um integrante da banda Amarela para equilibrar a seção de trombones após saída de aluna",
+        "Foram identificadas discrepâncias de instrumentos, por exemplo, Rian e Ronald precisam ter seus instrumentos corrigidos no cadastro"
+      ]
+    },
+    {
+      "title": "Revisão de provas e níveis",
+      "description": "O segmento inicial tratou da descoberta de registros incorretos de níveis para provas práticas, com exemplos específicos como o caso do Davi no sax barítono que consta como trompete. Houve menção de que algumas provas foram lançadas recentemente e que será necessário revisar os níveis um a um no Coda.",
+      "topics": [
+        "Foi detectada discrepância no registro de nível do Davi no saxofone barítono que está sendo contado como trompete."
+      ]
+    },
+    {
+      "title": "Lançamentos, comunicações e orientações",
+      "description": "Nesta parte discutiram-se os meios de envio das provas (WhatsApp e Slack) e orientações para alunos que farão avaliações presenciais no fim de semana, além de confirmações sobre quem vai orientar em determinados horários. Também foi lembrado o cuidado com materiais e livros.",
+      "topics": [
+        "As provas recentes já foram lançadas no sistema, mas ainda há itens pendentes para lançar manualmente.",
+        "Tarefas logísticas foram atribuídas, incluindo pegar folhas, livros e material didático na casa do Tom."
+      ]
+    },
+    {
+      "title": "Horários, professores e distribuição por escola",
+      "description": "O grupo verificou a distribuição de professores e oficinas por escola, confirmou que as aulas de instrumento começam no segundo semestre e alinhou quem ficará responsável por certas turmas como Vital Brasil, Pereira Passos e Maria Leopoldina. Foram vistas sobreposições de presença e a necessidade de abrir o portal para editar horários.",
+      "topics": [
+        "As aulas práticas de instrumento começam no segundo semestre e os horários por escola foram confirmados."
+      ]
+    },
+    {
+      "title": "Inventário de instrumentos e saxofone faltante",
+      "description": "Foi apresentado o inventário dos instrumentos nas escolas, com observação de que a maioria está catalogada, mas que falta catalogar percussão específica. Surgiu um problema: um saxofone alto (nº 240) não foi localizado e não há registro claro de quem o recebeu, motivando busca e verificação.",
+      "topics": [
+        "A catalogação dos instrumentos nas escolas está majoritariamente correta, faltando catalogar instrumentos de percussão específicos.",
+        "Há um saxofone alto desaparecido (nº 240) sem registro associado no sistema, exigindo investigação."
+      ]
+    },
+    {
+      "title": "Ajustes no sistema e agendamento de nova reunião",
+      "description": "Ajustes em aulas de teoria e horários foram tentados no sistema, com alguns nomes que não aparecem e limitações de edição mencionadas. Finalizaram combinando abrir a Coda juntos para atualizar dados e marcaram uma reunião fixa na quinta-feira seguinte para tratar níveis e sincronização de informações.",
+      "topics": [
+        "Foi acordada uma sessão de atualização da Coda na próxima quinta-feira para corrigir níveis e dados desatualizados."
+      ]
+    },
+    {
+      "title": "Agendamento da reunião e disponibilidade dos participantes",
+      "description": "Os participantes discutiram datas e horários para a reunião dos iniciantes, confirmando terça‑feira às 19:30 e ponderando mover o horário para acomodar quem ministra aulas. Também foi sugerida a alternativa de marcar outra data apenas com os pais e a questão de retirar os alunos do ambiente para essa reunião foi levantada.",
+      "topics": [
+        "A reunião inicial com os pais e apresentação do manual foi marcada para terça às 7:30."
+      ]
+    },
+    {
+      "title": "Papel da Lílian e gestão de alunos com comportamento desafiador",
+      "description": "A conversa abordou a necessidade de Lílian assumir o acompanhamento social dos alunos considerados problemáticos após a apresentação do manual, e a proposta de sondar pais sobre acompanhamento psicológico ou uso de medicação para orientar as abordagens pedagógicas. Foi sugerida divisão de turmas ou mudança de horário para que alguns alunos sejam direcionados para percussão com Natan.",
+      "topics": [
+        "Lílian ficará responsável por acompanhar socialmente os alunos considerados problemáticos após a reunião inicial.",
+        "Haverá uma sondagem sobre acompanhamento psicológico ou uso de medicamento entre os pais para guiar o trabalho com os alunos."
+      ]
+    },
+    {
+      "title": "Comunicação com pais e responsabilização por nomes dos alunos",
+      "description": "Ficou acordado que o participante responsável passará a Lílian os nomes dos alunos para contato direto com os responsáveis, mencionando relações familiares entre alunos e casos de faltas não justificadas que precisam ser verificados. Wesley confirmou que falaria com Lílian sobre esses responsáveis.",
+      "topics": [
+        "Wesley se comprometeu a falar com a Lílian para alinhar nomes e responsáveis dos alunos."
+      ]
+    },
+    {
+      "title": "Logística de escaletas e aula de teoria",
+      "description": "Os participantes combinaram que alguém irá pegar e separar escaletas na casa do Tom, possivelmente com ajuda do Wellington, limpar e transportar as unidades no carro para distribuição na aula de teoria, além de reforçar no grupo que os alunos devem levar as escaletas. Foi levantada uma lista de alunos que não possuem escaleta e a decisão de levar unidades extras para suprir a demanda.",
+      "topics": [
+        "A mãe da Nicole será contactada e receberá o manual pessoalmente.",
+        "Foi decidido distribuir escaletas para alunos que não possuem e mapear quem precisa receber uma.",
+        "Será organizada a separação e transporte das escaletas na casa do Tom para limpeza e distribuição."
+      ]
+    },
+    {
+      "title": "Encerramento e confirmações finais",
+      "description": "O encerramento incluiu confirmações de disponibilidade para apoio e disposição para resolver pendências logísticas, com agradecimentos finais entre os participantes e despedidas.",
+      "topics": []
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1775757893801,
+        "end_time": 1775757895487,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Você tá me ouvindo?"
+      },
+      {
+        "start_time": 1775757895487,
+        "end_time": 1775757897172,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá me ouvindo legal?"
+      },
+      {
+        "start_time": 1775757897172,
+        "end_time": 1775757902229,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tô te ouvindo, mas você tá me ouvindo? Tô, tô te ouvindo."
+      },
+      {
+        "start_time": 1775757902229,
+        "end_time": 1775757903915,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, tá. Beleza. Nossa."
+      },
+      {
+        "start_time": 1775757903915,
+        "end_time": 1775757904758,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tudo bem?"
+      },
+      {
+        "start_time": 1775757904758,
+        "end_time": 1775757905600,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tudo bem."
+      },
+      {
+        "start_time": 1775757905600,
+        "end_time": 1775757911500,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tava aqui na correria resolvendo um problema e quando eu cheguei eu fiquei, caraca..."
+      },
+      {
+        "start_time": 1775757911500,
+        "end_time": 1775757915293,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Não, mas tá tranquilo. Tu tá podendo fazer agora?"
+      },
+      {
+        "start_time": 1775757915293,
+        "end_time": 1775757919085,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É que eu fui fazer prova lá na faculdade."
+      },
+      {
+        "start_time": 1775757919085,
+        "end_time": 1775757922035,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Atrasou um pouquinho. Ah, tá. É presencial?"
+      },
+      {
+        "start_time": 1775757922375,
+        "end_time": 1775757924936,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, presencial. As provas são presenciais."
+      },
+      {
+        "start_time": 1775757924936,
+        "end_time": 1775757925362,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendi."
+      },
+      {
+        "start_time": 1775757925362,
+        "end_time": 1775757926216,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Foi tranquilo?"
+      },
+      {
+        "start_time": 1775757926216,
+        "end_time": 1775757927069,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Conseguiu fazer?"
+      },
+      {
+        "start_time": 1775757927069,
+        "end_time": 1775757942433,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Acho que foi muito bom. Agora é a parte chata da licenciatura, pra falar de Calmax e tal, não sei o que. Ah, pelo amor de Deus. Mas vamos lá. Agora é a parte sociologia, né?"
+      },
+      {
+        "start_time": 1775757942433,
+        "end_time": 1775757945421,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ah, tá. Tu tem outras matérias, né?"
+      },
+      {
+        "start_time": 1775757945421,
+        "end_time": 1775757950969,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Além disso. Tem. Licenciatura igual a isso tudo. Sim. A parte chata, né?"
+      },
+      {
+        "start_time": 1775757950978,
+        "end_time": 1775757954895,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Se fosse só música, né? Mais tranquilo."
+      },
+      {
+        "start_time": 1775757954895,
+        "end_time": 1775757957693,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Pois é. Mas vamos lá."
+      },
+      {
+        "start_time": 1775757957693,
+        "end_time": 1775757967206,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Você tinha sinalizado que algumas coisas dentro do programa, né? Dessa aba aqui, programa, estavam erradas, né?"
+      },
+      {
+        "start_time": 1775757967206,
+        "end_time": 1775757975041,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu vou começar por aqui. Eu acho que a gente pode começar pelo horário."
+      },
+      {
+        "start_time": 1775757975041,
+        "end_time": 1775757976719,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Pelos horários, tá."
+      },
+      {
+        "start_time": 1775757976719,
+        "end_time": 1775757977279,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1775757977279,
+        "end_time": 1775757978958,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Vamos lá, então."
+      },
+      {
+        "start_time": 1775757978958,
+        "end_time": 1775757979517,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Horários."
+      },
+      {
+        "start_time": 1775757979806,
+        "end_time": 1775757980445,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1775757980445,
+        "end_time": 1775757982362,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tem que acrescentar..."
+      },
+      {
+        "start_time": 1775757982362,
+        "end_time": 1775757990029,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Acho que não faz muito sentido. A gente pode ver por professor."
+      },
+      {
+        "start_time": 1775757990029,
+        "end_time": 1775757993863,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Isso, tem que acrescentar a Karina."
+      },
+      {
+        "start_time": 1775757993863,
+        "end_time": 1775758006459,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Pois é, a Karina eu tinha colocado. E não foi, parece. Uma cor mesmo aqui, tá sem professor. É."
+      },
+      {
+        "start_time": 1775758006459,
+        "end_time": 1775758008634,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Carina Almeida."
+      },
+      {
+        "start_time": 1775758008634,
+        "end_time": 1775758014070,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E tá falta doce ainda."
+      },
+      {
+        "start_time": 1775758014070,
+        "end_time": 1775758015158,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1775758015158,
+        "end_time": 1775758020594,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Deixa eu aproveitar pra anotar."
+      },
+      {
+        "start_time": 1775758020594,
+        "end_time": 1775758021681,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tranquilo."
+      },
+      {
+        "start_time": 1775758021681,
+        "end_time": 1775758031467,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Esse sistema é muita coisinha. Muito difícil identificar tudo."
+      },
+      {
+        "start_time": 1775758032673,
+        "end_time": 1775758037268,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Entendi, mas agora você já tá conseguindo você mesma mudar?"
+      },
+      {
+        "start_time": 1775758037268,
+        "end_time": 1775758059785,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Tô mudando a parte de presença, né? Que é a minha competência, digamos assim. Algumas outras coisas eu não consigo mudar. Horário, por exemplo, eu mesma não consigo mexer. Alguns horários da aula particular eu consigo, mas horário assim, por exemplo, incluir professor, excluir isso aqui, eu não consigo."
+      },
+      {
+        "start_time": 1775758059785,
+        "end_time": 1775758060245,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Entendi."
+      },
+      {
+        "start_time": 1775758061000,
+        "end_time": 1775758063746,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Consigo ajustar os horários."
+      },
+      {
+        "start_time": 1775758063746,
+        "end_time": 1775758064432,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendi."
+      },
+      {
+        "start_time": 1775758064432,
+        "end_time": 1775758083653,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Então é isso, eu acho que... O lance da Karina, aí tem que acrescentar a Nicole, a nova aluna. No primeiro horário, junto com a Maria Fernanda, né?"
+      },
+      {
+        "start_time": 1775758083653,
+        "end_time": 1775758086399,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Isso, eu coloquei lá."
+      },
+      {
+        "start_time": 1775758086620,
+        "end_time": 1775758089902,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Você já entrou em contato com a mãe dela?"
+      },
+      {
+        "start_time": 1775758089902,
+        "end_time": 1775758100478,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Mandei mensagem ontem, mas ela não me respondeu. Vou dar uma ligadinha pra ela. Tá. Aí eu já ligo e já falo tudo que a gente tem que falar."
+      },
+      {
+        "start_time": 1775758100478,
+        "end_time": 1775758102667,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Show de bola. Show de bola."
+      },
+      {
+        "start_time": 1775758102667,
+        "end_time": 1775758148169,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Como é que eu tô anotando aqui? Então... Sábado. Professora Karina. É, o outro é tirar nessa aula de falta."
+      },
+      {
+        "start_time": 1775758148169,
+        "end_time": 1775758149609,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1775758149609,
+        "end_time": 1775758153931,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Colocar teoria 1."
+      },
+      {
+        "start_time": 1775758153931,
+        "end_time": 1775758155372,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ok."
+      },
+      {
+        "start_time": 1775758164481,
+        "end_time": 1775758170813,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ok. Isso. Isso."
+      },
+      {
+        "start_time": 1775758190601,
+        "end_time": 1775758202415,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Passei. Passei. Eu me sinto em caixa de óculos. Deixo-me abrir a mão."
+      },
+      {
+        "start_time": 1775758202415,
+        "end_time": 1775758209684,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Eu preciso de um segredo. Passei o óculos."
+      },
+      {
+        "start_time": 1775758218640,
+        "end_time": 1775758227671,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Isso, acho que o restante aí tá de boa. O Marcos tá aí ou não tá? O Pabllo já foi incluído? O Marcos?"
+      },
+      {
+        "start_time": 1775758227671,
+        "end_time": 1775758229242,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Já, já foi incluído."
+      },
+      {
+        "start_time": 1775758229242,
+        "end_time": 1775758229634,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1775758229634,
+        "end_time": 1775758234346,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu não sei o que tá acontecendo que ele tá faltando direto."
+      },
+      {
+        "start_time": 1775758234346,
+        "end_time": 1775758241807,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Eu pedi pra Lilian entrar em contato. Na semana passada a mãe justificou que tinha uma questão do passeio."
+      },
+      {
+        "start_time": 1775758241807,
+        "end_time": 1775758255917,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ontem ele não foi, Se for para voltar dessa forma. Vamos lá vamos seguir."
+      },
+      {
+        "start_time": 1775758255917,
+        "end_time": 1775758261699,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "E o Guilherme falou alguma coisa."
+      },
+      {
+        "start_time": 1775758261699,
+        "end_time": 1775758272588,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Semana que vem está de volta. Aí agora tem. Lá nas bandas?"
+      },
+      {
+        "start_time": 1775758272588,
+        "end_time": 1775758275332,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É o que das bandas?"
+      },
+      {
+        "start_time": 1775758275332,
+        "end_time": 1775758286311,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É o que acontece, tem uns alunos que estão lá que não estão relacionados em banda nenhuma. Estão aonde isso?"
+      },
+      {
+        "start_time": 1775758286311,
+        "end_time": 1775758287958,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Presença? Ou programa?"
+      },
+      {
+        "start_time": 1775758287958,
+        "end_time": 1775758290154,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Deve estar no programa."
+      },
+      {
+        "start_time": 1775758290154,
+        "end_time": 1775758291801,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aqui bandas né?"
+      },
+      {
+        "start_time": 1775758291801,
+        "end_time": 1775758292350,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1775758292350,
+        "end_time": 1775758302189,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Desce tudo aí, tem uns alunos Os alunos que não estão relacionados em banda nenhuma."
+      },
+      {
+        "start_time": 1775758302189,
+        "end_time": 1775758305775,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Olha lá, 100 bandas. Ana e Sofia."
+      },
+      {
+        "start_time": 1775758305775,
+        "end_time": 1775758329713,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ana e Sofia é a banda amarela, né? Daniela também. Ana e Sofia é a banda amarela. O... O Bernardo é Grupo Semente. A Daniela Vitória é da banda amarela. E essa Maria Eduarda Figueiredo Ela é do... Ah, meu Deus do Céu!"
+      },
+      {
+        "start_time": 1775758329713,
+        "end_time": 1775758335715,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ela é da Pernambuco! É! Que é isso?"
+      },
+      {
+        "start_time": 1775758336666,
+        "end_time": 1775758373030,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É da primeira passo, entendeu? Isso. Marcos professor."
+      },
+      {
+        "start_time": 1775758373030,
+        "end_time": 1775758379319,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É porque ele está como um como um aluno né. Ele faz aula com."
+      },
+      {
+        "start_time": 1775758379319,
+        "end_time": 1775758382464,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Aí ele pode ficar aqui sem banda."
+      },
+      {
+        "start_time": 1775758382464,
+        "end_time": 1775758384710,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ele pode ficar sem banda."
+      },
+      {
+        "start_time": 1775758384710,
+        "end_time": 1775758405654,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas deixa ele passando aí. A outra coisa é essa Larissa Teixeira respondeu ou não. Porque essa Larissa Teixeira não respondeu não respondeu. Ela não é do grupo Sementes ela é da. Pirena Passo, vai ter que tirar o nome dela daí."
+      },
+      {
+        "start_time": 1775758405654,
+        "end_time": 1775758407621,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Pra não responder..."
+      },
+      {
+        "start_time": 1775758407621,
+        "end_time": 1775758422053,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas pode colocar que ela é da Pirena Passo, ela não é do Grupo Semente. Aí tem que colocar no Grupo Semente."
+      },
+      {
+        "start_time": 1775758428381,
+        "end_time": 1775758438854,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Só um minuto. Nicole que é agora nova, né? É, Nicole saxofone alto."
+      },
+      {
+        "start_time": 1775758438854,
+        "end_time": 1775758446105,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ela tem que botar o saxofone alto. E aí?"
+      },
+      {
+        "start_time": 1775758446105,
+        "end_time": 1775758454968,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Maria Eduarda Figueiredo. Qual é a escola mesmo que ela é?"
+      },
+      {
+        "start_time": 1775758454976,
+        "end_time": 1775758465005,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Pereira Passos, Maria Eduarda, Pereira Passos."
+      },
+      {
+        "start_time": 1775758465005,
+        "end_time": 1775758468347,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Guia Nicole."
+      },
+      {
+        "start_time": 1775758468347,
+        "end_time": 1775758470019,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1775758471547,
+        "end_time": 1775758480896,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Como saxofone alto."
+      },
+      {
+        "start_time": 1775758480896,
+        "end_time": 1775758496479,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aí pode subir um pouquinho."
+      },
+      {
+        "start_time": 1775758496487,
+        "end_time": 1775758506701,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "cantinho aí por Banda Verde a verde a é sax tenor."
+      },
+      {
+        "start_time": 1775758506701,
+        "end_time": 1775758513660,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não é sax alto é sax tenor."
+      },
+      {
+        "start_time": 1775758514348,
+        "end_time": 1775758517315,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E a Vitória Matos saiu, infelizmente."
+      },
+      {
+        "start_time": 1775758517315,
+        "end_time": 1775758529186,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tem que conversar com o Tom sobre uma promoção de alguém da banda Amarela, porque senão a Isadora vai ficar sozinha lá no trombone."
+      },
+      {
+        "start_time": 1775758529186,
+        "end_time": 1775758529680,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1775758529680,
+        "end_time": 1775758530175,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Entendeu?"
+      },
+      {
+        "start_time": 1775758530175,
+        "end_time": 1775758578270,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tem que conversar com o Tom sobre isso. Promoveu o Isaac pra banda... Depois do Bali, né? Depois do Bali, promoveu para a banda verde. Aí na banda verde, só olhar mais um pouquinho. Caixa, a Maria Manoela Saxtenor, surdo, trombone, a Vitória tem que tirar. Maria Manoela Saxtenor, né? Isso, Saxtenor. Aí desce um pouquinho, por favor, na banda amarela, só para eu dar um É, então, o Miguel Freitas, ele não é percussão geral, ele é surdo.\n\n"
+      },
+      {
+        "start_time": 1775758578270,
+        "end_time": 1775758581112,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, é surdo?"
+      },
+      {
+        "start_time": 1775758581112,
+        "end_time": 1775758583955,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ele tá lá?"
+      },
+      {
+        "start_time": 1775758583955,
+        "end_time": 1775758632616,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, ele tá no surdo. Tá, beleza. Isabela Sofia Arthur. Eu não estou achando aí na banda amarela o nome do César Augusto. Aí não está. Então, Cesar Augusto tá votando na banda amarela. Aí sobe um pouquinho também, por favor, depois, lá pra banda..."
+      },
+      {
+        "start_time": 1775758633354,
+        "end_time": 1775758634705,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Puxa!"
+      },
+      {
+        "start_time": 1775758634705,
+        "end_time": 1775758657658,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Então, Rian é sax alto. Rian Cantone. Ele tá como temor aí, mas ele é sax alto."
+      },
+      {
+        "start_time": 1775758657658,
+        "end_time": 1775758659008,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1775758660740,
+        "end_time": 1775758668108,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "O Ronald não é surdo, é timbal."
+      },
+      {
+        "start_time": 1775758668108,
+        "end_time": 1775758672319,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É só isso mesmo."
+      },
+      {
+        "start_time": 1775758672319,
+        "end_time": 1775758687056,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "O Ronald é timbal, não é surdo, é timbal. E o Rian, ele é..."
+      },
+      {
+        "start_time": 1775758687115,
+        "end_time": 1775758689453,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "da banda preta é Timbal?"
+      },
+      {
+        "start_time": 1775758689453,
+        "end_time": 1775758722633,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, o Luiz Henrique também é Timbal, da banda preta. Acho que na banda roxa agora é só isso mesmo, só o Ronald que é pra mudar pra Timbal e o Rian que é pra mudar pra Saxalto. Aí sobe pra banda preta, por favor. O barrito não penou, penou."
+      },
+      {
+        "start_time": 1775758722633,
+        "end_time": 1775758738127,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, olha lá, Maria Antônia Machado, é sax alto."
+      },
+      {
+        "start_time": 1775758738127,
+        "end_time": 1775758784754,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá. Só ela que é um sax alto? Emily também, sax alto, tá como tem noi, Emily Vitória, sax alto. A Bárbara Surdo, tá, tá, Edileusa Trombone, tá, Alex Trombone, Trombone, Trompete, Trompete, tá, aí tá certo. Aí, vem a outra questão, que é o lance da... Mas aí eu vou ter que ver com mais calma, porque eu já tô vendo aqui de cara que tem essa prova prática aí, tem um pessoal que tá errado. Essa aqui?"
+      },
+      {
+        "start_time": 1775758784754,
+        "end_time": 1775758790594,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É, por exemplo, o Davi... Essa prova prática é o nível de cada um, né?"
+      },
+      {
+        "start_time": 1775758790594,
+        "end_time": 1775758816349,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, o Davi, ele fez agora nível 1 do sax barítono. Ainda tá contando como se fosse o trompete. Sim. Então é nível 1. Esse aqui a gente vai ter que ver então a 1. Entendeu? Ele pode até ver, eu consigo... Níveis..."
+      },
+      {
+        "start_time": 1775758816349,
+        "end_time": 1775758825527,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ah não, aqui tá com geralzão. Tem as notas."
+      },
+      {
+        "start_time": 1775758825527,
+        "end_time": 1775758832248,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Pois é então aí mesmo. Foi teoria foi."
+      },
+      {
+        "start_time": 1775758832248,
+        "end_time": 1775758843170,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Teria que passar um ao que fazer para esse nível de teoria aí."
+      },
+      {
+        "start_time": 1775758843170,
+        "end_time": 1775758853586,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Volta lá um minuto por favor para desatualizar também. Porque tem gente que já tá no nível 3."
+      },
+      {
+        "start_time": 1775758853586,
+        "end_time": 1775758854851,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Desce aí, por favor."
+      },
+      {
+        "start_time": 1775758854851,
+        "end_time": 1775758856116,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas você quer instrumento."
+      },
+      {
+        "start_time": 1775758856116,
+        "end_time": 1775758877564,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Mas tá aí debaixo, velho. Ah, sim. Deixa eu anotar aqui, então, para a gente ver isso."
+      },
+      {
+        "start_time": 1775758877564,
+        "end_time": 1775758884721,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu tenho alguma planilha?"
+      },
+      {
+        "start_time": 1775758884730,
+        "end_time": 1775758887484,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "você está controlando isso."
+      },
+      {
+        "start_time": 1775758887484,
+        "end_time": 1775758903323,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Então isso estava tudo na coda. É mas hoje e agora não tem mais provas. Quem fez a prova agora está lançado ali."
+      },
+      {
+        "start_time": 1775758903323,
+        "end_time": 1775758927790,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Eu fui lançando né. Agora só tem um gesto para me lançar. Botar aqui. As previsões são as previsões aí. Tem aqui que tá faltou um pouco de tempo. É a previsão de quem vai conseguir chegar no nível 8."
+      },
+      {
+        "start_time": 1775758927790,
+        "end_time": 1775758943117,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Não sei mas tem aqui quanto tempo ainda o aluno fica. Ah desce aí desce aí acho que tá aí pra baixo. Aí aí. Quem sai esse ano."
+      },
+      {
+        "start_time": 1775758945383,
+        "end_time": 1775758949229,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Aí a gente lê você senta."
+      },
+      {
+        "start_time": 1775758949229,
+        "end_time": 1775758955640,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Aí a gente lê o João Pedro Bárbara Maria Rita."
+      },
+      {
+        "start_time": 1775758955640,
+        "end_time": 1775758960127,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "E ano que vem essa leva. Caramba."
+      },
+      {
+        "start_time": 1775758960127,
+        "end_time": 1775758962050,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas vai sair."
+      },
+      {
+        "start_time": 1775758962050,
+        "end_time": 1775758964614,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Dois sexo da banda."
+      },
+      {
+        "start_time": 1775758964614,
+        "end_time": 1775758974229,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Em 2007 sai Davi. Isso não é isso. Davi Carlos Lúcia Marcos Paulo Letícia Sofia."
+      },
+      {
+        "start_time": 1775758974322,
+        "end_time": 1775758978290,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "E a Elisabete e Alex."
+      },
+      {
+        "start_time": 1775758978290,
+        "end_time": 1775759013889,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Desce mais um pouquinho. A 2028. Quem que você tá vendo? 2028 vai até o Marquinhos ali. Maria Antônia, Filipe Barreiro, sabe a galera de 2028 é mais pesado. Ah, então o pessoal tem que cantar mais dois anos ainda. Só Jesus na causa. Nós oramos."
+      },
+      {
+        "start_time": 1775759013889,
+        "end_time": 1775759020256,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Só a Daniela aqui que tá replicado, que eu vi."
+      },
+      {
+        "start_time": 1775759020256,
+        "end_time": 1775759023439,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Mas não faz muita diferença."
+      },
+      {
+        "start_time": 1775759023439,
+        "end_time": 1775759032353,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas sobe um pouquinho, por favor, sobe aí. Não, desce, desce. Desce. Ah, nível."
+      },
+      {
+        "start_time": 1775759032565,
+        "end_time": 1775759034737,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Daí até para corrigir."
+      },
+      {
+        "start_time": 1775759034737,
+        "end_time": 1775759037996,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, mas eu não consigo corrigir."
+      },
+      {
+        "start_time": 1775759037996,
+        "end_time": 1775759040168,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Não tenho essa autorização."
+      },
+      {
+        "start_time": 1775759040168,
+        "end_time": 1775759054830,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Então acho que você vai ficar colocando os níveis mesmo que aí eu vou... Eu vou... Correndo um por um. A prova é aqui que vocês colocam."
+      },
+      {
+        "start_time": 1775759054830,
+        "end_time": 1775759055373,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1775759055373,
+        "end_time": 1775759063245,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "A galera já está mandando para você. Você vai fazer uma escola, as fotos pelo Slack?"
+      },
+      {
+        "start_time": 1775759063245,
+        "end_time": 1775759096329,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Não, o Mangueirinha me manda no WhatsApp, o Henrique, passei pra ele, né, pra fazer pelos Slack. Pois é, o Natan te mandou da quarta-feira? O Natan me mandou no WhatsApp, mas eu vou orientar ele no sábado, né, ele vai estar lá na... Eu vou estar só no primeiro horário Eu chego lá cedo. Aí eu vou ficar um pouquinho e já passo as orientações pra ele. Aqui é a visão geral."
+      },
+      {
+        "start_time": 1775759096329,
+        "end_time": 1775759099264,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só não esquece os livros, por favor."
+      },
+      {
+        "start_time": 1775759099264,
+        "end_time": 1775759109188,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Não, vou esquecer, não. Eu tô imprimindo já. Tem que pegar umas folhas lá no Tom, que acabou. Então, você vai pegar..."
+      },
+      {
+        "start_time": 1775759109188,
+        "end_time": 1775759115259,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Você vai lá na casa do Tom? Você vai lá na casa do Tom?"
+      },
+      {
+        "start_time": 1775759115259,
+        "end_time": 1775759119161,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Hoje vou. Vou lá, tem que pegar as folhas."
+      },
+      {
+        "start_time": 1775759119161,
+        "end_time": 1775759140366,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Faz um favor pra mim. Lá onde eu deixei lá os livros, tá o quadro, aí tem um apagador, Foi o piloto, se você puder botar tudo na bolsa e trazer. Tá. Saí com tanta coisa na cabeça que eu esqueci. Era isso porque era pra levar pra Carina."
+      },
+      {
+        "start_time": 1775759140366,
+        "end_time": 1775759140798,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1775759140798,
+        "end_time": 1775759152460,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Tá, hoje eu vou lá e pego. É, tá, aqui foi então, né? Vimos um por um. Aí a partir dos níveis a gente pode ver depois."
+      },
+      {
+        "start_time": 1775759152460,
+        "end_time": 1775759153324,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas calma."
+      },
+      {
+        "start_time": 1775759153324,
+        "end_time": 1775759160292,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "As escolas. Dá pra ver se tá certo os professores de cada escola?"
+      },
+      {
+        "start_time": 1775759160292,
+        "end_time": 1775759170659,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Aqui só tem os alunos, né? Ah, só os alunos. Não tem os professores. Os horários estão aqui, nas escolas."
+      },
+      {
+        "start_time": 1775759170659,
+        "end_time": 1775759173769,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Oficina de Trombone Natan, Estados Unidos."
+      },
+      {
+        "start_time": 1775759173769,
+        "end_time": 1775759196015,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Oficina de Percussão Mangueirinha. Certo? Certo. Maria Leopoldina Trompette Dan. Percussão Mangueirinha. Benissá Mangueirinha. Pedreira Passos, Natan, Trombone, Henrique Trombolito, Percussão, Mangueirinha e Trompete Dão. Isso. Já tá rolando as instrumentos, as aulas de instrumento? Não, não, não."
+      },
+      {
+        "start_time": 1775759196015,
+        "end_time": 1775759200743,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "As aulas de instrumentação são no segundo semestre."
+      },
+      {
+        "start_time": 1775759200743,
+        "end_time": 1775759206062,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Tá. Vital Brasil, Henrique, Trombone e Mangueirinha, Percussão. Uhum."
+      },
+      {
+        "start_time": 1775759206062,
+        "end_time": 1775759206653,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Beleza."
+      },
+      {
+        "start_time": 1775759206653,
+        "end_time": 1775759209608,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mangueirinha tá em todas, né?"
+      },
+      {
+        "start_time": 1775759210372,
+        "end_time": 1775759212845,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá, eu queria estar em todos."
+      },
+      {
+        "start_time": 1775759212845,
+        "end_time": 1775759233869,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Mas o único que ele tá sozinho agora é na Vital, é isso? Na Mente Sá. Na Mente Sá, que ele tá sozinho. O Henrique, então, tá indo pra Vital e Pereira Passos. Isso. E o Natan vai pros Estados Unidos... Pereira Passos. Pereira Passos, tá. E o Dan Marino... Beleza."
+      },
+      {
+        "start_time": 1775759236849,
+        "end_time": 1775759238178,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ok."
+      },
+      {
+        "start_time": 1775759238178,
+        "end_time": 1775759252795,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Mais alguma coisa que a gente precisa abrir aqui o portal."
+      },
+      {
+        "start_time": 1775759252795,
+        "end_time": 1775759258111,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Panejamento não tem acesso."
+      },
+      {
+        "start_time": 1775759258111,
+        "end_time": 1775759259439,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eventos."
+      },
+      {
+        "start_time": 1775759259439,
+        "end_time": 1775759276394,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Acho que é isso. Três partes comigo a agenda que eu acompanho. Presença e horários horários a gente já viu."
+      },
+      {
+        "start_time": 1775759276394,
+        "end_time": 1775759313334,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu acho que já foi. Agora já está atualizado ainda. Amanhã dia 16 é o Tom da B dia 18 o bag 23, a banda B vai estar com o Tom e a banda A vai estar comigo lá no Teatro Frio. Depois dia 30, aí tem que tocar, é preta A dia 30. A B é do Tom."
+      },
+      {
+        "start_time": 1775759313334,
+        "end_time": 1775759315503,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Então é o Tom."
+      },
+      {
+        "start_time": 1775759315503,
+        "end_time": 1775759324297,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Então não, aí sou eu mesmo, sou a A Eu que vou dia 30."
+      },
+      {
+        "start_time": 1775759324297,
+        "end_time": 1775759329560,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Então ambiente 3A é o Wesley, B é o Tom."
+      },
+      {
+        "start_time": 1775759329560,
+        "end_time": 1775759330086,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1775759330086,
+        "end_time": 1775759332718,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Aqui na zona todo mundo."
+      },
+      {
+        "start_time": 1775759332718,
+        "end_time": 1775759341665,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "E vai estar confirmado, né? Eu vi que a chuva é pouca pra amanhã. É, vamos aguardar."
+      },
+      {
+        "start_time": 1775759341665,
+        "end_time": 1775759344297,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Hoje parece que vai chover."
+      },
+      {
+        "start_time": 1775759344297,
+        "end_time": 1775759347454,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Esse tempo é uma loucura, né?"
+      },
+      {
+        "start_time": 1775759348626,
+        "end_time": 1775759350110,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Vamos aguardar."
+      },
+      {
+        "start_time": 1775759350110,
+        "end_time": 1775759369400,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Parte de horário, agora eu não tô lembrando como é que eu edito. Lembrar aqui. Como é que eu fazia? O que eu tenho que encostar?"
+      },
+      {
+        "start_time": 1775759369400,
+        "end_time": 1775759370884,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Roteiro, achei."
+      },
+      {
+        "start_time": 1775759370884,
+        "end_time": 1775759414180,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Tá, mas alguma coisa a gente vê junto? Eu não tinha terminado com a Lilian de fazer reunião com ela hoje, mas o marido dela parece que piorou. Tá bravo lá com a questão. E aí eu vou jogar pra segunda. Pra passar pra ela a parte de justificativa, ver como é que ela tá. Enfim, se ela quer mudar alguma coisa, né? Que eu tô dando mais geral, assim, na parte de presente. Eu vi que você não conseguiu registrar a aula de segunda.\n\n Não consegui. Mas eu coloquei já. Eu estava lá."
+      },
+      {
+        "start_time": 1775759414180,
+        "end_time": 1775759414628,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Obrigado."
+      },
+      {
+        "start_time": 1775759414628,
+        "end_time": 1775759447555,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Só uma questão. Eu fiquei na dúvida. O que acontece. Tá conversando com o bom. Eu fiz todo. Eu fiz todo o inventário de instrumentos. A parte dos instrumentos está certinho as escolas quais instrumentos na escola só falta o catálogo. Catalogar os instrumentos de percussão que estão lá nas aulas. Mas tá assim, os instrumentos que estão na escola, tá tudo catalogado, tá tudo direitinho. Só que a gente não achou um saxofone.\n\n"
+      },
+      {
+        "start_time": 1775759447555,
+        "end_time": 1775759452401,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Eu vi que você falou que não ia alcançar tudo isso."
+      },
+      {
+        "start_time": 1775759452401,
+        "end_time": 1775759468167,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Não achamos esse saxofone. Eu fiquei na dúvida do Davi André. Eu lembro que você falou Mas foi você que recebeu ou ele deixou lá na deixou lá no no na cama aí."
+      },
+      {
+        "start_time": 1775759468167,
+        "end_time": 1775759478220,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Não foi aquele que a mãe estava demorando a entregar e estava querendo levar para o Assunção ficou na Assunção na salinha da Assunção."
+      },
+      {
+        "start_time": 1775759478220,
+        "end_time": 1775759530852,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu lembro que eu estava lá recebi que recebeu mas ficou na salinha na salinha não ficou lá naquela época era tinha aquele estoque lá atrás que ficava trancado pois é eu tô tô quase certeza que foi esse aqui porque eu tive um sax que eu fui lá em nove lá em Niterói para não é o que é Milópolis esse ano do Guilherme eu fui lá eu fui lá buscar esse tá esse tá entregue eu peguei fui lá Agora, esse pode ter ficado ali, enfim, alguém...\n\n Eu tenho que perguntar, sei lá, o que aconteceu com esse saxofone? É um saxofone alto e amarra. A gente não sabe onde está esse saxofone. E você nem sabe qual a numeração nem nada."
+      },
+      {
+        "start_time": 1775759530852,
+        "end_time": 1775759533956,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É 240 o número que está em forma."
+      },
+      {
+        "start_time": 1775759533956,
+        "end_time": 1775759558545,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas tu não lembra com quem que estava. A gente puxou no sistema, não aparece com quem estava esse saxofone. Um saxofone. Talvez não tivesse ainda registrado. Pois é, e aí ficou essa falta do saxofone aí. Queimar o som foi caramba. Aquela é a minha responsabilidade, né? Fica chato pra caramba isso aí."
+      },
+      {
+        "start_time": 1775759558545,
+        "end_time": 1775759559040,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1775759559040,
+        "end_time": 1775759586283,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Não sei, não sei quem pegou, quem está. E aí agora tá tudo lá em cima, tá tudo finalmente calculado, tá tudo guardado lá na Assunção, mas, pô, é chato pra caramba. Não sei, lá na Assunção não tá, já reviramos a Assunção todinho. Não achamos o saxofone."
+      },
+      {
+        "start_time": 1775759586283,
+        "end_time": 1775759591249,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Enfim, ó... A aula de flauta doce é..."
+      },
+      {
+        "start_time": 1775759591249,
+        "end_time": 1775759591870,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Terça."
+      },
+      {
+        "start_time": 1775759591870,
+        "end_time": 1775759594353,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Seis e meia, né?"
+      },
+      {
+        "start_time": 1775759594353,
+        "end_time": 1775759623011,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Seis e meia. Isso. Vamos tentar salvar aqui, ver se eu consigo. Consegui ajustar, vamos ver se vai atualizar ela depois."
+      },
+      {
+        "start_time": 1775759623011,
+        "end_time": 1775759624887,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Carina, 10."
+      },
+      {
+        "start_time": 1775759624887,
+        "end_time": 1775759665405,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "8,5 de na primeira linha. De 10 a 11. Ah, mas peraí. Ah, deixa eu ver aqui. Porque a gente mudou o horário, não foi? De teoria. Ah, tá certo. De 30 minutos, né? De 9h30min a 8h30min, de 10h às 11h."
+      },
+      {
+        "start_time": 1775759665405,
+        "end_time": 1775759666946,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá certo."
+      },
+      {
+        "start_time": 1775759666946,
+        "end_time": 1775759680048,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Então, ajustei aqui a aula de teoria, coloquei o nome dela. O César Augusto não tá aparecendo."
+      },
+      {
+        "start_time": 1775759680048,
+        "end_time": 1775759681589,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Estranho, né?"
+      },
+      {
+        "start_time": 1775759683780,
+        "end_time": 1775759735476,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Eu não tô conseguindo editar as aulas de teoria ainda. Semente da foto do Bernardo. Que é saxofeno do Bernardo? Bernardo, saque-se alto. Tá, tá, beleza. Vou ajustar aqui e já não tenho informações aqui pra mudar."
+      },
+      {
+        "start_time": 1775759735476,
+        "end_time": 1775759735879,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Beleza."
+      },
+      {
+        "start_time": 1775759735879,
+        "end_time": 1775759736686,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então, fechou."
+      },
+      {
+        "start_time": 1775759736686,
+        "end_time": 1775759737492,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Fechou, então."
+      },
+      {
+        "start_time": 1775759737492,
+        "end_time": 1775759740315,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Qualquer coisa eu tô aqui à disposição."
+      },
+      {
+        "start_time": 1775759740315,
+        "end_time": 1775759741121,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, tranquilo."
+      },
+      {
+        "start_time": 1775759741121,
+        "end_time": 1775759743944,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Qualquer coisa eu tô aqui à disposição."
+      },
+      {
+        "start_time": 1775759743944,
+        "end_time": 1775759744348,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1775759744348,
+        "end_time": 1775759753623,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E aí a gente vê a questão dos níveis, a gente pode marcar na semana que vem, que a gente vê com calma."
+      },
+      {
+        "start_time": 1775759753623,
+        "end_time": 1775759766789,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Aí eu abro a coda, a gente vê a coda, vê o... Mas se você já tiver algumas informações e puder de repente num papel e tal, que aí já eu te mito."
+      },
+      {
+        "start_time": 1775759766789,
+        "end_time": 1775759771840,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Eu nem sei como é que tá a Coda, pra te falar a verdade."
+      },
+      {
+        "start_time": 1775759771840,
+        "end_time": 1775759776170,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Nunca mais eu abri. Tá, mas tem muita coisa que tá desatualizada."
+      },
+      {
+        "start_time": 1775759776170,
+        "end_time": 1775759780139,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tu tem ainda conta na Coda? É, eu tenho acesso aqui."
+      },
+      {
+        "start_time": 1775759780139,
+        "end_time": 1775759784107,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas eu vou, tem muita coisa que tá desatualizada, de níveis."
+      },
+      {
+        "start_time": 1775759784107,
+        "end_time": 1775759792156,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Tá, de repente você abre aí e eu vou ajustando conforme você vai olhando, você vai me atualizando. Que otimiza o processo."
+      },
+      {
+        "start_time": 1775759792156,
+        "end_time": 1775759796792,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tranquilo, a gente faz isso, abre aqui, a gente vai só atualizar."
+      },
+      {
+        "start_time": 1775759796792,
+        "end_time": 1775759808770,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "A gente pode deixar marcado esse horário na quinta? Pode. É uma reunião fixa que eu tinha com o Tom, mas a gente não tá tendo mais, mas ficou aí disponível."
+      },
+      {
+        "start_time": 1775759808770,
+        "end_time": 1775759816111,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Beleza, a gente pode fazer na quinta-feira que vem. A reunião de paz dos iniciantes ficou pra terça, né?"
+      },
+      {
+        "start_time": 1775759816111,
+        "end_time": 1775759816884,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Terça, é."
+      },
+      {
+        "start_time": 1775759819048,
+        "end_time": 1775759820277,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "7 e meia."
+      },
+      {
+        "start_time": 1775759820277,
+        "end_time": 1775759827238,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É depois da aula, né? Poderia ser antes da aula, né? Mais ou menos um pouquinho antes."
+      },
+      {
+        "start_time": 1775759827238,
+        "end_time": 1775759831742,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ah, não sei que eu não participe, porque eu dou aula."
+      },
+      {
+        "start_time": 1775759831742,
+        "end_time": 1775759842797,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ah, é porque você tem aula, é verdade. Você dá aula. Eu dou aula. Mas seria bom você trazer, né? Algumas questões, não sei. Não sei não."
+      },
+      {
+        "start_time": 1775759842797,
+        "end_time": 1775759846892,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas você vai vir exatamente. Tranquilo. Então tá beleza então."
+      },
+      {
+        "start_time": 1775759847699,
+        "end_time": 1775759852868,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ou outra opção seria marcar um outro dia só com os pais."
+      },
+      {
+        "start_time": 1775759852868,
+        "end_time": 1775759867947,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas aí, no caso, os alunos a gente bota pra fora, né? Tem jeito. É porque na terça-feira acabou que eu fiquei. Uma semana passada eu tive que cancelar a aula. Tem que repor, né?"
+      },
+      {
+        "start_time": 1775759867947,
+        "end_time": 1775759869239,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, não é."
+      },
+      {
+        "start_time": 1775759869239,
+        "end_time": 1775759880394,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu tenho que fazer essa aula. Só que eu também tenho a prova do Gerson pra aplicar. Já tá marcada desde a semana passada."
+      },
+      {
+        "start_time": 1775759880394,
+        "end_time": 1775759899974,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Mas eu vou dar meu jeito. Eu posso, eu e a Lílian também fazer a reunião durante a aula. Por que que acontece? Na terça eu tenho um compromisso também à noite. Que é da faculdade. Eu acho que você precisa passar um pouquinho."
+      },
+      {
+        "start_time": 1775759900780,
+        "end_time": 1775759912923,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu acho que, de início, agora, como é grupo semente, são iniciantes na flauta, não tem tanta necessidade da minha presença, mas a questão do manual, explicar para eles..."
+      },
+      {
+        "start_time": 1775759912923,
+        "end_time": 1775759918785,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Sim. É porque você tinha falado sobre aquela questão dos alunos que são problemáticos."
+      },
+      {
+        "start_time": 1775759918785,
+        "end_time": 1775759920879,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É, mas aí, no caso..."
+      },
+      {
+        "start_time": 1775759920879,
+        "end_time": 1775759937271,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Talvez fosse o caso de você conversar com a Lilia. A gente faz essa reunião inicial apresentando o manual, falando das regras, e aí a Lílian depois fica só com esses responsáveis desses alunos."
+      },
+      {
+        "start_time": 1775759937271,
+        "end_time": 1775759958447,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "De início é só, não é nem a questão da reclamação deles, é mais pra entender, é mais pra entender... É nem comigo, é mais a Lílian mesmo, a parte social. Faz algum acompanhamento psicológico, PNH, É mais alívio mesmo."
+      },
+      {
+        "start_time": 1775759958447,
+        "end_time": 1775759961902,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Se não faz, de repente direcionar pra fazer, né?"
+      },
+      {
+        "start_time": 1775759961902,
+        "end_time": 1775759992007,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Isso. A gente pegar e já direcionar de cara assim, fica ruim. Entendeu? Então é mais alívio sondar, olha, tem alguma criança aqui que faz acompanhamento psicológico, uso de medicamento, essas coisas, só pra gente sondar e eu saber aonde eu tô pisando, entendeu? Porque realmente tá meio difícil com eles ali. A gente está trabalhando com eles de uma outra forma, utilizar o Natan de outra questão, enfim...\n\n"
+      },
+      {
+        "start_time": 1775759992007,
+        "end_time": 1775759994253,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Se parar, de repente..."
+      },
+      {
+        "start_time": 1775759994253,
+        "end_time": 1775760018981,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu pegar esses quatro, trabalhar com eles, e o Natan trabalhar com os alunos de flauta, como eu estou para mudar o horário do Natan, Então, de repente, eu faço que esses alunos são alunos que já querem estudar percussão mesmo. Então, eu já separo, já, sabe? Tô pensando nisso."
+      },
+      {
+        "start_time": 1775760018981,
+        "end_time": 1775760021118,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas eu preciso saber do..."
+      },
+      {
+        "start_time": 1775760021118,
+        "end_time": 1775760030947,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu preciso saber da questão dos pais, se tem alguma questão, se eles têm alguma coisa, só pra gente não sair dando tiro."
+      },
+      {
+        "start_time": 1775760030947,
+        "end_time": 1775760032656,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Só pra saber mesmo."
+      },
+      {
+        "start_time": 1775760032656,
+        "end_time": 1775760033083,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1775760033083,
+        "end_time": 1775760055986,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Então, eu vou falar com a Lílian, pra organizar, fazer, então, nesse horário, um pouquinho mais cedo, para os pais. No horário de aula? É, no horário de aula. E aí, você só passa o nome dos alunos, então, para ela. Tá, passo. Aí, ela conversa diretamente com o responsável desses."
+      },
+      {
+        "start_time": 1775760055986,
+        "end_time": 1775760060013,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "A Lianda já sabe quem são. Eles são parentes."
+      },
+      {
+        "start_time": 1775760060013,
+        "end_time": 1775760062697,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tá, vou falar com ela aqui."
+      },
+      {
+        "start_time": 1775760062697,
+        "end_time": 1775760067516,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Inclusive, eles são parentes da da raiz e da Nicole."
+      },
+      {
+        "start_time": 1775760067516,
+        "end_time": 1775760068545,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah tá."
+      },
+      {
+        "start_time": 1775760068545,
+        "end_time": 1775760083468,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "As irmãs né, Trompete e Sax, são parentes lá. E até que vê também essa questão da Nicole, que a Nicole tá faltando direto lá na aula da Joana."
+      },
+      {
+        "start_time": 1775760083468,
+        "end_time": 1775760096514,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É, eu mandei, falei pra Lilian verificar porque ela faltou nesse último sábado e não justificou. E assim, é, Ela justificou na outra falta, ela justificou."
+      },
+      {
+        "start_time": 1775760096514,
+        "end_time": 1775760106248,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Até te dar um toque, vai acabar tendo que dar uma passada também lá na Assunção, porque eu vou ter que pegar umas escaletas lá."
+      },
+      {
+        "start_time": 1775760106248,
+        "end_time": 1775760110141,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Oi? Na Assunção? É, não, lá na casa do Tom."
+      },
+      {
+        "start_time": 1775760110141,
+        "end_time": 1775760117150,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Vou ter que pegar escaleta, ó. De repente eu vou pedir pro Wellington. O Wellington não sabe, não?"
+      },
+      {
+        "start_time": 1775760117150,
+        "end_time": 1775760151888,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Onde que tá? É porque é muita coisa pro Wellington carregar sábado já mas eu posso carregar ele só separa eu pego lá e eu carrego uma parte das coisas e deixava pegar uma tem que pegar umas outras caletas lá e aí eu pego uma sacola minha aqui de show Bom, beleza, eu vou falar com ele."
+      },
+      {
+        "start_time": 1775760151888,
+        "end_time": 1775760163867,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É... Agora, outra questão seria essa... A de você estar amanhã, no máximo amanhã... Você vai colocar a responsável da Nicole hoje no grupo, né? Sim, eu vou ligar..."
+      },
+      {
+        "start_time": 1775760163867,
+        "end_time": 1775760172954,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Assim que a gente terminar aqui, eu vou ligar pra mãe dela. Aham. Conversar com ela, explicar como é que vai ser."
+      },
+      {
+        "start_time": 1775760172954,
+        "end_time": 1775760176671,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu vou levar o manual pra mãe dela amanhã."
+      },
+      {
+        "start_time": 1775760176671,
+        "end_time": 1775760177911,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Posso levar também."
+      },
+      {
+        "start_time": 1775760177919,
+        "end_time": 1775760201208,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, o que acontece, é divulgar no grupo a aula de teoria, ó, pro pessoal não esquecer de levar a escaleta, né, pra aula de teoria. É porque teve gente lá no sábado lá, ué, tinha aula de teoria, eu não sabia, foi como não sabia? Foi divulgado que ela ia ter aula de teoria hoje. A Marina, a Sofia, Sofia..."
+      },
+      {
+        "start_time": 1775760201208,
+        "end_time": 1775760211178,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Acho que eu coloquei, não coloquei, não? É porque eu tô com problema. Eu coloquei agora, mas aí eu posso reforçar amanhã."
+      },
+      {
+        "start_time": 1775760211178,
+        "end_time": 1775760215544,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É bom reforçar para eles levarem a escaleta."
+      },
+      {
+        "start_time": 1775760215544,
+        "end_time": 1775760221547,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É porque eu perdi o meu histórico de conversa quase todo."
+      },
+      {
+        "start_time": 1775760221547,
+        "end_time": 1775760225367,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Não, tranquilo, mas só reforçar para eles."
+      },
+      {
+        "start_time": 1775760225367,
+        "end_time": 1775760235957,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Só para eu lembrar. Ah, não falei das caletas."
+      },
+      {
+        "start_time": 1775760235957,
+        "end_time": 1775760237637,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1775760237637,
+        "end_time": 1775760255881,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Então, eu vou falar. Quem não tiver, fala com a Isso."
+      },
+      {
+        "start_time": 1775760255881,
+        "end_time": 1775760266319,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Não, quem não tiver, é pegar comigo, que eu vou estar levando, né? No caso, eu vou estar distribuindo lá e vou fazer a matação de quem não tiver."
+      },
+      {
+        "start_time": 1775760266319,
+        "end_time": 1775760267759,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Quem não tiver escaleta..."
+      },
+      {
+        "start_time": 1775760267759,
+        "end_time": 1775760272438,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Você vai levar para o Semente também? Isso. Ele já tem ou não?"
+      },
+      {
+        "start_time": 1775760272438,
+        "end_time": 1775760354882,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Creio eu que todos eles já têm. Mas eu vou estar levando só para quem não tiver, vai receber lá comigo. Porque, por exemplo, o Tietê, que não tem escaleta, que nunca foi na Auditoria. Davi, eu sei que também não tem. Ane Sofia também não tem. Miguel. Esse pessoal, eu sei que não tem escaleta. A Nicole, que está chegando agora. O restante, eu sei que tudo tem. As meninas do trombone. A Kaone Kailani é...\n\n Kaone Kailani e tem mais. Interessante, todo mundo tem. A Nicole do Sax, irmã da Raíssa, tem. É isso. A Banda Amarela e o Peso tem, porque a Banda Amarela tudo fazia de teoria. Só esse pessoal novo mesmo que não tem. Mas mesmo assim eu vou estar levando a mais, que vai que nem... Só pra ter caráter de consciência. Tem que limpar as escaletas, tem né? É, por isso que eu vou pegar, vou dar um jeito de passar na casa do Tom, vou separar as escaletas e e leva, bota no meu carro.\n\n"
+      },
+      {
+        "start_time": 1775760354882,
+        "end_time": 1775760355541,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Fechou."
+      },
+      {
+        "start_time": 1775760355541,
+        "end_time": 1775760364756,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então tá beleza então, qualquer coisinha eu tô à disposição. Tá bom. Tá, valeu."
+      },
+      {
+        "start_time": 1775760364756,
+        "end_time": 1775760366731,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Valeu Wesley, beijo."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Conference Room (Iris Nascimento) - Speaker 2"
+      },
+      {
+        "name": "Conference Room (Iris Nascimento) - Speaker 1"
+      },
+      {
+        "name": "Wesley Araujo"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      }
+    ]
+  },
+  "platform_meeting_id": "emo-xfoa-xzz",
+  "platform": "meet"
+}

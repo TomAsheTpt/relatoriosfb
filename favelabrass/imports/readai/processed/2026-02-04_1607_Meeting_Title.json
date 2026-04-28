@@ -1,0 +1,119 @@
+{
+  "session_id": "01KGMPHM3D8GYB3E5GWRMSRF5V",
+  "trigger": "meeting_end",
+  "title": "Meeting Title",
+  "start_time": "2026-02-04T15:37:40.909015Z",
+  "end_time": "2026-02-04T16:07:40.909015Z",
+  "participants": [
+    {
+      "name": "Participant One",
+      "first_name": "Participant",
+      "last_name": "One",
+      "email": "participant_one@company.com"
+    },
+    {
+      "name": "Participant Two",
+      "first_name": "Participant",
+      "last_name": "Two",
+      "email": null
+    }
+  ],
+  "owner": {
+    "name": "Participant One",
+    "first_name": "Participant",
+    "last_name": "One",
+    "email": "participant_one@company.com"
+  },
+  "summary": "Meeting summary goes here...",
+  "action_items": [
+    {
+      "text": "Action item one"
+    },
+    {
+      "text": "Action item two"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Key question one?"
+    },
+    {
+      "text": "Key question two?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Topic one"
+    },
+    {
+      "text": "Topic two"
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/SESSIONID",
+  "chapter_summaries": [
+    {
+      "title": "Chapter one",
+      "description": "First chapter description",
+      "topics": [
+        {
+          "text": "Topic one"
+        }
+      ]
+    },
+    {
+      "title": "Chapter two",
+      "description": "Second chapter description",
+      "topics": [
+        {
+          "text": "Topic two"
+        }
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1770219460,
+        "end_time": 1770219461,
+        "speaker": {
+          "name": "Participant One"
+        },
+        "words": "Good morning everyone!"
+      },
+      {
+        "start_time": 1770219462,
+        "end_time": 1770219463,
+        "speaker": {
+          "name": "Participant Two"
+        },
+        "words": "Howdy!"
+      },
+      {
+        "start_time": 1770219463,
+        "end_time": 1770219465,
+        "speaker": {
+          "name": "Participant One"
+        },
+        "words": "I'm so excited to start this meeting."
+      },
+      {
+        "start_time": 1770219466,
+        "end_time": 1770219467,
+        "speaker": {
+          "name": "Participant Two"
+        },
+        "words": "Me too. I love meetings!"
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Participant One"
+      },
+      {
+        "name": "Participant Two"
+      }
+    ]
+  },
+  "platform_meeting_id": null,
+  "platform": null
+}

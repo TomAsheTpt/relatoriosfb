@@ -1,0 +1,45 @@
+{
+  "session_id": "01KM11AKD99Q0P329CJ96V55HG",
+  "trigger": "meeting_end",
+  "title": "REUNIÃO PRODUÇÃO EVENTOS - EDLENE E TOM ",
+  "start_time": "2026-03-18T18:00:26+00:00",
+  "end_time": "2026-03-18T18:01:07+00:00",
+  "participants": [
+    {
+      "name": "Edlene conrado",
+      "first_name": "Edlene",
+      "last_name": "conrado",
+      "email": null
+    },
+    {
+      "name": "Favela Brass",
+      "first_name": "Favela",
+      "last_name": "Brass",
+      "email": "producao@favelabrass.org"
+    },
+    {
+      "name": "tom@favelabrass.org",
+      "first_name": "tom@favelabrass.org",
+      "last_name": null,
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "tom@favelabrass.org",
+    "first_name": "tom@favelabrass.org",
+    "last_name": null,
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "No summary available due to limited meeting data.",
+  "action_items": [],
+  "key_questions": [],
+  "topics": [],
+  "report_url": "https://app.read.ai/analytics/meetings/01KM11AKD99Q0P329CJ96V55HG",
+  "chapter_summaries": [],
+  "transcript": {
+    "speaker_blocks": [],
+    "speakers": []
+  },
+  "platform_meeting_id": "heb-nzzd-yaq",
+  "platform": "meet"
+}

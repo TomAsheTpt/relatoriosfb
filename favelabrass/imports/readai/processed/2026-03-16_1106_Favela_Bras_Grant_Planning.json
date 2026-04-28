@@ -1,0 +1,989 @@
+{
+  "session_id": "01KKV32RP5EH7EBZGW321T2PAN",
+  "trigger": "meeting_end",
+  "title": "Favela Bras Grant Planning",
+  "start_time": "2026-03-16T07:29:41-03:00",
+  "end_time": "2026-03-16T08:03:05-03:00",
+  "participants": [
+    {
+      "name": "Roman & Matthias",
+      "first_name": "Roman",
+      "last_name": "& Matthias",
+      "email": null
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "The meeting focused on preparing an institutional grant application and planning performances and workshops for Favela Bras in Germany and Brazil. Responsibilities were assigned: Tom will prepare and translate the application and project text for review, the Goethe‑Institut account and submission must be made from Germany, and the application requires an official invitation and a confirmed participant count to meet funding criteria. The group agreed that a workshop counts as one required event and a final concert or festival performance will serve as another.\n\nParticipants evaluated event options, debating the Rakotsky Festival, local street or market performances, and the Sunday parade; they concluded the parade is not feasible because Jugendmusikkorps members are committed to the parade. Logistics and unresolved items include an instrument list from Tom (bass drum, snare harness, cymbal), visa verifications, and the possibility of Roman contacting Dorothee Segera with application questions. Planning for a large street band settled on a full brass and sax section with substantial percussion—suggested counts include four trumpets, four trombones, five saxes and a tuba—with percussion numbers flexible. Accommodation is available locally in a holiday unit and via park management; rehearsals are planned Monday–Thursday with a Friday festival show, and uniforms will be yellow t‑shirts bearing an emblem once the GPG funding paperwork is provided. Funding documents will be sent to hosts so Roman can open an account to receive funds.",
+  "action_items": [
+    {
+      "text": "Tom Ashe will prepare and translate the grant application and project text for Roman and Matthias to review"
+    },
+    {
+      "text": "Roman and Matthias will create the Goethe‑Institut account and submit the application from Germany"
+    },
+    {
+      "text": "Tom Ashe will send the complete project document to Roman and Matthias for approval before submission"
+    },
+    {
+      "text": "Tom Ashe will send an exact instrument and equipment list for the project (including snare harness and cymbal)"
+    },
+    {
+      "text": "Roman will call Dorothee Segera if there are questions about the application"
+    },
+    {
+      "text": "Tom Ashe will check visa requirements and confirm there are no issues with his passport"
+    },
+    {
+      "text": "Tom Ashe will send the required funding documents and funding conditions to Roman and Matthias"
+    },
+    {
+      "text": "Roman will open an account to receive funding once he receives the required documents"
+    },
+    {
+      "text": "Tom Ashe will lead percussion rehearsals while local staff (Matthias or Roman) rehearse brass, then combine groups for final rehearsals"
+    },
+    {
+      "text": "Tom Ashe will send rehearsal materials to the hosts ahead of rehearsals"
+    },
+    {
+      "text": "Roman and Matthias will coordinate uniform production (approximately 20 yellow t‑shirts) once they receive the GPG paperwork from Tom"
+    },
+    {
+      "text": "Roman and Matthias will keep in touch with Dorothee Segera to coordinate festival logistics and follow‑up"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Do we already know the names and number of participants for the workshop?"
+    },
+    {
+      "text": "Does a workshop qualify as one of the required events for the application?"
+    },
+    {
+      "text": "Can the project perform at the Rakotsky Festival or in the parade, and how does this fit with Jugendmusikkorps commitments?"
+    },
+    {
+      "text": "Do you have accommodation recommendations for visiting musicians?"
+    },
+    {
+      "text": "Do the brass players use clip‑on music stands to read music while they parade?"
+    },
+    {
+      "text": "Can rehearsal responsibilities be split so local staff rehearse brass and Tom rehearses percussion?"
+    },
+    {
+      "text": "Should we make uniforms or t‑shirts for the kids?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Tom will lead drafting and translating the grant application and project text for review by Roman and Matthias."
+    },
+    {
+      "text": "The Goethe‑Institut account and formal application must be submitted from Germany by Roman/Matthias or their delegates."
+    },
+    {
+      "text": "An official invitation and a participant count must be provided for the funding application."
+    },
+    {
+      "text": "Instrument needs include a bass drum, snare harness and cymbal, and Tom will supply an exact instrument list."
+    },
+    {
+      "text": "A workshop will count as one required event for the application."
+    },
+    {
+      "text": "A final concert or festival performance is planned as the second required event."
+    },
+    {
+      "text": "The group prefers informal street/market performances or a short parade route over participating in the main Sunday parade to avoid conflicts with Jugendmusikkorps commitments."
+    },
+    {
+      "text": "The band will be a large big‑band street ensemble with extensive percussion and specified brass/sax numbers."
+    },
+    {
+      "text": "Tom outlined a target instrumentation including four trumpets, four trombones, five saxes, two altos, tenors/baritones, and a tuba."
+    },
+    {
+      "text": "Tom will send required documents and funding conditions for the project so an account can be opened."
+    },
+    {
+      "text": "Roman committed to opening a receiving account once paperwork is provided."
+    },
+    {
+      "text": "Accommodation for visiting musicians is available through local arrangements and will be managed by the hosts."
+    },
+    {
+      "text": "Rehearsal plan proposed: local staff rehearse brass, Tom rehearses percussion, then combined rehearsals across four days with a Friday show."
+    },
+    {
+      "text": "The group agreed to produce yellow t‑shirts with the ensemble emblem once funding paperwork (GPG) is provided."
+    },
+    {
+      "text": "The team plans to keep in touch with Dorothee Segera for coordination and follow-up."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KKV32RP5EH7EBZGW321T2PAN",
+  "chapter_summaries": [
+    {
+      "title": "Greetings and small talk",
+      "description": "Attendees exchanged greetings, confirmed audio quality, and shared brief personal updates including a recent carnival in Rio and a new relationship in Belo Horizonte.",
+      "topics": []
+    },
+    {
+      "title": "Transition to planning topic",
+      "description": "The conversation shifted from personal updates to project planning for summer activities and clarified Matthias would be present during discussions.",
+      "topics": []
+    },
+    {
+      "title": "Contact with Dorothee and application timing",
+      "description": "Tom reported contacting Dorothee Segera to check deadlines and timing for the institutional application, and the team agreed confirming dates before preparing a formal application was appropriate.",
+      "topics": []
+    },
+    {
+      "title": "Division of application responsibilities",
+      "description": "The team discussed who will complete the application; Tom offered to prepare and translate the submission text for Roman and Matthias to review, while Roman/Matthias confirmed account setup and local submission via the Goethe‑Institut.",
+      "topics": [
+        "Tom will lead drafting and translating the grant application and project text for review by Roman and Matthias.",
+        "The Goethe‑Institut account and formal application must be submitted from Germany by Roman/Matthias or their delegates."
+      ]
+    },
+    {
+      "title": "Funding criteria and documentation needs",
+      "description": "The group reviewed funding criteria requirements, noting the need for an official invitation, participant numbers, and other supporting documents to satisfy the application.",
+      "topics": [
+        "An official invitation and a participant count must be provided for the funding application.",
+        "Instrument needs include a bass drum, snare harness and cymbal, and Tom will supply an exact instrument list."
+      ]
+    },
+    {
+      "title": "Event planning and festival options",
+      "description": "The participants discussed the three events required by the application, agreed a workshop counts as an event, evaluated the Rakotsky Festival as a venue, and considered concert, street, or parade formats.",
+      "topics": [
+        "A workshop will count as one required event for the application.",
+        "A final concert or festival performance is planned as the second required event."
+      ]
+    },
+    {
+      "title": "Parade logistics and instrument requirements",
+      "description": "The team concluded the Jugendmusikkorps cannot be split for the Sunday parade, favored Friday night or market performances, discussed parade routing options (bridge crossings), and listed instrument needs including bass drum, snare harness, and cymbal; estimated street‑band size was mentioned as about 20 members.",
+      "topics": [
+        "The group prefers informal street/market performances or a short parade route over participating in the main Sunday parade to avoid conflicts with Jugendmusikkorps commitments."
+      ]
+    },
+    {
+      "title": "Instrumentation and Band Size",
+      "description": "The participants confirmed plans for a large big‑band street ensemble and discussed approximate numbers and roles, emphasizing the importance of percussion. Specific instrument counts and section makeup were suggested, including trumpets, trombones, saxes, and a desired tuba.",
+      "topics": [
+        "The band will be a large big‑band street ensemble with extensive percussion and specified brass/sax numbers.",
+        "Tom outlined a target instrumentation including four trumpets, four trombones, five saxes, two altos, tenors/baritones, and a tuba."
+      ]
+    },
+    {
+      "title": "Funding Documents and Account Setup",
+      "description": "The hosts requested that required funding documents and funding criteria be sent to them so Roman can open an account to receive funds. They agreed to proceed once the paperwork from the sender is provided.",
+      "topics": [
+        "Tom will send required documents and funding conditions for the project so an account can be opened.",
+        "Roman committed to opening a receiving account once paperwork is provided."
+      ]
+    },
+    {
+      "title": "Accommodation Arrangements",
+      "description": "Tom asked about accommodation options and Roman explained local solutions, including park arrangements and a holiday unit in a friend’s house, noting visitor volume will require early coordination. The hosts confirmed they will manage lodging logistics.",
+      "topics": [
+        "Accommodation for visiting musicians is available through local arrangements and will be managed by the hosts."
+      ]
+    },
+    {
+      "title": "Rehearsals and Music Stands",
+      "description": "The group discussed rehearsal logistics, confirming the use of clip‑on music stands for marching brass and proposing a workflow where local staff rehearse brass while Tom focuses on percussion before combining groups. A four‑day rehearsal schedule leading to a Friday performance was proposed.",
+      "topics": [
+        "Rehearsal plan proposed: local staff rehearse brass, Tom rehearses percussion, then combined rehearsals across four days with a Friday show."
+      ]
+    },
+    {
+      "title": "Uniforms and Merchandising",
+      "description": "Tom raised uniforms and suggested t‑shirts for children; the hosts approved yellow shirts with an emblem and said they will arrange production once funding paperwork (GPG) is received. They agreed to order approximately 20 t‑shirts as a starting point.",
+      "topics": [
+        "The group agreed to produce yellow t‑shirts with the ensemble emblem once funding paperwork (GPG) is provided.",
+        "The team plans to keep in touch with Dorothee Segera for coordination and follow-up."
+      ]
+    },
+    {
+      "title": "Coordination, Follow‑up, and Closing",
+      "description": "The meeting closed with mutual commitments to keep in touch, coordinate with Dorothee Segera, and plans to reconvene for future events including a potential return to Rio for pre‑carnival rehearsals. Participants exchanged thanks and formal goodbyes.",
+      "topics": []
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1773657357471,
+        "end_time": 1773657361074,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, hi Tom! Hey Roman, how are you?"
+      },
+      {
+        "start_time": 1773657362115,
+        "end_time": 1773657372605,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Oh, the sound, the sound isn't, okay, I will make the sound louder. Okay, now it's perfect. Okay, you're in the bus."
+      },
+      {
+        "start_time": 1773657374686,
+        "end_time": 1773657378230,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes, same as usual, doing the music in the bus."
+      },
+      {
+        "start_time": 1773657379791,
+        "end_time": 1773657386677,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Oh, like last time. Okay, nice to see you."
+      },
+      {
+        "start_time": 1773657386697,
+        "end_time": 1773657388218,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah, nice to see you too."
+      },
+      {
+        "start_time": 1773657389078,
+        "end_time": 1773657391079,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "All okay with you and your family?"
+      },
+      {
+        "start_time": 1773657391099,
+        "end_time": 1773657399483,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah, yeah, all good. We just had a carnival in Rio as well."
+      },
+      {
+        "start_time": 1773657399603,
+        "end_time": 1773657403005,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes. Muito barulho a você."
+      },
+      {
+        "start_time": 1773657403825,
+        "end_time": 1773657404725,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Oh, really?"
+      },
+      {
+        "start_time": 1773657405306,
+        "end_time": 1773657405906,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yeah."
+      },
+      {
+        "start_time": 1773657406886,
+        "end_time": 1773657407247,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "All right."
+      },
+      {
+        "start_time": 1773657408287,
+        "end_time": 1773657410288,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Can you hear me?"
+      },
+      {
+        "start_time": 1773657410448,
+        "end_time": 1773657420818,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes. I have a Brazilian a Brasileira as girlfriend now. Yes, from Belo Horizonte."
+      },
+      {
+        "start_time": 1773657422659,
+        "end_time": 1773657424059,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Fantastic."
+      },
+      {
+        "start_time": 1773657424560,
+        "end_time": 1773657431043,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "I met her at the Christmas market here in Bad Kissing. Okay. That's another story."
+      },
+      {
+        "start_time": 1773657432483,
+        "end_time": 1773657433284,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "That's brilliant."
+      },
+      {
+        "start_time": 1773657433644,
+        "end_time": 1773657439995,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Favela Bras is going to play in Belo Horizonte. Yes. There's a jazz festival there. In May."
+      },
+      {
+        "start_time": 1773657440936,
+        "end_time": 1773657444357,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "In May? Okay. I will tell her."
+      },
+      {
+        "start_time": 1773657445958,
+        "end_time": 1773657448118,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "That's fantastic."
+      },
+      {
+        "start_time": 1773657448739,
+        "end_time": 1773657452080,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay. Let's switch to our plans."
+      },
+      {
+        "start_time": 1773657452640,
+        "end_time": 1773657452900,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes."
+      },
+      {
+        "start_time": 1773657453761,
+        "end_time": 1773657464985,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Of summer. Yeah. Matthias will be beside us and we'll hear everything, yes? Okay. You contacted Dorothee Segera."
+      },
+      {
+        "start_time": 1773657465685,
+        "end_time": 1773657483142,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes. I hope I did the right thing there, which is that I wanted to check the dates. I wanted to check there was still time to apply, so I didn't want to arrive here today without, you know, talking about a good institutional application when the deadline had already gone."
+      },
+      {
+        "start_time": 1773657485064,
+        "end_time": 1773657485464,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Oh, that's..."
+      },
+      {
+        "start_time": 1773657487006,
+        "end_time": 1773657492290,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "That is... It's more difficult than New York, and in the past."
+      },
+      {
+        "start_time": 1773657492970,
+        "end_time": 1773657493491,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Okay, hold on."
+      },
+      {
+        "start_time": 1773657494519,
+        "end_time": 1773657536227,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay. Okay, maybe at another row it's better. Okay. No, that was good that you contacted because he is also our person who managed all with this application for our journey to Rio."
+      },
+      {
+        "start_time": 1773657536888,
+        "end_time": 1773657537228,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes."
+      },
+      {
+        "start_time": 1773657537248,
+        "end_time": 1773657542652,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "And how is the thing? We have to do all with the application? No."
+      },
+      {
+        "start_time": 1773657545235,
+        "end_time": 1773657557929,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "I can do it all. That's absolutely fine. If that's okay with you, I prepare everything. Translating to German, and then you approve it, tell me what needs to change, etc."
+      },
+      {
+        "start_time": 1773657558309,
+        "end_time": 1773657591807,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "etc. Okay, because I think you have to open an account, a new account at the Goethe-Institut. Yes, that's not a problem. You can do it also, but we can do this. And maybe the best thing is you will do all the work, these questions. Yes, you have to sign in. And then we can to the KUDA Institute."
+      },
+      {
+        "start_time": 1773657592547,
+        "end_time": 1773657609513,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Okay, perfect. Thank you. That makes a lot of sense and I'll send you the project and we can get it to a point where you can approve it and then I'll send it."
+      },
+      {
+        "start_time": 1773657610433,
+        "end_time": 1773657618724,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, one moment. So, the conditions of funding, you look and the conditions of funding?"
+      },
+      {
+        "start_time": 1773657619324,
+        "end_time": 1773657619604,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes."
+      },
+      {
+        "start_time": 1773657620504,
+        "end_time": 1773657672470,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, and there are several points, funding criteria, and okay, what you need from us is an invitation, an official invitation, as you gave it to us, that's no problem. Yes, and of the... We don't know really the name who will take part at the workshop at this moment. We have to fill the number of participants. It's a meaning... Only of you."
+      },
+      {
+        "start_time": 1773657673490,
+        "end_time": 1773657673770,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yeah."
+      },
+      {
+        "start_time": 1773657674451,
+        "end_time": 1773657674711,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes?"
+      },
+      {
+        "start_time": 1773657676652,
+        "end_time": 1773657694022,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah, that's the thing, isn't it? Because it's a grant to bring international artists over. So I guess it's probably me as the artist that's coming over, right?"
+      },
+      {
+        "start_time": 1773657694522,
+        "end_time": 1773657699064,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, and you will be the only one who will come this year."
+      },
+      {
+        "start_time": 1773657699599,
+        "end_time": 1773657701760,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "I think so, to try and keep it cheap."
+      },
+      {
+        "start_time": 1773657702500,
+        "end_time": 1773657714944,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay. And we talked before, we have to order some special Brazilian drums, yes?"
+      },
+      {
+        "start_time": 1773657715284,
+        "end_time": 1773657715604,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes."
+      },
+      {
+        "start_time": 1773657717244,
+        "end_time": 1773657827228,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Maybe you can write it again. It's not so expensive. We looked at the top, at the music Yes, we will probably vaccinate. Yeah, yeah. Okay. Okay. It's better now. No. I don't know if they probably already have that, if there's a, you know, the snare drum I'm sorry, the last one or two minutes, there was a bad connection. I didn't hear any words of you, what you spoke."
+      },
+      {
+        "start_time": 1773657830629,
+        "end_time": 1773657863941,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Okay, I'm done. Now it's better. Okay. Okay. Great. I was just going to say, aside from the bass drum, the snare drum player will need a harness for them to, for them to march with the snare drum and a symbol on the snare drum. I can, you know, it's obviously they'll already have the snare drum, but there's that as well."
+      },
+      {
+        "start_time": 1773657864081,
+        "end_time": 1773657906378,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "The snare drum player will need the sort of ridge and all of that will be on Yes, that would be great when you will send us an exact list of what you needed, what instrumentarium you need. All other things, the required documents, when you write us, all you can. I think we have to open a new account there at the Goethe-Institut. We have to do this from Germany, yes?"
+      },
+      {
+        "start_time": 1773657908039,
+        "end_time": 1773657910420,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes, the application has to go from yours."
+      },
+      {
+        "start_time": 1773657911020,
+        "end_time": 1773657933700,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, that's not a problem. But you will give us all the information and we can send it there. And it's no problem, I can also call Dorothee Segera and if there will be any questions about it also."
+      },
+      {
+        "start_time": 1773657934841,
+        "end_time": 1773657935241,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Okay."
+      },
+      {
+        "start_time": 1773657935802,
+        "end_time": 1773657943608,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay. With Visa you will have no problem because you've got a passport from England, yes?"
+      },
+      {
+        "start_time": 1773657944789,
+        "end_time": 1773657947811,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes. Yeah, okay. But I will check that."
+      },
+      {
+        "start_time": 1773657948472,
+        "end_time": 1773657953203,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay, okay. And yes, do Do you have other questions?"
+      },
+      {
+        "start_time": 1773657956424,
+        "end_time": 1773657973651,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes. For the application, we have to do three events for the application. One event would be the rehearsal, which is the workshop itself. They count workshops as an event."
+      },
+      {
+        "start_time": 1773657978985,
+        "end_time": 1773658031212,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "I was wondering about the performance. Okay, one event, it's a workshop. The connection is gone. No, connection is there. No, no. You hear me? Okay. So, one event is a workshop, the days of... One event is a final concert or event at the Wacken Festival and we need one more, yes? Yeah."
+      },
+      {
+        "start_time": 1773658036063,
+        "end_time": 1773658078839,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "I mean, in terms of the events, I would like to get your opinion on the Rakotsky Festival. I mean, the best thing for this kind of thing is us playing in the street, sort of almost informal, you know, for this kind of music. I saw the Rakotsky Festival. I think it's a great time to play because the city will be, you know, full of people and the atmosphere will be good. But I see that it's also a historic event.\n\n And I also wanted to ask you what your commitments are like with the Jugend Musikkorps, if you are playing at the McCoskey Festival as well, just to work out what the best thing to do would be."
+      },
+      {
+        "start_time": 1773658079139,
+        "end_time": 1773658145261,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, I think there are several options. So, one option will be a concert at the place, at the marketplace or so, And then on Sunday, there's a parade. But at the parade, Jung Musikkorps is the first group every year. The first group because we are the biggest group. And yes, there will follow us 40 or 50 other groups. And also a group of a cultural integration that's sometimes at the final of the parade.\n\n Maybe there's a possibility to be part of this parade also. But that's on Sunday. That's on Sunday, on Sunday midday, yes, at 2 o'clock or so."
+      },
+      {
+        "start_time": 1773658147423,
+        "end_time": 1773658173976,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "But presumably, I'm thinking that whoever does this project will also be playing with the Ugan Music Corps. So, I mean, I don't know if that would be complicated for you or for the students to do one, to do the parade with the Ugan Music Corps and then do the other show. I mean, if it's okay, that's fine, but just to think about that as well."
+      },
+      {
+        "start_time": 1773658176356,
+        "end_time": 1773658182498,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, but playing together will not be possible."
+      },
+      {
+        "start_time": 1773658182978,
+        "end_time": 1773658195522,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah, but what I'm saying is, so we're thinking about the Jugendmusikkorps play and then the students who participate project play later in the day as well? Is that what you're thinking? Wait, please. I will talk to Matthias."
+      },
+      {
+        "start_time": 1773658222332,
+        "end_time": 1773658242566,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "The problem is the members of the Jugendmusikkorps. We need the members for our parade. At the same time, it's not possible. You can't divide the musicians."
+      },
+      {
+        "start_time": 1773658243787,
+        "end_time": 1773658264229,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Absolutely. I'm very aware that you need to concentrate on your parade, so I really don't want to make things difficult for you and your parade. If you think it's better we could avoid Sunday, or we could, yeah, but definitely we need a solution that isn't going to make things difficult for you."
+      },
+      {
+        "start_time": 1773658264389,
+        "end_time": 1773658290991,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay, but the festival, it will start on Friday, then the whole Saturday and the whole Sunday and the whole nation is on Sunday, this parade, but there are several at every corner in the city, there are bands and yes."
+      },
+      {
+        "start_time": 1773658291792,
+        "end_time": 1773658322792,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes, that's what I was thinking. We could maybe, you know, avoid the parade, you know, because of this, because you guys need to focus on that. Because it's not the project, it's not a sort of a historic project, you know, that what we're doing is Brazilian music. So, yeah, I think, like you're saying, playing in a playing in a square or in a market, things like that, that's where it's going to work well.\n\n"
+      },
+      {
+        "start_time": 1773658323453,
+        "end_time": 1773658335469,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "That would be better. Yes. Yes. Better this to do maybe on Friday night also. Okay."
+      },
+      {
+        "start_time": 1773658336330,
+        "end_time": 1773658351702,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. I mean, the ideal thing, I think playing in a market is absolutely fantastic. The ideal thing is if we could sort of, I don't know if it's possible in Germany, but just walk through the streets just a little bit. Okay."
+      },
+      {
+        "start_time": 1773658360104,
+        "end_time": 1773658379660,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "That would be possible to go, to parade alone with your group through the streets during the festival on a Friday or so."
+      },
+      {
+        "start_time": 1773658380461,
+        "end_time": 1773658381101,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Oh, wow."
+      },
+      {
+        "start_time": 1773658381442,
+        "end_time": 1773658398725,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Because that would be absolutely perfect. You know, maybe go from one, I don't know about Kissing from one square to another square, you know, just do a little route. And that will really give it the, you know, vibes."
+      },
+      {
+        "start_time": 1773658399906,
+        "end_time": 1773658421136,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "We have a bridge, maybe you can make this parade two times, from one side to the other of the bridge, and other way back or so, and then to a stage or a place? Yes. Okay."
+      },
+      {
+        "start_time": 1773658421556,
+        "end_time": 1773658433722,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "That would be absolutely perfect. And I'm a lot more comfortable than that, than with the parade. You guys are playing at the parade. That's fantastic."
+      },
+      {
+        "start_time": 1773658434383,
+        "end_time": 1773658441767,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "I don't really remember how many members will be this street band fitted in. 20."
+      },
+      {
+        "start_time": 1773658445236,
+        "end_time": 1773658456264,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "20, okay. A big band with four percussion, or 19, something like that, depending on how many people of yours want to play percussion."
+      },
+      {
+        "start_time": 1773658456284,
+        "end_time": 1773658474387,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yeah, percussion is the most important for people who are playing percussion, okay. And then trumpets, saxophones, trombones, tubas, Yeah, yeah, exactly."
+      },
+      {
+        "start_time": 1773658474407,
+        "end_time": 1773658484332,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Four trumpets, four trombones, five saxes, you know, a big band, two altos, you know, a big band, tenors and baritones, and a tuba would be fantastic. Yeah."
+      },
+      {
+        "start_time": 1773658484472,
+        "end_time": 1773658517507,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay. Okay. I see. Okay. So what's the next thing that you will send us? You will go through the required documents and through the conditions of funding. And the funding criteria and send me all the stuff. I will open an account for this and then it will go."
+      },
+      {
+        "start_time": 1773658518728,
+        "end_time": 1773658526914,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Okay. Two other things I want to ask about. Accommodation. Do you have any recommendations?"
+      },
+      {
+        "start_time": 1773658529575,
+        "end_time": 1773658602477,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "You mean a place to sleep? In the park, that's no problem. Yes, we have to manage this of course for you. Yes, because there are a lot of people who will visit Bud Kissing at this time and we will have to manage this very early. But I think it will work. I have a friend and his mother has got a big house and there's a special habitation in the house for for holidays, a holiday, yes, okay, yes, but this will work, I think, yes, and other questions, a second?\n\n"
+      },
+      {
+        "start_time": 1773658604418,
+        "end_time": 1773658651128,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yes, the other question, thank you, by the way, The other thing I wanted to ask about is the rehearsals. I think from what I remember, your brass read very well. Do they have liars? The stand so you can read music while you parade. I imagine you have that. The clip onto the instrument to read music."
+      },
+      {
+        "start_time": 1773658651188,
+        "end_time": 1773658653831,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yeah, to keep the music stand on the instrument."
+      },
+      {
+        "start_time": 1773658655073,
+        "end_time": 1773658656655,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. Did you use those?"
+      },
+      {
+        "start_time": 1773658657596,
+        "end_time": 1773658676645,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, of course. We use this for everything. And with this, yes, on their instruments."
+      },
+      {
+        "start_time": 1773658680807,
+        "end_time": 1773658720385,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "We should do at least one song from memory. At least one song from memory would be cool. But the rest we do with the music. So what I'm saying is, on the brass, that's easier. But the percussion, I will need some time with percussion. And I was wondering, just in terms One thing we could do is if someone from the music school rehearses the brass, I rehearse the percussion, and then we come together at the end of the rehearsals.\n\n But I don't want to make a lot of work for you. Are you on holiday at that time?"
+      },
+      {
+        "start_time": 1773658721046,
+        "end_time": 1773658772987,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "No, that's the last two weeks before long summer holidays in Germany. So yes, the musicians who will be in the band by day, from morning to midday, they will be at the school. There's time from afternoon and night. And yes, of course, no problem that, for example, I will do a rehearsal or Matthias or with a brass. That's not the thing when we do one or two rehearsals with them. And we know maybe when we know before the music, we can rehearse it before you will come or so.\n\n Yeah, that will be not the problem."
+      },
+      {
+        "start_time": 1773658773487,
+        "end_time": 1773658792197,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Thank you. Thank you. That'd be great. And then I can work with percussion and then we bring them together at the end of rehearsals. I mean, maybe if we're thinking about doing Friday night, maybe four rehearsals then, and I can send, I can send materials ahead of time as well."
+      },
+      {
+        "start_time": 1773658793997,
+        "end_time": 1773658806363,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Maybe Matthias and me will be members of the street band. I don't know. Yes. Okay."
+      },
+      {
+        "start_time": 1773658806783,
+        "end_time": 1773658815908,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Okay. So, I mean, so maybe rehearse what Monday, Tuesday, Wednesday, Thursday, and then Friday show, you know, whatever shows at the weekend. Does that work for you?"
+      },
+      {
+        "start_time": 1773658816676,
+        "end_time": 1773658855927,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes, I think Friday would be great to have the show because on Sunday the parade didn't fit together. But on Friday the festival is starting and then it can be one point of the festival, one event of the festival. You will write me all the required things. They are on the website of the Goethe-Institut."
+      },
+      {
+        "start_time": 1773658859308,
+        "end_time": 1773658866629,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Just one other question. Uniforms should we make if we make t-shirts for the kids?"
+      },
+      {
+        "start_time": 1773658873840,
+        "end_time": 1773658931245,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "I love the yellow ones. Yeah, maybe yellow with your emblem also. When you send us a GPG and we can go to a shop and we can arrange this for 20 t-shirts. Yeah, that will work. But these things you will fill out, yes? Yes. Okay. Send this to us and then we will keep in touch with Dorothee Segera and we will see how things will go. Yes, yes, do this."
+      },
+      {
+        "start_time": 1773658932546,
+        "end_time": 1773658938467,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Okay. Okay. Brilliant. Okay. Thank you. Thank you, Roman. Yes."
+      },
+      {
+        "start_time": 1773658940948,
+        "end_time": 1773658949631,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Yes. Okay. And then next, next year we will come again with our group to Rio again. Yes. Yes."
+      },
+      {
+        "start_time": 1773658955394,
+        "end_time": 1773658967317,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "in January, February, pre-carnival, we do rehearse our groups together and then do carnival. That would be fantastic. That's the thing. Okay."
+      },
+      {
+        "start_time": 1773658968237,
+        "end_time": 1773658980261,
+        "speaker": {
+          "name": "Roman & Matthias"
+        },
+        "words": "Okay. So keep in touch and cross fingers. Yes. Yes. Okay. Until next time, Tom."
+      },
+      {
+        "start_time": 1773658980501,
+        "end_time": 1773658984287,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "All the best. Bye for now."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Tom Ashe"
+      },
+      {
+        "name": "Roman & Matthias"
+      }
+    ]
+  },
+  "platform_meeting_id": "ocp-rgdk-uny",
+  "platform": "meet"
+}

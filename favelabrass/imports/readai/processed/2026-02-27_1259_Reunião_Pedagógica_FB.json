@@ -1,0 +1,1949 @@
+{
+  "session_id": "01KJFF5B2M9SV0DRDEC3S93SSG",
+  "trigger": "meeting_end",
+  "title": "Reunião Pedagógica FB",
+  "start_time": "2026-02-27T12:05:23+00:00",
+  "end_time": "2026-02-27T12:56:18+00:00",
+  "participants": [
+    {
+      "name": "iris-laine@hotmail.com",
+      "first_name": "iris-laine@hotmail.com",
+      "last_name": null,
+      "email": "iris-laine@hotmail.com"
+    },
+    {
+      "name": "Iris Nascimento",
+      "first_name": "Iris",
+      "last_name": "Nascimento",
+      "email": "secretaria@favelabrass.org"
+    },
+    {
+      "name": "Lilian Diniz",
+      "first_name": "Lilian",
+      "last_name": "Diniz",
+      "email": "lilidiniz76@hotmail.com"
+    },
+    {
+      "name": "tom@favelabrass.org",
+      "first_name": "tom@favelabrass.org",
+      "last_name": null,
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Wesley Araujo",
+      "first_name": "Wesley",
+      "last_name": "Araujo",
+      "email": "wesley@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "tom@favelabrass.org",
+    "first_name": "tom@favelabrass.org",
+    "last_name": null,
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião abordou a organização operacional das aulas presenciais no novo local e a logística associada a infraestrutura, cronograma, inscrições e disciplina. Inicialmente foram detalhadas as características da casa (espaços, banheiros, biblioteca no porão), necessidade de água gelada, cópias de chaves e responsabilidades de abertura e fechamento. Em seguida discutiram a grade e operação das turmas, com suspensão provisória da aula teórica por falta de professor, uso de espaços alternativos para iniciantes e critérios de participação por idade e frequência.\n\nO grupo alinhou processos de inscrição e triagem para priorizar moradores das favelas, divulgação restrita por WhatsApp e contato direto com responsáveis, com possibilidade de estender o prazo de cadastro por mais uma semana se necessário; Wesley prepara e registrará documento no sistema e avisará diretores. Ficou definido que a distribuição de instrumentos nas escolas começa na próxima semana, sendo que a última visita escolar ocorreu em Vital Brasil. Tratou-se também do acionamento da porta na casa do Tom — sugeriu-se corda mais resistente, furo com corrente e cópia de chaves — e foi decidido que Wesley e Elton avaliarão soluções.\n\nPor fim, houve detalhamento de um caso disciplinar: participante suspensa por faltas e descumprimento do manual, com envio de termo de advertência e reintegração condicionada a conversa com responsável; Iris enviará documento para assinatura pela mãe e Raissa pode retornar na próxima semana, com possível suspensão de duas semanas conforme política. Também se decidiu manter as atividades na casa do Tom durante o período de chuvas, monitorando reclamações de vizinhos, e Wesley e Ayrton ficaram responsáveis por resolver questão do portão.",
+  "action_items": [
+    {
+      "text": "Wesley Araujo: Fazer cópia da chave para quem precisar"
+    },
+    {
+      "text": "Wesley Araujo: Levar material adicional e separar bancos para as aulas"
+    },
+    {
+      "text": "Iris Nascimento: Checar a escala de responsáveis e confirmar quem cobre a sexta-feira e a teoria de sábado com Arthur Júlio"
+    },
+    {
+      "text": "Lilian Diniz: Conversar com Diana sobre a troca de banda e reportar a resposta ao grupo"
+    },
+    {
+      "text": "Iris Nascimento: Organizar a triagem das inscrições e inserir os alunos nos grupos correspondentes"
+    },
+    {
+      "text": "Iris Nascimento: Publicar a pasta de divulgação nos grupos de WhatsApp comunitários com texto explicativo hoje"
+    },
+    {
+      "text": "Wesley Araujo: Verificar situação da mãe e do acompanhamento da aluna (irmã de Maria Helena) e discutir possível permanência privilegiada"
+    },
+    {
+      "text": "Wesley Araujo: Buscar um professor para a aula teórica e informar o grupo sobre avanços"
+    },
+    {
+      "text": "Wesley Araujo: Reforçar com responsáveis a responsabilidade por instrumentos emprestados quando o aluno tocar em eventos externos"
+    },
+    {
+      "text": "Wesley Araujo: Preparar e registrar o documento no sistema relacionado às atividades/inscrições"
+    },
+    {
+      "text": "Iris Nascimento: Elaborar o documento de registro e enviar a Wesley para revisão"
+    },
+    {
+      "text": "Wesley Araujo: Enviar mensagem aos diretores da escola Vital Brasil assim que a reunião terminar"
+    },
+    {
+      "text": "Wesley Araujo: Analisar e executar solução para o mecanismo da porta com Elton, incluindo avaliação de furo ou instalação de corrente"
+    },
+    {
+      "text": "Wesley Araujo: Testar as chaves para identificar correspondência e impermeabilidade e, se necessário, providenciar cópias identificadas (CNPJ)"
+    },
+    {
+      "text": "Lilian Diniz: Enviar o documento de advertência para a participante assinar e solicitar que revise o manual com os responsáveis"
+    },
+    {
+      "text": "Iris Nascimento: Enviar o link do manual à participante ou responsáveis caso solicitem a versão online"
+    },
+    {
+      "text": "Lilian Diniz: Sinalizar o aviso preparado e, após alinhamento, enviar o aviso conforme combinado"
+    },
+    {
+      "text": "Pessoa responsável (designada pela equipe): Assinar o aviso após a reunião"
+    },
+    {
+      "text": "Iris Nascimento: Verificar se existem avisos pendentes esta semana e atualizar o grupo sobre o status"
+    },
+    {
+      "text": "Iris Nascimento: Enviar o documento para a mãe assinar"
+    },
+    {
+      "text": "Wesley Araujo: Resolver a questão do portão com Ayrton hoje"
+    },
+    {
+      "text": "Wesley Araujo: Manter a Banda Verde na casa do Tom durante o período chuvoso e monitorar reclamações de vizinhos"
+    },
+    {
+      "text": "Iris Nascimento: Informar o grupo quando houver mudança na localização da Banda Verde (retorno a Asunção)"
+    },
+    {
+      "text": "Iris Nascimento: Enviar o cronômetro/registro (stopwatch) ao grupo"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "O aluno está precisando de algo?"
+    },
+    {
+      "text": "Onde serão as aulas dos iniciantes? (Casa do Pão/Pereira?)"
+    },
+    {
+      "text": "Haverá aula teórica no sábado?"
+    },
+    {
+      "text": "Wesley já falou com ela?"
+    },
+    {
+      "text": "Podemos estender um pouco o prazo de inscrição?"
+    },
+    {
+      "text": "Tonti entregou o flyer aos diretores?"
+    },
+    {
+      "text": "Você tem a chave da terceira porta?"
+    },
+    {
+      "text": "O aviso cabe no próximo evento (será um baile em abril)?"
+    },
+    {
+      "text": "Como preferem conduzir o processo de avisos; devo falar com a pessoa responsável?"
+    },
+    {
+      "text": "A pessoa responsável assina o aviso após a reunião, está tudo bem?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Foram distribuídas cópias de chave entre membros (Wesley, Wellington, Raíssa) para garantir acesso independente ao local."
+    },
+    {
+      "text": "As aulas começarão no novo local e a equipe planeja iniciar as atividades presenciais ali já no primeiro dia previsto."
+    },
+    {
+      "text": "Há necessidade imediata de água potável gelada e a proposta de instalar um filtro foi discutida como solução mais sustentável."
+    },
+    {
+      "text": "As inscrições estão sendo triadas para priorizar moradores das favelas, com divulgação principal por WhatsApp e contato de responsáveis."
+    },
+    {
+      "text": "A aula teórica aos sábados está suspensa por falta de professor até contratação ou realocação de docente."
+    },
+    {
+      "text": "Foi acordado que alunos podem participar de apresentações externas, desde que o responsável assuma a responsabilidade pelo instrumento emprestado."
+    },
+    {
+      "text": "Wesley ainda precisa preparar e registrar um documento no sistema relacionado às atividades/inscrições."
+    },
+    {
+      "text": "A divulgação do registro da sede começou e há a possibilidade de estender o prazo por uma semana se necessário."
+    },
+    {
+      "text": "A distribuição de instrumentos nas escolas começa na próxima semana, após a última visita em Vital Brasil."
+    },
+    {
+      "text": "Há um problema no mecanismo de abertura da porta da casa do Tom, que pode ser resolvido com corda mais resistente ou modificação na porta."
+    },
+    {
+      "text": "Wesley se comprometeu a avaliar e executar a solução da porta com Elton, incluindo fazer um furo e instalar uma corrente se apropriado."
+    },
+    {
+      "text": "Chaves foram discutidas; Wesley vai testar, confirmar e, se necessário, fazer cópias das chaves."
+    },
+    {
+      "text": "Uma participante foi suspensa por faltas e descumprimento do manual; Lilian enviará o documento de advertência para assinatura e reforçará a leitura do manual com a família."
+    },
+    {
+      "text": "Foi decidido preparar e publicar um aviso de \"falta de apresentação\" com destaque, alinhando antes com a pessoa responsável."
+    },
+    {
+      "text": "A pessoa responsável assinará o aviso após a reunião, conforme combinado entre Iris e Lilian."
+    },
+    {
+      "text": "Iris enviará um documento para a mãe assinar e Raissa deve retornar às atividades na próxima semana, com suspensão prevista de duas semanas."
+    },
+    {
+      "text": "Wesley irá resolver hoje com Ayrton o assunto do portão."
+    },
+    {
+      "text": "A Banda Verde ficará temporariamente na casa do Tom durante o período chuvoso e será monitorada quanto a reclamações; retorno a Asunção ocorrerá após o fim desse período."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KJFF5B2M9SV0DRDEC3S93SSG",
+  "chapter_summaries": [
+    {
+      "title": "Abertura e situações pessoais",
+      "description": "A reunião começou com participações informais e comunicados pessoais, incluindo mensagens sobre disponibilidade de alguns membros e breves trocas sobre estar em trânsito ou em hospital. Houve uma breve coordenação sobre como proceder caso alguém precise sair da reunião rapidamente.",
+      "topics": []
+    },
+    {
+      "title": "Apresentação do local (casa) e suas condições",
+      "description": "Wesley descreveu o novo local: casa grande com porão transformado em biblioteca, área externa ornamentada, necessidade de reformas na parte frontal e disponibilidade de banheiros e quartos na parte de trás. Fotos foram enviadas por Edilene e a equipe avaliou positivamente o espaço para receber as aulas.",
+      "topics": []
+    },
+    {
+      "title": "Infraestrutura e logística operacional do local",
+      "description": "Discutiram-se aspectos práticos: casa estava sem luz, acionamento de eletricista, prioridade de iluminação para áreas usadas pelas crianças, e necessidade de providenciar água gelada com isopores enquanto não houver filtro instalado. Também foi decidido fazer cópias das chaves e manter cópias com membros responsáveis para abrir/fechar o local.",
+      "topics": [
+        "Foram distribuídas cópias de chave entre membros (Wesley, Wellington, Raíssa) para garantir acesso independente ao local.",
+        "As aulas começarão no novo local e a equipe planeja iniciar as atividades presenciais ali já no primeiro dia previsto."
+      ]
+    },
+    {
+      "title": "Materiais, mobiliário e suporte para aulas",
+      "description": "Planejou-se transporte de materiais e separação de bancada e bancos para alunos; Wesley mencionou levar material e buscar bancos adicionais, além de organizar geladeiras/isopores para água. Foi discutida a ideia de comprar um filtro semelhante ao usado em outra sede para reduzir custo e logística de água.",
+      "topics": [
+        "Há necessidade imediata de água potável gelada e a proposta de instalar um filtro foi discutida como solução mais sustentável."
+      ]
+    },
+    {
+      "title": "Frequência, critérios de participação e casos individuais",
+      "description": "A equipe reforçou a necessidade de frequência dos alunos, especialmente em sábados, e debateu casos individuais (relatos sobre a irmã de Maria Helena, limites de idade e evolução de alunos) para justificar critérios de seleção e investimento em alunos com maior potencial de evolução. Foi citada a dificuldade de atender alunos muito jovens por limitações financeiras e de recursos pedagógicos.",
+      "topics": [
+        "As inscrições estão sendo triadas para priorizar moradores das favelas, com divulgação principal por WhatsApp e contato de responsáveis."
+      ]
+    },
+    {
+      "title": "Inscrições, triagem e divulgação das turmas",
+      "description": "Iris relatou o processo de triagem das inscrições, priorização de moradores locais e estratégia de divulgação restrita via WhatsApp e grupos comunitários para captar crianças das favelas. Houve menção de bairros com maior demanda (Mendesai, Pereira Passos) e organização das listas e grupos por Iris para alocação nas turmas.",
+      "topics": []
+    },
+    {
+      "title": "Grade de aulas, salas e política de uso de instrumentos",
+      "description": "Definiu-se que inicialmente as turmas iniciantes poderão ocorrer na sala de percussão na casa do Tom, com horários específicos, e que não haverá aula teórica até achar professor; Joana permanece no sax e há limitações de realocação docente. A política de empréstimo foi esclarecida: pais ou responsáveis devem ser orientados e responsabilizados por danos em eventos externos quando levarem instrumentos emprestados.",
+      "topics": [
+        "A aula teórica aos sábados está suspensa por falta de professor até contratação ou realocação de docente.",
+        "Foi acordado que alunos podem participar de apresentações externas, desde que o responsável assuma a responsabilidade pelo instrumento emprestado."
+      ]
+    },
+    {
+      "title": "Contato inicial e confirmação de responsabilidades",
+      "description": "Iris confirma que Lili pode contatar a pessoa e Wesley confirma já ter conversado com Carolina sobre o assunto, incluindo explicações e menção a atividades na ala de percussão. Wesley também informou que precisa preparar e registrar um documento no sistema.",
+      "topics": [
+        "Wesley ainda precisa preparar e registrar um documento no sistema relacionado às atividades/inscrições."
+      ]
+    },
+    {
+      "title": "Divulgação de registros e prazo de inscrição",
+      "description": "Iris informou que a divulgação do registro da sede começa com um flyer enviado por Tom e propôs estender o prazo de inscrição; Wesley sugeriu publicar com prazo definido e estender por mais uma semana se necessário.",
+      "topics": [
+        "A divulgação do registro da sede começou e há a possibilidade de estender o prazo por uma semana se necessário."
+      ]
+    },
+    {
+      "title": "Distribuição de instrumentos e visitas às escolas",
+      "description": "Wesley comentou sobre o início da distribuição de instrumentos nas escolas na semana seguinte, citou visitas a diretores e que a última escola do dia seria Vital Brasil, além de combinar envio de mensagens aos diretores após a reunião.",
+      "topics": [
+        "A distribuição de instrumentos nas escolas começa na próxima semana, após a última visita em Vital Brasil."
+      ]
+    },
+    {
+      "title": "Logística de retirada e uso de materiais",
+      "description": "Discussão sobre combinar envio de material no mesmo período da retirada dos instrumentos e ajustes operacionais para facilitar o processo de coleta pelos participantes.",
+      "topics": []
+    },
+    {
+      "title": "Problema na porta da casa do Tom e soluções propostas",
+      "description": "Iris descreveu que a corda da fechadura se rompe com chuva e sugeriu usar corda mais resistente, nylon ou deixar a porta parcialmente aberta; Wesley recomendou avaliar alternativas como correntes de cachorro e analisar a melhor solução com Elton.",
+      "topics": [
+        "Há um problema no mecanismo de abertura da porta da casa do Tom, que pode ser resolvido com corda mais resistente ou modificação na porta.",
+        "Wesley se comprometeu a avaliar e executar a solução da porta com Elton, incluindo fazer um furo e instalar uma corrente se apropriado."
+      ]
+    },
+    {
+      "title": "Gestão de chaves e testes práticos",
+      "description": "Foram levantadas dúvidas sobre quais chaves correspondem a quais portas; Wesley e Iris verificaram posse de quatro chaves, opções de cópia e plano de testar as chaves para confirmar usos e impermeabilidade antes de copiar com identificação legal (CNPJ).",
+      "topics": [
+        "Chaves foram discutidas; Wesley vai testar, confirmar e, se necessário, fazer cópias das chaves."
+      ]
+    },
+    {
+      "title": "Caso disciplinar e aplicação do manual",
+      "description": "Debate sobre a suspensão de uma participante por faltas e violação das regras do manual, com discussão de prazos (duas a três semanas), envio de advertência para assinatura por Lilian e necessidade de conversa com responsável para reintegração às aulas e ensaios.",
+      "topics": [
+        "Uma participante foi suspensa por faltas e descumprimento do manual; Lilian enviará o documento de advertência para assinatura e reforçará a leitura do manual com a família."
+      ]
+    },
+    {
+      "title": "Planejamento do aviso para o baile",
+      "description": "Discussões iniciais sobre encaixar um aviso para o próximo evento, identificado como um baile em abril, e sobre como formatar o conteúdo conforme o manual, usando destaque/observação para \"falta de apresentação\". Houve consenso em sinalizar o aviso uma semana antes e em alinhar com a pessoa responsável antes do envio.",
+      "topics": [
+        "Foi decidido preparar e publicar um aviso de \"falta de apresentação\" com destaque, alinhando antes com a pessoa responsável."
+      ]
+    },
+    {
+      "title": "Alinhamento de responsabilidade e prazos de publicação",
+      "description": "Definiu-se que a comunicação deve ser previamente alinhada com o responsável, que o aviso será sinalizado e a pessoa responsável assinará após a reunião, e que os prazos de notificação obrigatória (uma semana) seguem o manual. Iris também mencionou verificar avisos pendentes no período atual.",
+      "topics": [
+        "A pessoa responsável assinará o aviso após a reunião, conforme combinado entre Iris e Lilian.",
+        "Iris enviará um documento para a mãe assinar e Raissa deve retornar às atividades na próxima semana, com suspensão prevista de duas semanas."
+      ]
+    },
+    {
+      "title": "Questões administrativas e calendário familiar",
+      "description": "Foi mencionada a agenda de ausências (Davi e Miguel) enviada pela mãe de Lilian, seguido de orientações sobre o envio de documento para assinatura da mãe e o retorno de Raissa às atividades, incluindo a previsão de suspensão de duas semanas e validade anual da política.",
+      "topics": []
+    },
+    {
+      "title": "Atribuições operacionais e decisão sobre Banda Verde",
+      "description": "Wesley assumiu a resolução do problema do portão com Ayrton e propôs manter a Banda Verde na casa do Tom durante o período chuvoso por não haver reclamações até o momento; ficou definido que a situação será monitorada e que a banda retornará a Asunção após o período de chuvas.",
+      "topics": [
+        "Wesley irá resolver hoje com Ayrton o assunto do portão.",
+        "A Banda Verde ficará temporariamente na casa do Tom durante o período chuvoso e será monitorada quanto a reclamações; retorno a Asunção ocorrerá após o fim desse período."
+      ]
+    },
+    {
+      "title": "Encerramento e comunicações finais",
+      "description": "Iris confirmou que registraria a mudança (fixação da banda na casa do Tom) e que avisaria quando houver alteração; também informou que enviaria um cronômetro/registro ao grupo antes do encerramento, e agradecimentos finais foram trocados.",
+      "topics": []
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1772193925977,
+        "end_time": 1772193929800,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I was here on my cell phone and I didn't see that there was an update."
+      },
+      {
+        "start_time": 1772193929820,
+        "end_time": 1772193939367,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Dude, listen to me. I know you're in the car and I'm in the hospital. Maybe at some point I have to leave quickly just to talk to someone, okay?"
+      },
+      {
+        "start_time": 1772193940708,
+        "end_time": 1772193944031,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Oh, no. Everything's fine. How are things going for him?"
+      },
+      {
+        "start_time": 1772193944091,
+        "end_time": 1772193945792,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "It's normal."
+      },
+      {
+        "start_time": 1772193945812,
+        "end_time": 1772193949355,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Is he needing anything?"
+      },
+      {
+        "start_time": 1772193952460,
+        "end_time": 1772193958344,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "No, no, I don't think so."
+      },
+      {
+        "start_time": 1772193958404,
+        "end_time": 1772193963567,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Don't worry. When you have to leave, don't do it."
+      },
+      {
+        "start_time": 1772193963587,
+        "end_time": 1772193967849,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Sometimes I don't have to leave, I just... I got it. I got it."
+      },
+      {
+        "start_time": 1772193967889,
+        "end_time": 1772193980104,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "No, Milia, but if for some reason you have to leave, just shake my hand and go, okay? Good morning."
+      },
+      {
+        "start_time": 1772193981245,
+        "end_time": 1772193981905,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Good morning."
+      },
+      {
+        "start_time": 1772193981945,
+        "end_time": 1772194000415,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "We're making coffee. So, guys, tomorrow we start..."
+      },
+      {
+        "start_time": 1772194008346,
+        "end_time": 1772194052602,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I was on the ground. I was there yesterday. I took the helicopter. I took the material that was in the assumption that the children will need. I took my car. It was a general there. I think Edilene sent the photos. The space there is good. It would be interesting I don't know if you're going to be there tomorrow, but I'm sure you've seen it. The house is huge, it's very big. It's huge, you can even bathe there.\n\n Outside the house, there's a cloreto, a huge cloreto."
+      },
+      {
+        "start_time": 1772194052622,
+        "end_time": 1772194055124,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "I saw the picture, it's beautiful, right?"
+      },
+      {
+        "start_time": 1772194055164,
+        "end_time": 1772194201149,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Wow, the house is very beautiful. It needs to be renovated. He's investing a lot in the reform. He hired a team... A team to restore the house. But just so you know, the basement of the house is a giant library. It's huge, the basement of the house. So, it's absurd. Absurd. We're not going to occupy the front of the house, because I think, from what he said, a reform is going to start in the front.\n\n Let's stay in the back, but in the back there are three bathrooms, you know? 6x6 bedrooms. It's very big. Besides, in the external area there is this giant closet, you know, all ornamented. So, we are well served there. He has the German there, Uwe. His name is Rui. He left us alone. The house was out of light. He called the electrician and told us to put the light on at least in the area where they are.\n\n It's a small child. Put the light on the bathroom. If the bathroom is not working, put it on to work. The priority is them. So, I think we are well served there. Delivered. He told us to make a copy of the key so we don't have to depend on the key. We have to open and close with the key in our hand. So, there's a copy with me, there's a copy with Wellington, and there's a copy with Raíssa. I'll make a copy for you if you need it.\n\n And you can make an appointment there, right? You know? You can make an appointment there, there's a room available. So, it's all well served. We'll see tomorrow, we'll start the classes there tomorrow. Let's see what the parents' reaction will be. I think it will be positive, because it's an amazing place. For now, we'll have to follow the production schedule. We'll take it to the isopore, with water and ice.\n\n Because there's no drinking water there. And in this heat, especially in the morning, it's very hot, right? In the morning, there has to be cold water."
+      },
+      {
+        "start_time": 1772194202438,
+        "end_time": 1772194211745,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "I don't understand. There's a space in the house for the people in charge to wait. Oh, there's a stool over there."
+      },
+      {
+        "start_time": 1772194211785,
+        "end_time": 1772194214587,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "You can sit on the stool. No, sir. I'll be there tomorrow."
+      },
+      {
+        "start_time": 1772194214607,
+        "end_time": 1772194216628,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tom will be there too."
+      },
+      {
+        "start_time": 1772194216708,
+        "end_time": 1772194280500,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "On the first day. At least on the first two Saturdays. No, sir. There's no place for him to sit on the stool. But I'll be there. Today I'm going to Assumpção. There's one more material in the collection that I'm going to take to Tom's house. I'm going to separate it, but I'll see if I can get some more benches. There are 20 benches down there, so there are only benches for the students, for the parents.\n\n But there's a corner where they can stay, there's a staircase, it's a super covered place, super cozy, and that's it. In the beginning, now we only have this issue that we will have to take the water there, but already at the meeting with the children, I already talked about buying a filter, like the one we have at the bread house, a filter in the outlet, right? It freezes."
+      },
+      {
+        "start_time": 1772194281221,
+        "end_time": 1772194285541,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Yes, it is much more environmentally friendly, it is a micro investment that can save."
+      },
+      {
+        "start_time": 1772194287068,
+        "end_time": 1772194306181,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Yes, it's much more accountable. But it's ok. Let's go, guys. Let's go to the tasks that were set. I'm on the phone, I'm on the street, I have no internet at home. Give us a call, please. Last week, there were some things with Lili."
+      },
+      {
+        "start_time": 1772194306261,
+        "end_time": 1772194327500,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It's a matter of the schedules to go to tomorrow. Rafael Zinho, who is in charge of Friday. I'm going to check with the person in charge of Arthur Júlio about the theory class on Saturdays."
+      },
+      {
+        "start_time": 1772194327520,
+        "end_time": 1772194331381,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Yes, so she can answer me. I'm going to ask for her answer today."
+      },
+      {
+        "start_time": 1772194333962,
+        "end_time": 1772194338664,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "But the rehearsal and the class are held at the same time."
+      },
+      {
+        "start_time": 1772194338724,
+        "end_time": 1772194338964,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes, yes."
+      },
+      {
+        "start_time": 1772194339324,
+        "end_time": 1772194342205,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It's just the theory that he can go on Saturday."
+      },
+      {
+        "start_time": 1772194342959,
+        "end_time": 1772194345241,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "At the last minute, in this case."
+      },
+      {
+        "start_time": 1772194345521,
+        "end_time": 1772194348164,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Yes, a private conversation. He's going, I think."
+      },
+      {
+        "start_time": 1772194348544,
+        "end_time": 1772194350065,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "It's normal. Yes, yes, it is."
+      },
+      {
+        "start_time": 1772194352347,
+        "end_time": 1772194356511,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "A question from Diana, I don't know if you can talk to her."
+      },
+      {
+        "start_time": 1772194356531,
+        "end_time": 1772194375328,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "So, Diana sent me a message and told me that today would be a good day for us to talk. Because I asked her what she saw, right? And then, probably now, this afternoon, I think she's hoping that we'll change the band. I don't know."
+      },
+      {
+        "start_time": 1772194399655,
+        "end_time": 1772194401776,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "It won't, it won't, it won't change."
+      },
+      {
+        "start_time": 1772194401976,
+        "end_time": 1772194415327,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "It won't change, just explain it to her, one more time. Look, unfortunately that's it. We need him to participate. Did she take the report that she said she was going to get?"
+      },
+      {
+        "start_time": 1772194416348,
+        "end_time": 1772194418250,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "I don't think she got it, no. We need him too."
+      },
+      {
+        "start_time": 1772194418550,
+        "end_time": 1772194474109,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "She said she was waiting for the report that you said you were going to bring. We don't have much to do. We don't have to do it. We need him to participate in the classes. That he comes to all the classes, especially now that it's Saturday. It's only one day. We need him to come, to participate, to evolve. That's it. He enters the project system. It's no use for him to go his own way. We need him to be participative.\n\n Okay, but where's Laudo? Even with Laudo, unfortunately, we don't have much to do. There's no way, you know, we're already being super soloists, serving, doing a special service for him. Besides that, there's no way, there's no way, there's no way I can pass him in front of the other students who are doing tests, you know, who are born, there's no way to do that, it doesn't exist."
+      },
+      {
+        "start_time": 1772194475208,
+        "end_time": 1772194481832,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "But that's it. As soon as I talk to her, I'll let you know."
+      },
+      {
+        "start_time": 1772194481872,
+        "end_time": 1772194482112,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Great."
+      },
+      {
+        "start_time": 1772194484473,
+        "end_time": 1772194493316,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "And there's the conversation about Alex, too."
+      },
+      {
+        "start_time": 1772194493356,
+        "end_time": 1772194530222,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "I don't know if there's anyone here to meet her. No, not yet. No. I'm in charge of the agenda. I don't know if you have the agenda to add. The process of registration and dissemination. We are receiving the school registrations. Mendesai and Pereira Passos are booming. The rest is very slow."
+      },
+      {
+        "start_time": 1772194530262,
+        "end_time": 1772194532564,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mendesai and Pereira Passos?"
+      },
+      {
+        "start_time": 1772194533366,
+        "end_time": 1772194649586,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "That's it. These are the ones that are bombing more. In the United States, I haven't received many. And then I'm doing the screening, right? To know if the student has the correct age, if he's really in school. Because sometimes the person, a father communicates with another and the student is not even from school. There's no way to do the classes, right? A contact came in, a person from Rocha. In the Rocha neighborhood, wanting to take classes.\n\n I said, look, we don't have any partnership with a nearby school, and we have the inscriptions in the building, which are for residents of the surrounding favela. I said, I don't know what it is. Anyway, then I do this triage with everyone who gets in touch, and I see if... I'm putting... I'm organizing here in my office, so I can... And then put it in the groups. And the dissemination, I talked to Tom, it seems that the dissemination for the classes in the headquarters, we are not going to do a super dissemination outside, so the idea is to disseminate between WhatsApp groups, among those responsible, who already live in favelas, to be able to We're going to capture favela people, favela children.\n\n We're really going to bring this exclusivity to the favela residents. That's why we're not going to make such a broad disclosure. We're not going to disclose on Instagram the subject of the classes at the headquarters. I understand. It's going to be only WhatsApp and these school pamphlets, It's basically whatsapp and word of mouth from the parents. I understand."
+      },
+      {
+        "start_time": 1772194649626,
+        "end_time": 1772194655350,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Are you going to spread it to these community groups as well? I think you have a group, right? Don't you have a whatsapp group for the community?"
+      },
+      {
+        "start_time": 1772194655410,
+        "end_time": 1772194675233,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Yeah, I have my personal whatsapp in this group. I'm going to put it there. Tom made a little folder. I'm going to put the folder there. I'm going to put it today, with a little text saying that we're going to contact you, that we're going to want this. You have to be old 9 in the matriculation test."
+      },
+      {
+        "start_time": 1772194676153,
+        "end_time": 1772194735938,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I'm going to talk, just to let you know. Tomorrow I'm going with Tom. I don't know if I can do it. I was thinking a lot about Maria Helena's sister. She goes to all the classes. Yes, she goes to all the classes. I met her yesterday. Since last year, she has been taking part in the classes and even in the theory class. She is sitting there. She is a big girl. She is 9 years old in the middle of the year.\n\n She is 9 years old in the middle of the year. But in her case, she's been participating for two years."
+      },
+      {
+        "start_time": 1772194735998,
+        "end_time": 1772194748986,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "But, for example, a teenager who turns 18 January or February, he wins the whole year. Well, in this case, Tom explained to me why."
+      },
+      {
+        "start_time": 1772194750406,
+        "end_time": 1772194873479,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I talked to him about why. I don't understand why. He said something that is true. When I arrived at the project, we really had a problem with that. When a child is very young, 7, 8 they don't have the structure to hold an instrument. In fact, they don't. So much so that Bia spent a long time in the box because she couldn't stand holding a trumpet. She wanted an open and exposed trumpet. When she was 10 years old, she actually went to the trumpet school.\n\n But even so, she was very young. Since we don't have a lot of money, we can't take a very young student and feed him in a situation where he won't evolve at that moment. Spending money on him, having private lessons, etc. We need a student who is already I need to get the student, those 6 months of flutes, and that's it. We need a lot of that. You can't just keep taking it. But there are cases. For example, this girl, Maria Helena's sister, I think she's chubby, she's strong, and she's already participating in the class indirectly.\n\n She's being privileged, because Thiago stays there for a while, Thiago and Iris, when the class is over, they stay there for a while and teach her. Mangueirinha puts her sitting during his class and she participates in the whole class. I don't know, I'm going to see how your mother is doing, I'm going to talk to him about this girl. We keep nine years in the act of writing."
+      },
+      {
+        "start_time": 1772194873499,
+        "end_time": 1772194885543,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Another thing, Lilian, the classes of the beginners will be in Pereira. It would be in Zola."
+      },
+      {
+        "start_time": 1772194885563,
+        "end_time": 1772194886343,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "But where?"
+      },
+      {
+        "start_time": 1772194886423,
+        "end_time": 1772194888223,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "In Casa do Pão?"
+      },
+      {
+        "start_time": 1772194889724,
+        "end_time": 1772194941355,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "At first, I will send have this fair at Tom's house, in the percussion room. Why? I'm already going to be there giving a lesson, right? And since it's going to be a small group, everything says, right? Everything says it's going to be a small group. For example, I rehearsed with the Black Band in the percussion room the other day. But there are 24 right? There are, there are 24 seats, but last year we got 6 with a lot of cost and formed 4.\n\n It was four last year. Yes, it was four. Yes, sister. Who else? Who else? Bernardo, who left now."
+      },
+      {
+        "start_time": 1772194941375,
+        "end_time": 1772194942136,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes, Bernardo."
+      },
+      {
+        "start_time": 1772194943436,
+        "end_time": 1772194947058,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Pietra, who left. Pietra, there was another girl there."
+      },
+      {
+        "start_time": 1772194947158,
+        "end_time": 1772194952455,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Nicole. Nicole. Nicole stayed."
+      },
+      {
+        "start_time": 1772194952735,
+        "end_time": 1772194954417,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Your sister Nicole stayed."
+      },
+      {
+        "start_time": 1772194954437,
+        "end_time": 1772194988458,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "We started with six students. We started with six students. And what was the schedule, Ed? The schedule was 6.30 to 7.30. So, Tuesdays, 6.30 to 7.30, right? Exactly. In the percussion room, there with the air conditioning, cute. I'm going to be giving a class to Gustavo there. I'll stay right there."
+      },
+      {
+        "start_time": 1772194988538,
+        "end_time": 1772194990520,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "It's flute. It's flute."
+      },
+      {
+        "start_time": 1772194991661,
+        "end_time": 1772195002730,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Man, it doesn't get in the way of the theory class. Even because the theory class starts at 7 o'clock too, up there, and everything will be closed. It doesn't get in the way of anyone."
+      },
+      {
+        "start_time": 1772195008901,
+        "end_time": 1772195012584,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "In relation to the theory class on Saturday, how did it go?"
+      },
+      {
+        "start_time": 1772195012604,
+        "end_time": 1772195014746,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "So, we still don't have..."
+      },
+      {
+        "start_time": 1772195014766,
+        "end_time": 1772195017829,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "But there won't be a class on Saturday?"
+      },
+      {
+        "start_time": 1772195017869,
+        "end_time": 1772195020251,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "No, there won't be."
+      },
+      {
+        "start_time": 1772195020271,
+        "end_time": 1772195035192,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "There won't be. For now, there won't be a theory class. I'm running after a teacher to... You said you were going to do it in March or July, so, for now, it's suspended. What?"
+      },
+      {
+        "start_time": 1772195035212,
+        "end_time": 1772195037696,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "No, not Arthur's. Arthur's is 10 to 11."
+      },
+      {
+        "start_time": 1772195037755,
+        "end_time": 1772195043300,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "But there's no history teacher yet. You have to wait, right?"
+      },
+      {
+        "start_time": 1772195043320,
+        "end_time": 1772195044441,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Yes, you have to wait."
+      },
+      {
+        "start_time": 1772195044601,
+        "end_time": 1772195051687,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "So tomorrow, for example, if she gives you an A, you wouldn't have it."
+      },
+      {
+        "start_time": 1772195051747,
+        "end_time": 1772195053709,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Yes. I wouldn't start yet. No."
+      },
+      {
+        "start_time": 1772195068467,
+        "end_time": 1772195080256,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "I'm going to inform this too. There will only be some students who will arrive very early, right?"
+      },
+      {
+        "start_time": 1772195081057,
+        "end_time": 1772195081257,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Yes, yes."
+      },
+      {
+        "start_time": 1772195081297,
+        "end_time": 1772195086341,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "For now, there is no theory class. I'm going to get a teacher. Running after it is difficult."
+      },
+      {
+        "start_time": 1772195086361,
+        "end_time": 1772195091325,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "None of the teachers we have can give this class, right?"
+      },
+      {
+        "start_time": 1772195091345,
+        "end_time": 1772195112709,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "It's because Pablo Pablo is full of commitment. Chancelor is already teaching trombone. Chancelor is teaching trombone. Rafaela is teaching trumpet. Joana is teaching saxophone."
+      },
+      {
+        "start_time": 1772195115591,
+        "end_time": 1772195121830,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It's easier to change, put Joana in theory put someone and in sax or the other way around."
+      },
+      {
+        "start_time": 1772195121870,
+        "end_time": 1772195128773,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Joana asked to continue in the saxophone, she prefers to explain all the saxophones."
+      },
+      {
+        "start_time": 1772195128994,
+        "end_time": 1772195130894,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Yesterday we were able to."
+      },
+      {
+        "start_time": 1772195135009,
+        "end_time": 1772195135790,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "That's it."
+      },
+      {
+        "start_time": 1772195135830,
+        "end_time": 1772195145978,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Let's leave Jo on the saxophone, because she's responsible for the whole class. I'll try to find a theory teacher. That's the focus."
+      },
+      {
+        "start_time": 1772195146038,
+        "end_time": 1772195156527,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Let's move on to Marquinho's question."
+      },
+      {
+        "start_time": 1772195158217,
+        "end_time": 1772195342198,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I also talked about this with Tom yesterday. Because he wasn't the only one. We've had other cases. Bento, looking for guidance to play with his father. Bloco Latino. So what was the guidance that Tom gave me? We forbade the student to play. It's unfeasible. We forbade students to play in other places. What we ask for... I talked to... I'll pass this to you. Marquinhos yesterday was sending messages, wanting to know...\n\n In this case, he was invited to play at Fluminense's block. A soccer team, Fluminense. And... I asked Tom, and he said... We can't prohibit it. We can't prohibit students from using our tools. What we have to do is talk to the father. In this case, the father is responsible. We have to make the father aware of this. The father is totally responsible for the child. If he's taking the child or leaving the child alone.\n\n And the fact that he signed the loan the instrument, he is responsible for that. So if anything happens, he is responsible. Then I talked to Carolina yesterday and said, look, you can be happy that Marquinhos has been invited, people have recognized his evolution and such. You know, he's a minor, so you are responsible for him, his mother. We only emphasize the issue of the care given to the instrument.\n\n From the point of view of the loan, I'm with you, so you are aware that if something happens, you are responsible, but it is not impossible for him to play, as long as you are aware, you are with him, and the issue of the instrument. She thanked me. Happy, that he is a sick tricolor. Tom even said that this block already made a donation to the instrument project. I don't know if it was an instrument or if it was money, I don't know.\n\n But it's not necessary. It's just a matter of reinforcing with the responsible the issue of the instrument. And what is that? Anything that happens to us has nothing to do with it. My son was playing there and something happened. It's our responsibility. And in relation to the instrument, if anything happens to the instrument, the person responsible will have to pay."
+      },
+      {
+        "start_time": 1772195342218,
+        "end_time": 1772195345581,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Lili can get in touch with her, just to talk to her."
+      },
+      {
+        "start_time": 1772195345621,
+        "end_time": 1772195348443,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Has Wesley already talked to her?"
+      },
+      {
+        "start_time": 1772195348483,
+        "end_time": 1772195350104,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Yes, I've already talked to her."
+      },
+      {
+        "start_time": 1772195350144,
+        "end_time": 1772195351526,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "You've already talked to her."
+      },
+      {
+        "start_time": 1772195354226,
+        "end_time": 1772195372535,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Yeah, I talked to Carolina. I explained everything to her. Benzo was also playing with his father in the Latin block, right? Songorocossongo. Songorocossongo. It was the same direction."
+      },
+      {
+        "start_time": 1772195372615,
+        "end_time": 1772195374896,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Instruments and stuff."
+      },
+      {
+        "start_time": 1772195382888,
+        "end_time": 1772195388569,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I still haven't been able to do it, I still have to prepare the document and register it in the system."
+      },
+      {
+        "start_time": 1772195410482,
+        "end_time": 1772195419106,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "I'm going to be able to use this. Great. Great. Because if we do what comes out, we're going to be completely unparalleled."
+      },
+      {
+        "start_time": 1772195419246,
+        "end_time": 1772195423689,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "It's going to be much better. It's going to be registered there."
+      },
+      {
+        "start_time": 1772195423729,
+        "end_time": 1772195468281,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Then I just have to elaborate the document and send it to you to take a look at what's written. One thing I forgot to tell you about these registrations, we haven't done this disclosure of the registration of the headquarters yet. It's going to start today. Tom sent me yesterday the flyer. Can we extend it a little bit? The registration? It's going to be a week. Let's post it and see how it goes. Okay, if we receive it later, we can accept it.\n\n"
+      },
+      {
+        "start_time": 1772195469061,
+        "end_time": 1772195501416,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Yes, if we have... No, let's make it public, with this deadline. If it's close to the end of the deadline, and there's little time left, then we just change the date, extend it for another week, you know? I think, in my opinion, I said that last year. I think we should have started with Pereira. No, there are still people. There are still people."
+      },
+      {
+        "start_time": 1772195502116,
+        "end_time": 1772195508698,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "There are still people who can join us. There are people who signed a contract with me last year."
+      },
+      {
+        "start_time": 1772195509958,
+        "end_time": 1772195513379,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Well, let's wait. Let's wait. Now there is a group called Pereira, which I wasn't in before."
+      },
+      {
+        "start_time": 1772195513399,
+        "end_time": 1772195516340,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "We don't make publications about this group."
+      },
+      {
+        "start_time": 1772195519495,
+        "end_time": 1772195524139,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tonti gave you the flyer to go to the school directors?"
+      },
+      {
+        "start_time": 1772195524219,
+        "end_time": 1772195527582,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I gave it to them yesterday."
+      },
+      {
+        "start_time": 1772195527602,
+        "end_time": 1772195570256,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Oh, great. Great. Wonderful. The directors were asking me to go. Yeah, the directors from the US asked me to go. Today is the last school we're going to do. We're going to do it in Vital Brasil. I have to send a message to the directors from there. It's kind of crazy. We're great partners. But he's a little crazy, he forgets things like that. He has to be like, look, it's me today. But I'm going to send a message to her here, as soon as the meeting is over.\n\n Today we close, and from next week, the distribution of instruments in schools begins. And we go on. Beautiful."
+      },
+      {
+        "start_time": 1772195572677,
+        "end_time": 1772195578085,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Then there's that theme, Yes, yes, yes. Yes, yes, if you want."
+      },
+      {
+        "start_time": 1772195578185,
+        "end_time": 1772195578466,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "If you..."
+      },
+      {
+        "start_time": 1772195578486,
+        "end_time": 1772195579466,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ok, I'll send it to you."
+      },
+      {
+        "start_time": 1772195579566,
+        "end_time": 1772195580187,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It'll be better."
+      },
+      {
+        "start_time": 1772195580207,
+        "end_time": 1772195580907,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "I'll send it to you."
+      },
+      {
+        "start_time": 1772195600067,
+        "end_time": 1772195630990,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "But it can be in the same period, in the day you came to pick up the things. Now about the door at Tom's house, there are some complaints, people are not being able to open the door there, because there is a There's a... What's the name?"
+      },
+      {
+        "start_time": 1772195631030,
+        "end_time": 1772195632451,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I forgot the name."
+      },
+      {
+        "start_time": 1772195632531,
+        "end_time": 1772195633232,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It's a string."
+      },
+      {
+        "start_time": 1772195633252,
+        "end_time": 1772195661800,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It's a string, but this string breaks and sometimes it doesn't do the right pull to unlock the door. So, see if there's a way. Or put something more resistant, a string that would stay straight, a thicker string. There are some strings that are nylon, which is thin. And the nylon can be exposed to the rain and does not spoil so fast."
+      },
+      {
+        "start_time": 1772195661820,
+        "end_time": 1772195662841,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "It can be a possibility."
+      },
+      {
+        "start_time": 1772195664842,
+        "end_time": 1772195681192,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Or leave it open, put a Durex there on the lock and then just take it off and lock it. But I think if you put a more resistant string, it would solve it. So just bringing it here to see if it works."
+      },
+      {
+        "start_time": 1772195682828,
+        "end_time": 1772195702397,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I think these dog chains are better than wire cutters. Anyway, I'm going to analyze better how to do this. Today I'm going to be with Elton. I'm going to study this better. Maybe I'll make a hole in the door, closer to the gate."
+      },
+      {
+        "start_time": 1772195708676,
+        "end_time": 1772195723962,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Oh, I see. And it's easier to pull. Yeah, because it can be fixed, the door is always locked, right? Always with the key. So even if someone tries to pull it, it won't come out, it will be closed. Yes, yes, yes."
+      },
+      {
+        "start_time": 1772195724102,
+        "end_time": 1772195779592,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I'm going to see if the Coeliton today. Maybe make a hole, I think I have a drill here at home. You want to make a you hole. Make a hole near the lock and put a chain there. Then you close it and throw the chain inside. When you have a period of class, you put the chain on the outside. I was going to ask you about the key, if you have the key to the third door. How is my key life here? I need to know what is what.\n\n What is what? I'm with the key next to Simon's house. I'm full of keys. The third door you said, which door is it? It's made of aluminum up there. It's that door that leads to the laundry room."
+      },
+      {
+        "start_time": 1772195779672,
+        "end_time": 1772195779732,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes."
+      },
+      {
+        "start_time": 1772195779752,
+        "end_time": 1772195781734,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I think I have this key here."
+      },
+      {
+        "start_time": 1772195788390,
+        "end_time": 1772195801860,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It's just this one that I don't have, and Wellington is always leaving it open. I told him, I don't think it's a problem to leave it open, but... I don't think it's a problem."
+      },
+      {
+        "start_time": 1772195801940,
+        "end_time": 1772195826901,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "In the other two locked doors, I don't see a problem, but I'm going to take a closer look, because I'm pretty sure I didn't do it. I'm going to take all these keys here and I'm going to confirm there. Yeah, test it with him to see if it's working. I have four keys here."
+      },
+      {
+        "start_time": 1772195826961,
+        "end_time": 1772195841964,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "I have four keys here. The other two that I have open normally. Open the lower gate, open the second gate, and that's it. And I even have this key here that doesn't have a place, right? It must be somewhere in your house."
+      },
+      {
+        "start_time": 1772195842624,
+        "end_time": 1772195872868,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "No, this key that's with you there, It's exactly from the door that was there in the percussion room. But if you give it to me, I'll do a test, but I'm almost sure it was, because I made a copy of that key, but then Tom said, no, we're going to change it, we're going to put an acoustic door and such. I had already made a copy of the key. But I have another key here that I think is for Lilian, it's here.\n\n"
+      },
+      {
+        "start_time": 1772195873964,
+        "end_time": 1772195874305,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, okay."
+      },
+      {
+        "start_time": 1772195875245,
+        "end_time": 1772195878188,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "But I'm going to test something."
+      },
+      {
+        "start_time": 1772195878208,
+        "end_time": 1772195881631,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Today, later, I'll go to the rehearsal."
+      },
+      {
+        "start_time": 1772195881771,
+        "end_time": 1772195894582,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Then I'll give you this key. Okay, I'll test there. I'll test to see if it's waterproof. If it's not, we can take that key and make a copy, you know? Make a copy with the CNPJ. Okay, okay. Finally, the root issue."
+      },
+      {
+        "start_time": 1772195894622,
+        "end_time": 1772195897224,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "How was it there?"
+      },
+      {
+        "start_time": 1772195902309,
+        "end_time": 1772195927830,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "No, I was waiting for you to come back regarding the decision. You brought up the question of her... No, she was suspended for two weeks."
+      },
+      {
+        "start_time": 1772195928210,
+        "end_time": 1772195932813,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "There's something I don't understand."
+      },
+      {
+        "start_time": 1772195932833,
+        "end_time": 1772195937675,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "She was suspended because she missed the rehearsal. No, she was suspended for three weeks."
+      },
+      {
+        "start_time": 1772195952542,
+        "end_time": 1772195954043,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "But she missed an exam too."
+      },
+      {
+        "start_time": 1772195955503,
+        "end_time": 1772195961666,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "No, these are two warning policies that we now have in the manual. Then she missed it."
+      },
+      {
+        "start_time": 1772195961886,
+        "end_time": 1772195972271,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Then she said she wanted to go to the courthouse, but she didn't. That's why she was suspended, suspended from the meeting."
+      },
+      {
+        "start_time": 1772195972291,
+        "end_time": 1772195973971,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Suspended from the meeting."
+      },
+      {
+        "start_time": 1772195973991,
+        "end_time": 1772195974852,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Yes, we talked."
+      },
+      {
+        "start_time": 1772195975852,
+        "end_time": 1772195990327,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "You talked, then. Yes. So, after this conversation, I told her to sign it. I didn't know if you had talked to her about it. She is still very upset about this. I don't even know about the continuation of the girl in the project."
+      },
+      {
+        "start_time": 1772195990347,
+        "end_time": 1772196008497,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "She was very, very upset about it. I explained to her that she even went to the meeting Anyway..."
+      },
+      {
+        "start_time": 1772196008537,
+        "end_time": 1772196010159,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "She didn't go to the meeting."
+      },
+      {
+        "start_time": 1772196010179,
+        "end_time": 1772196011920,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "She didn't go to the meeting."
+      },
+      {
+        "start_time": 1772196011940,
+        "end_time": 1772196015703,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "No, but she already went to the meeting that she knows that the judge said yes."
+      },
+      {
+        "start_time": 1772196015723,
+        "end_time": 1772196016064,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "So, yes."
+      },
+      {
+        "start_time": 1772196016104,
+        "end_time": 1772196021868,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "So, but it changed, right? Because now we're being more critical."
+      },
+      {
+        "start_time": 1772196022009,
+        "end_time": 1772196031256,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "So, she didn't go to the meeting. She went later. So, we have another problem. I said, wait a minute, if she didn't go to the meeting now, she went later and signed the manual?"
+      },
+      {
+        "start_time": 1772196031837,
+        "end_time": 1772196046513,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Yes, I delivered the manual to her. I talked to her, physically, and she agreed with me. On the day of the rehearsals, the students were having a general meeting."
+      },
+      {
+        "start_time": 1772196046593,
+        "end_time": 1772196067765,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "I talked to her and asked her... When something happens, if I don't remember that there's a manual, it's full of rules, you know?"
+      },
+      {
+        "start_time": 1772196067786,
+        "end_time": 1772196071208,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "But did she ask you to take a look at the manual or not?"
+      },
+      {
+        "start_time": 1772196071388,
+        "end_time": 1772196074890,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Yes, yes. I think you were the one who sent it to her."
+      },
+      {
+        "start_time": 1772196075050,
+        "end_time": 1772196076331,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "I sent a print, yes."
+      },
+      {
+        "start_time": 1772196076832,
+        "end_time": 1772196106282,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Exactly, you know? And then she agreed quickly. I said, ok, you can even think that, but it's our policy now to be able to have at least the most authoritative document. We talked about treating each house individually. Obviously, I told her. And we discussed what we really consider as a justification. But I'm alone to see that. I told her to keep in touch. But it's something that also has to do with her birthday party in December.\n\n We're in February. Yeah. The celebration was in the morning."
+      },
+      {
+        "start_time": 1772196107223,
+        "end_time": 1772196125695,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "I still have this message with her, but the celebration If she had that commitment, she could have left in the middle of the procession. We got there at the right time. It wasn't even 11 o'clock yet, I think."
+      },
+      {
+        "start_time": 1772196125735,
+        "end_time": 1772196131377,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "I didn't go to the party house that time. It wasn't that time."
+      },
+      {
+        "start_time": 1772196131397,
+        "end_time": 1772196135479,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "I thought it was strange, too."
+      },
+      {
+        "start_time": 1772196135559,
+        "end_time": 1772196183863,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "No, it wasn't. What I think happened, and I don't want to talk about it, is that she went to see another party. I can't say this because I'm not sure if it was, but I'm almost sure. But anyway... Since you confirmed this question, I'll send her the document for her to sign, the warning. I was waiting to see if you had... I'll send it to you and I'll tell you. That you will be sending a document to Signature, and I ask her to please review the reading of the manual, preferably of the parents.\n\n"
+      },
+      {
+        "start_time": 1772196185003,
+        "end_time": 1772196192545,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Yes, good. If she wants the manual... If she wants, I can send you the manual's link, you can send it to her, so she can have the document."
+      },
+      {
+        "start_time": 1772196192605,
+        "end_time": 1772196195646,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "If she wants to read it online."
+      },
+      {
+        "start_time": 1772196195806,
+        "end_time": 1772196202297,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "If she wants to read it and doesn't have it, But in relation to the rehearsals, she is still going."
+      },
+      {
+        "start_time": 1772196202337,
+        "end_time": 1772196209881,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Theoretically, she would only come back to teach on March 12th. I don't remember how she is."
+      },
+      {
+        "start_time": 1772196227471,
+        "end_time": 1772196228051,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Thank you, sir."
+      },
+      {
+        "start_time": 1772196256232,
+        "end_time": 1772196273523,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "So, guys, but look, wait a minute. In the case of... There's no way to talk about this now. It was the first case, we talked about it, but in the case of the student, he is suspended for two weeks and has the meeting to occupy, but he is suspended for two weeks."
+      },
+      {
+        "start_time": 1772196276005,
+        "end_time": 1772196279007,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "He only goes back to private classes."
+      },
+      {
+        "start_time": 1772196279267,
+        "end_time": 1772196280788,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "That's it. No, he is suspended."
+      },
+      {
+        "start_time": 1772196283403,
+        "end_time": 1772196313347,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "He is suspended from the band for two weeks. Can you see it, Manuel? Yes, I can see it. He is suspended from the band for two weeks and the student misses the individual technical classes. But here it doesn't say for how long. The mandatory is meeting. In my understanding, it's two weeks. It's every two weeks, right?"
+      },
+      {
+        "start_time": 1772196313367,
+        "end_time": 1772196321212,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Including private lessons. I think we had talked that the student not missing private lessons would harm him a lot."
+      },
+      {
+        "start_time": 1772196321252,
+        "end_time": 1772196324755,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "No, but he ended up staying. He literally misses private lessons."
+      },
+      {
+        "start_time": 1772196333707,
+        "end_time": 1772196355463,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "He misses the band rehearsals and possible performances that he has in this period, and the classes. He misses two weeks. And within these two weeks, he has to have a conversation with his father. He only comes back after the conversation with his father, with Lilian. So, then it started with me right away."
+      },
+      {
+        "start_time": 1772196360516,
+        "end_time": 1772196360936,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "That's it."
+      },
+      {
+        "start_time": 1772196360956,
+        "end_time": 1772196369721,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Now that she participated in the rehearsal, there's no way for us to get there now and take it off, but just to be on alert for us."
+      },
+      {
+        "start_time": 1772196370821,
+        "end_time": 1772196374143,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "No, but Rafa, I had already talked to Rafa, that she wouldn't go to private classes, Professor Rafa."
+      },
+      {
+        "start_time": 1772196374163,
+        "end_time": 1772196385208,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Yeah, I'm on Tuesday, but she came to the rehearsal yesterday, there's no point in wanting to get there and take it off. She participated in the rehearsal."
+      },
+      {
+        "start_time": 1772196385228,
+        "end_time": 1772196390306,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "But talk to her, Lilian, reinforce that. We opened a session for you."
+      },
+      {
+        "start_time": 1772196390346,
+        "end_time": 1772196396130,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "When is her class? It's on Tuesday. It's a private class on Tuesday, but she didn't go."
+      },
+      {
+        "start_time": 1772196396250,
+        "end_time": 1772196399252,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "She didn't go last Tuesday, but next Tuesday..."
+      },
+      {
+        "start_time": 1772196399292,
+        "end_time": 1772196402214,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "No, because I had already told Rafa that she was suspended temporarily."
+      },
+      {
+        "start_time": 1772196402234,
+        "end_time": 1772196407237,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "So, next Tuesday she will be out. Now she can go, because she went to the band rehearsal."
+      },
+      {
+        "start_time": 1772196407257,
+        "end_time": 1772196420836,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "That's what Wesley is talking about. But theoretically, next Tuesday she wouldn't have it."
+      },
+      {
+        "start_time": 1772196420856,
+        "end_time": 1772196471627,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Theoretically, she wouldn't have it. But since this issue happened, it's just for us to be alert. From now on, for us to be alert. The student was suspended, for us to fix some problems too. But from now on, the student was suspended, the presentation was missing. Immediately, he is sent, communicated, he is suspended, two weeks, everything. And the meeting is pending the conversation There's a conversation, he's suspended for two weeks, and then he comes back.\n\n He says, you're back on time. He's suspended, it's a punishment. He missed it, he's punished. And there's the conversation. He says, you're back on time. Class is on time, rehearsal is on time, you're back. And then, in the next step, he follows the manual's criteria. If it happens again, and so on."
+      },
+      {
+        "start_time": 1772196473624,
+        "end_time": 1772196477065,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "If we could go to the next step. I was going to say it now."
+      },
+      {
+        "start_time": 1772196477085,
+        "end_time": 1772196484967,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Do you think it fits in the next event? Because I think it's going to be a baile. The next event is in April. So, it's a baile, right?"
+      },
+      {
+        "start_time": 1772196484987,
+        "end_time": 1772196485307,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Yes."
+      },
+      {
+        "start_time": 1772196485367,
+        "end_time": 1772196502300,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "At the time of publication, we put it like this, attention, according to the manual, Lack of presentation."
+      },
+      {
+        "start_time": 1772196502620,
+        "end_time": 1772196503020,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Got it?"
+      },
+      {
+        "start_time": 1772196503040,
+        "end_time": 1772196507143,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Just for the responsible people to get in the rhythm."
+      },
+      {
+        "start_time": 1772196507183,
+        "end_time": 1772196532178,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "Just for us to show them. A week before. When you promote the baile, in the first line you put, we put it as an observation, an attention. Like the page X in the manual, the lack of presentation, I think it's great."
+      },
+      {
+        "start_time": 1772196532278,
+        "end_time": 1772196534059,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "I think it's good."
+      },
+      {
+        "start_time": 1772196560325,
+        "end_time": 1772196567107,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "I even ask you, Lilian, how do you prefer this issue of the warnings process?"
+      },
+      {
+        "start_time": 1772196579800,
+        "end_time": 1772196589544,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "But maybe it would be better for you to talk to the person in charge first. That's what I'm saying. When you send the message, they will notice it here, but then we can align it."
+      },
+      {
+        "start_time": 1772196589564,
+        "end_time": 1772196596428,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "If it's an island, they already have a message to send to Cyclone and Cyclone Beltran. What do you think? Okay. It can be. Then you signal me, you can send it now."
+      },
+      {
+        "start_time": 1772196607580,
+        "end_time": 1772196633025,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "And then, after the meeting, the person in charge signs the warning. Is that ok? Ok, let me put it here. I don't know, for example, now in February, it will close, right? Yes, this week I will check if there is any warning, but I don't think so. I think there is."
+      },
+      {
+        "start_time": 1772196636052,
+        "end_time": 1772196643426,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "You know, like family, what does that mean? I get a job, I'll come back. We're just going to follow the flow of it."
+      },
+      {
+        "start_time": 1772196667337,
+        "end_time": 1772196770187,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Let me put it here, as if it were a password. And then I was going to tell you to get in touch. With the mother of... I'm going to send this document to her to sign, and Raissa will come back to the activities next week in a session. And, theoretically, she would be suspended. In the next two weeks. And this is valid for the whole year, right? It's a policy that will be valid for the whole year. Only?\n\n It can't be missing anymore in the presentations. You have to let them know. If it's missing, you have to let them know a week in advance. As it's in the manual. I think it's in the manual, too."
+      },
+      {
+        "start_time": 1772196770267,
+        "end_time": 1772196782259,
+        "speaker": {
+          "name": "Lilian Diniz"
+        },
+        "words": "A week in advance. My mother sent me yesterday the calendar of the bar that she frequents. There are some dates that Davi and Miguel won't be present."
+      },
+      {
+        "start_time": 1772196782379,
+        "end_time": 1772196790922,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Then I looked at the calendar and then I asked her if she had any questions and she didn't answer."
+      },
+      {
+        "start_time": 1772196790942,
+        "end_time": 1772196792382,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Look, I have to go out real quick."
+      },
+      {
+        "start_time": 1772196799729,
+        "end_time": 1772196801871,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "No, no problem. Go there."
+      },
+      {
+        "start_time": 1772196801931,
+        "end_time": 1772196803632,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "After you finish the meeting."
+      },
+      {
+        "start_time": 1772196803712,
+        "end_time": 1772196810216,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ok? Kisses. I think that's it then."
+      },
+      {
+        "start_time": 1772196810637,
+        "end_time": 1772196819423,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Yes. Do you have any tasks?"
+      },
+      {
+        "start_time": 1772196819463,
+        "end_time": 1772196827916,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Yes, there are these ones. For Lilian and for me. For you, it's a matter of the gate."
+      },
+      {
+        "start_time": 1772196827936,
+        "end_time": 1772196848069,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "I'm going to solve this today with Ayrton. Let's do the following today, in relation to Banda Verde. In this summer period, which is raining a lot, especially in the late afternoon, let's keep Banda Verde in Assunção, only in this period. In Assunção?"
+      },
+      {
+        "start_time": 1772196848089,
+        "end_time": 1772196848710,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "No, in Tom's house."
+      },
+      {
+        "start_time": 1772196852607,
+        "end_time": 1772196898467,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Let's leave it at that. There was no complaint. Every time I pass by Tom's neighbors, I say, good morning, how are you? To see if they say anything. So far there has been no complaint. There was no complaint with Tom. So... Let's... In this summer period... It's going to rain all day today. Yesterday it rained a lot. Wow, it rained a lot, actually. Yeah, so it's no use. It's unnecessary. If I'm not complaining, it's my point of view.\n\n If I'm not complaining about the neighbors, if it's a small band... They don't make a lot of noise. It's a small fanfare."
+      },
+      {
+        "start_time": 1772196898547,
+        "end_time": 1772196899987,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "It's raining."
+      },
+      {
+        "start_time": 1772196900007,
+        "end_time": 1772196901028,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "The windows are closed."
+      },
+      {
+        "start_time": 1772196909555,
+        "end_time": 1772196949921,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "So, I know we have to avoid the neighbors as much as possible, but it is not necessary to put the band in the assumption, even if it has all that, we know it does not cover, right, wind rain, this summer is a wind rain, we keep looking at the windows, because they can go up in the air conditioning, right? Only in this summer period, if there is any complaint, we will take it. But until then, there is no complaint, everything is fine.\n\n In this summer period, we will leave the green band at Tom's house, and when this rainy period passes, they will return to Asunção."
+      },
+      {
+        "start_time": 1772196951502,
+        "end_time": 1772196974591,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ok. But then I will leave it as it is, I already put it there that it will be fixed at Tom's house. Then when we change, I'll let you know. So there's not much information. Ok, I'll send this stopwatch to the group. Ok. That's it. Thank you, Wesley."
+      },
+      {
+        "start_time": 1772196974731,
+        "end_time": 1772196975672,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Thank you, Iris."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Iris Nascimento"
+      },
+      {
+        "name": "Wesley Araujo"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Lilian Diniz"
+      }
+    ]
+  },
+  "platform_meeting_id": "ugo-qmvw-tpb",
+  "platform": "meet"
+}
