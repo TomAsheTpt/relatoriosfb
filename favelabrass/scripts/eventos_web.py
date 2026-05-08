@@ -991,6 +991,15 @@ def ficha(event_id):
     missing_alunos = sum(1 for p in participantes if participant_missing_fields(p)) if is_trip else 0
     missing_equipe = sum(1 for s in equipe if staff_missing_fields(s)) if is_trip else 0
 
+    transport_counts = {
+        "alunos_fb":      sum(1 for p in participantes if p["transport"] == "fb"),
+        "alunos_proprio": sum(1 for p in participantes if p["transport"] == "proprio"),
+        "alunos_unset":   sum(1 for p in participantes if not p["transport"]),
+        "equipe_fb":      sum(1 for s in equipe if s["transport"] == "fb"),
+        "equipe_proprio": sum(1 for s in equipe if s["transport"] == "proprio"),
+        "equipe_unset":   sum(1 for s in equipe if not s["transport"]),
+    }
+
     return render_template_string(PAGE_OPEN.replace("{{ title }}", event["name"]) + FICHA_BODY + PAGE_CLOSE,
         page='ficha', event=event,
         cronograma=cronograma, cronograma_json=cronograma_json,
@@ -1002,6 +1011,7 @@ def ficha(event_id):
         total_tarefas=total_tarefas, tarefas_done=tarefas_done,
         whatsapp_text=whatsapp_text,
         is_trip=is_trip, missing_alunos=missing_alunos, missing_equipe=missing_equipe,
+        transport_counts=transport_counts,
         participant_missing_fields=participant_missing_fields,
         staff_missing_fields=staff_missing_fields,
         format_date=format_date, format_brl=format_brl, format_phone=format_phone,
@@ -1927,6 +1937,48 @@ def equipe_set_notes(event_id, item_id):
     return redirect(PREFIX + f"/{event_id}#equipe")
 
 
+@app.route("/<int:event_id>/alunos/<int:item_id>/transporte", methods=["POST"])
+def alunos_set_transport(event_id, item_id):
+    raw = (request.form.get("transport") or "").strip()
+    transport = raw if raw in ("fb", "proprio") else None
+    conn = get_db()
+    conn.execute("UPDATE event_students SET transport=? WHERE id=? AND event_id=?", (transport, item_id, event_id))
+    conn.commit()
+    conn.close()
+    if request.headers.get("X-Requested-With") == "fetch":
+        return jsonify({"ok": True, "transport": transport})
+    return redirect(PREFIX + f"/{event_id}#participantes")
+
+
+@app.route("/<int:event_id>/equipe/<int:item_id>/transporte", methods=["POST"])
+def equipe_set_transport(event_id, item_id):
+    raw = (request.form.get("transport") or "").strip()
+    transport = raw if raw in ("fb", "proprio") else None
+    conn = get_db()
+    conn.execute("UPDATE event_staff SET transport=? WHERE id=? AND event_id=?", (transport, item_id, event_id))
+    conn.commit()
+    conn.close()
+    if request.headers.get("X-Requested-With") == "fetch":
+        return jsonify({"ok": True, "transport": transport})
+    return redirect(PREFIX + f"/{event_id}#equipe")
+
+
+@app.route("/<int:event_id>/alunos/transporte-bulk", methods=["POST"])
+def alunos_set_transport_bulk(event_id):
+    """Set transport on all rostered alunos in one go (e.g. 'all FB' default for shows)."""
+    raw = (request.form.get("transport") or "").strip()
+    transport = raw if raw in ("fb", "proprio") else None
+    only_unset = request.form.get("only_unset") == "1"
+    conn = get_db()
+    if only_unset:
+        conn.execute("UPDATE event_students SET transport=? WHERE event_id=? AND transport IS NULL", (transport, event_id))
+    else:
+        conn.execute("UPDATE event_students SET transport=? WHERE event_id=?", (transport, event_id))
+    conn.commit()
+    conn.close()
+    return redirect(PREFIX + f"/{event_id}#participantes")
+
+
 # ── Trip manifest exports ───────────────────────────────────────────────────
 
 def _manifest_rows(conn, event_id):
@@ -2089,6 +2141,387 @@ def lista_embarque(event_id):
     )
 
 
+# ── Quartos editor (drag-and-drop) ──────────────────────────────────────────
+
+def _quartos_items(conn, event_id):
+    """Return unified list of dicts for the quartos editor (alunos + equipe)."""
+    today = date.today()
+    def calc_age(bd):
+        if not bd:
+            return None
+        try:
+            y, m, d = [int(x) for x in str(bd).split("-")]
+            return today.year - y - ((today.month, today.day) < (m, d))
+        except Exception:
+            return None
+
+    items = []
+    for r in conn.execute("""
+        SELECT estu.id as id, s.name, s.gender, s.birth_date,
+               estu.room,
+               COALESCE(NULLIF(estu.group_id, ''), ga.group_id) as group_name
+        FROM event_students estu
+        JOIN students s ON estu.student_id = s.id
+        LEFT JOIN group_assignments ga ON ga.student_id = s.id
+        WHERE estu.event_id = ?
+        ORDER BY s.name
+    """, (event_id,)):
+        items.append({
+            "kind": "aluno",
+            "id": r["id"],
+            "name": r["name"] or "",
+            "gender": (r["gender"] or "").upper(),
+            "age": calc_age(r["birth_date"]),
+            "label": r["group_name"] or "",
+            "room": (r["room"] or "").strip() or None,
+        })
+    for r in conn.execute("""
+        SELECT es.id as id, COALESCE(t.name, es.name) as name,
+               t.gender, t.birth_date, es.room,
+               COALESCE(es.role, t.role, 'Equipe') as role
+        FROM event_staff es LEFT JOIN teachers t ON es.teacher_id = t.id
+        WHERE es.event_id = ?
+        ORDER BY name
+    """, (event_id,)):
+        items.append({
+            "kind": "equipe",
+            "id": r["id"],
+            "name": r["name"] or "",
+            "gender": (r["gender"] or "").upper(),
+            "age": calc_age(r["birth_date"]),
+            "label": r["role"] or "Equipe",
+            "room": (r["room"] or "").strip() or None,
+        })
+    return items
+
+
+QUARTOS_BODY = """
+<div class="container">
+  <div class="page-header">
+    <div>
+      <h1>🛏️ Montar Quartos</h1>
+      <div style="color: var(--text-muted); font-size: 13px; margin-top: 4px;">
+        {{ event['name'] }} — {{ format_date(event['date']) }}{% if event['end_date'] and event['end_date'] != event['date'] %} → {{ format_date(event['end_date']) }}{% endif %}{% if event['banda'] %} · <span style="color: var(--yellow);">{{ event['banda'] }}</span>{% endif %}
+      </div>
+    </div>
+    <div style="display:flex; gap:8px;">
+      <a class="btn btn-secondary btn-sm" href="{{ P }}/{{ event['id'] }}#participantes">← Voltar à ficha</a>
+      <a class="btn btn-secondary btn-sm" href="{{ P }}/{{ event['id'] }}/lista-quartos" target="_blank">🖨️ Imprimir</a>
+    </div>
+  </div>
+
+  <div class="quartos-toolbar">
+    <div class="qt-stats">
+      <span class="qt-stat"><strong id="qt-total">{{ total }}</strong> pessoas</span>
+      <span class="qt-stat"><strong id="qt-rooms">{{ rooms|length }}</strong> quartos</span>
+      <span class="qt-stat qt-warn" id="qt-unassigned-stat">
+        <strong id="qt-unassigned">{{ unassigned_count }}</strong> sem quarto
+      </span>
+    </div>
+    <div class="qt-actions">
+      <input type="text" id="qt-new-room" placeholder="Nº do quarto (ex: 12)" maxlength="20" />
+      <button class="btn btn-primary btn-sm" onclick="addRoom()">+ Adicionar quarto</button>
+      <span class="qt-help">Arraste os cartões para mover de quarto.</span>
+    </div>
+  </div>
+
+  <div id="qt-status" class="qt-status"></div>
+
+  <div class="quartos-grid">
+    <!-- Sem quarto pool -->
+    <div class="quarto-card quarto-pool" data-room="">
+      <div class="quarto-head">
+        <h3>Sem quarto</h3>
+        <span class="quarto-count" data-count></span>
+      </div>
+      <div class="quarto-list" data-list>
+        {% for it in by_room['__none__'] %}
+          {{ render_card(it)|safe }}
+        {% endfor %}
+      </div>
+    </div>
+
+    {% for room in rooms %}
+    <div class="quarto-card" data-room="{{ room }}">
+      <div class="quarto-head">
+        <h3>Quarto {{ room }}</h3>
+        <span class="quarto-count" data-count></span>
+      </div>
+      <div class="quarto-list" data-list>
+        {% for it in by_room[room] %}
+          {{ render_card(it)|safe }}
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+.quartos-toolbar {
+    display: flex; flex-wrap: wrap; align-items: center;
+    gap: 16px; padding: 12px 16px; margin-bottom: 16px;
+    background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px;
+}
+.qt-stats { display: flex; gap: 18px; flex-wrap: wrap; font-size: 13px; color: var(--text-muted); }
+.qt-stats strong { color: var(--text); font-weight: 600; }
+.qt-stat.qt-warn strong { color: var(--orange); }
+.qt-stat.qt-warn.ok strong { color: var(--green); }
+.qt-actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-left: auto; }
+.qt-actions input {
+    background: var(--input-bg); color: var(--text);
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 6px 10px; font-size: 13px; width: 160px;
+}
+.qt-help { color: var(--text-dim); font-size: 12px; }
+
+.qt-status { min-height: 20px; font-size: 12px; color: var(--text-muted); margin-bottom: 8px; }
+.qt-status.ok { color: var(--green); }
+.qt-status.err { color: var(--red); }
+
+.quartos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 12px;
+}
+
+.quarto-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 12px 12px;
+    min-height: 140px;
+    display: flex; flex-direction: column;
+}
+.quarto-card.quarto-pool { border-color: rgba(254,241,0,0.35); background: rgba(254,241,0,0.04); }
+.quarto-card.drag-over { border-color: var(--yellow); background: rgba(254,241,0,0.08); }
+
+.quarto-head {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 1px solid var(--border-light); padding-bottom: 6px; margin-bottom: 8px;
+}
+.quarto-head h3 { font-size: 14px; font-weight: 600; color: var(--text); margin: 0; letter-spacing: -0.01em; }
+.quarto-count { font-size: 12px; color: var(--text-dim); font-variant-numeric: tabular-nums; }
+.quarto-count.over { color: var(--orange); }
+
+.quarto-list { flex: 1; min-height: 60px; display: flex; flex-direction: column; gap: 6px; }
+
+.pessoa-card {
+    background: rgba(255,255,255,0.07);
+    border: 1px solid var(--border-light);
+    border-radius: 6px;
+    padding: 7px 9px;
+    cursor: grab;
+    user-select: none;
+    transition: background 0.12s, border-color 0.12s, transform 0.1s;
+    touch-action: none;
+}
+.pessoa-card:hover { background: rgba(255,255,255,0.11); border-color: var(--border); }
+.pessoa-card:active { cursor: grabbing; }
+.pessoa-card.kind-equipe { border-left: 3px solid var(--blue); }
+.pessoa-card.kind-aluno  { border-left: 3px solid var(--green); }
+.pessoa-card.saving { background: rgba(98,204,60,0.18); }
+.pessoa-card.error  { background: rgba(231,76,60,0.22); border-color: var(--red); }
+.pessoa-card.sortable-ghost { opacity: 0.4; }
+.pessoa-card.sortable-chosen { transform: scale(1.02); }
+
+.pc-name { font-weight: 600; font-size: 13px; line-height: 1.25; }
+.pc-meta { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; font-size: 11px; color: var(--text-muted); }
+.pc-pill {
+    display: inline-block; padding: 1px 6px; border-radius: 10px;
+    background: rgba(255,255,255,0.08); font-size: 11px; line-height: 1.4;
+}
+.pc-pill.gender-M { background: rgba(52,152,219,0.22); color: #9ed3f5; }
+.pc-pill.gender-F { background: rgba(231,76,60,0.18); color: #f5b1ab; }
+.pc-pill.label { background: rgba(254,241,0,0.13); color: #fff5a0; }
+.pc-pill.role  { background: rgba(123,47,160,0.35); color: #e3c8f0; }
+
+@media (max-width: 600px) {
+    .quartos-toolbar { flex-direction: column; align-items: stretch; }
+    .qt-actions { margin-left: 0; }
+    .qt-actions input { flex: 1; }
+}
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+<script>
+(function() {
+    const PREFIX = '{{ P }}';
+    const EVENT_ID = {{ event['id'] }};
+    const statusEl = document.getElementById('qt-status');
+    let statusTimer = null;
+    function flash(msg, cls) {
+        statusEl.textContent = msg;
+        statusEl.className = 'qt-status ' + (cls || '');
+        if (statusTimer) clearTimeout(statusTimer);
+        statusTimer = setTimeout(() => { statusEl.textContent=''; statusEl.className='qt-status'; }, 2500);
+    }
+
+    function updateCounts() {
+        let unassigned = 0;
+        document.querySelectorAll('.quarto-card').forEach(card => {
+            const list = card.querySelector('[data-list]');
+            const count = list.children.length;
+            const countEl = card.querySelector('[data-count]');
+            countEl.textContent = count + (count === 1 ? ' pessoa' : ' pessoas');
+            countEl.classList.toggle('over', count > 4);
+            if (card.dataset.room === '') unassigned = count;
+        });
+        const u = document.getElementById('qt-unassigned');
+        u.textContent = unassigned;
+        const stat = document.getElementById('qt-unassigned-stat');
+        stat.classList.toggle('ok', unassigned === 0);
+    }
+
+    function persist(card, newRoom) {
+        const kind = card.dataset.kind;
+        const id = card.dataset.id;
+        const url = PREFIX + '/' + EVENT_ID + '/' + (kind === 'aluno' ? 'alunos' : 'equipe') + '/' + id + '/quarto';
+        const body = new URLSearchParams();
+        body.set('room', newRoom || '');
+        card.classList.add('saving');
+        fetch(url, {
+            method: 'POST',
+            headers: { 'X-Requested-With': 'fetch', 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: body.toString(),
+        }).then(r => {
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            return r.json();
+        }).then(() => {
+            card.classList.remove('saving');
+            flash(card.querySelector('.pc-name').textContent.trim() + ' → ' + (newRoom ? 'Quarto ' + newRoom : 'sem quarto'), 'ok');
+        }).catch(err => {
+            card.classList.remove('saving');
+            card.classList.add('error');
+            flash('Erro ao salvar: ' + err.message + ' — recarregue a página', 'err');
+            setTimeout(() => card.classList.remove('error'), 4000);
+        });
+    }
+
+    function attachSortable(list) {
+        Sortable.create(list, {
+            group: 'quartos',
+            animation: 150,
+            ghostClass: 'sortable-ghost',
+            chosenClass: 'sortable-chosen',
+            onAdd: function(evt) {
+                const card = evt.item;
+                const newRoom = card.closest('.quarto-card').dataset.room;
+                persist(card, newRoom);
+                updateCounts();
+            },
+            onEnd: function() { updateCounts(); }
+        });
+    }
+
+    document.querySelectorAll('[data-list]').forEach(attachSortable);
+    updateCounts();
+
+    function sortRoomCards() {
+        const grid = document.querySelector('.quartos-grid');
+        const cards = Array.from(grid.querySelectorAll('.quarto-card'));
+        cards.sort((a, b) => {
+            const ra = a.dataset.room, rb = b.dataset.room;
+            if (ra === '' && rb !== '') return -1;
+            if (rb === '' && ra !== '') return 1;
+            const na = parseInt(ra, 10), nb = parseInt(rb, 10);
+            if (!isNaN(na) && !isNaN(nb)) return na - nb;
+            if (!isNaN(na)) return -1;
+            if (!isNaN(nb)) return 1;
+            return ra.localeCompare(rb);
+        });
+        cards.forEach(c => grid.appendChild(c));
+    }
+
+    window.addRoom = function() {
+        const input = document.getElementById('qt-new-room');
+        const val = input.value.trim();
+        if (!val) { input.focus(); return; }
+        const existing = document.querySelector('.quarto-card[data-room="' + val.replace(/"/g, '') + '"]');
+        if (existing) {
+            flash('Quarto ' + val + ' já existe', 'err');
+            existing.scrollIntoView({behavior: 'smooth', block: 'center'});
+            return;
+        }
+        const card = document.createElement('div');
+        card.className = 'quarto-card';
+        card.dataset.room = val;
+        card.innerHTML =
+            '<div class="quarto-head"><h3>Quarto ' + escapeHtml(val) + '</h3>' +
+            '<span class="quarto-count" data-count></span></div>' +
+            '<div class="quarto-list" data-list></div>';
+        document.querySelector('.quartos-grid').appendChild(card);
+        attachSortable(card.querySelector('[data-list]'));
+        sortRoomCards();
+        document.getElementById('qt-rooms').textContent =
+            document.querySelectorAll('.quarto-card:not(.quarto-pool)').length;
+        input.value = '';
+        updateCounts();
+    };
+
+    function escapeHtml(s) {
+        return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    document.getElementById('qt-new-room').addEventListener('keydown', e => {
+        if (e.key === 'Enter') { e.preventDefault(); window.addRoom(); }
+    });
+})();
+</script>
+"""
+
+
+@app.route("/<int:event_id>/quartos/editar")
+def quartos_editar(event_id):
+    conn = get_db()
+    event = conn.execute("SELECT * FROM events WHERE id = ?", (event_id,)).fetchone()
+    if not event:
+        conn.close()
+        return redirect(PREFIX + "/lista")
+    if not is_overnight_trip(event):
+        conn.close()
+        return redirect(PREFIX + f"/{event_id}#participantes")
+
+    items = _quartos_items(conn, event_id)
+    conn.close()
+
+    by_room = {"__none__": []}
+    for it in items:
+        key = it["room"] if it["room"] else "__none__"
+        by_room.setdefault(key, []).append(it)
+
+    def room_sort_key(k):
+        digits = "".join(ch for ch in k if ch.isdigit())
+        return (0, int(digits)) if digits else (1, k)
+    rooms = sorted([k for k in by_room.keys() if k != "__none__"], key=room_sort_key)
+
+    def render_card(it):
+        age_pill = f'<span class="pc-pill">{it["age"]} anos</span>' if it["age"] is not None else ""
+        gender_pill = f'<span class="pc-pill gender-{it["gender"]}">{it["gender"]}</span>' if it["gender"] in ("M", "F") else ""
+        label_class = "label" if it["kind"] == "aluno" else "role"
+        label_pill = f'<span class="pc-pill {label_class}">{(it["label"] or "").strip()}</span>' if it["label"] else ""
+        return (
+            f'<div class="pessoa-card kind-{it["kind"]}" '
+            f'data-kind="{it["kind"]}" data-id="{it["id"]}">'
+            f'<div class="pc-name">{(it["name"] or "").strip()}</div>'
+            f'<div class="pc-meta">{gender_pill}{age_pill}{label_pill}</div>'
+            f'</div>'
+        )
+
+    total = len(items)
+    unassigned_count = len(by_room["__none__"])
+
+    return render_template_string(
+        PAGE_OPEN.replace("{{ title }}", "Montar Quartos — " + event["name"]) + QUARTOS_BODY + PAGE_CLOSE,
+        page='quartos',
+        event=event, P=PREFIX,
+        rooms=rooms, by_room=by_room,
+        total=total, unassigned_count=unassigned_count,
+        format_date=format_date,
+        render_card=render_card,
+    )
+
+
 # ── Configurable manifest export ────────────────────────────────────────────
 
 # Field definitions: (key, label, accessor)
@@ -2105,49 +2538,71 @@ def _idade(row):
         return ""
 
 
+TRANSPORT_LABELS = {
+    "fb": "🚐 FB",
+    "proprio": "🏠 Próprio",
+}
+
+
+def _transport_label(v):
+    return TRANSPORT_LABELS.get(v, "—")
+
+
 EXPORT_FIELDS = [
-    ("categoria", "Categoria",      lambda r: r.get("kind") or ""),
-    ("quarto",    "Quarto",         lambda r: r.get("room") or ""),
-    ("nome",      "Nome",           lambda r: r.get("name") or ""),
-    ("gender",    "M/F",            lambda r: r.get("gender") or ""),
-    ("nasc",      "Nascimento",     lambda r: format_date(r.get("birth_date")) if r.get("birth_date") else ""),
-    ("idade",     "Idade",          _idade),
-    ("rg",        "RG",             lambda r: r.get("rg") or ""),
-    ("cpf",       "CPF",            lambda r: r.get("cpf") or ""),
-    ("phone",     "Telefone",       lambda r: format_phone(r.get("phone"))),
-    ("guardian",  "Responsável",    lambda r: r.get("guardian") or ""),
-    ("grupo",     "Banda/Grupo",    lambda r: r.get("group_name") or ""),
-    ("alergias",  "Alergias",       lambda r: r.get("allergies") or ""),
-    ("medico",    "Condição médica",lambda r: r.get("medical_condition") or ""),
-    ("especiais", "Necessidades esp.", lambda r: r.get("special_needs") or ""),
-    ("notas",     "Notas da viagem",lambda r: r.get("notes") or ""),
+    ("categoria",  "Categoria",      lambda r: r.get("kind") or ""),
+    ("quarto",     "Quarto",         lambda r: r.get("room") or ""),
+    ("nome",       "Nome",           lambda r: r.get("name") or ""),
+    ("gender",     "M/F",            lambda r: r.get("gender") or ""),
+    ("nasc",       "Nascimento",     lambda r: format_date(r.get("birth_date")) if r.get("birth_date") else ""),
+    ("idade",      "Idade",          _idade),
+    ("rg",         "RG",             lambda r: r.get("rg") or ""),
+    ("cpf",        "CPF",            lambda r: r.get("cpf") or ""),
+    ("phone",      "Telefone",       lambda r: format_phone(r.get("phone"))),
+    ("guardian",   "Responsável",    lambda r: r.get("guardian") or ""),
+    ("grupo",      "Banda/Grupo",    lambda r: r.get("group_name") or ""),
+    ("transporte", "Transporte",     lambda r: _transport_label(r.get("transport"))),
+    ("alergias",   "Alergias",       lambda r: r.get("allergies") or ""),
+    ("medico",     "Condição médica",lambda r: r.get("medical_condition") or ""),
+    ("especiais",  "Necessidades esp.", lambda r: r.get("special_needs") or ""),
+    ("notas",      "Notas",          lambda r: r.get("notes") or ""),
 ]
 
 # "nome" is implicitly always included; presets list the *additional* fields.
 EXPORT_PRESETS = {
-    "hotel":    ["categoria", "quarto", "gender", "idade", "alergias", "medico", "especiais", "notas"],
-    "embarque": ["quarto", "phone", "guardian", "notas"],
-    "seguro":   ["categoria", "gender", "nasc", "idade", "rg", "cpf", "phone"],
-    "completo": ["categoria", "quarto", "gender", "nasc", "idade", "rg", "cpf", "phone", "guardian", "grupo", "alergias", "medico", "especiais", "notas"],
+    "hotel":      ["categoria", "quarto", "gender", "idade", "alergias", "medico", "especiais", "notas"],
+    "embarque":   ["quarto", "phone", "guardian", "notas"],
+    "seguro":     ["categoria", "gender", "nasc", "idade", "rg", "cpf", "phone"],
+    "transporte": ["phone", "guardian", "notas"],   # name+phone+resp+notas, filtered to transport='fb'
+    "completo":   ["categoria", "quarto", "gender", "nasc", "idade", "rg", "cpf", "phone", "guardian", "grupo", "transporte", "alergias", "medico", "especiais", "notas"],
+}
+
+# Some presets imply a transport filter applied at row-selection time
+PRESET_TRANSPORT_FILTER = {
+    "transporte": "fb",
 }
 
 PRESET_LABELS = {
-    "hotel":    "🏨 Hotel",
-    "embarque": "🚌 Ônibus",
-    "seguro":   "🛡️ Seguradora",
-    "completo": "📋 Completo",
+    "hotel":      "🏨 Hotel",
+    "embarque":   "🚌 Ônibus (viagem)",
+    "seguro":     "🛡️ Seguradora",
+    "transporte": "🚐 Transporte FB",
+    "completo":   "📋 Completo",
 }
 
 PRESET_DESCRIPTIONS = {
-    "hotel":    "quarto, sexo, idade, alergias, condições médicas, necessidades, notas",
-    "embarque": "quarto, telefone, responsável, notas",
-    "seguro":   "identidade completa (DOB, RG, CPF, telefone)",
-    "completo": "todos os campos",
+    "hotel":      "quarto, sexo, idade, alergias, condições médicas, necessidades, notas",
+    "embarque":   "quarto, telefone, responsável, notas",
+    "seguro":     "identidade completa (DOB, RG, CPF, telefone)",
+    "transporte": "apenas quem está no transporte FB — telefone, responsável, notas",
+    "completo":   "todos os campos",
 }
 
 
-def _manifest_dicts(conn, event_id, include_alunos=True, include_equipe=True):
-    """Return ordered list of dict rows (alunos first, then equipe)."""
+def _manifest_dicts(conn, event_id, include_alunos=True, include_equipe=True, transport_filter=None):
+    """Return ordered list of dict rows (alunos first, then equipe).
+
+    transport_filter: if set to 'fb' or 'proprio', only return rows with that transport value.
+    """
     rows = []
     if include_alunos:
         for r in conn.execute("""
@@ -2155,20 +2610,23 @@ def _manifest_dicts(conn, event_id, include_alunos=True, include_equipe=True):
                    s.child_rg as rg, s.child_cpf as cpf,
                    s.guardian1_phone as phone, s.guardian1_name as guardian,
                    s.allergies, s.medical_condition, s.special_needs,
-                   estu.room, estu.notes,
+                   estu.room, estu.notes, estu.transport,
                    g.name as group_name, 'Aluno' as kind
             FROM event_students estu JOIN students s ON estu.student_id = s.id
             LEFT JOIN groups g ON estu.group_id = g.id
             WHERE estu.event_id = ?
             ORDER BY estu.room IS NULL, CAST(estu.room AS INTEGER), s.name
         """, (event_id,)):
-            rows.append(dict(r))
+            d = dict(r)
+            if transport_filter and d.get("transport") != transport_filter:
+                continue
+            rows.append(d)
     if include_equipe:
         for r in conn.execute("""
             SELECT COALESCE(t.name, es.name) as name,
                    t.gender, t.birth_date,
                    t.rg, t.cpf, t.phone,
-                   NULL as guardian, es.room, es.notes,
+                   NULL as guardian, es.room, es.notes, es.transport,
                    NULL as allergies, NULL as medical_condition, NULL as special_needs,
                    NULL as group_name,
                    COALESCE(es.role, t.role, 'Equipe') as kind
@@ -2176,7 +2634,10 @@ def _manifest_dicts(conn, event_id, include_alunos=True, include_equipe=True):
             WHERE es.event_id = ?
             ORDER BY es.room IS NULL, CAST(es.room AS INTEGER), name
         """, (event_id,)):
-            rows.append(dict(r))
+            d = dict(r)
+            if transport_filter and d.get("transport") != transport_filter:
+                continue
+            rows.append(d)
     return rows
 
 
@@ -2240,7 +2701,8 @@ def exportar_preset(event_id, preset):
         conn.close()
         return redirect(PREFIX + "/lista")
     fields_selected = set(EXPORT_PRESETS[preset]) | {"nome"}
-    rows = _manifest_dicts(conn, event_id, True, True)
+    transport_filter = PRESET_TRANSPORT_FILTER.get(preset)
+    rows = _manifest_dicts(conn, event_id, True, True, transport_filter=transport_filter)
     conn.close()
     safe_name = "".join(c if c.isalnum() else "-" for c in (event["name"] or "evento"))
     if HAS_OPENPYXL:
@@ -2266,9 +2728,12 @@ def exportar(event_id):
         fields_selected.add("nome")  # always
         scope = request.form.get("scope", "ambos")
         fmt = request.form.get("format", "xlsx")
+        transport_filter = request.form.get("transport_filter") or None
+        if transport_filter not in ("fb", "proprio"):
+            transport_filter = None
         include_alunos = scope in ("ambos", "alunos")
         include_equipe = scope in ("ambos", "equipe")
-        rows = _manifest_dicts(conn, event_id, include_alunos, include_equipe)
+        rows = _manifest_dicts(conn, event_id, include_alunos, include_equipe, transport_filter=transport_filter)
         conn.close()
 
         safe_name = "".join(c if c.isalnum() else "-" for c in (event["name"] or "evento"))
@@ -2306,7 +2771,7 @@ def exportar(event_id):
     return render_template_string(
         PAGE_OPEN.replace("{{ title }}", "Exportar — " + event["name"]) + EXPORT_BODY + PAGE_CLOSE,
         page='ficha', event=event,
-        EXPORT_FIELDS=EXPORT_FIELDS, EXPORT_PRESETS=EXPORT_PRESETS, PRESET_LABELS=PRESET_LABELS,
+        EXPORT_FIELDS=EXPORT_FIELDS, EXPORT_PRESETS=EXPORT_PRESETS, PRESET_LABELS=PRESET_LABELS, PRESET_DESCRIPTIONS=PRESET_DESCRIPTIONS,
         HAS_OPENPYXL=HAS_OPENPYXL,
         format_date=format_date,
     )
@@ -2346,7 +2811,7 @@ EXPORT_BODY = """
             </div>
 
             <h3>Quem incluir</h3>
-            <div style="display: flex; gap: 16px; margin-bottom: 24px;">
+            <div style="display: flex; gap: 16px; margin-bottom: 16px;">
                 <label style="display: flex; align-items: center; gap: 8px; cursor: pointer;">
                     <input type="radio" name="scope" value="ambos" checked style="width: auto;"> Alunos + equipe
                 </label>
@@ -2355,6 +2820,18 @@ EXPORT_BODY = """
                 </label>
                 <label style="display: flex; align-items: center; gap: 8px; cursor: pointer;">
                     <input type="radio" name="scope" value="equipe" style="width: auto;"> Apenas equipe
+                </label>
+            </div>
+            <div style="display: flex; gap: 16px; margin-bottom: 24px; align-items: center;">
+                <span style="color: var(--text-muted); font-size: 13px;">Filtrar por transporte:</span>
+                <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 13px;">
+                    <input type="radio" name="transport_filter" value="" checked style="width: auto;"> Todos
+                </label>
+                <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 13px;">
+                    <input type="radio" name="transport_filter" value="fb" style="width: auto;"> 🚐 Apenas FB
+                </label>
+                <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 13px;">
+                    <input type="radio" name="transport_filter" value="proprio" style="width: auto;"> 🏠 Apenas próprio
                 </label>
             </div>
 
@@ -2860,6 +3337,7 @@ FICHA_BODY = """
             <div class="table-wrap"><table>
                 <thead><tr>
                     <th style="width: 70px;">Quarto</th>
+                    <th style="width: 110px;">Transporte</th>
                     <th>Nome</th>
                     <th>Função</th>
                     <th>M/F</th>
@@ -2877,6 +3355,13 @@ FICHA_BODY = """
                 <tr {% if smissing %}style="background: rgba(180, 80, 0, 0.10);"{% endif %}>
                     <td>
                         <input type="text" value="{{ item['room'] or '' }}" data-id="{{ item['id'] }}" data-kind="equipe" class="room-input" placeholder="—" style="width: 60px; padding: 4px 6px; font-size: 13px;">
+                    </td>
+                    <td>
+                        <select class="transporte-select" data-id="{{ item['id'] }}" data-kind="equipe" style="width: 100px; padding: 3px 4px; font-size: 12px;">
+                            <option value="" {% if not item['transport'] %}selected{% endif %}>—</option>
+                            <option value="fb" {% if item['transport'] == 'fb' %}selected{% endif %}>🚐 FB</option>
+                            <option value="proprio" {% if item['transport'] == 'proprio' %}selected{% endif %}>🏠 Próprio</option>
+                        </select>
                     </td>
                     <td>{{ item['name'] or item['teacher_name'] or '—' }}</td>
                     <td>{{ item['role'] or '—' }}</td>
@@ -2910,13 +3395,20 @@ FICHA_BODY = """
             <div class="table-wrap">
             <table>
                 <thead>
-                    <tr><th>Nome</th><th>Função do dia</th><th>Status</th><th></th></tr>
+                    <tr><th>Nome</th><th>Função do dia</th><th style="width: 110px;">Transporte</th><th>Status</th><th></th></tr>
                 </thead>
                 <tbody>
                 {% for item in equipe %}
                 <tr>
                     <td>{{ item['name'] or item['teacher_name'] or '—' }}</td>
                     <td>{{ item['role'] or '—' }}</td>
+                    <td>
+                        <select class="transporte-select" data-id="{{ item['id'] }}" data-kind="equipe" style="width: 100px; padding: 3px 4px; font-size: 12px;">
+                            <option value="" {% if not item['transport'] %}selected{% endif %}>—</option>
+                            <option value="fb" {% if item['transport'] == 'fb' %}selected{% endif %}>🚐 FB</option>
+                            <option value="proprio" {% if item['transport'] == 'proprio' %}selected{% endif %}>🏠 Próprio</option>
+                        </select>
+                    </td>
                     <td>
                         <form method="POST" action="{{ P }}/{{ event['id'] }}/equipe/{{ item['id'] }}/toggle" style="display:inline;">
                             {% if item['confirmed'] %}
@@ -2944,6 +3436,27 @@ FICHA_BODY = """
 
         <!-- ALUNOS -->
         <div class="tab-content panel-participantes">
+            {% set tc = transport_counts %}
+            {% if participantes %}
+            <div style="background: var(--bg-secondary, #1a1a1a); border: 1px solid var(--border, #333); border-radius: 8px; padding: 12px 16px; margin-bottom: 16px; display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+                <strong style="color: var(--text);">🚐 Transporte:</strong>
+                <span><span style="color: #4caf50;">🚐 {{ tc['alunos_fb'] }}</span> FB</span>
+                <span><span style="color: #2196f3;">🏠 {{ tc['alunos_proprio'] }}</span> próprio</span>
+                {% if tc['alunos_unset'] > 0 %}
+                <span style="color: var(--text-muted);">❓ {{ tc['alunos_unset'] }} não definido</span>
+                {% endif %}
+                <div style="margin-left: auto; display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+                    {% if tc['alunos_unset'] > 0 %}
+                    <form method="POST" action="{{ P }}/{{ event['id'] }}/alunos/transporte-bulk" style="display:inline;">
+                        <input type="hidden" name="transport" value="fb">
+                        <input type="hidden" name="only_unset" value="1">
+                        <button type="submit" class="btn btn-secondary btn-sm" onclick="return confirm('Marcar os {{ tc[\"alunos_unset\"] }} alunos pendentes como transporte FB?')">Marcar pendentes como FB</button>
+                    </form>
+                    {% endif %}
+                    <a class="btn btn-primary btn-sm" href="{{ P }}/{{ event['id'] }}/exportar/transporte" title="Apenas alunos+equipe no transporte FB — telefone, responsável, notas">📥 Lista de transporte FB.xlsx</a>
+                </div>
+            </div>
+            {% endif %}
             {% if is_trip %}
             <div style="background: var(--bg-secondary, #1a1a1a); border: 1px solid var(--border, #333); border-radius: 8px; padding: 12px 16px; margin-bottom: 16px; display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
                 <strong style="color: var(--yellow);">🧳 Viagem com pernoite</strong>
@@ -2959,6 +3472,7 @@ FICHA_BODY = """
                     <a class="btn btn-primary btn-sm" href="{{ P }}/{{ event['id'] }}/exportar/seguro" title="identidade completa: DOB, RG, CPF, telefone">🛡️ Seguradora.xlsx</a>
                     <a class="btn btn-secondary btn-sm" href="{{ P }}/{{ event['id'] }}/exportar">Outro modelo…</a>
                     <span style="border-left: 1px solid var(--border); height: 20px; margin: 0 4px;"></span>
+                    <a class="btn btn-primary btn-sm" href="{{ P }}/{{ event['id'] }}/quartos/editar" title="Montar quartos arrastando">🛏️ Montar quartos</a>
                     <a class="btn btn-secondary btn-sm" href="{{ P }}/{{ event['id'] }}/lista-quartos" target="_blank" title="Versão para imprimir">🖨️ Quartos</a>
                     <a class="btn btn-secondary btn-sm" href="{{ P }}/{{ event['id'] }}/lista-embarque" target="_blank" title="Versão para imprimir">🖨️ Embarque</a>
                 </div>
@@ -3014,6 +3528,7 @@ FICHA_BODY = """
             <div class="table-wrap"><table>
                 <thead><tr>
                     <th style="width: 70px;">Quarto</th>
+                    <th style="width: 110px;">Transporte</th>
                     <th>Nome</th>
                     <th>M/F</th>
                     <th>Nasc.</th>
@@ -3030,6 +3545,13 @@ FICHA_BODY = """
                 <tr {% if missing %}style="background: rgba(180, 80, 0, 0.10);"{% endif %}>
                     <td>
                         <input type="text" value="{{ p['room'] or '' }}" data-id="{{ p['id'] }}" data-kind="aluno" class="room-input" placeholder="—" style="width: 60px; padding: 4px 6px; font-size: 13px;">
+                    </td>
+                    <td>
+                        <select class="transporte-select" data-id="{{ p['id'] }}" data-kind="aluno" style="width: 100px; padding: 3px 4px; font-size: 12px;">
+                            <option value="" {% if not p['transport'] %}selected{% endif %}>—</option>
+                            <option value="fb" {% if p['transport'] == 'fb' %}selected{% endif %}>🚐 FB</option>
+                            <option value="proprio" {% if p['transport'] == 'proprio' %}selected{% endif %}>🏠 Próprio</option>
+                        </select>
                     </td>
                     <td>{{ p['name'] }}
                         {% if p['group_name'] %}<div style="color: var(--text-muted); font-size: 11px;">{{ p['group_name'] }}</div>{% endif %}
@@ -3067,11 +3589,18 @@ FICHA_BODY = """
                 <strong style="color: var(--yellow);">{{ p['group_name'] or 'Sem grupo' }}</strong>
             </div>
             <div class="table-wrap"><table>
-                <thead><tr><th>Nome</th><th></th></tr></thead>
+                <thead><tr><th>Nome</th><th style="width: 110px;">Transporte</th><th></th></tr></thead>
                 <tbody>
             {% endif %}
             <tr>
                 <td>{{ p['name'] }}</td>
+                <td>
+                    <select class="transporte-select" data-id="{{ p['id'] }}" data-kind="aluno" style="width: 100px; padding: 3px 4px; font-size: 12px;">
+                        <option value="" {% if not p['transport'] %}selected{% endif %}>—</option>
+                        <option value="fb" {% if p['transport'] == 'fb' %}selected{% endif %}>🚐 FB</option>
+                        <option value="proprio" {% if p['transport'] == 'proprio' %}selected{% endif %}>🏠 Próprio</option>
+                    </select>
+                </td>
                 <td>
                     <form method="POST" action="{{ P }}/{{ event['id'] }}/alunos/{{ p['id'] }}/excluir" style="display:inline;">
                         <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Remover?')">🗑️</button>
@@ -3084,31 +3613,43 @@ FICHA_BODY = """
             {% else %}
             <div class="empty"><div class="empty-icon">🎺</div><p>Sem alunos. Use o botão acima para adicionar um grupo inteiro.</p></div>
             {% endif %}
-            {% if is_trip %}
             <script>
             (function() {
-                function bindInline(selector, field, urlSuffix) {
+                function postUpdate(elem, field, urlSuffix, ackEl) {
+                    const id = elem.dataset.id;
+                    const kind = elem.dataset.kind;
+                    const path = kind === 'aluno' ? 'alunos' : 'equipe';
+                    const fd = new FormData();
+                    fd.append(field, elem.value);
+                    fetch('{{ P }}/{{ event["id"] }}/' + path + '/' + id + '/' + urlSuffix, {
+                        method: 'POST', body: fd, headers: {'X-Requested-With': 'fetch'}
+                    }).then(r => {
+                        const target = ackEl || elem;
+                        if (r.ok) { target.style.background = '#0a4'; setTimeout(()=>target.style.background='', 600); }
+                    });
+                }
+                function bindBlur(selector, field, urlSuffix) {
                     document.querySelectorAll(selector).forEach(function(inp) {
                         let prev = inp.value;
                         inp.addEventListener('blur', function() {
                             if (this.value === prev) return;
                             prev = this.value;
-                            const id = this.dataset.id;
-                            const kind = this.dataset.kind;
-                            const path = kind === 'aluno' ? 'alunos' : 'equipe';
-                            const fd = new FormData();
-                            fd.append(field, this.value);
-                            fetch('{{ P }}/{{ event["id"] }}/' + path + '/' + id + '/' + urlSuffix, {
-                                method: 'POST', body: fd, headers: {'X-Requested-With': 'fetch'}
-                            }).then(r => { if (r.ok) { inp.style.background = '#0a4'; setTimeout(()=>inp.style.background='', 600); } });
+                            postUpdate(this, field, urlSuffix);
                         });
                     });
                 }
-                bindInline('.room-input', 'room', 'quarto');
-                bindInline('.notes-input', 'notes', 'notas');
+                function bindChange(selector, field, urlSuffix) {
+                    document.querySelectorAll(selector).forEach(function(sel) {
+                        sel.addEventListener('change', function() { postUpdate(this, field, urlSuffix); });
+                    });
+                }
+                {% if is_trip %}
+                bindBlur('.room-input', 'room', 'quarto');
+                bindBlur('.notes-input', 'notes', 'notas');
+                {% endif %}
+                bindChange('.transporte-select', 'transport', 'transporte');
             })();
             </script>
-            {% endif %}
         </div>
 
         <!-- LOGÍSTICA -->
