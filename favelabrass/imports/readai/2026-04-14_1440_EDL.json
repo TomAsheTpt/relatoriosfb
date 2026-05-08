@@ -1,0 +1,3675 @@
+{
+  "session_id": "01KP619AY55YMCJVDK6PD2AHQC",
+  "trigger": "meeting_end",
+  "title": "EDL",
+  "start_time": "2026-04-14T10:01:42-03:00",
+  "end_time": "2026-04-14T11:34:46-03:00",
+  "participants": [
+    {
+      "name": "Raíssa Celina da Costa Sousa",
+      "first_name": "Raíssa",
+      "last_name": "Celina da Costa Sousa",
+      "email": null
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Wesley Araujo",
+      "first_name": "Wesley",
+      "last_name": "Araujo",
+      "email": null
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião teve por objetivo coordenar atividades artísticas, logísticas e administrativas da associação, incluindo gravações, eventos, compras, contratos e atualização do portal de gestão. Inicialmente foram relatadas gravações musicais para eventos e casamentos, observações técnicas sobre afinação dos trompetes com ajuste prometido até sexta-feira, e o uso de iPhone para captação de material audiovisual, além do planejamento de um cronograma de vídeos e produtos para divulgação. Em seguida a equipe tratou de pendências financeiras e contratuais, sinalizando disponibilidade parcial de recursos, atraso de repasses pela nova exigência de contratos do jurídico e revisão do cumprimento de tarefas semanais com 77% concluído e prioridades alinhadas no portal e no SLEC.\n\nA discussão avançou para logística de aulas e ensaios no casarão e no Assunção, com propostas de mudança de dias, reposição de aulas e sondagem de professores para consolidar um único dia de reposição, e criação de um grupo específico do Polo Curvelo para organizar datas. Foram abordados participação em edital/festival Serra do Jazz, avaliação do evento E10 com feedback positivo musical e problemas operacionais (chuva, autorizações, controle de som, proteção auditiva), falhas de equipamento e necessidade de soluções de energia portáteis e treinamento de voluntários e responsáveis pela lojinha. Por fim tratou-se de logística de carga e pessoal, registro de vendas na lojinha, programação de pagamentos, priorização de compras e andamento de editais (Rouanet e Bavária), com atenção à vinculação de responsáveis no sistema e metas do Plano Anual para expansão de escolas e novos polos.",
+  "action_items": [
+    {
+      "text": "Participante da sala de conferência: Ajustar andamento e afinação dos trompetes até sexta-feira"
+    },
+    {
+      "text": "Participante da sala de conferência: Enviar o vídeo da gravação para a equipe amanhã"
+    },
+    {
+      "text": "Camila: Acompanhar o trâmite do contrato no jurídico até retorno em cinco dias úteis"
+    },
+    {
+      "text": "Participante da sala de conferência: Falar com Jinovna na quarta-feira sobre o contrato"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Organizar um login funcional do Salink com Jani e Rolf"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Verificar e providenciar compras de material de limpeza para as oficinas"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Atualizar o auxílio de professores no sistema ou documento correspondente"
+    },
+    {
+      "text": "Wesley Araujo: Organizar a aula eixo na semana do baile e avisar os detalhes ao grupo"
+    },
+    {
+      "text": "Participante da sala de conferência: Fazer o cronograma de produtos audiovisuais (12 arranjos e showreel)"
+    },
+    {
+      "text": "Wesley Araujo: Realizar o cadastro na OSCIP conforme solicitado"
+    },
+    {
+      "text": "Participante da sala de conferência: Sondar as escolas sobre permissão e interesse para o ano que vem"
+    },
+    {
+      "text": "Participante da sala de conferência: Conversar com Julio sobre a instalação de holofotes na entrada externa do casarão"
+    },
+    {
+      "text": "Participante da sala de conferência: Sondar todos os professores (Joana, Karina, Rafaela, Marquinhos) e consolidar um único dia para reposição de aulas"
+    },
+    {
+      "text": "Participante da sala de conferência: Criar um grupo exclusivo do Polo Curvelo para coordenar disponibilidade e definir dias fixos de aula/ensaio"
+    },
+    {
+      "text": "Raíssa: Contatar os organizadores do Serra do Jazz para confirmar quais custos estão cobertos pelo edital/festival"
+    },
+    {
+      "text": "Wesley Araujo: Falar com Wellington para checar e confirmar a logística dos sábados e assegurar que o estabelecimento esteja ciente das apresentações"
+    },
+    {
+      "text": "Participante da sala de conferência: Conversar com Edilene sobre a logística de palco e altura do local onde tocaram para ajustar infraestrutura em eventos futuros"
+    },
+    {
+      "text": "Participante da sala de conferência: Providenciar ou viabilizar proteção auditiva para crianças e músicos como medida de médio prazo"
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa: Disponibilizar-se no sábado para orientar a Juliane e demais interessados no uso do programa e equipamentos"
+    },
+    {
+      "text": "Participante da sala de conferência: Falar com a Edilene amanhã para resolver responsabilidades de carregamento e checagem de equipamentos"
+    },
+    {
+      "text": "Wesley Araujo: Ver com Edilene sobre a orientação à voluntária da lojinha e sobre ajudar no carregamento"
+    },
+    {
+      "text": "Participante da sala de conferência: Pedir os extratos e comprovantes novamente e organizar os pagamentos semanais prioritários"
+    },
+    {
+      "text": "Participante da sala de conferência: Dar uma cutucada em Rolfe e demais responsáveis para confirmar disponibilidade e programação dos pagamentos"
+    },
+    {
+      "text": "Participante da sala de conferência: Pedir a palheta na Inglaterra e verificar a disponibilidade de talabates para saxofone alto"
+    },
+    {
+      "text": "Participante da sala de conferência: Conversar com a nova integrante da Prio hoje à tarde sobre projetos"
+    },
+    {
+      "text": "Rolf: Vincule sua conta e vincule o projeto da associação no sistema governamental para permitir o cadastro e gerenciamento do projeto."
+    },
+    {
+      "text": "Raízes: Passar as vendas da lojinha de fevereiro."
+    },
+    {
+      "text": "Raízes: Atualizar a assinatura dos professores."
+    },
+    {
+      "text": "Raízes: Checar se o edital digital paga todas as nossas despesas."
+    },
+    {
+      "text": "Raízes: Checar se o edital da Serra paga todas as nossas despesas."
+    },
+    {
+      "text": "Raízes: Orientar Edileza sobre cartas de som e carregamento das coisas."
+    },
+    {
+      "text": "Wesley Araujo: Organizar aula extra do governo na Semana do Vale e avisar sobre os editais do grupo."
+    },
+    {
+      "text": "Wesley Araujo: Explicar para Juliana que vai ter batalha das partes no final do baile."
+    },
+    {
+      "text": "Wesley Araujo: Falar para Wellington que sempre cheque com a pizzaria sobre show e lanche aos sábados."
+    },
+    {
+      "text": "Sanzinho: Sondar dois ou três alunos trombonistas das escolas para integrar o grupo semente no Curvelo e indicar quem pode subir."
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Foi introduzida uma \"nova regra\" sobre pagamento sem contrato; qual é a mudança?"
+    },
+    {
+      "text": "As presenças nas escolas já estão sendo registradas corretamente no sistema?"
+    },
+    {
+      "text": "As luzes externas foram resolvidas?"
+    },
+    {
+      "text": "Houve reclamação por tocar em frente à pizzaria e houve intervenção policial?"
+    },
+    {
+      "text": "O que precisa ser feito em relação ao transmissor que parou de funcionar?"
+    },
+    {
+      "text": "Vai ter batalha das bandas no final do evento?"
+    },
+    {
+      "text": "Onde a voluntária lançou as vendas da lojinha?"
+    },
+    {
+      "text": "O que acontece em relação à promoção de alunos de trombone após o baile e se há alguém disponível para subir para a banda verde?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Foram realizadas gravações (One Dance e Rihanna) e será enviada a produção para uso em baile e casamento"
+    },
+    {
+      "text": "Há problema de afinação nos trompetes que será ajustado até sexta-feira"
+    },
+    {
+      "text": "A conta da associação recebeu movimentação, mas há fundos insuficientes para pagar toda a equipe de funcionários"
+    },
+    {
+      "text": "O jurídico passou a exigir contrato para pagamentos, o que gerou atraso e trabalho de regularização de contratos"
+    },
+    {
+      "text": "A equipe completou 77% das tarefas listadas da semana anterior, com três pendências remanescentes"
+    },
+    {
+      "text": "Foi definido adotar o portal como fonte principal de dados com a equipe responsável por alimentar presenças e informações"
+    },
+    {
+      "text": "O iPhone do projeto apresentou falhas intermitentes, mas há intenção de usar dispositivos para vídeos e criar cronograma audiovisual"
+    },
+    {
+      "text": "A falta de iluminação externa no casarão impede a realização noturna de aulas e precisa ser resolvida com urgência."
+    },
+    {
+      "text": "Será criado um grupo exclusivo do Polo Curvelo para coordenar disponibilidade dos professores e definir dias fixos."
+    },
+    {
+      "text": "As reposições de aulas devem ocorrer em um único dia para evitar reclamações dos pais e facilitar transporte."
+    },
+    {
+      "text": "Como alternativa ao casarão, usar o Assunção aos domingos foi proposto e decidido tentar essa opção primeiro."
+    },
+    {
+      "text": "É necessário confirmar se o edital Serra do Jazz cobre custos de viagem e hospedagem antes de inscrever músicos."
+    },
+    {
+      "text": "O evento E10 teve boa recepção musical, mas apresentou falhas de comunicação logística com a pizzaria e riscos relacionados à autorização para tocar na rua."
+    },
+    {
+      "text": "Há necessidade de medidas de proteção auditiva para crianças e músicos devido ao volume excessivo em eventos."
+    },
+    {
+      "text": "Houve falha técnica no transmissor possivelmente por mau contato ou pilhas descarregadas"
+    },
+    {
+      "text": "Cabos, pilhas e extensões estavam agrupados numa caixa que foi mostrada a Edilene e Wellington"
+    },
+    {
+      "text": "Foi sugerida a adoção de bastões recarregáveis e powerbanks para lidar com quedas de energia"
+    },
+    {
+      "text": "É necessário treinar Juliane/Edilene e voluntários no uso do sistema e equipamentos"
+    },
+    {
+      "text": "Há frustração com a falta de ajuda no carregamento, gerando sobrecarga no Wellington/Elton"
+    },
+    {
+      "text": "A Carol anteriormente fazia checklist e ajudava até o fim, padrão que não está sendo seguido agora"
+    },
+    {
+      "text": "A lojinha teve vendas registradas no portal e há dúvida sobre quando foram lançadas"
+    },
+    {
+      "text": "Foi identificado o processo de programação de pagamentos semanais e a necessidade de comprovantes/extratos"
+    },
+    {
+      "text": "O sistema de editais abriu em final de fevereiro e fica aberto até 31 de agosto."
+    },
+    {
+      "text": "O passo inicial para permitir que a associação entre no sistema é o Rolf vincular sua conta e, em seguida, vincular o projeto ao grupo."
+    },
+    {
+      "text": "A renovação do projeto Bavária só permite extensão por um ano, portanto é necessário submeter um novo projeto para continuidade."
+    },
+    {
+      "text": "A prioridade imediata é aprovar o Plano Anual para o próximo ano para abrir caminho para demais projetos e captações."
+    },
+    {
+      "text": "O plano prevê expansão de atuação de cinco para sete escolas no ano seguinte, com atenção especial à inclusão da Machado de Assis e à operacionalização no Covelo."
+    },
+    {
+      "text": "Há discussão entre financiar transporte de alunos ou criar um polo no Rio Comprido como alternativa mais sustentável para captação local."
+    },
+    {
+      "text": "Foram listadas tarefas operacionais específicas, incluindo vendas da lojinha, atualização de assinaturas de professores e organização de aulas extras e lanches."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KP619AY55YMCJVDK6PD2AHQC",
+  "chapter_summaries": [
+    {
+      "title": "Gravações e afinação dos instrumentos",
+      "description": "Relatos sobre gravações realizadas (One Dance, Rihanna e um reggae) e comentários técnicos sobre a afinação dos trompetes foram apresentados. Foi assumido o compromisso de ajustar andamento e afinação até sexta-feira e enviar os materiais gravados para uso em eventos.",
+      "topics": [
+        "Foram realizadas gravações (One Dance e Rihanna) e será enviada a produção para uso em baile e casamento",
+        "Há problema de afinação nos trompetes que será ajustado até sexta-feira"
+      ]
+    },
+    {
+      "title": "Saudações, logística pessoal e compras rápidas",
+      "description": "A seção incluiu cumprimentos, comentários informais sobre equipamentos pessoais e tentativas de compra (espelho e cadeiras), além de reconhecimento de um aniversário e da necessidade de compras para oficinas.",
+      "topics": []
+    },
+    {
+      "title": "Finanças, contratos e liberação de repasses",
+      "description": "A equipe discutiu a movimentação da conta, disponibilidade limitada de recursos para pagamentos de pessoal, o trâmite contratual no jurídico com prazo de cinco dias úteis e a nova exigência de contratos para liberação de pagamentos, o que causou atrasos.",
+      "topics": [
+        "A conta da associação recebeu movimentação, mas há fundos insuficientes para pagar toda a equipe de funcionários",
+        "O jurídico passou a exigir contrato para pagamentos, o que gerou atraso e trabalho de regularização de contratos"
+      ]
+    },
+    {
+      "title": "Revisão de tarefas e status operacional",
+      "description": "Foi feita a verificação das tarefas da semana anterior, com diversas atividades marcadas como feitas e cálculo de 77% de conclusão. Foram mencionadas ações sobre iluminação, vendas da lojinha, logins, compras para oficinas e atualizações no auxílio de professores.",
+      "topics": [
+        "A equipe completou 77% das tarefas listadas da semana anterior, com três pendências remanescentes"
+      ]
+    },
+    {
+      "title": "Planejamento de projetos, fundos e portal",
+      "description": "Discutiram-se escritas de projetos para leis de incentivo (ICMS, ISS), estabelecimento de novos sistemas de pagamento e a adoção total do portal como fonte principal, com reuniões para melhoria do sistema e responsabilização da equipe pela alimentação dos dados.",
+      "topics": [
+        "Foi definido adotar o portal como fonte principal de dados com a equipe responsável por alimentar presenças e informações"
+      ]
+    },
+    {
+      "title": "Produção audiovisual e equipamentos (iPhone)",
+      "description": "Debateram-se consertos de celulares, uso de iPhones para captação de vídeo, aquisição de câmeras, e a produção de vídeos e showreels; foi proposta a criação de um cronograma de 12 arranjos e conteúdos para YouTube e redes sociais.",
+      "topics": [
+        "O iPhone do projeto apresentou falhas intermitentes, mas há intenção de usar dispositivos para vídeos e criar cronograma audiovisual"
+      ]
+    },
+    {
+      "title": "Contratos com escolas, início de aulas e registro de presenças",
+      "description": "Tratou-se do cadastro na OSCIP, renovação de contratos com escolas para o próximo ano, estratégias de divulgação presencial nas saídas escolares e do registro de 100% das presenças via SLEC, com reuniões semanais para alinhamento.",
+      "topics": []
+    },
+    {
+      "title": "Iluminação e calendário de aulas",
+      "description": "Debate sobre a insuficiência de iluminação externa no casarão e o impacto disso na realização de aulas e ensaios noturnos, especialmente em semanas com baile. Foi discutida a necessidade de consultar Julio sobre instalação de holofotes, sondar professores para encontrar um único dia que atenda a todos e a dificuldade logística de manter aulas em dias distintos.",
+      "topics": [
+        "A falta de iluminação externa no casarão impede a realização noturna de aulas e precisa ser resolvida com urgência."
+      ]
+    },
+    {
+      "title": "Reposição de aulas e uso do Assunção",
+      "description": "Decisão de priorizar a reposição das aulas (Marquinhos, Joana, Karina, Rafaela) em um único dia para evitar deslocamentos múltiplos dos pais, considerar domingos como opção mais fácil e, se necessário, usar o Assunção durante a semana; alinhamentos sobre transporte e logística foram discutidos.",
+      "topics": [
+        "Será criado um grupo exclusivo do Polo Curvelo para coordenar disponibilidade dos professores e definir dias fixos.",
+        "As reposições de aulas devem ocorrer em um único dia para evitar reclamações dos pais e facilitar transporte.",
+        "Como alternativa ao casarão, usar o Assunção aos domingos foi proposto e decidido tentar essa opção primeiro."
+      ]
+    },
+    {
+      "title": "Edital Serra do Jazz",
+      "description": "Apresentação de um edital/festival (Serra do Jazz) como oportunidade para inscrever músicos com portfólio e currículo; a conversa ressaltou a necessidade de confirmar se o evento cobre todos os custos de deslocamento e estadia antes de prosseguir com a inscrição.",
+      "topics": [
+        "É necessário confirmar se o edital Serra do Jazz cobre custos de viagem e hospedagem antes de inscrever músicos."
+      ]
+    },
+    {
+      "title": "Feedback do evento E10 e logística de eventos",
+      "description": "Avaliação do E10 destacou qualidade musical e engajamento dos alunos, mas evidenciou problemas operacionais como comunicação com a pizzaria, iluminação insuficiente, interferência da chuva, fiscalização policial para apresentações na rua, excesso de volume e necessidade de proteção auditiva para crianças; discutiram-se alternativas de palco (laje superior) e testes para melhorar a experiência do público e a segurança.",
+      "topics": [
+        "O evento E10 teve boa recepção musical, mas apresentou falhas de comunicação logística com a pizzaria e riscos relacionados à autorização para tocar na rua.",
+        "Há necessidade de medidas de proteção auditiva para crianças e músicos devido ao volume excessivo em eventos."
+      ]
+    },
+    {
+      "title": "Falha de equipamento e energia",
+      "description": "O grupo relata a falha do transmissor/microfone com discussões sobre pilhas, mau contato e uso de cabos como solução imediata. Identificaram que itens de energia estavam organizados numa caixa e que havia tomadas próximas ao palco, mas ocorreram problemas de logística e checagem antes do evento. Também surgiram sugestões de bastões recarregáveis e powerbanks para contingência.",
+      "topics": [
+        "Houve falha técnica no transmissor possivelmente por mau contato ou pilhas descarregadas",
+        "Cabos, pilhas e extensões estavam agrupados numa caixa que foi mostrada a Edilene e Wellington"
+      ]
+    },
+    {
+      "title": "Organização da caixa de equipamentos e instruções",
+      "description": "Foi confirmado que extensões e cabos estavam na mesma caixa e que isso foi mostrado a Edilene e Wellington; discutiram a necessidade de briefing para que a responsável entenda os equipamentos e o sistema, e a disponibilidade de capacitação no sábado para Juliane ou Wellington.",
+      "topics": [
+        "Foi sugerida a adoção de bastões recarregáveis e powerbanks para lidar com quedas de energia",
+        "É necessário treinar Juliane/Edilene e voluntários no uso do sistema e equipamentos"
+      ]
+    },
+    {
+      "title": "Pessoal, voluntários e logística de carga",
+      "description": "Debate sobre a insuficiência de ajuda no carregamento, lembrando que no ano anterior Carol e Elton assumiam essa função; expressaram preocupação com a sobrecarga do Wellington e do Elton, e a necessidade de que a produtora execute atividades práticas e checklists para evitar esquecimentos e viagens extras.",
+      "topics": [
+        "Há frustração com a falta de ajuda no carregamento, gerando sobrecarga no Wellington/Elton",
+        "A Carol anteriormente fazia checklist e ajudava até o fim, padrão que não está sendo seguido agora"
+      ]
+    },
+    {
+      "title": "Cultura de colaboração e apoio nas desmontagens",
+      "description": "A equipe refletiu sobre a importância de conscientizar participantes e alunos a ajudarem na logística; citaram exemplos de mutirões bem-sucedidos e reclamaram que a atual postura de Edilene não estimula o engajamento, reforçando que apoio inicial da produção é crucial.",
+      "topics": []
+    },
+    {
+      "title": "Iluminação, batalha das bandas e lojinha",
+      "description": "Discutiram pedido de compra de luzes para o bairro (considerado caro), confirmação de cronograma e inclusão da batalha das bandas ao final do evento; abordaram também falha na orientação da voluntária da lojinha e verificaram registros de vendas no portal, com possível lançamento no dia seguinte.",
+      "topics": [
+        "A lojinha teve vendas registradas no portal e há dúvida sobre quando foram lançadas"
+      ]
+    },
+    {
+      "title": "Pagamentos e priorização de compras",
+      "description": "Coordenaram a programação de pagamentos semanais, a necessidade de consolidar comprovantes e extratos, e alinhar disponibilidade de Rolfe e Norton para executar pagamentos; planejaram ritmo regular até automatizar o processo.",
+      "topics": [
+        "Foi identificado o processo de programação de pagamentos semanais e a necessidade de comprovantes/extratos"
+      ]
+    },
+    {
+      "title": "Materiais musicais e revisão de relatório",
+      "description": "Foram solicitadas palhetas e talabates para saxofone alto, com intenção de comprar palheta na Inglaterra e testar soluções improvisadas; também mencionaram revisão do relatório anual e uma reunião agendada com a Prio para conversar com nova integrante da equipe de projetos.",
+      "topics": []
+    },
+    {
+      "title": "Acesso ao sistema e cadastro (Rouanet / suporte)",
+      "description": "Foi relatado que já houve contato com a pessoa responsável e que mensagens e e-mails foram enviados sem resposta, enquanto o sistema de editais (Rouanet) está aberto desde final de fevereiro até 31 de agosto. A discussão incluiu preocupações sobre dar acesso ao sistema gov (privacidade) e a necessidade de alternativas como procuração para gerenciamento no sistema.",
+      "topics": [
+        "O sistema de editais abriu em final de fevereiro e fica aberto até 31 de agosto."
+      ]
+    },
+    {
+      "title": "Vinculação do Rolf e vínculo de projetos",
+      "description": "O grupo concordou que o primeiro passo concreto é Rolf vincular-se e depois vincular o projeto ao grupo para permitir que a associação entre com propostas, e que sem esse vínculo não há como usar o sistema em nome da associação. Houve menção de instruções trocadas com Jane e de mensagens enviadas ao Rolf para agilizar o processo.",
+      "topics": [
+        "O passo inicial para permitir que a associação entre no sistema é o Rolf vincular sua conta e, em seguida, vincular o projeto ao grupo."
+      ]
+    },
+    {
+      "title": "Situação do projeto Bavária e prioridades",
+      "description": "Debateu-se o status do projeto Bavária, sendo que já houve renovação mas devido à regra de renovação por apenas um ano é necessário criar um novo projeto para o próximo ano. O grupo concordou que, dada a possibilidade de mudanças desejadas, faz mais sentido submeter um projeto novo e priorizar o Plano Anual como caminho principal.",
+      "topics": [
+        "A renovação do projeto Bavária só permite extensão por um ano, portanto é necessário submeter um novo projeto para continuidade.",
+        "A prioridade imediata é aprovar o Plano Anual para o próximo ano para abrir caminho para demais projetos e captações."
+      ]
+    },
+    {
+      "title": "Alterações previstas no projeto e orçamento de professores",
+      "description": "Discutiram-se mudanças no projeto visando o ideal de funcionamento (sem se limitar pela captação), e avaliou-se a atual utilização do valor destinado a professores em cerca de 70%, deixando 30% disponível para expansão. Foi mencionado que é possível aumentar gastos com professores se a execução permitir.",
+      "topics": []
+    },
+    {
+      "title": "Escolas, Machado de Assis e atuação no Covelo",
+      "description": "Foi acordado que a atuação foi em cinco escolas o ano atual e que a meta é atingir sete no próximo ano; a inclusão da Machado de Assis foi discutida, com ressalvas sobre formato e vínculo, e propôs-se ampliar dias no polo do Covelo para atender alunos da Machado de Assis, sem abrir essas aulas ao público geral para evitar crowding.",
+      "topics": [
+        "O plano prevê expansão de atuação de cinco para sete escolas no ano seguinte, com atenção especial à inclusão da Machado de Assis e à operacionalização no Covelo."
+      ]
+    },
+    {
+      "title": "Transporte, polo no Rio Comprido e captação",
+      "description": "O grupo avaliou alternativas entre financiar transporte para trazer alunos e criar um polo no Rio Comprido, considerando custo-benefício e captação local; foi destacada a vantagem de um polo no centro do Rio Comprido para reduzir deslocamento e custos se houver volume de alunos suficiente.",
+      "topics": [
+        "Há discussão entre financiar transporte de alunos ou criar um polo no Rio Comprido como alternativa mais sustentável para captação local."
+      ]
+    },
+    {
+      "title": "Tarefas operacionais, encerramento e trombones",
+      "description": "Foram listadas tarefas operacionais atribuídas (vendas da lojinha, atualização de assinaturas, checagem de editais e despesas), ações organizacionais de Wesley sobre aulas extras e logística de lanches, e, em seguida, houve uma sequência sobre promoção e redistribuição de trombonistas entre polos, incluindo sondagem de alunos para preencher vagas no Curvelo.",
+      "topics": [
+        "Foram listadas tarefas operacionais específicas, incluindo vendas da lojinha, atualização de assinaturas de professores e organização de aulas extras e lanches."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1776171708534,
+        "end_time": 1776171758133,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Foi bom, eu fiz duas gravações que eu vou te mandar. Eu gravei a One Dance e gravei a Rihanna. Ah, tá, Rihanna. Vamos tocar no baile, aí eu vou te mandar. Mas assim, ainda tem... Acho que há algumas questões, só para... Aquela parte das notas agudas, os trompetes estão desafinando bem. Forçando bastante, ainda está desafinando um pouquinho. Eu estou... Mas é só questão de ajustar. Até sexta-feira, andamento e afinação, até na sexta-feira eu consigo acertar.\n\n A gente está tocando no sábado."
+      },
+      {
+        "start_time": 1776171758133,
+        "end_time": 1776171762354,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu fiz outro hoje de reggae, de Bob Marley."
+      },
+      {
+        "start_time": 1776171763720,
+        "end_time": 1776171765268,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ah, legal, legal."
+      },
+      {
+        "start_time": 1776171765268,
+        "end_time": 1776171782812,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Aqui para o casamento também. Aquela one love, one life. Então, eu passo amanhã e deve ter o vídeo para isso, aí eu passo para vocês. É muito mole, é muito fácil. Beleza, beleza."
+      },
+      {
+        "start_time": 1776171782812,
+        "end_time": 1776171784876,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Oi, Raíssa, bom dia."
+      },
+      {
+        "start_time": 1776171784876,
+        "end_time": 1776171786424,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Bom dia, Raíssa."
+      },
+      {
+        "start_time": 1776171786424,
+        "end_time": 1776171787456,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Bom dia."
+      },
+      {
+        "start_time": 1776171787456,
+        "end_time": 1776171790036,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "E aí, como você está?"
+      },
+      {
+        "start_time": 1776171791276,
+        "end_time": 1776171792038,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Oi?"
+      },
+      {
+        "start_time": 1776171792038,
+        "end_time": 1776171797374,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Estou escutando um sonzinho. É o Tiago?"
+      },
+      {
+        "start_time": 1776171797374,
+        "end_time": 1776171809571,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, deve estar no Wesley. Eu estou escutando pelos fones. É um gato. É um gato."
+      },
+      {
+        "start_time": 1776171809571,
+        "end_time": 1776171813382,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É, tem um gato aqui."
+      },
+      {
+        "start_time": 1776171813391,
+        "end_time": 1776171818131,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "E aí, como estão as coisas aí? Estão bem."
+      },
+      {
+        "start_time": 1776171818131,
+        "end_time": 1776171832880,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu vi que não deu para comprar o espelho. Acabei de entrar no Mercado Livre para ver as compras que foram feitas. O blog espelhado não estava disponível."
+      },
+      {
+        "start_time": 1776171832880,
+        "end_time": 1776171834987,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eles retornaram o dinheiro."
+      },
+      {
+        "start_time": 1776171834987,
+        "end_time": 1776171836041,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Que pena."
+      },
+      {
+        "start_time": 1776171836041,
+        "end_time": 1776171838148,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Conseguiu comprar as cadeiras?"
+      },
+      {
+        "start_time": 1776171838148,
+        "end_time": 1776171858372,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Isso a gente não comprou ainda, a gente ainda estava tentando pagar as coisas. Eu sei que é urgência, só que você me pediu no sábado, né? E aí, isso que eu ia falar agora, para ver que são os bancos das oficinas da Azula."
+      },
+      {
+        "start_time": 1776171858372,
+        "end_time": 1776171881711,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, sim, eu sei. Aí eu compro pelo Mercado Livre, compro para o Rolf Norton, Hoje é o aniversário de Thiago."
+      },
+      {
+        "start_time": 1776171881711,
+        "end_time": 1776171883129,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Um aninho."
+      },
+      {
+        "start_time": 1776171883129,
+        "end_time": 1776171931387,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Um ano, que proporção. Ganhou a bicicleta dele. Raíssa muito rápido. Raíssa muito rápido. Como se ele não tivesse... Como se fala? Ele já anda muito. Vai ficar pior ainda. Comigo aí, com visita. Boa notícia, Wesley, que a gente tem diretor e os conselheiros finalmente conseguindo movimentar a conta, né? Mas, ainda aguardando o abril."
+      },
+      {
+        "start_time": 1776171931800,
+        "end_time": 1776171938606,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "no banco já está tudo certo, é só abrir e fazer repasse."
+      },
+      {
+        "start_time": 1776171938606,
+        "end_time": 1776172019073,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A gente tem dinheiro para pagar 10 dispensas, mas a gente não tem dinheiro para pagar o funcionário da equipe. A gente poderia pagar alguns, mas a gente não ia conseguir pagar todo mundo. E abriu, não sei se eu falei para vocês, mas eu falei que abriu. A Camila, semana passada, eles vão, o contrato está tramitando lá, e ela falou que são cinco dias úteis para o jurídico ver isso, e na semana passada ainda estava dentro desse prazo, mas a Camila está acompanhando Então, se não escutar nada até amanhã, eu vou...\n\n Eu vou... Eu vou... Eu vou falar com a Jinovna. Na quarta. Beleza. É estranho essa atitude deles."
+      },
+      {
+        "start_time": 1776172019073,
+        "end_time": 1776172021566,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tá frio?"
+      },
+      {
+        "start_time": 1776172021566,
+        "end_time": 1776172113938,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, eu entendo, eu entendo. Tem duas situações aí, infelizmente. Bem, é estranho Depois eu posso explicar isso, mas tem uma razão. Basicamente, eles pagam o imposto deles, e eles pagam isso, mas eles não sabem como vão ser os lucros e despesas deles no início do trimestre. Só no final que eles sabem, o quanto que eles lucraram e quanto é 4% disso que eles têm para distribuir os projetos. Então, por isso, eles vão sempre esperar o final do trimestre ver quanto que eles têm para alocar e alocar tudo.\n\n Eu entendo como eles ficariam com política dessas. E é difícil eles fazerem uma exceção para a gente, porque todos os projetos por um projeto, eles vão ter que fazer para todos. Então, infelizmente, é isso. E essa vez, eles inventaram uma nova regra dos contratos e a equipe dos projetos foi pego de surpresa. É isso que foi chato essa vez."
+      },
+      {
+        "start_time": 1776172113938,
+        "end_time": 1776172115649,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Uma nova regra?"
+      },
+      {
+        "start_time": 1776172115657,
+        "end_time": 1776172169793,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "nova regra, eles falaram que não pagam sem contrato. Eu já estava pedindo contrato da Camille e João, e eles, mesmo que o ano passado eles não queriam fazer contrato, então provavelmente eles não tinham contato com nenhum projeto, só a gente reclamando, provavelmente, e eles ficaram com esse monte de contratos, eles estão fazendo uma força tarefa entre eles para resolver os contratos. Eu mandei para eles aprovarem na hora, mas tem que passar pelo jurídico.\n\n Mas é chato, é chato, mas eu ensino. Beleza. Vamos lá. Tarefas da semana passada. Vamos ver. Hi, se vê com Edilene e Wellington sobre luzes do Carlinhão."
+      },
+      {
+        "start_time": 1776172169793,
+        "end_time": 1776172179211,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eu conversei com eles. E pedir para o L ter a ver com a Silvia, né? E passar depois para a Edilene."
+      },
+      {
+        "start_time": 1776172179211,
+        "end_time": 1776172180736,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Aí eu acho que..."
+      },
+      {
+        "start_time": 1776172180736,
+        "end_time": 1776172182642,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Então tá feito, tá feito."
+      },
+      {
+        "start_time": 1776172182642,
+        "end_time": 1776172190266,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Tá feito, só não sei se eles resolveram. Ah, tá. Vamos colocar nessa lista do Paribas então, que não existe."
+      },
+      {
+        "start_time": 1776172190266,
+        "end_time": 1776172194078,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Porque eu não tive um retorno de volta da Edilene."
+      },
+      {
+        "start_time": 1776172194078,
+        "end_time": 1776172199033,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Aí você passa a vendas da lojinha da Fevereiro para o Tom novamente."
+      },
+      {
+        "start_time": 1776172199033,
+        "end_time": 1776172200177,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Caraca, eu esqueci."
+      },
+      {
+        "start_time": 1776172200550,
+        "end_time": 1776172220708,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Raíssa, organizar um login funcional do Salink com o Jani e o Rolf. Você acionou isso, mas é mais complicado. Raíssa, ver compras de matéria de limpeza de água para as oficinas. Obrigado."
+      },
+      {
+        "start_time": 1776172220708,
+        "end_time": 1776172224373,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Raíssa, atualizar o auxílio de professores."
+      },
+      {
+        "start_time": 1776172224373,
+        "end_time": 1776172258757,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Falta. Raíssa, tirar pagamentos de internet. Foi, gente. Do aluguel do Tom. Então, vou falar para o Rolf que o Rolf vai entrar em contato, feito. Então, ver como o ILE-C500 está completo no portal, feito. Então, ver com o Wesley sobre o possível cancelamento de D&D desde 4. Então, reduzir eventos espaçados do ILE-C500 no portal, feito. Wesley, organizar a aula eixo no covelo na semana do baile e avisar os detalhes do grupo.\n\n"
+      },
+      {
+        "start_time": 1776172258757,
+        "end_time": 1776172262725,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "A datação da aula com os professores."
+      },
+      {
+        "start_time": 1776172262725,
+        "end_time": 1776172370828,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Wesley, cancelar, remanejar aulas do dia 21 e 23, avisar os professores. Feito. Wesley, repassar as horas e aulas dos professores de mês de março para raiz. Feito. Então, a gente tem três pendentes ainda. A gente estava com 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13. Então, a gente fez desde 13 das tarefas, calculando. É 77% das tarefas. Vamos lá nos das... Nas pedras, né? Planejamento, pedras. Organização.\n\n Escritos de projetos para 2027 em leis de incentivo ICMS, ISS, Rua Ney Plano Anual e Rua Ney Alemanha. Thaisa, nas trilhas, fora as trilhas? Tá nas trilhas, vou começar a descobrir o seu nome."
+      },
+      {
+        "start_time": 1776172370828,
+        "end_time": 1776172372767,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Vou escrever aquele..."
+      },
+      {
+        "start_time": 1776172373111,
+        "end_time": 1776172412090,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Estabelecer novos sistemas de pagamento que o Brasil, como estão, mandando fazer pagamentos e procuração para a raiz, se programar pagamentos, caso possível. Nas trilhas? Não nas trilhas? Estamos caminhando, né?"
+      },
+      {
+        "start_time": 1776172412090,
+        "end_time": 1776172422776,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "O primeiro passo a gente já fez, né? Que eles teriam acesso ao fundo. Aí agora a gente pode caminhar com essa fase."
+      },
+      {
+        "start_time": 1776172422776,
+        "end_time": 1776172586540,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sucesso nas viagens de Paraty e Perracá? A gente nem sabe. Dá uma estrelice se eles querem a gente, né? Adoção total do portal como fonte principal e dados atualizados de todas as esferas da associação, com toda a equipe orientada e responsabilidade clara para alimentar os dados de forma autônoma. Gostei de agradecer o Wesley um pouquinho, só nesse ponto que ele está sendo proativo com isso, com a equipe dele, com a Iris e...\n\n E ali, estou vendo isso, eu tenho reunião com a Iris também essa semana para ver o que pode ser melhor no sistema, ver o que tem que ser para a gente realmente ter uma ferramenta que o pessoal vai gostar de usar, né? E também para pegar esse feedback da Iris para a gente ver que está sendo usado. Então, novo sistema de controle de metas da Rua Ney no portal. Não fiz, mas é rápido. Site atualizado.\n\n Eu, se bobear, vou fazer um novo site. Está trilhando. Evento para captação de recursos com a lei de incentivo. Está nas trilhas. Qualquer ideia, também bem-vindo. Quer dizer, consertar a iPhone do projeto e estabelecer rede de captação de imagem com Wellington e Caterina para as mídias sociais. Eu... Eu consertei o celular na semana passada. E aí? Não, não, não, não. Sabe o doido? Funcionou direto.\n\n No dia do show, não funcionou. Logo depois, funcionou de novo. É incrível isso. Então, eu ainda estou nessa coisa. Mas aquele dia que você foi lá no Eu fiz para o meu, fiz para o meu. Então, mas aquele dia que eu te deixei lá em São Cristóvão, você foi lá nele e ele... Isso, aí ele consertou, mas apagou só para o dinheiro do gravação e depois voltou a apontar. Então eu voltei aqui. É, mas pela Inglaterra eu comprei, a gente comprou um bom câmera para a gente usar, para a gente pegar essas coisas de YouTube.\n\n Então, desculpe, focando. Raiz, produtos audiovisuais, vídeos de 12 arranjos na horizontal da Vale Preta e showreel de apresentações."
+      },
+      {
+        "start_time": 1776172586540,
+        "end_time": 1776172595754,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Vou fazer o cronograma, né? Nós estamos trilhos. A gente vê o momento certo de fazer, né?"
+      },
+      {
+        "start_time": 1776172595754,
+        "end_time": 1776172627283,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Aham. Ontem eu fiz uma gravação de iphone de dois dois vídeos eu acho que pegou a banda inteira assim eu vou mandar para o português sabe que há uma tarefa para mim eu acho que eu deveria deixar o iphone mas tá com esse defeito quando tiver por esse defeito eu deixo o iPhone com vocês para trabalhar em outra coisa? Não, não, estou só..."
+      },
+      {
+        "start_time": 1776172627283,
+        "end_time": 1776172631865,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "estou anotando aqui algumas coisas que eu tenho que fazer."
+      },
+      {
+        "start_time": 1776172631865,
+        "end_time": 1776172643777,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, sei. Aí, quando o iPhone Pro estiver funcionando, ainda seria deixar lá no... Porque, por exemplo, o Weston, você poderia captar com o iPhone, tranquilo."
+      },
+      {
+        "start_time": 1776172643777,
+        "end_time": 1776172651924,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "O Elton também. Eu usei o da Maria Eduarda, peguei o dela emprestado, e aí ela me mandou."
+      },
+      {
+        "start_time": 1776172651924,
+        "end_time": 1776172653819,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É boa da Maria Eduarda?"
+      },
+      {
+        "start_time": 1776172653819,
+        "end_time": 1776172656473,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Acho que o dela é um 14."
+      },
+      {
+        "start_time": 1776172656473,
+        "end_time": 1776172657232,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ah, é?"
+      },
+      {
+        "start_time": 1776172657232,
+        "end_time": 1776172659506,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Todo mundo ali tem um iPhone."
+      },
+      {
+        "start_time": 1776172659506,
+        "end_time": 1776172669743,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Só eu que sou pobre. Não, eu falei isso. Quando eu fui para a prevenção, eu falei, pobre nessa comunidade sou eu. O broxo fazendo trabalho voluntário."
+      },
+      {
+        "start_time": 1776172669743,
+        "end_time": 1776172673913,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É muito caro o iPhone, gente. Eu não consigo comprar, não."
+      },
+      {
+        "start_time": 1776172673913,
+        "end_time": 1776172711667,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Todo mundo ali tem um iPhone. Eu com o meu celular, sem vergonhazinha aqui ó a câmera tudo de mentira aqui aí eu peguei o dela filme coloquei numa posição legal filmou fez dois vídeos mas assim eu preciso do iPhone isso é muito bom, isso é bom porque é né eu preciso do iPhone para gravar as provas hoje eu vou fazer uma prova lá hoje seria interessante falar sim, uma outra coisa também que é Enfim, mas o iPhone é 13, mas é 13 Pro Max, mas um iPhone 14 já está bom.\n\n"
+      },
+      {
+        "start_time": 1776172711667,
+        "end_time": 1776172730352,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eu acho que, assim, do iPhone, a linha que é boa para vídeo e depois você conseguir editar bem, é o que sempre quer o Pro, porque aí você consegue colorir, ele sai em Log, ele sai em uma imagem bruta que depois você consegue editar e ele sempre vai ficar em alta resolução."
+      },
+      {
+        "start_time": 1776172730352,
+        "end_time": 1776172764439,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, sim. Mas, mesmo assim, o iPhone 14 não está ok. Eu vou estudar, mas isso... E aí a gente vai ficar muitos vídeos de YouTube. Eu tirei muitos vídeos de YouTube da sexta-feira, e depois o 442 fez o meu trabalho com Reels. Muito bom. Eles fizeram Reels. Então, já ajudou a gente. Beleza, voltando para a realidade. Wes, cadastro na OSCIP. Taíssa? Nas Estrelhas."
+      },
+      {
+        "start_time": 1776172764439,
+        "end_time": 1776172765288,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Nas Estrelhas."
+      },
+      {
+        "start_time": 1776172765288,
+        "end_time": 1776172768261,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Wesley, renovação de contrato com as escolas?"
+      },
+      {
+        "start_time": 1776172768261,
+        "end_time": 1776172768686,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Taíris?"
+      },
+      {
+        "start_time": 1776172768686,
+        "end_time": 1776172776332,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Renovação de contrato? Agora me pegou. Mas não é aquele que a gente fez no início do ano?"
+      },
+      {
+        "start_time": 1776172776332,
+        "end_time": 1776172783128,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ela me pegou. É para o ano que vem. É para o outro ano. Ah, não."
+      },
+      {
+        "start_time": 1776172783128,
+        "end_time": 1776172785252,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Para o ano que vem."
+      },
+      {
+        "start_time": 1776172785252,
+        "end_time": 1776172791198,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Está, está. Estou sondando as escolas para o ano que vem. Está nas Estrelhas."
+      },
+      {
+        "start_time": 1776172791207,
+        "end_time": 1776172805351,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É parte do SME, né, Raíssa? De ver se a gente tem permissão para o ano que vem. Organizar o início das aulas da escola Machado de Assis, do governo, no segundo semestre de 2016."
+      },
+      {
+        "start_time": 1776172805351,
+        "end_time": 1776172806563,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tá nos trilhos."
+      },
+      {
+        "start_time": 1776172806563,
+        "end_time": 1776172822236,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ontem eu tava conversando com uma guerrinha sobre isso. Se quiser para isso, eu posso ir lá, sabe? Para fazer um reset no relacionamento com a Mara. Mas, na verdade, não é é do lado, a gente só precisa..."
+      },
+      {
+        "start_time": 1776172822236,
+        "end_time": 1776172842148,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ah, não, é só isso aí eu consigo tirar de letra, ir lá conversar e tal, acho que é mais a questão do... É só a questão da divulgação mesmo, de deixar eu entrar nas salas, não deixar na mão dela, entende? Deixar eu ir nas salas, conversar com os alunos, divulgar o projeto."
+      },
+      {
+        "start_time": 1776172842148,
+        "end_time": 1776172857490,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas sabe onde eu acho que seria o mais proveitório, talvez seja o mais é que eu lembro também, na sala, certinho, mas atacar os dois lados, os pais buscando as crianças, às duas horas e meia, sabe, na frente da escola."
+      },
+      {
+        "start_time": 1776172857490,
+        "end_time": 1776172877963,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, isso que eu comecei com o Manguinho, acho que, se eu conseguisse um dia fazer uma apresentação na saída ali com os pais e já mostrando onde é que é, a nossa sala vai ser aqui do lado e tal, vou levar o pessoal para tocar ali, Acho que seria interessante, entendeu?"
+      },
+      {
+        "start_time": 1776172877963,
+        "end_time": 1776172882408,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Nesse dia, eu não preciso exatamente ir na escola."
+      },
+      {
+        "start_time": 1776172882408,
+        "end_time": 1776172903636,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu posso exatamente colocar na porta mesmo da nossa sala, do casal amarelo, a banda tocando ali, o band e tal, e já distribuindo. Na hora que os pais estão chegando ali e distribuindo, ó, aula aqui, aula de música."
+      },
+      {
+        "start_time": 1776172903636,
+        "end_time": 1776172912265,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Raíssa, não tem um ditado que o brasileiro nasce com um licenciador de marketing ou alguma coisa disso?"
+      },
+      {
+        "start_time": 1776172912265,
+        "end_time": 1776172913704,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, não tem."
+      },
+      {
+        "start_time": 1776172913704,
+        "end_time": 1776172914663,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tem isso."
+      },
+      {
+        "start_time": 1776172914941,
+        "end_time": 1776172922440,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "com formação de marketing. Acho que a gente poderia fazer isso quando estiver chegando na semana que está entrando de férias."
+      },
+      {
+        "start_time": 1776172922440,
+        "end_time": 1776172960784,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Essa semana que vai entrar de férias. É mais fácil tirar os alunos para chegar lá e fazer a apresentação. Não precisa ser toda a banda. Um grupo pequeno, pessoal, quem pode? A banda A ou a banda B. Tá hora, todo mundo, pá, pá, a gente pega e reúne o pessoal. O pessoal faz uma apresentação ali para tocar. De repente, a gente negocia uma pizza para eles ali nas aulas. Faz uma apresentação e entrega um pofetozinho.\n\n Nas voltas das aulas, a gente vai começar aula de música aqui, gratuita. Mas antes, eu passo na escola."
+      },
+      {
+        "start_time": 1776172960784,
+        "end_time": 1776172969222,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A escola tem que estar ciente de tudo. A escola tem que estar... Não pode ficar fora da piada, sabe?"
+      },
+      {
+        "start_time": 1776172969302,
+        "end_time": 1776172997556,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não, é o que eu tô falando, mas antes eu ia na escola, conversava com a diretora, passava nas salas. E na semana que tiver, na mesma semana, no caso, é a minha divulgação pros pais. A hora que os pais estiverem chegando lá, a gente bota pra tocar, as crianças vão se reunir ali, e a gente já distribuindo papelzinho, ó. Se matricula aqui, vai começar na volta das férias, vai começar aula aqui no casarão amarelo, pra lá, pra...\n\n"
+      },
+      {
+        "start_time": 1776172997887,
+        "end_time": 1776173007609,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Acho que seria a melhor maneira da gente atrair a atenção dos pais, porque a gente só entregar papelzinho sem os pais verem nada..."
+      },
+      {
+        "start_time": 1776173007609,
+        "end_time": 1776173028969,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É, não, não, é isso. Também a gente poderia ver, não é? Acho que o futuro pauta também, a melhor forma de fazer isso também, mas acho que está certa a apresentação. Só passando, todos os... Todos os dados do programa 100% confiáveis no portal, Adverdências, presenças, saídas, divisões de grupo."
+      },
+      {
+        "start_time": 1776173028969,
+        "end_time": 1776173053547,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Sim, eu fiz até uma reunião com a Iris na semana passada, e a gente começou a acertar parte por parte. Acertamos ali a parte das bandas e tal, alguns dados ali. Então, vamos fazer uma nova reunião para colocar parte de... Adverdências, etc. E tal, presenças. A gente está..."
+      },
+      {
+        "start_time": 1776173053555,
+        "end_time": 1776173058542,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Uma vez por semana a gente tá se reunindo pra isso."
+      },
+      {
+        "start_time": 1776173058542,
+        "end_time": 1776173061715,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "100% das presenças sendo cadastradas pelo SLEC."
+      },
+      {
+        "start_time": 1776173061715,
+        "end_time": 1776173065342,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É, das escolas já tá tudo funcionando, né?"
+      },
+      {
+        "start_time": 1776173065342,
+        "end_time": 1776173084618,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Todo mundo já tá fazendo a presença diretamente no SLEC, então eu acho que é isso. Ok, beleza. Ok, vamos nas pautas. Eu vou começar pelas pautas que vocês colocaram A iluminação ocasional do covelo. Deu certo? Então, o que acontece?"
+      },
+      {
+        "start_time": 1776173084618,
+        "end_time": 1776173152809,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu estou em cima das portas até mesmo para a questão das aulas que a gente vai colocar lá no dia, na semana que tiver baile. Não tem iluminação. Na parte de fora não tem. Então, por exemplo, a semana que tiver baile, a aula vai ter que ser à noite. Em algum outro dia. É isso que eu estou sondando com os professores, para ver o melhor dia para que todos consigam atender. Porque, por exemplo, a Joana também dá aula aí em cima.\n\n Então, tem que ser um dia que dá para todo mundo, porque eu não posso colocar cada um tendo uma aula num dia. Tem que ser, olha, o dia do baile vai ser tal dia. O transporte, um dia só. Só que ali do lado de fora não tem iluminação. Só tem iluminação dentro da sala em alguns pontos. Mas o problema é que tem escada, tem aquele pedaço todo ali fora que não tem iluminação. Então, é isso que eu queria ver se eu posso conversar com o Julio, porque, enfim, é gasto, né, pra ele colocar um holoforte ali, alguma coisa, pra essa luz estar podendo transitar ali.\n\n"
+      },
+      {
+        "start_time": 1776173152809,
+        "end_time": 1776173154528,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Para uma ala. É, entende?"
+      },
+      {
+        "start_time": 1776173154528,
+        "end_time": 1776173178810,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Mas é questão. E tem sala lá em cima que ainda não tem luz. A gente tá utilizando, que a gente utiliza de dia, de dia não precisa. Mas se eu for começar... Daqui a três meses vai ter o novo baile. E eu for trocar a aula para um dia da noite, eu preciso de iluminação."
+      },
+      {
+        "start_time": 1776173178810,
+        "end_time": 1776173180720,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "E lá não tem."
+      },
+      {
+        "start_time": 1776173180720,
+        "end_time": 1776173198015,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Se a gente está pensando em utilizar o casarol mais vezes na semana, não tem como utilizar de dia. O dia é horário de aula. A gente vai utilizar ali, mas é muito mais fácil a gente utilizar à noite."
+      },
+      {
+        "start_time": 1776173198015,
+        "end_time": 1776173200622,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "E à noite tem que ter luz."
+      },
+      {
+        "start_time": 1776173200622,
+        "end_time": 1776173207700,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Com certeza é uma coisa que está no planejamento deles, iluminar ali e tal, para o pessoal ter acesso."
+      },
+      {
+        "start_time": 1776173207700,
+        "end_time": 1776173222422,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas tem que ter luz. Eu acho que já está em cima da gente também. Você não pensou em fazer essa vez no Assunção? Não tem como. Aqui tem que ter teoria também, né? Não entendi, desculpa."
+      },
+      {
+        "start_time": 1776173222422,
+        "end_time": 1776173225974,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "A aula é extra, o ensaio é extra."
+      },
+      {
+        "start_time": 1776173225974,
+        "end_time": 1776173229083,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Você não pensou em fazer no Assunção?"
+      },
+      {
+        "start_time": 1776173229083,
+        "end_time": 1776173235299,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então, eu tô pegando leve em relação a isso aí, porque já foi um..."
+      },
+      {
+        "start_time": 1776173235299,
+        "end_time": 1776173296233,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Essa questão de levar pra baixo, tem que conversar com os pais primeiro. Então, eu pensei em fazer tudo ali embaixo, que agora não quer levar mais lá em cima, então, eu tô indo devagar, pra não ter confronto. Dá pra gente fazer lá em cima. É só o ensaio, né? Sim. Mas, assim, é... Eu tava pensando em consentar... Dessa vez, passou. Eu levantei ideia e eu preciso... Eu tô sondando os professores pra ver quais dias eles podem durante a semana.\n\n Entende? Joana, Karina... E tal, a Rafaela, eu tô sondando quais dias eles podem durante a semana, ainda não consegui informação de todos. Assim que eu conseguir, aí a gente pode, se até mês que vem a gente não mexer embaixo, a gente faz em cima da nossa função. Mas só essa questão, como a gente tá querendo utilizar mais vezes o casarão, seria interessante a gente resolver essa questão da iluminação.\n\n"
+      },
+      {
+        "start_time": 1776173296352,
+        "end_time": 1776173333773,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É. Mas no momento, a gente está pensando em usar duas e meia da tarde, né? Para o Machado de Assis, ainda vai ser dia. Mas eu entendo que lá para o futuro. Como você falou, eles vão ter planos para fazer isso de qualquer forma. Mas só para não descer, a gente precisa apressar eles. E também poderia ser só um ensaio com tudo, mundo para repor da banda com a Rafaela? É mais também a questão da reposição.\n\n"
+      },
+      {
+        "start_time": 1776173333773,
+        "end_time": 1776173341924,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "O Marquinhos me perguntou a reposição de aula dele. Faz falta, com certeza."
+      },
+      {
+        "start_time": 1776173341924,
+        "end_time": 1776173346940,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "As aulas do Marquinhos. As aulas dos professores."
+      },
+      {
+        "start_time": 1776173346940,
+        "end_time": 1776173362790,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu vou criar um grupo somente do pessoal do Polo Curvelo, e ali a gente vai debater o melhor dia para todo mundo e, por enquanto, a gente vai utilizando a nossa unção. Embora..."
+      },
+      {
+        "start_time": 1776173362790,
+        "end_time": 1776173367798,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas, peraí, a gente está falando de uma vez só para o baile."
+      },
+      {
+        "start_time": 1776173367798,
+        "end_time": 1776173402191,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É, mas essa aula sábado agora não vai ter. Sim, sim. Aí vou repor, de alguma maneira vou repor essa aula para eles não perderem. Repor esse ensaio da Rafaela, a aula do Marquinho, tem aula da Joana, Karina. Entende? Mas aí o interessante seria o que acontece. Esse é o problema. Eu preciso que isso seja num dia só. Pra não ter reclamação dos pais que tão indo mais de uma vez e tal. Tem que ser tudo num dia.\n\n Pessoal, tal dia, todo mundo pode? Todo mundo pode. Então vamos lá."
+      },
+      {
+        "start_time": 1776173402191,
+        "end_time": 1776173405078,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então nesse dia... Os próprios não podem domingo."
+      },
+      {
+        "start_time": 1776173405078,
+        "end_time": 1776173410848,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "A maioria tem... A Karina toca não sei aonde, a Joana. Mais choro, não sei aonde."
+      },
+      {
+        "start_time": 1776173410848,
+        "end_time": 1776173411759,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "A maioria tem..."
+      },
+      {
+        "start_time": 1776173411759,
+        "end_time": 1776173430574,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tem coisa no domingo. A Jana tem a roda de choro dela, que ela toca, não sei, pessoal. Eu vou sondar, eu vou sondar, é o que eu tô falando, eu tô sondando com um ou outro professor, pra ver se a gente consegue durante a semana. Se não conseguir, a gente vê no domingo, só pra repor, só pra repor isso."
+      },
+      {
+        "start_time": 1776173430574,
+        "end_time": 1776173439404,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "O domingo é o mais fácil de todos, porque no domingo é a mesma Bem, ok."
+      },
+      {
+        "start_time": 1776173439404,
+        "end_time": 1776173461708,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, a gente resolveu que vamos usar o Assunção para reportar. Tentar domingos. Tentar domingos. Se domingo não funcionar, colocar no Assunção uma vez durante a semana."
+      },
+      {
+        "start_time": 1776173461708,
+        "end_time": 1776173462534,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Beleza."
+      },
+      {
+        "start_time": 1776173462534,
+        "end_time": 1776173478841,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ok. Então, eles vão eu vou colocar. Tem uma questão da boca. Colocar no domingo vai vai."
+      },
+      {
+        "start_time": 1776173478841,
+        "end_time": 1776173492639,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "No caso se for boa aí vai ter aula sábado e domingo para repor."
+      },
+      {
+        "start_time": 1776173492639,
+        "end_time": 1776173500784,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É mais. Vamos supor, esse sábado agora, não tem, porque é baile."
+      },
+      {
+        "start_time": 1776173500784,
+        "end_time": 1776173518313,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Aí, passando por minha semana que vem, vou ter que fazer sábado e domingo, ou vou ter que fazer no domingo agora Você pode acrescentar os pais também?"
+      },
+      {
+        "start_time": 1776173518313,
+        "end_time": 1776173546643,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Se não se faz os dois, se é no dia do baile, mas é complicado a nossa logística com ele. Beleza, ok. Vamos passar essa, então. Assunção. Na Serra de São Paulo. Raíssa, o que é esse edital? Na verdade, é tipo uma competição."
+      },
+      {
+        "start_time": 1776173546643,
+        "end_time": 1776173560343,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Você manda o currículo, que é do Wesley, né? Então, você manda o portfólio e aí você concorre. Pode ser o não selecionado. Achei interessante a gente tentar."
+      },
+      {
+        "start_time": 1776173560343,
+        "end_time": 1776173564258,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "E eles dão os custos para a torcida?"
+      },
+      {
+        "start_time": 1776173565183,
+        "end_time": 1776173566375,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Sim, eles pagam."
+      },
+      {
+        "start_time": 1776173566375,
+        "end_time": 1776173567169,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Pagam tudo."
+      },
+      {
+        "start_time": 1776173567169,
+        "end_time": 1776173569949,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Pelo o que eu li, pagam tudo."
+      },
+      {
+        "start_time": 1776173569949,
+        "end_time": 1776173571935,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Até para viajar do Rio?"
+      },
+      {
+        "start_time": 1776173571935,
+        "end_time": 1776173591398,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eu posso me certificar melhor, mas até onde eu tinha lido, assim, no que eu li, quando você me mandou, é como se você fosse selecionado para tocar nesse festival com os custos pagos. Mas eu posso ver com eles, mandar mensagem para eles para saber que está incluso."
+      },
+      {
+        "start_time": 1776173591398,
+        "end_time": 1776173635243,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Acho que bom. Só para... É de uma boa, basicamente, só pra entender o que a gente ganha. É o que... Serra é alguma coisa, né? Serra do Jazz, coisa assim. É um festival do Jazz. Serra do Jazz. Isso. São Paulo. Tá previsto? Feedback da E10, o que você achou Wesley?"
+      },
+      {
+        "start_time": 1776173635243,
+        "end_time": 1776173669648,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Achei que foi legal. Foi bacana. Eu conversei muito com os alunos em relação ao que nós temos que melhorar, o que falhou na hora da preparação, enfim. Foi bem interessante a conversa, eles mesmos analisando algumas coisas. Mas se todo evento que a gente for fazer sexta-feira, a gente for levar uma banda convidada, foi assim, acho que vai ser interessante. Só tem que resolver essa questão de tocar juntos ali, né?\n\n"
+      },
+      {
+        "start_time": 1776173669818,
+        "end_time": 1776173670224,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1776173670224,
+        "end_time": 1776173673061,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu vi que é dilema e coitada."
+      },
+      {
+        "start_time": 1776173673061,
+        "end_time": 1776173699650,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Toda hora o pessoal falou uma coisa, ele falou outra, ela tava... Deixaram ela meio que na campaninha ali. Ela combinou uma coisa com o pessoal, o pessoal não fez, e ela correndo atrás pra resolver. Mas eu acho que se a gente toda uma sexta-feira no mês, né, fazer esse evento pra tocar com o pessoal ali, é só... Acho que vai ser interessante."
+      },
+      {
+        "start_time": 1776173699650,
+        "end_time": 1776173763097,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu acho que é a segunda que a gente teve chuva, e chuva abafa o número de pessoas. Coisa que eu percebo nesses eventos é que a galera chega tarde. Tipo, a gente está lá... A gente está lá tocando sete e meia, tem pouca gente. Eu vi uma galera chegando do outro lado dos palácios viu, Jonas, Gisele, uma galera chegando do outro lado. Então, só para a gente ter isso em mente, pessoas chegando depois de tudo...\n\n Mas, sem dizer, foi a mesma coisa no baile, quando a gente começou o baile, acabou sendo muito tarde às sextas e ia encher mais tarde, por isso que a gente colocou nos sábados. Mas choveu, que não ajudou. O que quebrou foi a chuva, a gente tentando ir para fora, porque ali dentro estava forte."
+      },
+      {
+        "start_time": 1776173763097,
+        "end_time": 1776173770450,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Mas aí a chuva parou, nós fomos para fora, voltou a chuva de novo."
+      },
+      {
+        "start_time": 1776173770450,
+        "end_time": 1776173839178,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas em termos de público também, eu acho que uma observação é que o público chega mais tarde lá. E a chuva realmente foi difícil. Aquele palco dentro da sala não é muito indicado, porque também todo mundo fica tocando atrás do menu, ridículo, de você ver do outro lado. Mas às vezes é melhor cancelar, porque cancelar embola tudo, Então, o espaço lá fora, a iluminação que o Simon colocou foi fraca. E ele...\n\n É o Simon sendo enrolado, né? Ele fez uma reunião de uma hora com o Ed Lerner e nada aconteceu. Aí, novamente, a galera da Peach não sabia que a gente estava chegando. Musicalmente, eu achei excelente. Eu acho que a toca... Então, só para deixar registrado, Tom."
+      },
+      {
+        "start_time": 1776173839178,
+        "end_time": 1776173869242,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Você falou que o pessoal da pizzaria não estava sabendo que a gente ia tocar, inclusive aos sábados. O pessoal não está sabendo que é todo sábado. Sábado passado, eu cheguei lá, fui pegar umas cadeiras emprestadas, pedi para ele, falou, você pode me emprestar umas cadeiras? Ele, não, pode pegar, mas espera aí, vai ter apresentação aqui, Eu falei, não estou sabendo de nada. Amiga, é todo sábado."
+      },
+      {
+        "start_time": 1776173869242,
+        "end_time": 1776173964277,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, Wesley, você fala com o Wellington para ele ficar ciente. Para o Wellington, quando chegar lá no sábado, checar que está tudo certo. Então, o que a gente faria diferente outras vezes? O espaço de cima tá legal, né? Uma coisa raiz que aconteceu na sexta foi que a polícia chegou e o Simon teve que desenrolar, mas eles falaram, vocês não têm, vocês não têm alvorá pra tocar na rua, etc, etc. Alguém deve ter chamado.\n\n Então, talvez a gente pareça mais seguro tocar naquele laje lá de cima. Outra coisa que o Simon falou aqui, você já viu, sabe o laje onde a gente fica com os alaões? Lá em cima, lá em Cimão mesmo. Então, a Wesley já foi, eu falei, eles têm um laje grande lá em Cimão que a gente poderia pensar, a gente poderia pensar em usar aquele laje."
+      },
+      {
+        "start_time": 1776173964286,
+        "end_time": 1776173972466,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Aquele pedaço da polícia enche o saco mesmo, porque atrapalha o trânsito. A mesma coisa no Serginho."
+      },
+      {
+        "start_time": 1776173972466,
+        "end_time": 1776173988345,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O Serginho tem que sempre pagar para poder ter música. Sim, sim. Mas pensando naquela coisa, se a gente fizesse naquela laje de cima, tem espaço. Mas a questão é o público lá."
+      },
+      {
+        "start_time": 1776173988345,
+        "end_time": 1776173989308,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1776173989308,
+        "end_time": 1776174064260,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas se fosse um evento, o evento da pizzeria não seria uma coisa da rua, seria uma coisa de chamar as pessoas para verem lá, como se fosse um evento na pizzeria mesmo. Aí os pais, todo mundo pode ir lá em cima, eu acho que poderia encher. E aí a gente não está... A gente não tem a questão tanto da polícia, a gente não tem o bonde passando. A gente teria, para tocar, pode ter uma logística bem mais confortável.\n\n Por exemplo, aquele lugar de tocar em cima está bem abafado. Aí você está tocando para a rua, beleza, mas está bem abafado, Quem está lá fora, tem bom de paixão, e se encher, a gente fecha a rua. Não sei, será que vale a pena fazer um experimento lá? As luzes foram resolvidas, aquelas luzes?"
+      },
+      {
+        "start_time": 1776174064260,
+        "end_time": 1776174068401,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Ele colocou, foram meio fracos, mas ele colocou."
+      },
+      {
+        "start_time": 1776174068401,
+        "end_time": 1776174077854,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, pode ser, caso a gente fizesse em cima, poderia ser reutilizado. Mas do ponto de vista da pizzeria..."
+      },
+      {
+        "start_time": 1776174077854,
+        "end_time": 1776174082935,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É seguro para as crianças? Porque eu nunca vi, nunca fui."
+      },
+      {
+        "start_time": 1776174082935,
+        "end_time": 1776174087555,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Seguro é, só tem que ver a questão do tempo."
+      },
+      {
+        "start_time": 1776174087555,
+        "end_time": 1776174131987,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Se chover... Se chover, a gente fica na mesma posição, tendo que tocar lá embaixo. O problema é que lá embaixo não dá para tocar em frente à cozinha. Tem espaço. E ninguém... Então, se chover, aí essa é a questão, se chover, eu acho que... O que é complicado é que você pode colocar uma lorna acima daquele large. Você pode colocar uma lorna lá. Só que onde vai o público? Que o público... Aí eu estava na frente, pegando chuva, para ver eles no final.\n\n Aí não... É, mas aí fica estranho."
+      },
+      {
+        "start_time": 1776174131987,
+        "end_time": 1776174134654,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu não sei se eles poderiam..."
+      },
+      {
+        "start_time": 1776174134654,
+        "end_time": 1776174142656,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É possível tocar lá embaixo, mas é ruim. As duas bandas tocarem lá cima, você não vê aquilo."
+      },
+      {
+        "start_time": 1776174142656,
+        "end_time": 1776174150460,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, talvez, realmente, Com chuva, acho que qualquer movimento no Rio de Janeiro cai, não é?"
+      },
+      {
+        "start_time": 1776174150460,
+        "end_time": 1776174152449,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Com certeza, com certeza."
+      },
+      {
+        "start_time": 1776174152449,
+        "end_time": 1776174166367,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Será que vale a pena tocar quando chove? Mas também, se a gente tivesse algum plano pé... Acho que nessa situação, Tom, foi o que a Raíssa falou."
+      },
+      {
+        "start_time": 1776174166367,
+        "end_time": 1776174169847,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Em dia de chuva, todo movimento cai."
+      },
+      {
+        "start_time": 1776174169847,
+        "end_time": 1776174245968,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Se tiver previsão de chuva, Sim, eu concordo, mas estou falando da questão da decisão, porque às vezes tem uma chuva prevista que nem acontece, sabe? Essa coisa, se tivesse um plano B, se tivesse um inverno que aconteça, mesmo se estiver um pouco, ajuda muito. Mas não deu muito... Aquela questão, talvez a gente vai ter que fazer isso mesmo. Porque é complicado, né? Porque depois você tem que ir para o teatro com a banda completada, que já está tocando grátis, agora a gente está tocando didático, né?\n\n A parte de cima, se eles colocassem um lona lá em cima, aí dá para... Mas do jeito que... Eu vou conversar com a Edilene amanhã, mas do jeito que está, não temos uma logística para churro, porque aquele palco deve ter sido muito alto lá em cima, Wesley."
+      },
+      {
+        "start_time": 1776174245968,
+        "end_time": 1776174253824,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Assim... Você está falando da parte de dentro onde a gente estava tocando?"
+      },
+      {
+        "start_time": 1776174253824,
+        "end_time": 1776174255033,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Isso, isso."
+      },
+      {
+        "start_time": 1776174255033,
+        "end_time": 1776174260105,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Poxa... Na segunda música a galera já tava meio surdo já."
+      },
+      {
+        "start_time": 1776174260105,
+        "end_time": 1776174264564,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, e uma outra coisa... Quando a gente tava chegando..."
+      },
+      {
+        "start_time": 1776174264564,
+        "end_time": 1776174273928,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tocou a primeira e eu pedi, e mesmo assim eu pedi pra tocar baixo e tal, foi só mesmo assim. Complicado."
+      },
+      {
+        "start_time": 1776174273928,
+        "end_time": 1776174336251,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Uma coisa de longo prazo, precisamos de proteção de ouvido. Para as crianças. Aquele que eu tenho, de colocar aqui, a gente precisa dessa proteção. Vou colocar nos problemas de longo prazo. Porque, cara, eu estava lá, quando eles estavam tocando junto com o 442, do lado da percussão, foi uma... Sabe? Foi muito, muito alto. E eu acho que nessas horas, Ah, tem o Marquinho tocando o trompete, colocando um dedo aqui para se escutar.\n\n Eu acho que a gente tem que adiantar essa proteção de ouvido para eles. Então, provavelmente não. Decisões, caso chuva. Mas você não gostou da ideia de colocar lá no lanchinho de cima, Wesley? Pode falar."
+      },
+      {
+        "start_time": 1776174336862,
+        "end_time": 1776174340430,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É porque, em caso de chuva, não resolve."
+      },
+      {
+        "start_time": 1776174340430,
+        "end_time": 1776174343105,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, mas nada resolve. Nada resolve."
+      },
+      {
+        "start_time": 1776174343105,
+        "end_time": 1776174350687,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu acho legal a gente tocar lá em cima. É só a questão do direcionamento do público."
+      },
+      {
+        "start_time": 1776174350687,
+        "end_time": 1776174366964,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O público vai ter que entrar na pizzeria, mas, de repente, para a pizzeria fica melhor. E lá em cima, poderia concentrar o público um pouco. Eles não ficam lá, não. Fazendo parte da festa."
+      },
+      {
+        "start_time": 1776174366964,
+        "end_time": 1776174375515,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu acho que a gente poderia fazer um teste no próximo no próximo evento."
+      },
+      {
+        "start_time": 1776174375515,
+        "end_time": 1776174386510,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim e a gente faz em cima. É só é só é só é só para eu entender."
+      },
+      {
+        "start_time": 1776174386510,
+        "end_time": 1776174394068,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Houve houve alguma reclamação pelo fato da gente ter na frente da pizzeria?"
+      },
+      {
+        "start_time": 1776174394068,
+        "end_time": 1776174402208,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Só essa parte que eu não entendi. Alguém chegou a polícia. A gente estava tocando na rua."
+      },
+      {
+        "start_time": 1776174402208,
+        "end_time": 1776174408432,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não, eu vi a polícia passando. Não, eles pararam, eles desvistaram o Simon."
+      },
+      {
+        "start_time": 1776174408432,
+        "end_time": 1776174434108,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ele teve que enrolar. Isso eu não vi, essa parte eu não vi, eu vi que eles passaram. Mas ele falou, vocês não tem autorização para tocar na rua assim. Então, complicado, complicado. Mas também concordo que também não vai parar o problema do som. Ainda vai ter o som áudio aberto."
+      },
+      {
+        "start_time": 1776174434108,
+        "end_time": 1776174439689,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A interpretação de Santa Tereza é muito difícil, não é? Sim."
+      },
+      {
+        "start_time": 1776174439689,
+        "end_time": 1776174448313,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "São difíceis, cara. Sim, exatamente. Se mudar para Santa Tereza, para um bairro artístico, é reclamada muito."
+      },
+      {
+        "start_time": 1776174448376,
+        "end_time": 1776174460703,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Caraca, eu não consigo entender isso no Rio de Janeiro, aqui em Santa Fe. Como é essa experiência? Aquela geração antiga que só pode ter a música deles. Qualquer outra música não pode ter isso."
+      },
+      {
+        "start_time": 1776174460703,
+        "end_time": 1776174479800,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O tipo musical que eles permitem. Ai, eu fumarei. Enfim, mas a gente poderia tentar lá. Não vai? Em qualquer lugar, a gente vai ter... Isso é uma outra coisa que eu quero pensar também. Com o Barney convidado, o som aumentou, né? Estão com as Barney juntas. Fica fogo. A gente tocando..."
+      },
+      {
+        "start_time": 1776174479800,
+        "end_time": 1776174483290,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ficou muito bom, ficou muito bom, mas realmente..."
+      },
+      {
+        "start_time": 1776174483290,
+        "end_time": 1776174484163,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Fica fogo."
+      },
+      {
+        "start_time": 1776174484163,
+        "end_time": 1776174494198,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não pode ser por muito tempo. A parte de todo mundo juntos, Réplica da Felicidade, a música combinada para tocar juntos e foi."
+      },
+      {
+        "start_time": 1776174494198,
+        "end_time": 1776174496380,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Só uma coisa no final."
+      },
+      {
+        "start_time": 1776174496380,
+        "end_time": 1776174498998,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "A gente tocou seis músicas juntos."
+      },
+      {
+        "start_time": 1776174498998,
+        "end_time": 1776174508676,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Aí, na rua, na frente daquele prédio, que tem alguém que reclama, Não, mas também foi muito legal. Aí tem..."
+      },
+      {
+        "start_time": 1776174508676,
+        "end_time": 1776174518776,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu achei que tinham chamado a polícia, porque tinha um rapaz dentro da pizzeria que esqueceu o carro em cima do trilho do trem."
+      },
+      {
+        "start_time": 1776174518776,
+        "end_time": 1776174520881,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, talvez começou com isso."
+      },
+      {
+        "start_time": 1776174520881,
+        "end_time": 1776174527193,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ficou um tempão ali, ninguém sabia de quem era o carro. Aí eu falei, entendeu?"
+      },
+      {
+        "start_time": 1776174527193,
+        "end_time": 1776174556829,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu achei que tinha sido disso. Não, mas o Simon teve que desenrolar. Agora... Beleza, então acho que basicamente está... E mais uma vez, parabéns para as crianças, para o show. Aí eu fiquei puto. O que tem que fazer? Parece que isso não vai funcionar, porque acabou a bateria, Wesley. Mas uma coisa que a gente tem que ter, naquela situação de você lá em cima..."
+      },
+      {
+        "start_time": 1776174556829,
+        "end_time": 1776174558574,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eles carregaram as pilhas?"
+      },
+      {
+        "start_time": 1776174558574,
+        "end_time": 1776174561192,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu acho que deu mau contato."
+      },
+      {
+        "start_time": 1776174561379,
+        "end_time": 1776174575680,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "porque ele parou de funcionar, aí eu tentei ligar, aí pedi, eu estava com uma transmissão na boca, pedi para ele ligar e ver, não quis funcionar, ela tentou também, não funcionou, e depois ele funcionou."
+      },
+      {
+        "start_time": 1776174575680,
+        "end_time": 1776174599705,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas a coisa é, as pilhas, é o último caso, a gente que está usando... Com cabo. Com cabo. Então, por exemplo, lá em cima, lá em cima, três metros atrás de você, teve uma tomada, Mas a outra questão também foi... A gente está fazendo impressa, colocando lá em cima, etc., etc. Acho que é uma outra coisa para a Edilene."
+      },
+      {
+        "start_time": 1776174599705,
+        "end_time": 1776174610541,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É porque eu separei tudo numa caixa. O cabo dele de força, as pilhas, está tudo numa caixa só. E aí tem as duas extensões que dão 25 metros."
+      },
+      {
+        "start_time": 1776174610541,
+        "end_time": 1776174612783,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Então, as extensões foram para lá?"
+      },
+      {
+        "start_time": 1776174612783,
+        "end_time": 1776174615772,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eu não sei, mas está tudo na caixa."
+      },
+      {
+        "start_time": 1776174615772,
+        "end_time": 1776174618761,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas você explicou para a Edilene, ela sabe."
+      },
+      {
+        "start_time": 1776174618833,
+        "end_time": 1776174630682,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eu mostrei, foi tanto para ela quanto para o Wellington, eu mostrei, aqui tá a caixa de tudo que precisa para o som, tá as filhas, tá o microfone, tá as extensões, tá o cabo de força."
+      },
+      {
+        "start_time": 1776174630682,
+        "end_time": 1776174637087,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, assim, tá lá, tá escrito, tá escrito, né? Sim, beleza. Então, se a gente tivesse cabos, que esse cabo..."
+      },
+      {
+        "start_time": 1776174637087,
+        "end_time": 1776174642210,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Talvez ela não entende desse tipo de equipamento, né? Então, para ela não é óbvio, né?"
+      },
+      {
+        "start_time": 1776174642210,
+        "end_time": 1776174652100,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu vou ter que explicar para ela, que também não, tava tudo, tava tudo na para ela fazer lá, você tinha que gatinhar, e ela estava lá embaixo..."
+      },
+      {
+        "start_time": 1776174652100,
+        "end_time": 1776174667335,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Era isso que eu estava falando, só para a minha justificativa. Eu, na correria que a criança pegou, montou, está aqui. Aí eu, pá, peguei, não estava funcionando. Mexi na caixa, só estava... Era para a hora, o pessoal."
+      },
+      {
+        "start_time": 1776174667335,
+        "end_time": 1776174670460,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Era para a hora, não tinha como pegar."
+      },
+      {
+        "start_time": 1776174670460,
+        "end_time": 1776174684814,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas é uma coisa para deixar claro como é o dilema. Diretor musical, está no palco e precisa de alguma coisa, o produtor tem que estar de olho, porque eu estou aí filmando e não consigo, sabe?"
+      },
+      {
+        "start_time": 1776174684814,
+        "end_time": 1776174686728,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não pode ter aquela coisa..."
+      },
+      {
+        "start_time": 1776174686728,
+        "end_time": 1776174690556,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Tem aquela coisa de chegar e deixar pré-pronto, não é?"
+      },
+      {
+        "start_time": 1776174688494,
+        "end_time": 1776174706210,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, mas ela teve problema com isso, por causa da logística, isso que eu entendi. E o problema dela que teria sido ok, mas a pizza aí não preparou nada. Então, sabe, aí foi toda... Só para a minha justificativa."
+      },
+      {
+        "start_time": 1776174706210,
+        "end_time": 1776174718940,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu alí compondo as coisas, posicionando todo mundo, posicionando o Vinícius para estar sentado a arrumar uma coisa. Até eu pensar em... Gaste atenção, vá ligar, achar tomada."
+      },
+      {
+        "start_time": 1776174718940,
+        "end_time": 1776174745207,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, mas não é sua responsabilidade. Eu estava tentando... Eu fui lá e coloquei minha luz para tentar não ficar tudo escuro lá em cima. Mas, enfim... Aí realmente teria sido legal a gente ter dois bastões recarregáveis, porque eu tive um pequeno e já ajudou, sabe? Acho que seria bom. Deixa eu colocar..."
+      },
+      {
+        "start_time": 1776174745207,
+        "end_time": 1776174749449,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Mas esses bastões existem, pelo que eu entendi, na Sílvia, né?"
+      },
+      {
+        "start_time": 1776174749449,
+        "end_time": 1776174762948,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Na Lívia, no Vale. Não, eu tô falando de duas coisas diferentes. São duas coisas diferentes. Bastões da Sílvia são grande, né? Um lateral que bota bastante luz na tomada. Mas também tem bastão... Recarregável?"
+      },
+      {
+        "start_time": 1776174762948,
+        "end_time": 1776174767576,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, eu sei qual que você tá falando. Recarregável bem grande, né?"
+      },
+      {
+        "start_time": 1776174767576,
+        "end_time": 1776174768733,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Caso a energia..."
+      },
+      {
+        "start_time": 1776174768733,
+        "end_time": 1776174772204,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eles precisam de um powerbankzinho, assim, eu já usei."
+      },
+      {
+        "start_time": 1776174772500,
+        "end_time": 1776174786833,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, sim, sim. Mas, era isso que salvou a gente. Tem um pequenininho, pequititito, e ajudão. Eu acho que é uma coisa legal para a gente ficar na bolsa da comunicação. Deixa eu colocar aqui. Talvez, só abrindo."
+      },
+      {
+        "start_time": 1776174786833,
+        "end_time": 1776174808281,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É, talvez falte um briefing com a Juliane para mostrarem um pouco desse programa. De repente, ela nunca teve contato e também não sabe conversar. De repente, eu tiro um téfono do Baile Brás e tento ver com ela. Eu escrevi aqui para ela, dizendo que estou disponível no sábado para ela, se ela precisar."
+      },
+      {
+        "start_time": 1776174808281,
+        "end_time": 1776174820059,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, eu já fui orientando ela sobre o... Mas eu acho que no sábado vai dar um tempo para mostrar ela e quem mais quiser... Assinar o Wellington, né?"
+      },
+      {
+        "start_time": 1776174820059,
+        "end_time": 1776174826918,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Aí eu pensei também nesse dia de dar umas dicas para o Wellington, de como..."
+      },
+      {
+        "start_time": 1776174826918,
+        "end_time": 1776174829963,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "do que a gente precisa."
+      },
+      {
+        "start_time": 1776174829963,
+        "end_time": 1776174860291,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, eu vou entrar... É, se abre, talvez, de vez em quando, com o Wellington, porque ele vai estar na... Mas se der... Agora, a Adriana me mandou uma mensagem falando que o Wellington não vai conseguir carregar tudo no baile. A gente precisa de outra pessoa para ajudar. A gente fazia como ano passado."
+      },
+      {
+        "start_time": 1776174860291,
+        "end_time": 1776174867462,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Era Carol e o Elton só. Então ela não quer aqui ela não quer ajudar carregando mas."
+      },
+      {
+        "start_time": 1776174867462,
+        "end_time": 1776174874211,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ano passado a gente não pagava ninguém a gente era só a Carol e o Elton."
+      },
+      {
+        "start_time": 1776174874211,
+        "end_time": 1776174876320,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A gente pagava o Elton."
+      },
+      {
+        "start_time": 1776174876320,
+        "end_time": 1776174886865,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não estou falando que a gente não pagava além do. Sim, sim. É porque, no caso, anteriormente, a Carol e o Wellington carregavam."
+      },
+      {
+        "start_time": 1776174886865,
+        "end_time": 1776174889624,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É isso que eu ia falar."
+      },
+      {
+        "start_time": 1776174889624,
+        "end_time": 1776174900663,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, mas, assim, de repente, vem com ela, mas ela tem que ajudar, ela carrega a coisa. Mas você veio com ela? Não entendi."
+      },
+      {
+        "start_time": 1776174900663,
+        "end_time": 1776174903883,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Você vai ver com ela, não é?"
+      },
+      {
+        "start_time": 1776174903883,
+        "end_time": 1776174914394,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Vou ver com ela. Vou falar com ela amanhã. Que está entendido Ela não é protetora executiva, ela ajuda para pegar as coisas."
+      },
+      {
+        "start_time": 1776174914394,
+        "end_time": 1776174934327,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, é o que eu estou falando mais uma vez, não estou metendo na minha área, mas eu estou achando injusto, por exemplo, no baile, no evento lá da Zola, o Elton que desceu e carregou tudo lá para cima. Deu duas, três viagens."
+      },
+      {
+        "start_time": 1776174934327,
+        "end_time": 1776174936140,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ela não está fazendo?"
+      },
+      {
+        "start_time": 1776174936140,
+        "end_time": 1776174940792,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não. É isso que eu tô falando. É que o Wellington não fala."
+      },
+      {
+        "start_time": 1776174940792,
+        "end_time": 1776174942645,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É que o Wellington não fala."
+      },
+      {
+        "start_time": 1776174942645,
+        "end_time": 1776174943572,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ele reclamou comigo."
+      },
+      {
+        "start_time": 1776174943572,
+        "end_time": 1776174960870,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu tô achando injusto que, por exemplo, pra carregar as coisas pra Zola, o Wellington deu duas, três viagens trazendo as coisas até a van, entendeu? Aí depois, na volta, ela ligou pro Wellington, o Wellington voltou, deu duas, três viagens, só não deu mais viagens porque as crianças levavam, ajudaram ele a levar as coisas."
+      },
+      {
+        "start_time": 1776174960870,
+        "end_time": 1776174967805,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eu tava dizendo que eu tava ficando cansada, porque antes a Carol ajudava ele, que eu não ficava até tarde lá."
+      },
+      {
+        "start_time": 1776174967805,
+        "end_time": 1776174969663,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Entendeu? É mais essa questão."
+      },
+      {
+        "start_time": 1776174969663,
+        "end_time": 1776175005430,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, vou ter que falar com ela amanhã e vamos ver. Ela também, na parte dos voluntários, alguém de voluntário e eu confirmou e perguntou alguma coisa no grupo, ela não respondeu no grupo. Aí eu falei para a voluntária, aí a Tirenen entrou em contato com você e não. Mas eu estou indo para lá, beleza. Aí eu perguntei à Tirenen, e aí? Para não esquecer daquele voluntário. Ela falou assim, não, não, está tudo certo.\n\n Eu sei que não está... A gente está nesse momento delicado, que a gente está testando ela, mas também a gente não está remunerando as pessoas."
+      },
+      {
+        "start_time": 1776175005430,
+        "end_time": 1776175009387,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Então está tudo muito delicado, não é? Ah, porque a gente não está..."
+      },
+      {
+        "start_time": 1776175009387,
+        "end_time": 1776175014560,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, mas não tem isso. Eu acho que a gente tem que... Não dá para fazer grátis."
+      },
+      {
+        "start_time": 1776175014560,
+        "end_time": 1776175023113,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Entre nós três, não tem, mas a gente não sabe como é o ser humano. De repente, ela está fazendo um corpo humano, porque não está recebendo?"
+      },
+      {
+        "start_time": 1776175023113,
+        "end_time": 1776175028901,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, mas não tem isso. Nesse caso, todo mundo tem que trabalhar. Não tem, infelizmente..."
+      },
+      {
+        "start_time": 1776175028901,
+        "end_time": 1776175031988,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Todo mundo se desdobrando para pagar as contas."
+      },
+      {
+        "start_time": 1776175031988,
+        "end_time": 1776175037777,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Enfim, mas eu não sei, ela acabou de chegar, ela não tem desse espírito... Não."
+      },
+      {
+        "start_time": 1776175037777,
+        "end_time": 1776175049559,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É isso que eu estou querendo dizer. Sim, eu entendo. Eu entendo, mas... Eu não dou muito desconto para isso, não, porque, no final, ela vai receber Igual, exatamente."
+      },
+      {
+        "start_time": 1776175049559,
+        "end_time": 1776175055889,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Não é que a gente não vai pegar ela, não vai receber, mas ela vai receber."
+      },
+      {
+        "start_time": 1776175055889,
+        "end_time": 1776175079158,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Desculpa, estou mais falando porque, por exemplo, estou vendo que vai chegar um momento em que a gente vai acabar perdendo o Elton, porque o Elton está carregando tudo isso, aí teve um dia que ela pediu para ele levar não sei o quê, ele esqueceu, aí teve que voltar para buscar, E ele que voltou pra fazer. Então, assim..."
+      },
+      {
+        "start_time": 1776175079158,
+        "end_time": 1776175084537,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E ela tá querendo que a gente contrate outra pessoa pra ajudar ele quando é ela."
+      },
+      {
+        "start_time": 1776175084537,
+        "end_time": 1776175098992,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É isso que eu tô falando, entende? Porque até então, nada mudou. São quatro bandas, o evento é no mesmo lugar, é menos de um dia. E anteriormente funcionava. A Karol que ajudava a carregar as coisas. A Karol ficava até o final."
+      },
+      {
+        "start_time": 1776175098992,
+        "end_time": 1776175105379,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Tipo, a vez que eu fiz uma apresentação com a Karol, ela ficou carregando as coisas até o final."
+      },
+      {
+        "start_time": 1776175105428,
+        "end_time": 1776175109721,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "No final, pode pedir ajuda do pessoal, todo mundo pegar alguma coisa."
+      },
+      {
+        "start_time": 1776175109721,
+        "end_time": 1776175119738,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Só que a gente... Naquele dia em que eu voltei de catete, lembra? Fiz um mutirão com as crianças. Falei, gente, vou me ajudar a carregar os instrumentos."
+      },
+      {
+        "start_time": 1776175119738,
+        "end_time": 1776175143875,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A gente foi todo mundo junto, carregou os instrumentos. Mas no final, todo mundo pega alguma coisa e não fica pesado. Mas no início, realmente, é a produção. Mas produção, eu vou muito claro, se pode, com ela, entreviste, etc., etc., que isso é mão na massa, carregando coisas, presencial, sabe? Não é executivo, é presencial, mão na massa, carregando coisas. Então... Tá, é isso que estou falando."
+      },
+      {
+        "start_time": 1776175143875,
+        "end_time": 1776175147042,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Acho que não está rolando. Isso não está rolando."
+      },
+      {
+        "start_time": 1776175147042,
+        "end_time": 1776175149506,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, então, vou falar com ela amanhã."
+      },
+      {
+        "start_time": 1776175149506,
+        "end_time": 1776175167800,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não está rolando. Rola até o Assumpção, a tradução. Dali para cima é o Hélito. Tudo é o Hélito, o Hélito, o Hélito, o Hélito. Estou vendo que ele está... Como eu estava muito na correria, o Marquinho ajudou, as crianças ajudaram a levar as coisas para cima."
+      },
+      {
+        "start_time": 1776175167800,
+        "end_time": 1776175234750,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Acho que era muita coisa para ele carregar. Sim. A gente tem que ter uma coisa que a Carol reclamou. A Carol reclamou das pessoas não ajudando a produção para carregar coisas como elas podiam. Então, a gente tem que ter essa conscienciação de... Que também... Não sou professor dentro, mas quando tiver oportunidade para ajudar, a gente tem que estar pensando nisso, que não é... Se alguém pode ajudar para carregar uma coisa ou outra, essa disposição.\n\n Essa que a Carol estava falando, essa sensação que não estava tendo esse olhar de ajudar ela, caírem dentro, que ajude nisso também. Eu acho que a gente poderia só ficar de olho nisso. Se tiver como ajudar, a gente ajuda, se der para carregar alguma coisa. Eu só lembrei isso que a Carol falou agora. Wesley."
+      },
+      {
+        "start_time": 1776175234750,
+        "end_time": 1776175248318,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, agora vai ficar melhor, porque antigamente tinha que carregar para o Assunção, agora tem que carregar para a sua casa. Então é metade do caminho, metade do caminho."
+      },
+      {
+        "start_time": 1776175248318,
+        "end_time": 1776175250696,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só que tem uma escadinha."
+      },
+      {
+        "start_time": 1776175250696,
+        "end_time": 1776175254501,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aquela escadinha ali não é de Deus, não."
+      },
+      {
+        "start_time": 1776175254501,
+        "end_time": 1776175264014,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas assim, mas agora antigamente tinha que levar lá para o elevador da função. Agora é para a sua casa."
+      },
+      {
+        "start_time": 1776175264014,
+        "end_time": 1776175322429,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, eu tenho colocado, principalmente na banda preta, essa conscientização da galera ajudar, e eles têm Então, até que nas aulas, quando acabou as aulas, o pessoal ali, vamos lá, vamos lá, Alex, Marquinho, o pessoal da comunidade, até as meninas mesmo foram levando as coisas mais leves, foram ajudando, mas assim, antigamente a Carol reclamava com razão, mas mesmo assim o pessoal ia ajudar, o pessoal era carismático com a Carol.\n\n A Edilene não tá sendo tão carismática assim, ela nem fala que é culpa das crianças, e ela só vira as costas e tá nas costas do Ed. Acho que está faltando isso. Essa conversa, esse contato e tal. E ela botar a mão na massa. Não, eu vou carregar, eu vou fazer. Eu sou a produtora. Não é o Hélito. O Hélito não é produtor. Ele é assistente. Eu vou... Vamos lá. Eu sou líder, estou na frente aqui, vamos lá, estou contigo.\n\n Não simplesmente o Ayrton, aguarda aí e eu fui. É isso que está acontecendo, entendeu?"
+      },
+      {
+        "start_time": 1776175322429,
+        "end_time": 1776175348020,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É, pega aí as coisas e bota no carro. Ela não vai lá, ela não checa as coisas, por isso que eu estou falando, que eu acho que se ela tivesse checada, ela teria pegado o cabo de força, as coisas, porque é isso também, não dá pra contar com a Ayrton, ele está pegando tudo. E aí não tem uma outra pessoa pra ajudar ele a ver o que tem que pegar e deixar de pegar, de repente? A Karol fazia esse checklist, né?\n\n Ela estava lá e era ele a assistente."
+      },
+      {
+        "start_time": 1776175348020,
+        "end_time": 1776175375156,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas o fato de ela não ir lá na sua casa, não pegar as coisas, ela só pede para ele pegar e botar na carro. É complicado. Vou falar sobre carregar as coisas. Mais alguma coisa em termos do bairro? Ela estava pedindo luzes para o bairro já que a gente já tem esses bastões lá."
+      },
+      {
+        "start_time": 1776175375156,
+        "end_time": 1776175393318,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Não, isso eu já falei com ela, ela falou que o Eliton já falou com ela, ela me deu, eu conversei com ela já, e ela disse que tá tudo certo, aí eu só me disponibilizei também pra ela, ela pediu pra estar lá as 14 horas pra ajudar. Uma coisa aqui, ela pediu luzes."
+      },
+      {
+        "start_time": 1776175393318,
+        "end_time": 1776175393978,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Uhum, pediu."
+      },
+      {
+        "start_time": 1776175393978,
+        "end_time": 1776175421863,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Pra comprar. Só que era muito caro. 500 reais, né? Aí é que de repente a gente, faz essa sempre para ela ver o que é que é. Eu falei, não, a gente já tem luz, mas ela ainda queria colocar essas luzes também. Não avaliar como é que fica lá e tal. Mas as outras coisas a gente comprou, não é? Comprou. E já temos o cronograma. Já fizeram, não é?"
+      },
+      {
+        "start_time": 1776175421863,
+        "end_time": 1776175424612,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela botou lá na equipe, não é?"
+      },
+      {
+        "start_time": 1776175424612,
+        "end_time": 1776175430939,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O Wesley bateu com ela. A gente tem essa... Vai ter batalha das bandas ou não?"
+      },
+      {
+        "start_time": 1776175430939,
+        "end_time": 1776175456663,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Vai ter, Cassilda vai, no final vai ter nem a batalha, eu vou só, é, desculpa, essa parte aí eu não vou falar, vou até perguntar pra, obrigado por ter lembrado, vou falar pra ela novamente pra colocar ali a batalha das bandas no final ali que ficou faltando, porque não ia ter porque a outra banda não tinha repertório pra isso, acho que a Cassilda vai rolar."
+      },
+      {
+        "start_time": 1776175483276,
+        "end_time": 1776175506761,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ok. Então, Raíssa, né? Acho que é isso pro Pai, né? Teve alguma coisa, outra coisa com a Angelene, que ela não orientou a voluntária sobre como... A gente tem esse link, né? Do aplicativo, Raíssa."
+      },
+      {
+        "start_time": 1776175506761,
+        "end_time": 1776175508066,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Da lojinha?"
+      },
+      {
+        "start_time": 1776175508066,
+        "end_time": 1776175508719,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1776175508719,
+        "end_time": 1776175509371,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tem."
+      },
+      {
+        "start_time": 1776175509702,
+        "end_time": 1776175510141,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tem."
+      },
+      {
+        "start_time": 1776175510141,
+        "end_time": 1776175514530,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ela não passou isso para a voluntária. Eu lembro ela..."
+      },
+      {
+        "start_time": 1776175514530,
+        "end_time": 1776175528134,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Agora eu fico pegando surpresa, porque ela botou uma voluntária na lojinha, é isso? Sim. E ela não passou as diretrizes de como é que funciona a lojinha para a voluntária."
+      },
+      {
+        "start_time": 1776175528134,
+        "end_time": 1776175535595,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ela só mandou, essa é o Pix, esse aqui são os preços, mas não aquela coisa do..."
+      },
+      {
+        "start_time": 1776175535595,
+        "end_time": 1776175537351,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A voluntária teve que..."
+      },
+      {
+        "start_time": 1776175538378,
+        "end_time": 1776175560162,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, não, maquininha de cartão, ela mostrou. É só... E ela te passou as vendas? Não. Não sei se teve."
+      },
+      {
+        "start_time": 1776175560162,
+        "end_time": 1776175562340,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Link de..."
+      },
+      {
+        "start_time": 1776175562340,
+        "end_time": 1776175565608,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Link de vendas."
+      },
+      {
+        "start_time": 1776175565608,
+        "end_time": 1776175566697,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah..."
+      },
+      {
+        "start_time": 1776175571289,
+        "end_time": 1776175578526,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, tá aqui, 11 do 4. Então ela colocou diretamente numa planilha?"
+      },
+      {
+        "start_time": 1776175578526,
+        "end_time": 1776175580938,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, tá na lojinha."
+      },
+      {
+        "start_time": 1776175580938,
+        "end_time": 1776175589984,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Tá registrado na lojinha 11 do 4. Será que ela fez no sistema, é isso?"
+      },
+      {
+        "start_time": 1776175589984,
+        "end_time": 1776175597220,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "No nosso portal, na lojinha, tem três vendas de 11 do 4."
+      },
+      {
+        "start_time": 1776175598573,
+        "end_time": 1776175601603,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Era dia 3, não foi?"
+      },
+      {
+        "start_time": 1776175601603,
+        "end_time": 1776175607662,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Mas é porque às vezes o banco só compensa depois."
+      },
+      {
+        "start_time": 1776175607662,
+        "end_time": 1776175614327,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah não, mas é a nossa lojinha, o nosso portal. Então..."
+      },
+      {
+        "start_time": 1776175614327,
+        "end_time": 1776175619174,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "De repente ela só lançou no dia seguinte."
+      },
+      {
+        "start_time": 1776175619174,
+        "end_time": 1776175623416,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Deixa eu entender. Onde ela lançou isso?"
+      },
+      {
+        "start_time": 1776175623416,
+        "end_time": 1776175625840,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Na lojinha, no portal."
+      },
+      {
+        "start_time": 1776175628802,
+        "end_time": 1776175638771,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, sim. Eu estou no portal aqui. Dá para lançar aqui também? Será que dá para lançar direto?"
+      },
+      {
+        "start_time": 1776175638771,
+        "end_time": 1776175640432,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, aquele link."
+      },
+      {
+        "start_time": 1776175640432,
+        "end_time": 1776175666887,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Provavelmente, ela não passou para a voluntária. No link mesmo. Eu entendi que ela estava na correria, mas não. É, vou ver com ela. Agora, Raim, deixa eu ver. Passando. A gente tem programação de pagamentos de prioridades da semana. É, aí o Agile falou que são 20 bancos, né, Agile, para comprar."
+      },
+      {
+        "start_time": 1776175666887,
+        "end_time": 1776175682727,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu preciso, na realidade, esse fim de semana agora, só vai ter ela para o grupo semente. Então, para esse fim de semana não dá para contar, mas para o sábado que vem, eu estou precisando de banco."
+      },
+      {
+        "start_time": 1776175682727,
+        "end_time": 1776175723312,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Não, mas eu preciso do pagamento Porque, assim, às vezes é muito ruim ficar comprando coisas pingadas, né? E aí eu organizo o pagamento todo que tem na semana pra gente. Eu vou combinar ainda com o Rolf e com o Norton, um dia, que eles estão mais disponíveis pra esses pagamentos. Pra gente reorganizar isso, né? E ver como é que com eles funciona. Foi isso que eu tava pensando, tô, tipo, escrever uma mensagem lá no grupo, pra eles, pra entender qual é o melhor dia, onde que eles conseguem ter um tempo melhor pra programar e o Rolf aprovar.\n\n E aí... E pegar esses pagamentos dessa semana, do que é prioritário, né? Pelo que entendi até agora, são os bancos. Tem mais alguma coisa?"
+      },
+      {
+        "start_time": 1776175723312,
+        "end_time": 1776175723713,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1776175723713,
+        "end_time": 1776175728529,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eles não mandaram os comprovantes para você para saber que não foi."
+      },
+      {
+        "start_time": 1776175728529,
+        "end_time": 1776175737357,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É, por isso que eu quero condensar a mensagem. Tipo, pedir os extratos novamente, com os comprovantes, e organizar esses pagamentos semanais."
+      },
+      {
+        "start_time": 1776175737357,
+        "end_time": 1776175743886,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Explicar que é um pagamento semanal, Eles falaram que não foi a Priscila, né?"
+      },
+      {
+        "start_time": 1776175743886,
+        "end_time": 1776175749028,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não foi o quê? Select, Priscila, que não foi, né?"
+      },
+      {
+        "start_time": 1776175749028,
+        "end_time": 1776175750056,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pelo grupo."
+      },
+      {
+        "start_time": 1776175750056,
+        "end_time": 1776175755198,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Acho que eles pagaram tudo ontem à noite, não foi?"
+      },
+      {
+        "start_time": 1776175755198,
+        "end_time": 1776175757768,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Ontem à noite não conseguiram."
+      },
+      {
+        "start_time": 1776175757768,
+        "end_time": 1776175773259,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas lá no grupo. Tá vendo no grupo? Deixa eu aqui. No grupo. O que eu passei de... Beatriz e Locadora não conseguiram porque não estavam cadastrados."
+      },
+      {
+        "start_time": 1776175773259,
+        "end_time": 1776175777145,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Acho que essa mensagem não chegou."
+      },
+      {
+        "start_time": 1776175777145,
+        "end_time": 1776175782973,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas isso foi antes de eles refazerem os pagamentos?"
+      },
+      {
+        "start_time": 1776175782973,
+        "end_time": 1776175791393,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Não, não. Eu percebi que eles estavam fazendo ontem à noite, bem tarde."
+      },
+      {
+        "start_time": 1776175791393,
+        "end_time": 1776175821024,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, então talvez se eles fizeram outra Rodado depois, talvez. O Mercado Livre, ele me avisou que foi pago ontem, bem tarde, o Mercado Livre. O Rolfe, o Rolfe. É. Esse é o Rolfe, mas o norte que criou. Então, tem que ver a situação lá. Vou dar uma cutucada neles, então. É complicado."
+      },
+      {
+        "start_time": 1776175821024,
+        "end_time": 1776175843450,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É, tem que entender com eles disponibilidade, né, igual a gente fez com a Mirella e o Somulo, aí eles definiram uma data. Então, a gente definiu isso, eu enviava um dia antes, eles programavam. Sim. Porque, se não for, só dura 24 horas. O programa dessa programação só dura 24 horas, então, assim, não adianta fazer com muita antecedência."
+      },
+      {
+        "start_time": 1776175843450,
+        "end_time": 1776175889422,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É, e a gente tem que sair disso o mais cedo possível, mas, no momento, eles vão ter que fazer, né, até, até tramitar Até a gente ter uma átome colocando com poderes até eles tramitar. A gente tem que ter esse ritmo com eles. Beleza. Vou ver outras coisas que eu coloquei aqui. Ah, vocês têm... Quer um olhar no relatório anual? Confesso pra você que eu não consegui ver, só vou conseguir ver agora à tarde.\n\n"
+      },
+      {
+        "start_time": 1776175889422,
+        "end_time": 1776175900883,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só pra terminar, então, esse assunto sobre compras. Não tem mais nenhuma outra compra prevista? Não, não, não."
+      },
+      {
+        "start_time": 1776175900883,
+        "end_time": 1776175909560,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ou os bancos mesmo, né? Eu pedi, falei com o Tom, mas é a palheta do Barito no A2, mas é outras coisas."
+      },
+      {
+        "start_time": 1776175909560,
+        "end_time": 1776175914843,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O palheta eu vou pedir na Inglaterra. Deixa eu colocar a minha lista aqui."
+      },
+      {
+        "start_time": 1776175916806,
+        "end_time": 1776175942698,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "E se puder, uma caixinha de paleta número dois e se puder, dois talabás de saxofone alto. Porque a gente tem a de tenor e aí tá enforcando as crianças e mesmo assim não tá ficando na posição, entende? Dois talabás de saxofone alto."
+      },
+      {
+        "start_time": 1776175942706,
+        "end_time": 1776175951433,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, não, beleza. Vou lá. Vou ver lá. Eu não sei se a gente consegue um cacho. Talvez seja mais show que pegar um. É, uma palheta."
+      },
+      {
+        "start_time": 1776175951433,
+        "end_time": 1776175954342,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Uma palheta? Só pra segurar aí. Não, não, não."
+      },
+      {
+        "start_time": 1776175954342,
+        "end_time": 1776175960161,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas aí, quando, quando... Exatamente, pra segurar até quando eles virem da Angra Terra e trazem o cacho."
+      },
+      {
+        "start_time": 1776175960161,
+        "end_time": 1776175985178,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Pois assim. Mas, é... É, se você pudesse... Uma palhetinha pra segurar por agora. E esse talabate, será que você consegue? Eu acho que realmente... Eu improvisei um talabate lá. Pela paluna nova, mas eu tô com medo dele não segurar, sabe, o sax cair, aí é claro, vai ser minha, porque eu improvisei o talabate, mas o de tenor não dá."
+      },
+      {
+        "start_time": 1776175985178,
+        "end_time": 1776176073388,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mesmo fechando tudinho, o sax ainda fica baixo. Não é beleza o show então relator não aqui você achou raiz da relatoria no ar e eu gostei bastante ok ainda leva tempo aí eu vou fazer no celular né achei muito legal porque quando ele muda a estrutura para ver no celular e no site, então. Sim. Qualquer erro, qualquer coisa que falte. Eu tenho reunião com a Prio hoje. Parece que elas têm uma nova menina na Prio.\n\n Uma menina nova para ajudar na parte dos projetos. Eu vou conversar com ela hoje à tarde. Vamos ver como é que ela fica aí. Mas eu já mandei para ela. Então, Rouanet, 2026. Pensar, 2027, né? Ah, o sistema já está aberto, né? Deve estar aberto. Já, já abriu, abriu em final de fevereiro e fica aberto até 31 de agosto. É, eu acho que de todos os editais de incentivos e coisas assim..."
+      },
+      {
+        "start_time": 1776176073388,
+        "end_time": 1776176079792,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ah, Raíssa, o da Bavária, Acho que é melhor a gente começar pelo da Bavária, né?"
+      },
+      {
+        "start_time": 1776176079792,
+        "end_time": 1776176084632,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas a Bavária, a coisa é que a gente não consegue entrar e sair."
+      },
+      {
+        "start_time": 1776176084632,
+        "end_time": 1776176093275,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Será que o... Ah, uma coisa que eu ia perguntar, eu estava acumulando as perguntas para o Rolf, para não ficar toda hora solestando ele."
+      },
+      {
+        "start_time": 1776176093275,
+        "end_time": 1776176093621,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1776176093621,
+        "end_time": 1776176095349,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Me enchendo do saco dele."
+      },
+      {
+        "start_time": 1776176095349,
+        "end_time": 1776176098115,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu também estou me enchendo do saco dele."
+      },
+      {
+        "start_time": 1776176098115,
+        "end_time": 1776176145859,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Talvez, porque é isso, assim, só explicando para o Ed, ele tem esse cadastro já no ele entra no Salique pelo ponto gov, só que se ele me dar o acesso ao sistema ponto gov, eu vou saber toda a vida dele particular de tudo. Eu já conversei com ele, então ele pediu para mim ver uma outra forma, aí quando eu vi com a Jane a outra forma, a forma da Jane foi essa, do tipo, tenta você, aí eu tentei a mesma coisa, porque depois, parece que depois que eu entrasse no sistema, eu poderia vincular o CNPJ da associação, e aí eu veria nossos projetos, só que eu não poderia, parece que, manejar.\n\n Aí, com a procuração do Rolf, eu poderia ter esse manejamento. Enfim, isso é uma coisa. Mas eu não consegui nem chegar à etapa de conseguir o cadastro, que eu expliquei para a Jane."
+      },
+      {
+        "start_time": 1776176145859,
+        "end_time": 1776176146885,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O que eu..."
+      },
+      {
+        "start_time": 1776176146885,
+        "end_time": 1776176155778,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "E ela pediu para enviar esse e-mail. Aí eu falei assim, eu já enviei, o Tom provavelmente já enviou, a gente não teve uma resposta deles."
+      },
+      {
+        "start_time": 1776176155778,
+        "end_time": 1776176265660,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas o que eu estava vendo no clássico? O primeiro passo, com certeza, e até comecei com a Jane também, o primeiro passo é do Rolf vincular com o Dani. Para o Rolf, porque eu e você, a gente não tem o vínculo, nós. O único forma de a gente se vincular com o projeto é de a gente vincular com o dirigente. Então, a gente falou para a Selic, para pedir para a gente se vincular, Mas a primeira coisa que a gente precisa é do Rolf, porque o Claudio estava falando que talvez vai acabar uma situação em que a gente entra com os nossos golpes, entendeu?\n\n O Rolf vai vincular, o Rolf vai vincular ele com o projeto, a cena de projeto da Flamengo Brazil lá, mandando a arte, ele vai conseguir isso. Ele se vincula, depois ele dá, no sistema, ele vincula o projeto com a gente, para a gente conseguir entrar com os nossos contos Gove. Eu acho que vai Gove, Gove, não sei como se fala. Então é isso. Eu estou... Eu mandei uma mensagem para o Rolf ontem, falando que essa é a primeira coisa, porque é daí que tudo começa.\n\n Então a primeira coisa é dele vincular a conta, depois... Mas é complicado. A Bavária, a gente está em qual pé com o projeto de Bavária e de Ruaneli? A gente tem um aprovado."
+      },
+      {
+        "start_time": 1776176265660,
+        "end_time": 1776176272342,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A gente renovou, mas você falou para mim na última reunião que queria mudar."
+      },
+      {
+        "start_time": 1776176272342,
+        "end_time": 1776176278867,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Antes a gente tem que ajustar. Então a gente tem que ver com a Jane. Tem que estar aprovada até junho."
+      },
+      {
+        "start_time": 1776176278867,
+        "end_time": 1776176281663,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Tem a aprovação dele de... A gente renovou ele."
+      },
+      {
+        "start_time": 1776176281663,
+        "end_time": 1776176286323,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas agora tem que ser para o ano que vem. Só que só tem um..."
+      },
+      {
+        "start_time": 1776176286323,
+        "end_time": 1776176293469,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Essa que é a questão. A AN, que agora os projetos só podem ser renovados por um ano. Então a gente já renovou."
+      },
+      {
+        "start_time": 1776176293469,
+        "end_time": 1776176297198,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então a gente vai precisar de um novo projeto de Bavária. Isso."
+      },
+      {
+        "start_time": 1776176297198,
+        "end_time": 1776176303612,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "E aí também você quer vai mudar coisa, então vale mais a pena do que ficar readegando, né?"
+      },
+      {
+        "start_time": 1776176303612,
+        "end_time": 1776176320783,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Concordo plenamente. Então a gente... Mas, dito isso, a nossa prioridade é o Plano Anual para o ano que vem. Primeira coisa para aprovar, porque aí abre o caminho para chegar lá para... Eu acho que está funcionando bem esse sistema que a gente tem feito."
+      },
+      {
+        "start_time": 1776176320783,
+        "end_time": 1776176324516,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Você faz um briefing e eu vou lá e ataco."
+      },
+      {
+        "start_time": 1776176324516,
+        "end_time": 1776176354446,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, beleza, mas aí... A gente tem que pensar aqui, depois pensar com a diretoria, em termos do que a gente quer, só definindo o que os textos vão ser, os textos já foram aprovados, a gente só pensando o que a gente quer fazer diferente no ano que vem, parece ano, o que a gente quer mudar no projeto."
+      },
+      {
+        "start_time": 1776176354446,
+        "end_time": 1776176374685,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Ah, agora você me trouxe uma lembrança boa, porque, pensando assim, no que é que precisa o Favela Brasil, sempre penso muito no portfólio, no clipe, né? Porque eles sempre pedem atualizadas, sempre tem que analisá-la anualmente, né? Que aí seria bom, talvez, não sei, dar uma cutucada na Edilene, não sei se vai sair alguma coisa sobre o Baile Brás nas mídias."
+      },
+      {
+        "start_time": 1776176374685,
+        "end_time": 1776176409975,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Até agora é só coisa de carnaval, né? Ela compartilhou, ela está compartilhando com nós quando acontecer. Então, tem aquele link do dia antes do carnaval, mas o Bari falou que não adianta mandar muitas semanas antes. Mas vai ter, só para ter no radar para poder deixar. Mas aí, o que a gente quer mudar no projeto para o ano A gente tem... Com pessoas, vai ser preciso, não é, Wesley? Nessa estrutura nova da Azul, não é?\n\n"
+      },
+      {
+        "start_time": 1776176409975,
+        "end_time": 1776176416942,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Talvez uma verba ali, de prever uma verba. Fazer aquilo que a gente fez antes."
+      },
+      {
+        "start_time": 1776176416942,
+        "end_time": 1776176429018,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas a coisa é que a gente... A verba não restringe a gente, não é? É a captação. Se a gente captar 100%, não tem problema."
+      },
+      {
+        "start_time": 1776176430597,
+        "end_time": 1776176457851,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Então, calma aí, porque uma coisa, exatamente o ideal que a gente quer, o ideal que a gente pede para a Rouanet e que a gente escreve a prova, e depois a gente faz uma conta nova do que a gente vai captar. Mas quando a gente vai escrever o projeto de Rouanet, a gente sempre escreve pensando no que é o ideal que a gente gostaria que o projeto funcionasse. A gente não se restringe pensando na captação, a gente pensa no que é ideal.\n\n"
+      },
+      {
+        "start_time": 1776176457851,
+        "end_time": 1776176467487,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, sim. Não, eu concordo. Mas a gente tá em qual porcentagem do nosso verbo de professores estamos usando no momento?"
+      },
+      {
+        "start_time": 1776176467487,
+        "end_time": 1776176469854,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Percentual, em relação a quê?"
+      },
+      {
+        "start_time": 1776176469854,
+        "end_time": 1776176484055,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Percentual em termos do que a gente tá... Se você... É a porcentagem do verbo total aprovado para professores, né? Qual a porcentagem desse verbo que a gente tá usando?"
+      },
+      {
+        "start_time": 1776176484055,
+        "end_time": 1776176484529,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "70%."
+      },
+      {
+        "start_time": 1776176484529,
+        "end_time": 1776176512006,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então já tem 30% para expandir. Então, é Mas, muito. Quais É, são as outras mudanças? Porque também, Wesley, a gente poderia até além disso, se a gente precisava, a gente poderia até falar que a gente precisava gastar mais em professores, já dar para aumentar mais 50% de gente e tal."
+      },
+      {
+        "start_time": 1776176512006,
+        "end_time": 1776176514785,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Se a gente conseguisse gastar."
+      },
+      {
+        "start_time": 1776176514785,
+        "end_time": 1776176532773,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, exatamente. Mas, em termos do que a gente vai falar, o que a gente vai fazer, o que mudou? Em termos de escolas, a gente... A cor de escolas que a gente vai falar, a gente está em cinco esse ano, não é?"
+      },
+      {
+        "start_time": 1776176532773,
+        "end_time": 1776176535978,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É, a gente está em cinco esse ano."
+      },
+      {
+        "start_time": 1776176535978,
+        "end_time": 1776176545248,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A ideia, ano que vem, é a gente ir para sete. A gente falou de acrescentar a Machado de Assis, não é?"
+      },
+      {
+        "start_time": 1776176545248,
+        "end_time": 1776176549527,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não, o Machado de Assis não vai entrar, porque..."
+      },
+      {
+        "start_time": 1776176549527,
+        "end_time": 1776176563788,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, a oficina do Machado de Assis é um projeto, uma coisa um pouquinho diferente. Porque lá está entrando como Paulo Corvino, porque a gente não está dentro da escola."
+      },
+      {
+        "start_time": 1776176563788,
+        "end_time": 1776176567116,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Sim, exatamente o que a gente falou."
+      },
+      {
+        "start_time": 1776176567116,
+        "end_time": 1776176587163,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, a gente tem que ter Cuidado com essa... A gente tem que apresentar... Então, a gente está em cinco escolas. Cinco escolas. As cinco escolas que a gente tem, mais essa coisa do... Do lago..."
+      },
+      {
+        "start_time": 1776176587163,
+        "end_time": 1776176588248,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Do Covelo."
+      },
+      {
+        "start_time": 1776176588248,
+        "end_time": 1776176589333,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Do Covelo."
+      },
+      {
+        "start_time": 1776176589333,
+        "end_time": 1776176607665,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Uma aula, durante a semana, também no Covelo. Então, Covelo, sendo sábado e dia. Durante a semana, a não ser que a gente... A gente poderia ter mais do que um dia da semana também."
+      },
+      {
+        "start_time": 1776176607665,
+        "end_time": 1776176618392,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, é isso que eu estava falando, que você tinha falado da gente começar a utilizar lá mais de um dia."
+      },
+      {
+        "start_time": 1776176618392,
+        "end_time": 1776176638160,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Isso, seria uma possibilidade, não é definido, mas seria uma possibilidade, porque como tem esse vínculo com a escola, começa a ser mais interessante essa escola, que está do lado de onde a gente ia continuar com eles."
+      },
+      {
+        "start_time": 1776176638160,
+        "end_time": 1776176649664,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É isso, está considerando ali o Curvelo, o Polo, e colocando ali mais dias de atuação. Não somente no sábado, botar mais dias."
+      },
+      {
+        "start_time": 1776176649664,
+        "end_time": 1776176679549,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, mas durante a semana com os alunos da Escola Machado de Assis. Sim. Não com o público geral. Porque a gente já viu esse filme. Claro, sim. Se a gente coloca o público geral, a gente vai acabar como... A gente vai ficar cheio de amigas e de amigos desses alunos."
+      },
+      {
+        "start_time": 1776176680924,
+        "end_time": 1776176681416,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Entendi."
+      },
+      {
+        "start_time": 1776176681416,
+        "end_time": 1776176685846,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Só para deixar isso claro. Não, sim, eu entendi."
+      },
+      {
+        "start_time": 1776176685846,
+        "end_time": 1776176699626,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Mais um dia com os alunos da escola Machado de Assis. E ali, por enquanto, é o sábado sendo captação dos alunos que estão vindo de outras escolas."
+      },
+      {
+        "start_time": 1776176699626,
+        "end_time": 1776176704055,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Isso, isso, isso. Mas pode ser... Isso está claro."
+      },
+      {
+        "start_time": 1776176704055,
+        "end_time": 1776176706516,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Isso está claro. Sim, sim."
+      },
+      {
+        "start_time": 1776176706516,
+        "end_time": 1776176735393,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas a gente poderia fazer fazer mais do que um dia, se a gente quiser, se der certo com o Machado de Assis, a gente poderia fazer mais do que um dia com os crianças de lá. Aí pensando que, não, esses alunos estão lá do lado, porque a gente, durante a semana, a gente não pode usar para muito outra coisa, está complicado para arrancar todo mundo de todos os cantos, à noite, lá para lá, mas..."
+      },
+      {
+        "start_time": 1776176735393,
+        "end_time": 1776176744398,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Durante a semana seria melhor. Durante a semana de dia, seria mais para atender o pessoal somente da marchada de assística."
+      },
+      {
+        "start_time": 1776176744398,
+        "end_time": 1776176767723,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É, eu penso nisso. Então, é só também... Desculpa, não que eu queira impor muito, mas eu acho que vai... Quando eu comecei nas escolas, fiz três vezes por semana. No CIEP, três vezes por semana, no Santa Corrêa. E rendeu muito, sabe? Aí você, né... Só uma... Eu concordo plenamente nessa questão."
+      },
+      {
+        "start_time": 1776176767723,
+        "end_time": 1776176785246,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu acho que a gente pode colocar assim. É porque, quando a gente está falando da... De captação dos alunos ali, eu espero realmente que a gente consiga um número grande de alunos ali da Machado que assiste. É, mas a gente não sabe."
+      },
+      {
+        "start_time": 1776176785246,
+        "end_time": 1776176786839,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A gente não sabe."
+      },
+      {
+        "start_time": 1776176786839,
+        "end_time": 1776176788432,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Essa é a coisa."
+      },
+      {
+        "start_time": 1776176788432,
+        "end_time": 1776176802654,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não, eu espero. Eu espero que eu consiga. Sim. Nas últimas atuações. Mas tem comunidades próximas ali, não tem? Ou eu estou errado em relação à comunidade?"
+      },
+      {
+        "start_time": 1776176802654,
+        "end_time": 1776176806554,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Que dá para chegar lá a pé?"
+      },
+      {
+        "start_time": 1776176806554,
+        "end_time": 1776176807111,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1776176807111,
+        "end_time": 1776176809897,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não tem comunidade próxima ali?"
+      },
+      {
+        "start_time": 1776176809897,
+        "end_time": 1776176827730,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Santo Amaro. Mas está lá. Mas o problema é eles andando. É complicado aí à noite. Eles andando para lá à noite está complicado. A gente está responsável para o que acontece. É isso que eu ia falar."
+      },
+      {
+        "start_time": 1776176827730,
+        "end_time": 1776176839477,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Lembrei de uma coisa que a gente está com necessidade de talvez ter, mas isso depende da captação, na verdade, de ter mais dinheiro para transporte para os alunos."
+      },
+      {
+        "start_time": 1776176839477,
+        "end_time": 1776176854857,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Se a gente tivesse dinheiro, mas outra coisa para pensar também, se a gente tivesse dinheiro para transporte, Isso abre muitas possibilidades, porque aí a gente sim está buscando outros crianças na frente das escolas deles."
+      },
+      {
+        "start_time": 1776176854857,
+        "end_time": 1776176864044,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Só que a gente não consegue pensar em, paralelamente mesmo, alguma empresa, conseguir algum patrocínio com alguma empresa de transporte. Sabemos que..."
+      },
+      {
+        "start_time": 1776176864044,
+        "end_time": 1776176865296,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E se alguém..."
+      },
+      {
+        "start_time": 1776176865296,
+        "end_time": 1776176874482,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tem a prefeitura, não é? Eu direi, então, a Flávia que conhece alguém sobre prefeitura, mas prefeituras são um vacilão, não é?"
+      },
+      {
+        "start_time": 1776176874482,
+        "end_time": 1776176911520,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Assim, você não... Eu concordo plenamente. Se a gente conseguir transporte, vai ajudar muitas coisas, mas tem uma coisa que a gente tem que botar na balança. O que sai mais em conta e o que sai mais produtivo? A gente pegar, por exemplo, onde está vindo mais alunos, lá do Rio Comprido, por exemplo. A gente sabe que ali a gente consegue muitos alunos dali. É mais lucrativo. Mais rendável a gente pegar um transporte fazendo a luz de lá para cima ou a gente ter um pólo lá embaixo?\n\n"
+      },
+      {
+        "start_time": 1776176911520,
+        "end_time": 1776176915219,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O lugar lá embaixo, sim. O que seria bom? Uma escola."
+      },
+      {
+        "start_time": 1776176915219,
+        "end_time": 1776176921946,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu não sei, mas assim, eu moro, eu tô aqui do lado do Rio Comprido, toda semana tem uma operação."
+      },
+      {
+        "start_time": 1776176921946,
+        "end_time": 1776176970392,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não, mas eu tô falando assim, o que seria mais prático? Porque, por exemplo, se a gente tivesse um pólo, um lugar que a gente possa dar aula no Rio Comprido, todo aquele pessoal vai pra ali. Eles já moram ali. É menos tempo de transporte ali em cima, é menos gasto. Todo mundo eles vão a pé pra ali. Por exemplo, a Pereira Raíssa da Vida que a gente possa fazer de polo, é exemplo. Não dá porque lá não tem caseiro.\n\n Mas se ali fosse um polo, pum, todo mundo vai pra ali. Ali já é o centro, o centro do Rio Comprido, né? Então, todos os... Turano, mas todo mundo pra ali. Então, eu acho que como ali é um celeiro, que a gente tá vendo, eu acho que, é melhor a gente conseguir um polo no Rio Cumprido do que um transporte para pegar a pessoa e levar para cima."
+      },
+      {
+        "start_time": 1776176970392,
+        "end_time": 1776177040408,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Até porque a casa do Tom já está... É a única coisa para pensar. Eu concordo que está perto disso. Se tiver alguma coisa que, depois das escolas, todas as escolas do Rio Cumprido vão para um determinado lugar, Seria bom. Aí, depois, eles podem... Depois de acabar, eles continuam lá e, quando eles chegam no ponto, eles podem ir para o Centro de Excelência na comunidade, para a gente ter isso. Mas só que a gente está...\n\n Seria a coisa de a gente, talvez, despressar um pouquinho. Aí é muita coisa para pensar, porque, na comunidade, a gente tem que já está... Enfim, são 11h30. A gente vai... Vamos pensar sobre essa coisa da rua, né? Deixa eu falar as tarefas. Raízes, passar vendas da lojinha de fevereiro. Para tomar remédio. Raízes, atualizar o assinamento dos professores. Raízes, checar se o digital se arredia, se paga todas as nossas despesas.\n\n Então, é bastante... Desculpa, vou fazer o quê?"
+      },
+      {
+        "start_time": 1776177040408,
+        "end_time": 1776177042604,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Desculpa a última frase. Raízes."
+      },
+      {
+        "start_time": 1776177042604,
+        "end_time": 1776177097293,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Raízes, checar se o edital... Ah, da Serra. ...paga todas as nossas depesas. Então, ver bastante luz. Então, orientar a edileza sobre cartas de som e carregando as coisas. Então, pedir para alerta para ídolo número dois e dois telebates altos para a Inglaterra. Wesley, organizar aula extra do governo na Semana do Vale e avisar os editais do grupo. Wesley, dia de repetir as aulas... Vou tirar essa, porque...\n\n Não, então, é isso. Essas são iguais. Wesley, explicar para a Juliana que vai ter batalha das partes do final do baile. Wesley, falar para o Wellington sempre checar com a pizzaria só por show e lanche aos sábados. Beleza? Beleza. Obrigado. Notas da reunião?"
+      },
+      {
+        "start_time": 1776177097293,
+        "end_time": 1776177098266,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não houve."
+      },
+      {
+        "start_time": 1776177098266,
+        "end_time": 1776177099239,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não houve."
+      },
+      {
+        "start_time": 1776177103984,
+        "end_time": 1776177107670,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Beleza. Muito obrigado, gente. Bom dia."
+      },
+      {
+        "start_time": 1776177115300,
+        "end_time": 1776177136230,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu posso te fazer só uma pergunta? É jogo rápido. Uma pergunta. Sim, sim. Sanzinho, o que acontece? É sobre a relação dos trombones. É bem rápido. A gente perdeu a vitória. Como eu te falei, né? Sim. Então, depois do baile, a gente promove um aluno pra subir pra verde?"
+      },
+      {
+        "start_time": 1776177136230,
+        "end_time": 1776177141565,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Acho que sim, né? Não, se tiver, né? Se tiver, sim. Não, tem."
+      },
+      {
+        "start_time": 1776177141565,
+        "end_time": 1776177207825,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Nós temos um aluno pra isso. Com chance sobre isso aí que acontece que eu queria ver promover esse aluno eu posso buscar aluno na escola para trombone no no curvelo porque tá vago assim gente entende nós temos nós não vai pesar no orçamento né não vai não vai mudar nada no orçamento a gente tem horário vago lá no curvelo e a gente precisa de trombones é porque eu tenho eu tenho eu tenho passado na escola das escolas que a gente vai trabalhar com trombone, e eu tenho visto que tem alunos que já estão bem pra frente, já lêem, já tocam flota, e eu acho que a gente poderia sondar, porque a gente tá com vaga lá no covelo, tá livre.\n\n Entende? Então, a gente precisa realmente de um trombone pra Banda Verde. Até tá vendo que é o Isaac, no caso, é o garoto que tá mais pra frente, pra subir. E eu pego, sondar dois, três alunos das escolas pra estar nesse grupo semente no Curvelo, que não vai mudar o horário. Tem livre, só tem três alunos de trombone lá."
+      },
+      {
+        "start_time": 1776177207825,
+        "end_time": 1776177213427,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A gente pode colocar mais uns três alunos de trombone lá pra começar de zero."
+      },
+      {
+        "start_time": 1776177213427,
+        "end_time": 1776177219776,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Com o mesmo horário de professor que a gente tem? Exatamente, entende? E a gente tá precisando."
+      },
+      {
+        "start_time": 1776177219776,
+        "end_time": 1776177235600,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, só vou sondar quem são os três que podem subir e já começa o ano. Tem que avisar em termos de lanche, né? Lanche? Sim, só... Avisar a situação, avisar o tempo do lanche. Não que pede alguma coisa, mas sem..."
+      },
+      {
+        "start_time": 1776177235600,
+        "end_time": 1776177238579,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É, mas porque, realmente, a gente tem horário."
+      },
+      {
+        "start_time": 1776177238579,
+        "end_time": 1776177256085,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O que a gente consegue com o mesmo número de professores, está ótimo. Não muda o horário nem nada. Eu queria que, no sábado, eu estivesse rendendo em termos de todos os professores. Então, você está me falando que pode ter mais três trombones lá? Está ótimo."
+      },
+      {
+        "start_time": 1776177256085,
+        "end_time": 1776177279992,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É, eu não posso muito. Muito mais porque eu não tenho instrumento pra isso. Mas se eu tivesse instrumento pra isso, eu poderia colocar um... Porque a Rafaela tem sete trompetes, eu poderia ter sete trombones também, tendo aula lá aos sábados, entende? Mas eu não tenho instrumento pra isso, porque eu tenho que ter instrumento separado pra Pereira, instrumento separado lá pra..."
+      },
+      {
+        "start_time": 1776177279992,
+        "end_time": 1776177286831,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, peraí. Mas eles são trombonistas das escolas, gente que já toca trombone, é isso? É, isso, isso."
+      },
+      {
+        "start_time": 1776177286885,
+        "end_time": 1776177290457,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "De anos anteriores. No ano passado. Então é isso."
+      },
+      {
+        "start_time": 1776177290457,
+        "end_time": 1776177296411,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então todos eles têm instrumento. Tem instrumento para todos que estavam tocando no ano passado."
+      },
+      {
+        "start_time": 1776177296411,
+        "end_time": 1776177303952,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim, estou falando. Eu não posso fazer mais. Eu não posso pegar mais aluno do zero para dar trombonete."
+      },
+      {
+        "start_time": 1776177303952,
+        "end_time": 1776177315859,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, mas isso nem é o intuito, né? Não, não. O intuito é de levar gente que já está tocando um instrumento. Não, está perfeito. Está aproveitado. Aproveitíssimo. Um abraço."
+      },
+      {
+        "start_time": 1776177315867,
+        "end_time": 1776177317005,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Até lá, tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Conference Room (Tom Ashe) - Speaker 2"
+      },
+      {
+        "name": "Wesley Araujo"
+      },
+      {
+        "name": "Conference Room (Tom Ashe) - Speaker 1"
+      },
+      {
+        "name": "Raíssa Celina da Costa Sousa"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Conference Room (Tom Ashe) - Speaker 3"
+      }
+    ]
+  },
+  "platform_meeting_id": "kvi-hiio-tqq",
+  "platform": "meet"
+}

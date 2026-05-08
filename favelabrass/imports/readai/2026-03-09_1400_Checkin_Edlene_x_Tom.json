@@ -1,0 +1,1574 @@
+{
+  "session_id": "01KK9AH3M2W3KM2KN0A1K5W3EX",
+  "trigger": "meeting_end",
+  "title": "Checkin Edlene x Tom",
+  "start_time": "2026-03-09T10:01:04-03:00",
+  "end_time": "2026-03-09T10:55:21-03:00",
+  "participants": [
+    {
+      "name": "Edlene conrado",
+      "first_name": "Edlene",
+      "last_name": "conrado",
+      "email": null
+    },
+    {
+      "name": "producao@favelabrass.org",
+      "first_name": "producao@favelabrass.org",
+      "last_name": null,
+      "email": "producao@favelabrass.org"
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião teve como objetivo organizar a logística, comunicação e materiais para o evento no Zola, além de alinhar viagens e apresentações em Paraty e Belo Horizonte. Inicialmente discutiu-se falhas de comunicação com a pizzaria, apontando falta de repasse do gerente Simon e a necessidade de confirmar tudo com a nova gerente Amanda; também houve incerteza sobre a saída da Raíssa e o impacto na coordenação de compras e fornecedores. Foi feita uma avaliação do último evento: apresentação das crianças bem executada internamente, mas desconforto de funcionários do estabelecimento por falta de aviso prévio.\n\nSeguiu-se tratativa sobre materiais e compras — camisas, artes, acabamento gráfico pela Beatriz, decoração e iluminação — com atenção às limitações de compras via Lei Rouanet/CNPJ e fornecedores aprovados (Mercado Livre, Calunga, Amazon). Comunicação externa incluirá release e mapeamento de páginas locais com divulgação prevista para cerca de uma semana antes. Sobre as viagens, decidiu-se dividir a “banda preta” em duas formações (Tom para Paraty; Wesley para BH) e definir a alocação restante em reunião com Wesley Raiz; Paraty permanece incerta devido à tragédia ambiental, e BH tem horários provisórios (sábado 17h, domingo 11h) condicionados a produtores e patrocínio da Unimed.\n\nForam também ajustados processos de registro de eventos no sistema e integração por Slack/WhatsApp, com Tom mostrando onde inserir resumos e Edlene solicitando ajustes de campos. Para o evento do dia 20, coordenou-se alimentação (pizza, refrigerantes, água), horários de serviço e postura da apresentação; responsabilidades foram atribuídas (Amanda atendimento, Cláudio servir pizzas, Antônio limpeza) e o registro do evento será inserido na planilha e calendário pela Edlene.",
+  "action_items": [
+    {
+      "text": "Tom Ashe: Combine as confirmações com Saron e Vê e coordene o contato com Amanda"
+    },
+    {
+      "text": "Edlene conrado: Confirme todos os detalhes do evento diretamente com a gerente Amanda"
+    },
+    {
+      "text": "Beatriz: Finalize os banners e materiais gráficos pendentes e disponibilize para revisão"
+    },
+    {
+      "text": "Edlene conrado: Agende e realize a visita técnica com Elton para definir decoração e desenhar o layout do local"
+    },
+    {
+      "text": "Edlene conrado: Compare preços de globos e jogos de luz entre Shopee e Mercado Livre e escolha fornecedor"
+    },
+    {
+      "text": "Edlene conrado: Prepare o release e mapeie páginas locais para divulgação; envie material de imprensa com duas semanas de antecedência do evento"
+    },
+    {
+      "text": "Edlene conrado: Envie as artes das camisas para a Raíssa para ver aprovação de fornecedor e cadastro"
+    },
+    {
+      "text": "Edlene conrado: Leve a camisa de produção feita pelo fornecedor para Tom avaliar a qualidade de impressão no próximo encontro no Zola"
+    },
+    {
+      "text": "Tom Ashe: Defina a divisão final da equipe para Paraty e BH na reunião com Wesley Raiz"
+    },
+    {
+      "text": "Tom Ashe: Confirmar e comunicar os horários finais e detalhes de hospedagem com os produtores de BH assim que tiver retorno"
+    },
+    {
+      "text": "Tom Ashe: Colocar o presidente em contato com Roberto e Bruno para fechar detalhes do evento quando houver confirmação"
+    },
+    {
+      "text": "Edlene conrado: Preparar o programa horário (chegada, saída, apresentação) assim que receber os contatos e confirmações dos produtores"
+    },
+    {
+      "text": "Claudio: Enviar a mensagem resumida no Slack para Edlene conforme solicitação (via Tom)"
+    },
+    {
+      "text": "Tom Ashe: Inserir o status \"já realizado\" na plataforma de eventos conforme solicitado por Edlene"
+    },
+    {
+      "text": "Tom Ashe: Conversar com Simon sobre colaboração e divulgação do Zola para garantir publicação e acomodação das crianças na sombra"
+    },
+    {
+      "text": "Wesley: Buscar e confirmar banda convidada ou ex-alunos para o evento do dia 20"
+    },
+    {
+      "text": "Tom Ashe: Confirmar com Wesley o cronograma detalhado do dia 20 (horários e ordem das apresentações)"
+    },
+    {
+      "text": "Edlene conrado: Reservar/contratar uma van para transporte da banda preta nas apresentações locais de sábado conforme combinado"
+    },
+    {
+      "text": "Edlene conrado: Marcar reunião de check-in de responsabilidades com a equipe e Zola"
+    },
+    {
+      "text": "Amanda: Atender a produção durante todo o tempo em que a produção estiver presente no Zola"
+    },
+    {
+      "text": "Cláudio: Servir as pizzas para as crianças no evento"
+    },
+    {
+      "text": "Antônio: Cuidar da limpeza e organização do espaço durante o evento"
+    },
+    {
+      "text": "Tom Ashe: Tentar agendar uma reunião em Arizona com a equipe do local"
+    },
+    {
+      "text": "Edlene conrado: Inserir o evento do dia 20 no calendário"
+    },
+    {
+      "text": "Edlene conrado: Alimentar a planilha de produção e atualizar o sistema com os dados do evento"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "A Raíssa saiu da equipe?"
+    },
+    {
+      "text": "Quem está trabalhando como designer?"
+    },
+    {
+      "text": "Existe algum banner específico faltando nos materiais?"
+    },
+    {
+      "text": "O baile e a comida serão pagos pelos pais ou não?"
+    },
+    {
+      "text": "A viagem para BH está confirmada?"
+    },
+    {
+      "text": "Os horários de apresentação em BH já foram assinados com o produtor?"
+    },
+    {
+      "text": "Qual é o horário previsto para o evento do dia 20?"
+    },
+    {
+      "text": "A que evento se refere o feedback mencionado?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "A comunicação com o time do Zola falhou em eventos anteriores e gerou desconforto na equipe do local."
+    },
+    {
+      "text": "É necessário confirmar comunicação e repasses com a nova gerente Amanda para evitar surpresas no Zola."
+    },
+    {
+      "text": "A organização interna do evento funcionou bem: professores dedicaram atenção às crianças e a apresentação começou antes do horário previsto."
+    },
+    {
+      "text": "Decidiu-se priorizar o QR Code de apoio ao projeto no Zola e deixar a lojinha para eventos maiores."
+    },
+    {
+      "text": "Surgiu proposta para criar produtos (camisas, copos) com frases e artes das crianças para diferenciar a lojinha."
+    },
+    {
+      "text": "A Beatriz está finalizando o material gráfico e ainda há pendências de banners e outros materiais."
+    },
+    {
+      "text": "Há restrições de compra por Lei Rouanet; fornecedores aprovados foram indicados, e será necessário checar cadastro com Raíssa para compras CNPJ/nota fiscal."
+    },
+    {
+      "text": "Foi proposta visita técnica de decoração com o Elton para definir a cenografia e a compra de luzes e globos que ficarão para uso futuro."
+    },
+    {
+      "text": "A ideia de barraquinhas de comida foi discutida, mas há receio sobre conflitos com a comunidade e impacto financeiro/operacional; optou-se por avaliar no primeiro evento."
+    },
+    {
+      "text": "Será produzido um release e feito mapeamento de páginas locais para divulgar o evento, com execução próxima ao evento (uma semana antes)."
+    },
+    {
+      "text": "Há incerteza sobre realização em Paraty devido à tragédia ambiental e possível impacto na cidade e cancelamentos"
+    },
+    {
+      "text": "A banda preta será dividida em duas para atender Paraty e BH simultaneamente"
+    },
+    {
+      "text": "Tom irá para Paraty e Wesley ficará responsável por BH; a alocação do restante da equipe será definida em reunião com Wesley Raiz"
+    },
+    {
+      "text": "Horários provisórios em BH são sábado às 17h e domingo às 11h, aguardando confirmação dos produtores e patrocinador"
+    },
+    {
+      "text": "Foi decidido centralizar lições aprendidas e resumos de WhatsApp/Slack no sistema de eventos para registrar procedimentos e históricos"
+    },
+    {
+      "text": "O Zola terá apresentações semanais de 15 minutos aos sábados, com necessidade de cuidado para não expor crianças ao sol"
+    },
+    {
+      "text": "Evento no Zola está marcado para o dia 20, com formato sugerido de banda convidada das 18:30–19:30 e crianças das 19:30–20:30, seguido de “batalha de bandas”"
+    },
+    {
+      "text": "Transporte para apresentações curtas será em van; para deslocamentos maiores ou com mais participantes, negociar micro-ônibus conforme necessidade e disponibilidade"
+    },
+    {
+      "text": "A alimentação do evento incluirá van, refrigerantes, água e pizza fornecida pelo Zola, com atenção à quantidade"
+    },
+    {
+      "text": "A pizzaria precisa ser comunicada sobre a limitação de quantidade (ex.: duas pizzas por aluno no evento anterior) e sobre o horário de consumo até 21h, com consumo iniciado meia hora antes do término"
+    },
+    {
+      "text": "A apresentação será no dia 20, com horário previsto de 18h às 21h"
+    },
+    {
+      "text": "Haverá convidados e uma banda convidada que exigirão um pitch específico durante o evento"
+    },
+    {
+      "text": "Amanda foi designada para atendimento da produção presente no Zola"
+    },
+    {
+      "text": "Cláudio foi designado para servir pizzas às crianças"
+    },
+    {
+      "text": "Antônio foi designado para cuidar da limpeza e organização do espaço durante o evento"
+    },
+    {
+      "text": "É necessário agendar uma reunião de alinhamento em Arizona, se possível, e aproveitar as presenças aos sábados para conversar com a equipe local"
+    },
+    {
+      "text": "O evento será registrado tanto no sistema quanto em planilha de produção por Edlene"
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KK9AH3M2W3KM2KN0A1K5W3EX",
+  "chapter_summaries": [
+    {
+      "title": "Abertura e chegada dos participantes",
+      "description": "Saudações iniciais e ajustes pessoais marcaram o começo da reunião, com breve comentário sobre horários e ausência de crianças. Em seguida, foi proposta a pauta principal: falar sobre o evento no Zola (pizzaria).",
+      "topics": [
+        "A comunicação com o time do Zola falhou em eventos anteriores e gerou desconforto na equipe do local."
+      ]
+    },
+    {
+      "title": "Comunicação com o Zola e a equipe de produção",
+      "description": "Discutiram-se falhas de comunicação com o gerente Simon e com Natasha/Natacha, e a sugestão de centralizar confirmações com a nova gerente Amanda para evitar surpresas no local. Houve menção à possível saída da Raíssa e incerteza sobre seu desligamento.",
+      "topics": [
+        "É necessário confirmar comunicação e repasses com a nova gerente Amanda para evitar surpresas no Zola."
+      ]
+    },
+    {
+      "title": "Avaliação da execução do evento e logística das crianças",
+      "description": "O grupo avaliou que, apesar do desconforto com pessoas não avisadas no local, a execução interna foi positiva: professores cuidaram das crianças, apresentações ocorreram pontualmente e a organização de equipe funcionou bem.",
+      "topics": [
+        "A organização interna do evento funcionou bem: professores dedicaram atenção às crianças e a apresentação começou antes do horário previsto."
+      ]
+    },
+    {
+      "title": "Lojinha, merchandising e ideias de produto",
+      "description": "Debate sobre vendas no evento levou à ideia de priorizar o QR Code de apoio em vez da lojinha em eventos pequenos, e à proposta de criar novas estampas usando frases e artes das crianças para camisas, copos e bolsas.",
+      "topics": [
+        "Decidiu-se priorizar o QR Code de apoio ao projeto no Zola e deixar a lojinha para eventos maiores.",
+        "Surgiu proposta para criar produtos (camisas, copos) com frases e artes das crianças para diferenciar a lojinha."
+      ]
+    },
+    {
+      "title": "Design e materiais gráficos",
+      "description": "Confirmou-se que Beatriz está finalizando os banners e que há pendências relacionadas ao designer e aos materiais a produzir; discutiu-se também o processo de aprovação de artes para uso futuro.",
+      "topics": [
+        "A Beatriz está finalizando o material gráfico e ainda há pendências de banners e outros materiais."
+      ]
+    },
+    {
+      "title": "Compras, fornecedores e decoração",
+      "description": "Foram tratadas restrições de compra por Lei Rouanet e necessidade de CNPJ/nota fiscal; indicaram-se fornecedores aprovados (Mercado Livre, Calunga, Amazon) e planejou-se visita técnica com Elton para definir decoração e aquisição de luzes e globos para uso contínuo.",
+      "topics": [
+        "Há restrições de compra por Lei Rouanet; fornecedores aprovados foram indicados, e será necessário checar cadastro com Raíssa para compras CNPJ/nota fiscal.",
+        "Foi proposta visita técnica de decoração com o Elton para definir a cenografia e a compra de luzes e globos que ficarão para uso futuro."
+      ]
+    },
+    {
+      "title": "Alimentação, vendas e divulgação",
+      "description": "Avaliou-se a viabilidade de barraquinhas versus bufê para crianças, com preocupações sobre aceitação pela comunidade e fluxo de consumo; ficou definido testar e avaliar no primeiro evento. Também foi definido iniciar elaboração de release e mapear páginas locais para divulgação com prazo aproximado de uma semana antes do evento.",
+      "topics": [
+        "A ideia de barraquinhas de comida foi discutida, mas há receio sobre conflitos com a comunidade e impacto financeiro/operacional; optou-se por avaliar no primeiro evento.",
+        "Será produzido um release e feito mapeamento de páginas locais para divulgar o evento, com execução próxima ao evento (uma semana antes)."
+      ]
+    },
+    {
+      "title": "Viagens e divisão da banda",
+      "description": "Discutiu-se a confirmação das viagens e incertezas sobre Paraty devido a uma tragédia ambiental. A equipe decidiu dividir a banda preta em duas para cobrir simultaneamente Paraty e BH no mesmo final de semana e começou a definir responsáveis: Tom para Paraty e Wesley para BH, com detalhamento de alocação a ser tratado em reunião com Wesley Raiz.",
+      "topics": [
+        "Há incerteza sobre realização em Paraty devido à tragédia ambiental e possível impacto na cidade e cancelamentos",
+        "A banda preta será dividida em duas para atender Paraty e BH simultaneamente",
+        "Tom irá para Paraty e Wesley ficará responsável por BH; a alocação do restante da equipe será definida em reunião com Wesley Raiz"
+      ]
+    },
+    {
+      "title": "Logística dos eventos em BH e Paraty",
+      "description": "Foram debatidos horários provisórios, hospedagem e cachês em BH, com sugestões de pernoite para dar valor à viagem e negociações sobre transporte e pagamento de custos pelos produtores. Ficou claro que detalhes finais dependem do retorno dos produtores Roberto e Bruno, e que Tom colocará o presidente em contato com eles quando houver confirmação.",
+      "topics": [
+        "Horários provisórios em BH são sábado às 17h e domingo às 11h, aguardando confirmação dos produtores e patrocinador"
+      ]
+    },
+    {
+      "title": "Sistema, comunicação e registro de eventos",
+      "description": "Tom apresentou a proposta de centralizar lições aprendidas e fichas de eventos no sistema e demonstrou como copiar resumos do WhatsApp para o Slack e a plataforma de eventos. Edlene solicitou ajustes de status para incluir eventos \"já realizados\" e ambos concordaram em adaptar campos da ficha de WhatsApp conforme necessidade.",
+      "topics": [
+        "Foi decidido centralizar lições aprendidas e resumos de WhatsApp/Slack no sistema de eventos para registrar procedimentos e históricos"
+      ]
+    },
+    {
+      "title": "Operações e divulgação no Zola",
+      "description": "Debate sobre formato das apresentações semanais na pizzaria Zola, com preocupação sobre divulgar encontros curtos e a necessidade de comunicação/colaborações com a casa. Foram tratadas questões operacionais como proteção do sol para crianças, fornecimento de pizza aos responsáveis, e avaliação do atendimento da pizzaria durante eventos.",
+      "topics": [
+        "O Zola terá apresentações semanais de 15 minutos aos sábados, com necessidade de cuidado para não expor crianças ao sol"
+      ]
+    },
+    {
+      "title": "Evento do dia 20 e transporte",
+      "description": "Planejou-se um evento no dia 20, com possível programação de 18:30–19:30 para banda convidada e 19:30–20:30 para as crianças, seguido por batalha de bandas; Wesley buscará banda convidada ou ex-alunos. Discutiram-se opções de transporte: levar apenas a banda preta em van para eventos noturnos ou alugar micro-ônibus quando necessário, considerando experiências anteriores com fornecedores.",
+      "topics": [
+        "Evento no Zola está marcado para o dia 20, com formato sugerido de banda convidada das 18:30–19:30 e crianças das 19:30–20:30, seguido de “batalha de bandas”",
+        "Transporte para apresentações curtas será em van; para deslocamentos maiores ou com mais participantes, negociar micro-ônibus conforme necessidade e disponibilidade"
+      ]
+    },
+    {
+      "title": "Logística de alimentação e comunicação com a pizzaria",
+      "description": "Discussão sobre os itens de alimentação necessários para o evento (van, refrigerantes, água, pizza) e sobre a comunicação com a pizzaria quanto à quantidade disponível e ao horário de fornecimento. Foi destacada a necessidade de ser claro com a pizzaria sobre o horário de consumo e as expectativas para evitar repetir problemas anteriores.",
+      "topics": [
+        "A alimentação do evento incluirá van, refrigerantes, água e pizza fornecida pelo Zola, com atenção à quantidade"
+      ]
+    },
+    {
+      "title": "Organização do horário da apresentação e prevenção de contratempos",
+      "description": "Alinhamento do horário da apresentação (18h–21h) e da necessidade de um roteiro/português bem definido para evitar constrangimentos na frente de convidados e da banda. Também foi mencionada a presença de vários convidados e a necessidade de entregar um pitch para a banda convidada.",
+      "topics": [
+        "A pizzaria precisa ser comunicada sobre a limitação de quantidade (ex.: duas pizzas por aluno no evento anterior) e sobre o horário de consumo até 21h, com consumo iniciado meia hora antes do término",
+        "A apresentação será no dia 20, com horário previsto de 18h às 21h",
+        "Haverá convidados e uma banda convidada que exigirão um pitch específico durante o evento"
+      ]
+    },
+    {
+      "title": "Designação de responsabilidades operacionais",
+      "description": "Atribuição de papéis: Edlene ofereceu fazer check-in e coordenação, Amanda responsável por atender a produção no Zola, Cláudio para servir pizzas às crianças e Antônio para limpeza/organização. Houve preocupação em separar funções de servir e limpar para manter higiene e apresentação profissional.",
+      "topics": [
+        "Amanda foi designada para atendimento da produção presente no Zola",
+        "Cláudio foi designado para servir pizzas às crianças",
+        "Antônio foi designado para cuidar da limpeza e organização do espaço durante o evento"
+      ]
+    },
+    {
+      "title": "Agendamento de reuniões e aproveitamento de interações presenciais",
+      "description": "Tom propôs tentar agendar uma reunião em Arizona para alinhamento e destacou que a equipe já conversa com o local aos sábados, embora reconheça a agenda cheia da equipe local. Ficou decidido tentar essa reunião para reforçar o relacionamento e o andamento do trabalho.",
+      "topics": [
+        "É necessário agendar uma reunião de alinhamento em Arizona, se possível, e aproveitar as presenças aos sábados para conversar com a equipe local"
+      ]
+    },
+    {
+      "title": "Registro do evento e uso de planilha/sistema",
+      "description": "Discussão sobre o melhor horário para movimento (noite) e confirmação de que a lojinha estará presente. Edlene se comprometeu a inserir o evento no calendário e a alimentar tanto a planilha quanto o sistema de produção para controle visual e operacional.",
+      "topics": [
+        "O evento será registrado tanto no sistema quanto em planilha de produção por Edlene"
+      ]
+    },
+    {
+      "title": "Encerramento e confirmações finais",
+      "description": "Confirmação final de que Edlene vai alimentar a planilha e o sistema, pedido para Tom informar sobre o evento do dia 20 e próximos eventos, e despedida entre participantes.",
+      "topics": []
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1773061444681,
+        "end_time": 1773061550496,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E aí Fui."
+      },
+      {
+        "start_time": 1773061660640,
+        "end_time": 1773061793752,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E aí E aí Olá, bom dia. Desculpa. Tá muito bem."
+      },
+      {
+        "start_time": 1773061793752,
+        "end_time": 1773061797053,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Deixa eu só ajeitar aqui, meu."
+      },
+      {
+        "start_time": 1773061797053,
+        "end_time": 1773061861216,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "A gente, sem criança, a gente perde a hora, né, da vida. Ah, sim, a sua criança tá... A Zuri não tá, e aí eu acabei prolongando, assisti, tô botando tudo que tá pendente na minha vida. Sem criança. Enfim, podemos começar sobre o evento. A gente pode começar a falar sobre o evento lá no Zola, na pizzaria. O evento eu acho que as pessoas que estavam envolvidas lá fazendo a pizza não sabiam do que estava acontecendo e eles ficaram um pouco assustados quando as crianças Então, eu não sei se você quer passar pra mim essa responsabilidade de falar, olha, Amanda, avisar, enfim, mas eu acho que você mesmo pode fazer esse...\n\n Esse aviso, né, porque foi bem desconfortável mais uma vez na escola."
+      },
+      {
+        "start_time": 1773061861216,
+        "end_time": 1773061895142,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas só pra você ter uma ideia, eu e Wesley, Estamos num grupo com o Simon, que é o gerente, e o é o dono. E a gente confirmei na véspera, sabe? No grupo e depois mensagem particular para o Simon. Então, a gente sabe que a comunicação lá está meio capenga."
+      },
+      {
+        "start_time": 1773061895142,
+        "end_time": 1773061897562,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Sim. A Raíssa saiu?"
+      },
+      {
+        "start_time": 1773061898624,
+        "end_time": 1773061899087,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não."
+      },
+      {
+        "start_time": 1773061899087,
+        "end_time": 1773061903721,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Porque com a Raíssa funcionava melhor, não é? A Raíssa..."
+      },
+      {
+        "start_time": 1773061903721,
+        "end_time": 1773061904647,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Natacha, talvez."
+      },
+      {
+        "start_time": 1773061904647,
+        "end_time": 1773061905574,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Natacha, isso."
+      },
+      {
+        "start_time": 1773061905574,
+        "end_time": 1773061949173,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, mas Natacha também não foi, a comunicação não foi muito boa. E um dos problemas que a gente teve é que eu estava mandando mensagem, mensagem, mensagem para a Natacha sobre os eventos que estão vindo e ela não estava respondendo. Aí eu falei, com o Simon e o Vê depois. Eu falei, mas como a Natasha está aqui? Só para entender. E era isso mesmo, ela saiu. Então, pelo menos... Ela saiu, então? Ela saiu ou foi saída, não sei.\n\n Mas aí a gente trata com... É estranho, a gente trata com o Simon e..."
+      },
+      {
+        "start_time": 1773061949173,
+        "end_time": 1773061951742,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E ele não repassa, não é?"
+      },
+      {
+        "start_time": 1773061951742,
+        "end_time": 1773061955167,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Parece que a gente está invadindo o espaço."
+      },
+      {
+        "start_time": 1773061955176,
+        "end_time": 1773061973000,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas aí, a gente pode ter uma coisa que eu vou combinar com o Saron e o Vê, mas você combinando tudo com a Amanda. Amanda. Aí depende de você confirmando tudo com a Amanda para ver..."
+      },
+      {
+        "start_time": 1773061973000,
+        "end_time": 1773061975345,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Amanda é a gerente nova."
+      },
+      {
+        "start_time": 1773061975345,
+        "end_time": 1773061985815,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gerente, exatamente. Então, a gente também confirmando tudo com a Amanda, porque a gente entende porque ela vai ficar surpreendida."
+      },
+      {
+        "start_time": 1773061985815,
+        "end_time": 1773061998573,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "É, porque parece que a gente estava invadindo o espaço. E quando eu vi ela falando que seria uma pizza por aluno, aí eu levei para você."
+      },
+      {
+        "start_time": 1773061998573,
+        "end_time": 1773062017056,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim. É porque eu acho que foi a mesma coisa no Carnaval, e por isso os problemas com... Porque só de olhar a cara da... Da menina que estava fazendo a pizza. Isso é uma pessoa que não foi avisada."
+      },
+      {
+        "start_time": 1773062017056,
+        "end_time": 1773062020357,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas essa cara dela está desde o cortejo."
+      },
+      {
+        "start_time": 1773062020357,
+        "end_time": 1773062022008,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Sim, sim, não, exatamente."
+      },
+      {
+        "start_time": 1773062022008,
+        "end_time": 1773062191028,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Mas eu acho que foi ótimo. Eu acho que a gente conseguiu. E aí, questão de equipe. A gente conseguiu executar o que eu tinha colocado no grupo. Então, os professores realmente deram atenção para as crianças. Então, não tivemos problema com crianças. Crianças que comeu, não comeu, enfim. Eu acho que fluiu aquela organização falando que cada um iria fazer, sem a gente precisar, no dia, estar pedindo.\n\n Eu acho que é uma coisa que deu certo. Essa organização de equipe dentro do grupo, para visualizar, o programa também de horários super funcionou também, a gente não teve atraso. A apresentação das crianças, inclusive, começou cinco minutos antes. E que pra mim é ótimo, assim, quando as coisas acontecem dentro do que a gente planeja, né? A água, refrigerante, lojinha, a gente não teve venda. E aí é uma coisa também pra gente pensar se a gente bota a lojinha quando tiver essas apresentações no Zola ou a gente só coloca o QR Code de ajuda do projeto, o Bunny.\n\n Então, as crianças estão se apresentando, vai ter o Bunny de ajuda lá. E a lojinha a gente deixa para eventos maiores. Sim. E aí, em relação à lojinha, eu até pensei, eu estava vendo as crianças, e aí eu pensei da gente, não sei se você topa, enfim, de fazer material novo, blusa, com frases que as crianças falam sobre o projeto. Vamos lá, Antônio. Antônio, 7 anos de idade, o que é música pra você?\n\n Faz essa pergunta pra ele, ele vai falar. Música pra mim é a mudança do mundo. E é estampar essa frase pra todos os alunos, sabe? Eu acho que também é um material legal e que não fica somente uma estampa e tem mais... É diversidade, né? Dentro da lojinha, das escolheiras. Não pode chamar as frases em camisas, em copos. Eu tô só trazendo essa ideia porque eu falei, poxa, só tem um tipo de estampa, né?\n\n E aí, fica todo mundo igual. Então, acho que a gente pode usar, assim, essa... Usar até a arte das crianças mesmo, né? De frases. E aí, bota o nome delas, aluno do projeto, sabe? A assinatura delas, enfim. Uma ideia que veio até compartilhar com a sua esposa, e ela falou, leva para o Tom. Sim, sim, sim."
+      },
+      {
+        "start_time": 1773062191028,
+        "end_time": 1773062212194,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A ideia é levar mesmo ideias, enfim. Eu acho legal, eu levo amanhã na reunião, porque aquela coisa de ter aquela camisa, que realmente a pessoa pensa, não, eu quero, sabe? E é como diferenciar com isso das crianças. Então, acho interessante."
+      },
+      {
+        "start_time": 1773062212194,
+        "end_time": 1773062228842,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E a frase das crianças acho legal. É, pode ter até o logo mesmo, sabe? O logo nas costas meio degradê, sabe? Nas costas, o logo da Favela Brás e a frase na frente. Uma logo bem pequenininha finalizando a frase."
+      },
+      {
+        "start_time": 1773062228842,
+        "end_time": 1773062241048,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, a gente bota na mão de um designer coisa assim, eu acho que a gente a gente tem que localizar para o futuro."
+      },
+      {
+        "start_time": 1773062241048,
+        "end_time": 1773062246037,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "A gente já conseguiu finalizar o designer?"
+      },
+      {
+        "start_time": 1773062246037,
+        "end_time": 1773062251025,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quem está trabalhando como designer? Qual designer?"
+      },
+      {
+        "start_time": 1773062251025,
+        "end_time": 1773062256014,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "O designer que estava fazendo as banners."
+      },
+      {
+        "start_time": 1773062256014,
+        "end_time": 1773062271955,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ela está fazendo ainda. A Beatriz está terminando. O que está pendente para você em termos de... Tem um banner específico que está faltando? Os materiais."
+      },
+      {
+        "start_time": 1773062271955,
+        "end_time": 1773062292703,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "A princípio, a gente está esperando o dinheiro cair para começar já a produzir o bairro. Então, eu não sei se a gente consegue. Por ser Lei Rouanet, eu estava querendo comprar pela Shopping, sabe? Algumas coisas, porque é muito mais barato pela internet do que comprar fisicamente."
+      },
+      {
+        "start_time": 1773062292711,
+        "end_time": 1773062293632,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então... Sim."
+      },
+      {
+        "start_time": 1773062293632,
+        "end_time": 1773062299159,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu estava querendo já comprar na Shopee, eu já separei no carrinho."
+      },
+      {
+        "start_time": 1773062299159,
+        "end_time": 1773062309753,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, o lugar que eu sei que a gente pode comprar coisas, a gente tem contabilidade para comprar coisas, é Mercado Livre. Sim."
+      },
+      {
+        "start_time": 1773062309753,
+        "end_time": 1773062313438,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Mas isso você fala com... Com a Raíssa."
+      },
+      {
+        "start_time": 1773062313438,
+        "end_time": 1773062316201,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A Raíssa falou Mercado Livre. Calunga."
+      },
+      {
+        "start_time": 1773062316201,
+        "end_time": 1773062320807,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Calunga também. E ela falou, acho que é a Amazon."
+      },
+      {
+        "start_time": 1773062320807,
+        "end_time": 1773062329131,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente. Mas vê com ela se ela consegue um cadastro. O problema é essa tal da CNPJ, não é?"
+      },
+      {
+        "start_time": 1773062329131,
+        "end_time": 1773062357981,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "É, isso que dá problema, porque nota a gente consegue dentro desses lugares. Já vem a nota quando vem o material. E aí, Tom, vou montar no desenho mesmo. Marquei com o Elton para a gente fazer a visita técnica para eu pensar como vai ficar a questão da decoração do local. E aí, lá no dia, eu vou desenhar na mão mesmo, como eu pensei. Então, ainda..."
+      },
+      {
+        "start_time": 1773062357981,
+        "end_time": 1773062359231,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "De decoração. Caraca!"
+      },
+      {
+        "start_time": 1773062359231,
+        "end_time": 1773062438203,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Desenhar na mão mesmo, né? E aí, no dia lá, a gente manda o desenho pra você. O que eu pensei foi, basicamente, o que eu já tinha trago na última reunião, né? Que era luzes de baile mesmo, aquelas luzinhas. E aí é uma coisa que a gente vai ficar pra gente, vai comprar e vai ficar pros próximos mais. Luzes, jogos de luzes, né, que se fala. Jogos de luzes, aquelas bolas, sabe, que é cheio de brilho.\n\n Que eu já vi na Shopping também, que o valor tá muito bom. Tá R$54,00 cada bola, Globo. E tá bem legal o valor. E aí eu não sei, eu vou comparar ainda no Mercado Livre. Mas eu acho o Mercado Livre caríssimo. Em comparação a Choppy, né? Então, eu vou basicamente com o Ayrton lá no Galinhão, né? E aí, a gente vai estudar o que a gente pensou. E aí, eu trouxe pra ele também, eu queria dividir, sobre a alimentação nesse dia.\n\n Eu tava pensando, eu já comecei a fazer uma pesquisa que, em vez da gente contratar comida da Dona Ivonette, a gente pode contratar barraquinhas. Para estar no dia. A gente já fez isso."
+      },
+      {
+        "start_time": 1773062438203,
+        "end_time": 1773062517986,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não deu certo? Tem um problema disso, tem questão disso. A gente tem mais difíceis. E tem mais que tem barraca, que queria vender, mas a gente colocou a nossa barraca. Aí colocam uma mais e não tem outro bairro na barraca. Cara, deu... Eu acho uma excelente ideia. Não que a gente não pode fazer, E mas a dá outra esse coisa é novo que acabeço. A gente não sabe quantas pessoas vêm. No bairro. Eu acho que, de repente, vê o primeiro e vê o que você acha.\n\n Eu acho, mas... Porque... Porque o que acontece? Alguém está... Não deveria ser esse pensamento da parte de alguns mais, mas tem mais que fala, olha esse pessoal ganhando em cima das nossas crianças, vendendo na nossa comunidade, no nosso espaço, as crianças tocando e a gente... É isso. E é assim, qualquer ganho financeiro ou de qualidade de comida que a gente tem, não compensa para a dor de cabeça que isso dá, sabe?\n\n Tá, entendi. Infelizmente. Infelizmente. Mas é isso."
+      },
+      {
+        "start_time": 1773062517986,
+        "end_time": 1773062523413,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "O baile e a comida, os pais pagam ou não?"
+      },
+      {
+        "start_time": 1773062523413,
+        "end_time": 1773062541638,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É uma coisa... Não, o baile alivia, Vende, tem um lanchonete lá embaixo, vende... Já vende as coisas de telas, salgadas... Vende lá embaixo e lá em cima a gente tem bufê para as crianças. Perfeito. Então, o bufê seria para as crianças."
+      },
+      {
+        "start_time": 1773062541638,
+        "end_time": 1773062546750,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Porque é isso, a gente não mexe o que já está dando certo."
+      },
+      {
+        "start_time": 1773062546750,
+        "end_time": 1773062552648,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho que essa é a parte que você vê primeiro. Vê essa parte primeiro."
+      },
+      {
+        "start_time": 1773062552648,
+        "end_time": 1773062558972,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Que o Elton até falou, É legal a gente botar uma estação de açaí, estação de crepe."
+      },
+      {
+        "start_time": 1773062558972,
+        "end_time": 1773062591088,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A última coisa que a gente tem que ver é o movimento, porque os pais não consomem muito e a gente fazendo tudo mês. Geralmente, teve os pais e as crianças e as outras bandas, que já dá 100 em 100 pessoas, mas não teve um supermega consumo. E a gente tem que pensar na Livre também, que está vendendo as vendas da dona do lugar. Então, eu sugiro que você só veja isso primeiro, aí depois dá a sua avaliação.\n\n Tá, perfeito."
+      },
+      {
+        "start_time": 1773062591088,
+        "end_time": 1773062752876,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Então, a gente mantém da forma que já está planejado, que já aconteceu no objetivo de base. Sim. Ah, Relys, eu vou começar a trabalhar na semana, uma semana, porque como é pré-jornal, para subir matéria, eles não sobem matéria com bastante de antecedência ou seja eles não sobem algo que vai acontecer daqui um mês eles trabalham uma semana antes tá então eu vou estar trabalhando uma coisa do release para jogar para as mídias é duas semanas antes do evento acontecer tá para você não não se preocupar em relação inclusive eu já comecei a mapear páginas daqui da zona sul que eu acho interessante está falando sobre o baile exemplo alertas Alerta Catete, página de notícias.\n\n E aí os caras fazem sobre cultura, mas aí eu vou conversar com eles, enfim, vou tentar entender se tem esse eixo dentro. E aí eu já comecei a mapear essas páginas, de falar e tudo mais, me apresentar. A Raíssa me mandou o contato. De um lugar aonde vocês já fazem, já tem autorização para comprar refrigerante, água. A Raíssa é uma pessoa que eu tenho muita troca quase todos os dias da semana que a gente fala, para coisas mesmo de produção financeira.\n\n E aí ela me passou uma lista, aí ela falou, olha, essas pessoas já estão ok com o MEI, com o CNPJ dela, já estão ok, elas já trocaram que tiveram que trocar pra ficar dentro da lei de incentivo. E aí, novos fornecedores, ela falou pra ter cuidado. Alguns não aceitam alguma coisa, não aceitam colocar o texto. E aí, ela pediu esse cuidado, a gente tem que falar. Enfim, refrigerante também, eu já comecei Entendi.\n\n"
+      },
+      {
+        "start_time": 1773062752934,
+        "end_time": 1773062763398,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "de fornecedores aprovados, isso não quer dizer que você não pode aprovar outros fornecedores depois, mas só que vai ter aqui esse processo de entender que eles conseguem aglomerar."
+      },
+      {
+        "start_time": 1773062763398,
+        "end_time": 1773062855361,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Estava entendendo, eu e ela, e aí eu vou mandar pra ela essa semana o das camisas, tá? O das camisas eu vou mandar e esse fornecedor ele é ok aqui, eu trabalho com ele já em quase todos os eventos que eu produzia, ele trabalhava comigo, me atendia super bem, Eu te falei da camisa, tu lembra? Sim, sim. Faz pizza, faz copo, faz bolsa, faz muita coisa. E aí eu vou estar passando pra ela pra ver se com ele também é ok.\n\n Sim. E eu vou num próximo Zola, eu vou te mandar, eu vou te levar a camisa que eu fiz com ele pra você ver a local e a impressão. Eu não tenho bolsa, mas eu tenho a camisa de produção. Ok. Já vou até deixar separada aqui, porque eu tinha esquecido realmente nesse novo. Sim, eu acho que é basicamente isso da reunião de hoje. E aí eu queria saber se você tem alguma coisa... Deixa eu abrir aqui, porque aí eu já ia esquecer.\n\n As viagens, tá em contato? Tá confirmado a viagem de BH? Paraty e BH, não sei se vai estar bom até lá, porque teve essa tragédia ambiental, e a gente não sabe como vai estar a cidade, se vai ter alguma coisa cancelada, enfim."
+      },
+      {
+        "start_time": 1773062855361,
+        "end_time": 1773063002853,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem algumas coisas para trazer aqui também. A gente resolveu, na semana passada, dividir o grupo. Aquela coisa que a gente já tinha falado de dividir a banda preta em dois, duas bandas. Porque BH é o mesmo tempo de Paraty. Mesmo tempo? Mesmo final de semana de Paraty. Então, Isso, mas a coisa é que Paraty, a nossa banda aumentou. Ano passado, a gente teve 16 na banda principal. Esse ano, a gente tem 21 na banda principal.\n\n Paraty já estava reclamando muito de levar 16 alunos mais equipe para Paraty. Então, até Paraty, Eu não sei se a gente ia conseguir levar a banda inteira. Então, o que a gente resolveu? Dividir a banda, mandar metade para Paraty e metade para BH. Não sendo que uma banda é melhor do que a outra, é simplesmente vendo para ter duas bandas coerentes para ir. E... Nesse caso, o que a gente precisa fazer, eu vou estar falando na reunião amanhã, é pensar na divisão da equipe, vai ser eu que vou para Paraty e o Wesley que vai para BH.\n\n Aí o resto a gente fica de definir, conversando isso com o Wesley Raiz amanhã, a gente pensar, eu não sei em qual você, Você vai, a gente vai pensar isso com calma amanhã. Mas basicamente, você vai estar envolvido no planejamento dos dois, sabe? Mas vai ter outra pessoa executando. Talvez você vai em um, o Wellington vai no outro, de produção. Então vai ser bastante coisa. Gente, que loucura! Sim, mas é...\n\n"
+      },
+      {
+        "start_time": 1773063002853,
+        "end_time": 1773063006707,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Botar tudo no mesmo final de semana."
+      },
+      {
+        "start_time": 1773063006707,
+        "end_time": 1773063026530,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas aí é isso. Mas, de alguma forma, até nos salvou um pouco com essa questão de Paraty. E é mais tranquilo com grupo menor, né? Dez, onze alunos. A monitoria fica mais tranquila, né?"
+      },
+      {
+        "start_time": 1773063026530,
+        "end_time": 1773063037662,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E aí eu vi aqui que você já botou na agenda, não é? 29 a 31 para ti, 30 e 31 BH."
+      },
+      {
+        "start_time": 1773063037662,
+        "end_time": 1773063038633,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1773063038633,
+        "end_time": 1773063041545,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Três dias para ti, dois dias..."
+      },
+      {
+        "start_time": 1773063041545,
+        "end_time": 1773063044458,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, e BH vai ver primeiro."
+      },
+      {
+        "start_time": 1773063044458,
+        "end_time": 1773063103133,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "No início, ele estava falando só de tocar domingo de manhã. Eu falei para ele, olha, para isso valer a pena para a A gente? Gente pelo menos dormindo lá um dia. Então, no mínimo, a gente indo sábado de manhã cedo, e depois eles têm um palco e ir lá para o final do dia sábado. Então, pelo menos, a gente indo cedo, né? Eles vão colocar a gente em hotel lá, a gente não vai pagar nada. Eu acho que ele tem um apoio de renda média, eu acho que tá ok de grana lá.\n\n Eles vão pagar tudo e a gente fica no hotel e chega lá, deixa as coisas no hotel, cinco horas, toca essa parte finalizada do sábado, aí depois, domingo, onze horas, tem esse outro jazzinho, que é uma coisa mais do parque para familiares, Depois a gente volta para o Rio, chega, sábado, domingo à noite."
+      },
+      {
+        "start_time": 1773063103133,
+        "end_time": 1773063112827,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Desculpa, Tom, me interromper, mas esses horários, você já assinou com ele o horário de apresentação ou ainda está em aberto? Está em aberto, exatamente, está em aberto."
+      },
+      {
+        "start_time": 1773063112827,
+        "end_time": 1773063180743,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas essa coisa de cinco horas no sábado e onze horas no domingo, a gente sabe, mas eu falei para ele, olha, a gente sai para Paraty sexta, então, para mim, o mais, para valer a pena, o mais tempo que ele consegue, para hospedar a gente lá, melhor. E ele falou que o Unimed, o patrocinador, eles têm outras iniciativas educacionais lá, então ele ficou e também tem esse festival Honky, não sei se você ouviu falar.\n\n É um festival de fanfarras que tem em várias cidades do mundo. Eles têm fanfarras lá em BH, então ele ficou falar com a galera do Ronk, porque a gente poderia ter encontros com fanfares lá, essas coisas. Então, ele está vendo isso. Basicamente, sábado e domingo. A gente sabe que basicamente vai ter essa coisa sábado às 5 horas, domingo às 11 horas. Mas eu estou esperando ele me retornar. E quando estiver certinho, eu trago tudo para vocês.\n\n"
+      },
+      {
+        "start_time": 1773063180743,
+        "end_time": 1773063183214,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "O ônibus eles vão ver também."
+      },
+      {
+        "start_time": 1773063183347,
+        "end_time": 1773063316696,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente sabe que eles vão pagar, mas tanto com o Lá, tanto com o Paraty, eu vou ter que negociar com eles como eles querem fazer. Por exemplo, em algum momento eles vão querer, a gente tem um rubrico dentro do nosso projeto para transporte, a gente quer pagar o transporte, aí, por favor, Aí você conversa com o transportador e depois coloca eles em contato para eles pagarem, por exemplo. Em outros momentos, eles podem falar, não, melhor coisa, a gente só vai te dar cachê.\n\n Leva 20 mil de cachê e paga seus custos, sabe? Então, isso eu tentei marcar com o Roberto, do Burgo Festival, mas ele falou ainda não tem todos os detalhes, eles preferem se reunir mais para frente. Então essas coisas de bater o martelo. Para um festival Paraty é complicado de bater o martelo com eles, os produtores ficam batendo a cabeça um pouquinho, porque o Roberto às vezes quer deixar livre para a gente, mas às vezes para Paraty até em termos de quando a gente a gente vai tocar, sabe?\n\n Às vezes, isso até poderia ser, ao invés de ficar falando, Roberto, a gente vai tocar meio-dia ou 11 horas. Ok, Roberto, a gente mesmo vai lá e fica gerenciando as nossas coisas. Mas a gente, basicamente, não está aguardando os dois detalhes, A próxima coisa, só a questão que vou ver com o Western Raiz amanhã, de alocar a equipe, botar na agenda, ver quem vai da gente para cada um dos dois, e assim que a gente tem detalhes, aí eu coloco o presidente diretamente em contato com o Roberto e o Bruno para ter uma tela nos detalhes.\n\n"
+      },
+      {
+        "start_time": 1773063316696,
+        "end_time": 1773063338033,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "O ideal é que, para eu fazer um programa, igual eu tenho feito, de horário de chegada, saída, apresentação, é que eu tenha contato. Mesmo que eu não vá nos dois locais, porque eu sou uma só, para eu fazer organizadinho, para a gente estar visualizando a questão do..."
+      },
+      {
+        "start_time": 1773063338033,
+        "end_time": 1773063374051,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, e falando disso, aproveitando isso que está na minha lista, deixa eu compartilhar aqui. Essa coisa do sistema, eu vou deixar você para... Essa coisa do sistema é importante. Era meio over para o evento de sábado, que não teve muita coisa de sábado. O que tem aqui são as lições aprendidas de carnaval. Eu vou passar isso para... Vou te mostrar onde isso está."
+      },
+      {
+        "start_time": 1773063374051,
+        "end_time": 1773063380107,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Ah, você está... Ah, eu também tô aí nesse negócio, mas eu não achei isso."
+      },
+      {
+        "start_time": 1773063380107,
+        "end_time": 1773063469404,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, não, não, eu coloquei agora mesmo. Porque eu recebi sua resposta, aí eu pedi pro IA fazer um sumário de tudo. E eu também, mas a ideia que eu tive que… Porque essas coisas ficam perdidas. E agora, a gente tem… A coisa de eventos tá aqui. Tá com o Dasport com os próximos eventos, né? Mas… vai para a lista e tem todos os eventos. Isso. Aí a gente vai para o cortejo. Clica no cortejo e tem lições aqui.\n\n Lições aqui, aí tudo isso fica aí. Sabe? Aí a gente faz isso com todos os nossos eventos, vai ficar show. Outra coisa que eu fiz, eu pedi para o Claudio te mandar no Slack, mas, por exemplo, se você vai para o WhatsApp e vai copiar uma mensagem de resumo no WhatsApp. Então, por exemplo, se a gente pegar... A gente pega o... A gente pega o... Peter Sola no... Ah, a gente não colocou, né? Ah, a gente colocou, sim.\n\n Pega aqui. Aí, tá vendo esse WhatsApp? É, Edlene?"
+      },
+      {
+        "start_time": 1773063469404,
+        "end_time": 1773063476296,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Tô vendo, mas não tá aparecendo pra mim. Calma aí. Onde você tá? Ah, WhatsApp."
+      },
+      {
+        "start_time": 1773063476296,
+        "end_time": 1773063478134,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Agora eu vi. WhatsApp."
+      },
+      {
+        "start_time": 1773063478134,
+        "end_time": 1773063479972,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Aí, copia aí isso."
+      },
+      {
+        "start_time": 1773063479972,
+        "end_time": 1773063482269,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Vou abrir aqui também, peraí."
+      },
+      {
+        "start_time": 1773063482269,
+        "end_time": 1773063490477,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Copiado. Aí, eu acabei de mandar o que eu copiei pra você. Hum... Tá vendo? Sim. Tempo poupando?"
+      },
+      {
+        "start_time": 1773063490477,
+        "end_time": 1773063495987,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Gente, isso aí não estava, isso não tinha, não é? Não, não, exatamente."
+      },
+      {
+        "start_time": 1773063495987,
+        "end_time": 1773063513364,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu te mandei uma mensagem, deve ter uma mensagem lá no Slack do Iá. Sim, eu estou um pouco aberta, mãe. Mas aí, se você não, a gente também precisa disso na ficha de WhatsApp, pode me falar que eu adapto."
+      },
+      {
+        "start_time": 1773063513364,
+        "end_time": 1773063536720,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu tinha botado outra observação também, que eu estava, não sei que eu já comecei a ficar mexendo por aí, né? Porque você pediu, eu comecei a botar várias coisas do evento, eu anotei uma coisa que eu falei, ai, podia ter também. Pra facilitar a vida, peraí."
+      },
+      {
+        "start_time": 1773063536720,
+        "end_time": 1773063537715,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Me fala."
+      },
+      {
+        "start_time": 1773063537715,
+        "end_time": 1773063542193,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Deixa eu ver aqui onde eu botei no... Algo..."
+      },
+      {
+        "start_time": 1773063545682,
+        "end_time": 1773063605661,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu tô tentando achar, mas é alguma coisa dentro do sistema também. Ah, status. Os status dos eventos, cortejos, já realizados. Porque os status só tem em andamento. E aí, pra gente ver os eventos que já foram realizados. Então, botar os status. Incluir já realizado. Porque o status já existe dentro da plataforma. Só não tem... Essa palavra do evento realizado já."
+      },
+      {
+        "start_time": 1773063605661,
+        "end_time": 1773063608652,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vou colocar isso agora."
+      },
+      {
+        "start_time": 1773063608652,
+        "end_time": 1773063614635,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque eu senti falta de concluir, de finalizar."
+      },
+      {
+        "start_time": 1773063614635,
+        "end_time": 1773063621365,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Já pedi para fazer aqui, vai aumentando aqui."
+      },
+      {
+        "start_time": 1773063621365,
+        "end_time": 1773063625852,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você viu do evento do Zola?"
+      },
+      {
+        "start_time": 1773063625852,
+        "end_time": 1773063631550,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Você gostou? O que você... Me traz em relação..."
+      },
+      {
+        "start_time": 1773063631550,
+        "end_time": 1773063669608,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, do preenchimento do vídeo, da ficha? Está certo, está certo. Aí, geral, esse WhatsApp que estou te mandando, acho que está certo. Outra coisa que a gente tem que ver. Essa coisa, só para você ver, essa coisa vai ser tudo sábado na Guarnazola. Não sei se falei na Guarnazola. É tudo sábado, por enquanto, É um pouco como o cara que... Difícil divulgar um evento só de 15 minutos, não é? Ou pelo menos tem que ser divulgado com cautela, sabe?\n\n"
+      },
+      {
+        "start_time": 1773063669608,
+        "end_time": 1773063680737,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Tom, eu sugiro a gente converse com eles. Não sei quem faz a comunicação do Zola, mas que faça um collab nas páginas deles."
+      },
+      {
+        "start_time": 1773063680737,
+        "end_time": 1773063688090,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu já te falei que a gente tem... A gente tem N collabs que eu pedi com eles."
+      },
+      {
+        "start_time": 1773063688090,
+        "end_time": 1773063689724,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E eles não atenderam?"
+      },
+      {
+        "start_time": 1773063689724,
+        "end_time": 1773063705779,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não compartilharam. Tem muitos vídeos muito ligados, nossas crianças solando na rua na frente da Zola, Zola esperando a Zola aceitar o collab. Então, vamos colocar isso na parede para eu falar com o Simon."
+      },
+      {
+        "start_time": 1773063705779,
+        "end_time": 1773063707860,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Porque seria legal, né?"
+      },
+      {
+        "start_time": 1773063707860,
+        "end_time": 1773063717746,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Claro, eles estão... Eu acho que eles nem movimentam as redes sociais deles, não tem nem comunicador para isso."
+      },
+      {
+        "start_time": 1773063717746,
+        "end_time": 1773063807315,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Gente, lá, exatamente lá, eles têm pizza boa, mas eles poderiam estar mexendo lá um pouco melhor. Mas aí, do nosso lado, eu vou pensar, eu acho que vale a pena divulgar, mas deixa muito claro que é uma palinha no final do ensaio que acontece tudo. Olha a dica para quem quiser, não é um showzão, mas aos sábados as nossas crianças estão dando palinha para quem tiver. Mas enfim, vai ser toda semana, vai ser no mesmo formato.\n\n Eles pediram uma coisa que era das crianças, comerem pizza, ou pelo menos alguns, lá na frente. Por quê? Eles... A ideia do dono é que ele quer começar... Antigamente, eles não vendiam pizza nos sábados e nos domingos. Agora, eles estão começando a vender, ele quer movimentar a pizzeria para que as pessoas que vão lá sábado e domingo vejam que tem movimento lá, que a coisa pega. Faz sentido. Mas aí, ele ter um esporro no outro, no Simon, para deixar a gente, todo mundo dentro, porque todo mundo dentro, ninguém vê o movimento.\n\n Então, por isso que ele... A minha colocação foi, tudo bem, mas a gente não pode ter crianças no sol. Então, o Simon prometeu colocar mais quadros de sol lá na frente."
+      },
+      {
+        "start_time": 1773063807315,
+        "end_time": 1773063856376,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Falei, não, colocar gente, algumas pessoas lá na frente, tranquilo, não tem problema mas não pode estar no sol é importante reforçar isso para eles né sim sim eu achei que onde eles tocavam foi certinho não foi ótimo não tá no sol foi lindo super funcionou fiquei muito feliz o programa o programa funcionou as pizzas já estavam assadas quando as crianças ficaram E eu acho que é isso que a gente tem que ter como qualidade de entrega de eventos.\n\n Principalmente no Zola, a gente sabe que é caótico, é uma pessoa atendendo. Nesse sábado, agora, só tinha uma mulher fazendo pizza, tirando pizza."
+      },
+      {
+        "start_time": 1773063856376,
+        "end_time": 1773063867181,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Nossa, hein? Ela acha que consegue sozinha. Mas ela tem que saber com antecedência. E ela começou... O bom é que ela fez uma linha de pizza."
+      },
+      {
+        "start_time": 1773063867181,
+        "end_time": 1773063867581,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Foi."
+      },
+      {
+        "start_time": 1773063867590,
+        "end_time": 1773063870155,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, sábado fica assim, tudo bem."
+      },
+      {
+        "start_time": 1773063870155,
+        "end_time": 1773063873575,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E aí, sábado sempre vai ser esse horário?"
+      },
+      {
+        "start_time": 1773063873575,
+        "end_time": 1773063899528,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Meio de quinze. E a gente teve pais e alunos que estavam levando os alunos comendo pizza. Eu não vejo o problema. Isso é alguma coisa que não é a nossa política, mas se tiver sobrando, eles podem. Mas se a pizza retopar, vamos deixar por enquanto, que não custa nada. Não é agradável, não custou nada para a gente."
+      },
+      {
+        "start_time": 1773063899528,
+        "end_time": 1773063920841,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu acho que a pizzaria não precisa saber da forma que a gente trabalha em relação aos pais e às crianças. Se eles topam em abrir um canto para que a gente faça essa apresentação com as crianças, e tem três, quatro responsáveis ao mesmo problema de dar uma pizza para esses responsáveis."
+      },
+      {
+        "start_time": 1773063920841,
+        "end_time": 1773063937614,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente. A ideia é que vai saindo pizza, Vai saindo pizza, vai saindo pizza. Peço as pessoas pegando fatias. Aqui está todo mundo satisfeito. Então, isso é sábado. Mas a outra coisa que a gente fechou para fazer um evento lá no dia 20."
+      },
+      {
+        "start_time": 1773063937614,
+        "end_time": 1773063940624,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "20 desse mês? Sim. Porque a gente está..."
+      },
+      {
+        "start_time": 1773063940624,
+        "end_time": 1773064013535,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O problema que eu estava mandando uma mensagem para a Natasha, ela não respondeu. A gente estava vendo para fazer essa sexta-feira, mas essa sexta-feira está em cima demais. Mas... Por que tá em cima? Porque tem que falar com os pais. Tem que fazer divulgação. É ruim trabalhar assim. Então, a gente tá colocando dia 20. E o Wesley vai... O Wesley tá tentando achar uma banda convidada pra tocar junto com a gente.\n\n Acho que se não tiver banda profissional, podem ser nossos ex-alunos. Da Cacilda, se não tivesse o ministro da Cacilda, então é só a gente que toca e é isso. Charlie, qual é o horário desse dia 20? Então, eu tava pensando, da outra vez que a gente fez à noite, sexta, a gente fez 6h30 até 7h30, banda convidada. 7h30 até 8h30, nossas crianças. Aí depois a gente poderia fazer batalha tipo das bandas.\n\n Uma coisa mais ou menos assim."
+      },
+      {
+        "start_time": 1773064013535,
+        "end_time": 1773064019629,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "40 minutos quase cada um. De seis e meia às sete e meia."
+      },
+      {
+        "start_time": 1773064019629,
+        "end_time": 1773064021504,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É uma hora, né?"
+      },
+      {
+        "start_time": 1773064021504,
+        "end_time": 1773064027598,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Uma hora, isso. E de sete e meia às oito e meia, né?"
+      },
+      {
+        "start_time": 1773064027598,
+        "end_time": 1773064037216,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Eu vou bater isso com o Wesley, mas é basicamente isso. E depois uma batalha das bandas Depois."
+      },
+      {
+        "start_time": 1773064037216,
+        "end_time": 1773064041698,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E a banda ainda não foi decidida quem?"
+      },
+      {
+        "start_time": 1773064041698,
+        "end_time": 1773064052902,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Pode ser umas crianças? Exatamente. A gente vai mandar a banda preta. Tá. Aí a gente tá confirmando tudo isso."
+      },
+      {
+        "start_time": 1773064052902,
+        "end_time": 1773064055704,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu amo a banda preta."
+      },
+      {
+        "start_time": 1773064055704,
+        "end_time": 1773064096084,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "São crianças maiores. Eu amo a banda preta. São grandes e inteligentes. Sim. E aí... A gente acaba, a gente está acabando, nove e meia, coisa assim, aí não tem criança, sobe a nossa disponibilidade depois de dez horas, que é importante. E é isso, a gente vai precisar... A gente não vê, todas as apresentações no Zoola não tem transporte, não é? Não, a gente vai levar a banda preta, para essa. Porque a gente está indo e voltando à noite.\n\n"
+      },
+      {
+        "start_time": 1773064096084,
+        "end_time": 1773064097842,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Que são os maiores."
+      },
+      {
+        "start_time": 1773064097842,
+        "end_time": 1773064109273,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, exatamente. A gente estava falando se a gente vai pegar uma van e fazer duas idas ou um micro-ônibus e fazer de uma vez só."
+      },
+      {
+        "start_time": 1773064109273,
+        "end_time": 1773064117186,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Então, micro-ônibus, você sabe que a gente alugou naquela no cortejo e eles não mandaram micro-ônibus, mandaram van."
+      },
+      {
+        "start_time": 1773064117186,
+        "end_time": 1773064117625,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1773064117625,
+        "end_time": 1773064131541,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E aí é isso. Eles, com certeza, não vão mandar ônibus, vão mandar vão. Então, o valor que a gente pagou no micro-ônibus é o valor de duas vãs."
+      },
+      {
+        "start_time": 1773064131541,
+        "end_time": 1773064140105,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ela é select no carnaval? Select. Que, normalmente, eles são bons. Talvez seja uma coisa só da data."
+      },
+      {
+        "start_time": 1773064140105,
+        "end_time": 1773064168920,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Não, eles foram ótimos, super atenciosos. O pneu furou lá no dia, foi caótico. Eles me avisaram, que iriam trocar o pneu, desceram, enfim. Todo momento se comunicando. Não tem o que falar sobre a comunicação deles. Só que eles não cumpriram o que a gente pediu. A gente pediu um ônibus, um micro-ônibus. Eles chegaram lá, eram dois coisas e nós."
+      },
+      {
+        "start_time": 1773064168920,
+        "end_time": 1773064170301,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas, super, atendeu."
+      },
+      {
+        "start_time": 1773064170301,
+        "end_time": 1773064173524,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Beleza. Mas, então, a gente estava..."
+      },
+      {
+        "start_time": 1773064173524,
+        "end_time": 1773064178132,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu achei uma van com duas voltas. É tão perto."
+      },
+      {
+        "start_time": 1773064178132,
+        "end_time": 1773064181875,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, por ser tão perto mesmo e por ser..."
+      },
+      {
+        "start_time": 1773064181875,
+        "end_time": 1773064189777,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Não é uma quantidade grande de crianças, não são todas as crianças. Só é uma banda. E outra coisa."
+      },
+      {
+        "start_time": 1773064189777,
+        "end_time": 1773064202669,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sempre tem alguém que chega antes dos outros e a gente tem que ficar acordando a última pessoa. Enquanto isso, a van pode estar indo. Vamos lá com uma van, então."
+      },
+      {
+        "start_time": 1773064202669,
+        "end_time": 1773064209808,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Tá, uma van. E aí refrigerantes, água... E pizza por conta do Zola."
+      },
+      {
+        "start_time": 1773064209808,
+        "end_time": 1773064210397,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1773064210397,
+        "end_time": 1773064267169,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E aí, Tom, é importante a gente... Nesse dia 20, a pizzaria vai estar funcionando, porque é à noite, numa sexta-feira. Mas é importante falar que não tem quantidade de pizza, igual a gente passou agora nessa apresentação, que eles deram duas pizzas para cada aluno e finalizaram o serviço. Então, ter essa comunicação com eles, reforçando que a apresentação até às 21 horas, meia hora antes do término de retorno, a gente vai estar lá consumindo a pizza, né?\n\n Ser bem franca mesmo, sabe? Vai ser mesmo português, ó, de seis horas até às nove horas, a Então, gente tem vai que ter estar pizza. Com Tanto consumindo para aí os dentro, convidados né? Quanto para as crianças. Ah, tá. A gente tem que falar essa logística com eles."
+      },
+      {
+        "start_time": 1773064267169,
+        "end_time": 1773064276144,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Que a outra coisa é que a gente vai ter vários convidados. E vai ter que ter pitch para a banda convidada."
+      },
+      {
+        "start_time": 1773064276144,
+        "end_time": 1773064280417,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Exatamente. E a gente não passar vergonha, né? Já pensou?"
+      },
+      {
+        "start_time": 1773064280417,
+        "end_time": 1773064284690,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente. E aí, ser bem, trazer bem o português mesmo."
+      },
+      {
+        "start_time": 1773064284690,
+        "end_time": 1773064333697,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "É isso, isso e trazendo os pontos. E aí, se você quiser, pode marcar uma reunião comigo e aí eu posso fazer um check-in de responsabilidade que nem a gente fez lá no grupo de... De equipe com o Zola. Amanda, responsável por atender a produção durante todo o tempo que a produção estiver presente no Zola. Claudio vai estar fazendo, servir as pizzas para as crianças. Antônio, a limpeza, trazer essa organização, Até porque quem estava servindo pizza estava limpando e pegando na vassoura.\n\n"
+      },
+      {
+        "start_time": 1773064333697,
+        "end_time": 1773064338998,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho isso meio nojento. É, sim. Total. Não, a gente precisa..."
+      },
+      {
+        "start_time": 1773064338998,
+        "end_time": 1773064348715,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E mostrar também que a gente é parceiro deles, que a gente também quer o andamento do trabalho deles da melhor maneira."
+      },
+      {
+        "start_time": 1773064348715,
+        "end_time": 1773064379333,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, vamos tentar bolar uma reunião com a gente em Arizona, se a gente conseguir uma reunião. O bom é que a gente está lá os sábados para conversar com eles também. Sim, mas eu acho que eles estão bem atarefados. Então, acho que é isso. Mas em termos do... É importante que você vê esse feedback, tá?"
+      },
+      {
+        "start_time": 1773064379333,
+        "end_time": 1773064389326,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Essa última coisa, esse feedback do evento. Qual evento? Ah sim do carnaval sim eu vou ler assim."
+      },
+      {
+        "start_time": 1773064389326,
+        "end_time": 1773064393039,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vai na lista vai no evento lições."
+      },
+      {
+        "start_time": 1773064393039,
+        "end_time": 1773064393569,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Perfeito."
+      },
+      {
+        "start_time": 1773064393569,
+        "end_time": 1773064398344,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu acho que acho que por mim é isso."
+      },
+      {
+        "start_time": 1773064398344,
+        "end_time": 1773064401526,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então é isso então dia 20."
+      },
+      {
+        "start_time": 1773064401526,
+        "end_time": 1773064409483,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu não sei se você já botou no calendário mas eu posso colocar. Por favor."
+      },
+      {
+        "start_time": 1773064409492,
+        "end_time": 1773064438541,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "não tem algum nome ou só bota apresentação zona a apresentação a banda preta banda preta tá mais mais convidado que a gente não sabe ainda tá bom e eu quero ser desculpa para essa gente vai precisar da loja não sim sim seria Seria bom a gente poder colocar nessas..."
+      },
+      {
+        "start_time": 1773064438541,
+        "end_time": 1773064442882,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu acho, porque à noite dá mais movimento, não é?"
+      },
+      {
+        "start_time": 1773064442882,
+        "end_time": 1773064447223,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente está tocando lá há um tempão, com certeza."
+      },
+      {
+        "start_time": 1773064447223,
+        "end_time": 1773064470850,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu acho que os eventos no Ozola, à noite, com lojinha, funcionam muito melhor, porque à noite lá já tem movimento. A rua, o Largo do Porveno, já é movimentado à noite. De dia, não é tanto. Eu percebi que não tem tanto movimento nem no espaço e nem na rua. Sim."
+      },
+      {
+        "start_time": 1773064470850,
+        "end_time": 1773064474879,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E, com certeza, a lojinha vai estar lá."
+      },
+      {
+        "start_time": 1773064474879,
+        "end_time": 1773064478405,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Está cheia de bola. Então, é isso."
+      },
+      {
+        "start_time": 1773064478405,
+        "end_time": 1773064493759,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu já vou botar lá, vou alimentar a planilha também, porque eu sou cadelinha de planilha. Sim, mas... Não, vou botar no sistema e na planilha, a planilha é algo mais..."
+      },
+      {
+        "start_time": 1773064493759,
+        "end_time": 1773064494167,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1773064494167,
+        "end_time": 1773064509265,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Mas aquela coisa visual de produção executiva. De, ai, acabou o ano, vamos lá para a planilha também. Tudo bem. E aí eu estou botando tanto na planilha como também alimentando o sistema. Show de bola. Ok."
+      },
+      {
+        "start_time": 1773064509265,
+        "end_time": 1773064510898,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então é isso, Tom."
+      },
+      {
+        "start_time": 1773064510898,
+        "end_time": 1773064511714,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Qualquer coisa..."
+      },
+      {
+        "start_time": 1773064511714,
+        "end_time": 1773064519109,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E aí você vai me falando tanto do evento do dia 20 quanto também dos próximos eventos. Sim."
+      },
+      {
+        "start_time": 1773064519109,
+        "end_time": 1773064520009,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Tá bom?"
+      },
+      {
+        "start_time": 1773064520009,
+        "end_time": 1773064521809,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Perfeito. Tchau, tchau, Tom."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Edlene conrado"
+      },
+      {
+        "name": "Tom Ashe"
+      }
+    ]
+  },
+  "platform_meeting_id": "qmb-mhgy-kbk",
+  "platform": "meet"
+}

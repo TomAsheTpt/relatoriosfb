@@ -1,0 +1,2346 @@
+{
+  "session_id": "01KGSZHWM3HKQF9BBKMZK9TEQC",
+  "trigger": "meeting_end",
+  "title": "Iris x Tom Checkin",
+  "start_time": "2026-02-06T14:33:39-03:00",
+  "end_time": "2026-02-06T15:20:53-03:00",
+  "participants": [
+    {
+      "name": "Iris Nascimento",
+      "first_name": "Iris",
+      "last_name": "Nascimento",
+      "email": "secretaria@favelabrass.org"
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A conversa entre Tom e um participante da sala de conferência abordou diversos aspectos operacionais do sistema, incluindo desafios na atualização de horários e na visualização de aulas. Tom destacou a importância do processo de debugging para identificar e corrigir erros, enquanto o participante relatou dificuldades na visualização de aulas particulares e na gestão de atrasos e cancelamentos. Ambos concordaram sobre a necessidade de verificar dados para assegurar que os pagamentos sejam realizados corretamente e discutiram a implementação de um fluxo de trabalho para monitorar faltas dos alunos. A organização das presenças nas escolas também foi um ponto central, com sugestões para que cada turma tenha um professor responsável, além da necessidade de garantir a precisão das informações antes do início das aulas.\n\nTom solicitou a inclusão de uma aba por profissão no documento que estava sendo preparado, e o participante mencionou dificuldades específicas relacionadas a aulas de teoria. A conversa se estendeu para a gestão de presenças e justificativas, incluindo a contabilização de ensaios como presença. Tom e o participante discutiram a atualização de dados e a colaboração na edição de planilhas, além de consultar Wesley para ajustes.\n\nA logística do transporte para o carnaval também foi abordada, com sugestões sobre horários e a necessidade de confirmar quantos alunos precisariam de transporte. A reunião concluiu com a expectativa de melhorias na organização e na comunicação para a próxima semana.",
+  "action_items": [
+    {
+      "text": "Vai calcular os pagamentos e verificar se está tudo correto."
+    },
+    {
+      "text": "Vai enviar um documento com os ajustes de horários que foram feitos durante a semana."
+    },
+    {
+      "text": "Tom Ashe vai organizar o fluxo de trabalho para que Lilian receba alertas sobre faltas dos alunos."
+    },
+    {
+      "text": "Tom Ashe vai verificar a questão da presença dos professores e como registrar as faltas."
+    },
+    {
+      "text": "Vai organizar a questão das aulas canceladas e feriados no sistema."
+    },
+    {
+      "text": "Tom Ashe vai pedir para a produção verificar a questão do Big Tech."
+    },
+    {
+      "text": "Tom Ashe vai organizar o transporte para o cortejo de carnaval."
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Quais ajustes precisam ser feitos no sistema para as aulas particulares?"
+    },
+    {
+      "text": "Quais são os horários dos professores que precisam ser verificados?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Ajustes de horários e aulas canceladas."
+    },
+    {
+      "text": "Fluxo de trabalho para alertas de faltas e pagamentos."
+    },
+    {
+      "text": "Registro de aulas e faltas de alunos e professores."
+    },
+    {
+      "text": "Atualização e verificação do sistema de presença."
+    },
+    {
+      "text": "Organização do transporte para o cortejo de carnaval."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KGSZHWM3HKQF9BBKMZK9TEQC",
+  "chapter_summaries": [
+    {
+      "title": " Discussão sobre Atualizações e Problemas no Sistema",
+      "description": "Tom aborda questões relacionadas ao sistema, incluindo a atualização de dados e a visualização de aulas. Ele destaca a importância de identificar bugs e um participante da sala de conferências menciona dificuldades em acessar informações sobre aulas particulares. Ambos concordam que é essencial verificar se os dados estão corretos para evitar problemas futuros.",
+      "topics": [
+        "Ajustes de horários e aulas canceladas.",
+        "Fluxo de trabalho para alertas de faltas e pagamentos."
+      ]
+    },
+    {
+      "title": "Discussão sobre Presenças e Organização das Turmas",
+      "description": "Durante a conversa, Tom e um participante da sala de conferência abordam a questão das presenças nas escolas, destacando que cada turma deve ter um professor responsável. Também é mencionada a importância de acessar os horários dos professores para garantir que as presenças estejam sendo registradas corretamente, evitando erros que possam impactar a justificativa de faltas.",
+      "topics": [
+        "Registro de aulas e faltas de alunos e professores."
+      ]
+    },
+    {
+      "title": " Discussão sobre Documentos e Ajustes de Horários",
+      "description": "Tom Ashe pediu para que uma participante da sala de conferências adicionasse uma aba por profissão e presentes no documento que ele enviaria. Também foram relatados problemas para acessar aulas de teoria, e discutiu-se a preferência de Claudio pelo formato .md. Tom sugeriu que fosse criado um documento em .md para facilitar a compreensão.",
+      "topics": []
+    },
+    {
+      "title": "Registro de Aulas e Presenças",
+      "description": "Levantar questões sobre o registro das aulas de percussão e a presença dos alunos foi feito por um participante da sala de conferências, incluindo detalhes sobre as aulas de Pierre. Tom Ashe esclareceu que a presença deve ser tratada como ensaio e que ele está cuidando da folha de pagamento. A discussão também abordou como registrar aulas canceladas e feriados.",
+      "topics": []
+    },
+    {
+      "title": "Atualização de Processos e Calendário",
+      "description": "Durante a conversa, Tom e IrCR abordam a atualização das presenças dos professores e a visualização do aprendizado. Tom sugere que ambos colaborem na atualização do calendário e das informações, enquanto IrCR busca entender o fluxo de trabalho para registrar e atualizar os dados.",
+      "topics": [
+        "Atualização e verificação do sistema de presença."
+      ]
+    },
+    {
+      "title": "Planejamento do Transporte para o Carnaval",
+      "description": "Tom Ashe abordou a logística do transporte para o carnaval, questionando quantos alunos precisariam de transporte e sugerindo horários de saída. Os participantes da sala de conferência participaram da conversa, discutindo a melhor forma de organizar os micro-ônibus e a necessidade de confirmar o número de alunos que irão direto.",
+      "topics": [
+        "Organização do transporte para o cortejo de carnaval."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1770399234881,
+        "end_time": 1770399470623,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "E aí E aí E aí Oi Elis, tudo bem?"
+      },
+      {
+        "start_time": 1770399470623,
+        "end_time": 1770399472807,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Oi Tom."
+      },
+      {
+        "start_time": 1770399472807,
+        "end_time": 1770399480449,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E aí, tudo bem? Tudo, e você?"
+      },
+      {
+        "start_time": 1770399480449,
+        "end_time": 1770399482633,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tudo bem."
+      },
+      {
+        "start_time": 1770399482633,
+        "end_time": 1770399485908,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vamos lá então."
+      },
+      {
+        "start_time": 1770399485908,
+        "end_time": 1770399517242,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu fiz um teste aqui. Tudo e aí coloquei, anotando aqui, acho que o ritmo que poderia ser ajustado. Assim, olhando de cara tá muito bom, tá muito legal, mas eu acho que a gente tem que constantemente estar verificando, né, se tá dando tudo certo."
+      },
+      {
+        "start_time": 1770399517242,
+        "end_time": 1770399536994,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, eu aprendi que é uma etapa de desenvolvimento de programas, aí tem essa etapa de debugging, que é a etapa que você tem que tentar quebrar e ver todos os..."
+      },
+      {
+        "start_time": 1770399536994,
+        "end_time": 1770399540651,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Todos os erros que podem surgir."
+      },
+      {
+        "start_time": 1770399540651,
+        "end_time": 1770399548549,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu estava fazendo isso essa semana, então, foi mal qualquer constantemente, Não, tranquilo."
+      },
+      {
+        "start_time": 1770399548549,
+        "end_time": 1770399561364,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu só cheguei a falar com a Joana. Aí depois eu falei com ela. Aí eles todos me mandaram pelo WhatsApp. Aí eu já registrei no Slack alguns."
+      },
+      {
+        "start_time": 1770399561364,
+        "end_time": 1770399568687,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Outros eu não consegui, que eu vou te falar. E você entrou no site? Entrei. Sim."
+      },
+      {
+        "start_time": 1770399568687,
+        "end_time": 1770399571433,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Está tudo indo certo para lá?"
+      },
+      {
+        "start_time": 1770399571433,
+        "end_time": 1770399571891,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Então..."
+      },
+      {
+        "start_time": 1770399571891,
+        "end_time": 1770399586322,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ele está com uma data aqui, começando do início. Essa data aqui de atualização, cinco horas. Então, tá dizendo que atualizou em cinco, só que vai dar três, né?"
+      },
+      {
+        "start_time": 1770399586322,
+        "end_time": 1770399601622,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sabe o que isso pode... Sabe o que isso pode ser? Fuz o horário, porque talvez o centro, o data centro de lá, é isso mesmo. Porque onde está esse..."
+      },
+      {
+        "start_time": 1770399601622,
+        "end_time": 1770399604682,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O servidor está nos Estados Unidos."
+      },
+      {
+        "start_time": 1770399604690,
+        "end_time": 1770399606603,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sabe, é isso. Entendi."
+      },
+      {
+        "start_time": 1770399606603,
+        "end_time": 1770399614252,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ah, mas isso aí, a princípio, não interfere em nada. Ela falou que atualizou no futuro."
+      },
+      {
+        "start_time": 1770399614252,
+        "end_time": 1770399621424,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Já atualizou. Leia os pensamentos. Mas não deu tempo de entrar tudo que eu preenchi."
+      },
+      {
+        "start_time": 1770399621424,
+        "end_time": 1770399625727,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É de hora em hora que você colocou, né?"
+      },
+      {
+        "start_time": 1770399625727,
+        "end_time": 1770399626683,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1770399626683,
+        "end_time": 1770399631464,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu posso fazer um manual, se quiser, mas... Não precisa."
+      },
+      {
+        "start_time": 1770399631464,
+        "end_time": 1770399682925,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Daqui a pouco eu olho mas é mas é por exemplo banda preta tá 95% mas era para ser 100% de presença ó ó Aqui embaixo eu não consigo acessar as aulas particulares para ver se está batendo também. Está falando visualizar por professor. Disponível em barra horária. Eu não entendi muito bem. Se tivesse para ter um link para eu poder ver se está batendo, depois vai refletir no pagamento."
+      },
+      {
+        "start_time": 1770399682925,
+        "end_time": 1770399683902,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Os pagamentos..."
+      },
+      {
+        "start_time": 1770399683902,
+        "end_time": 1770399687809,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Vou fazer uma coisa para calcular os pagamentos."
+      },
+      {
+        "start_time": 1770399687809,
+        "end_time": 1770399695624,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso vai ser... Ainda não fiz a parte dos pagamentos. Ah, tá. Isso eu vou fazer."
+      },
+      {
+        "start_time": 1770399695624,
+        "end_time": 1770399699044,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Isso é mais para o futuro, entendi."
+      },
+      {
+        "start_time": 1770399699044,
+        "end_time": 1770399700509,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim, mas vai..."
+      },
+      {
+        "start_time": 1770399700509,
+        "end_time": 1770399705882,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas seria bom a gente poder conferir se está entrando direitinho."
+      },
+      {
+        "start_time": 1770399705882,
+        "end_time": 1770399707347,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas o que..."
+      },
+      {
+        "start_time": 1770399708069,
+        "end_time": 1770399716213,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, basicamente, quando fala slash horário, está falando de comando de Slack."
+      },
+      {
+        "start_time": 1770399716213,
+        "end_time": 1770399723000,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu botei esse comando, só aparece a grade do professor."
+      },
+      {
+        "start_time": 1770399723000,
+        "end_time": 1770399731823,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não aparece a presença. Isso mesmo. Ah, entendi. Deixa eu... Vou anotar isso."
+      },
+      {
+        "start_time": 1770399731823,
+        "end_time": 1770399733859,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Melhor só anotar."
+      },
+      {
+        "start_time": 1770399733859,
+        "end_time": 1770399734537,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aí."
+      },
+      {
+        "start_time": 1770399735369,
+        "end_time": 1770399740028,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu posso escrever também os toques que eu estou..."
+      },
+      {
+        "start_time": 1770399740028,
+        "end_time": 1770399746757,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É como se... Mas isso é perfeito. A gente precisa identificar esses bugs."
+      },
+      {
+        "start_time": 1770399746757,
+        "end_time": 1770399752450,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu botei esses comandos aqui, só aparece a grade do professor."
+      },
+      {
+        "start_time": 1770399752450,
+        "end_time": 1770399771579,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, exatamente. A folha é para calcular as horas, mas ainda tem que configurar isso melhor. Porque a ideia é... A raiz se faz slash folha no final do mês e já sai a folha de todas as profissões."
+      },
+      {
+        "start_time": 1770399771579,
+        "end_time": 1770399772041,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770399772041,
+        "end_time": 1770399804737,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Outra coisa é que eu percebi que eu preenchi tudo de aula particular. Tem algumas ajustes de horários que depois eu vou te mandar, que teve que ser feita essa semana? Vou te mandar depois. Eu tive que trocar alguns horários. Mas a opção de atraso não aparece para todos os professores."
+      },
+      {
+        "start_time": 1770399804737,
+        "end_time": 1770399810366,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu posso te mandar quais são."
+      },
+      {
+        "start_time": 1770399816130,
+        "end_time": 1770399825408,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Que o ideal é aparecer a opção de aula cancelada e atraso também."
+      },
+      {
+        "start_time": 1770399825408,
+        "end_time": 1770399834687,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Então, aula cancelada também não aparece para todos. Ah, sim. Vou organizar isso."
+      },
+      {
+        "start_time": 1770399834687,
+        "end_time": 1770399851492,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A opção de atrasado não aparece para todos e cancelada não aparece para todos. Fundos. Isso. Ok."
+      },
+      {
+        "start_time": 1770399851492,
+        "end_time": 1770399853725,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ótimo."
+      },
+      {
+        "start_time": 1770399853725,
+        "end_time": 1770399882861,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Isso eu vou ver aqui. É bem na questão também, isso na aula particular e no ensaio das bandas também. Acho que a banda verde não tá aparecendo. Ou é a aula cancelada ou é atrás. Alguma coisa dos dois."
+      },
+      {
+        "start_time": 1770399882861,
+        "end_time": 1770399891042,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Uma coisa que a gente poderia fazer também, para adiantar, se você manda qualquer doc com isso, eu vou jogar..."
+      },
+      {
+        "start_time": 1770399891042,
+        "end_time": 1770399893496,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu posso fazer isso para você."
+      },
+      {
+        "start_time": 1770399893496,
+        "end_time": 1770399904655,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "De repente, para não ter que falar aqui, manda um doc... Eu jogo tudo lá, dou um esporro no Claudio."
+      },
+      {
+        "start_time": 1770399904655,
+        "end_time": 1770399930049,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sobre essa questão da aula cancelada, normalmente, quando a aula é cancelada por questão de chuva, o professor precisa cancelar, a gente faz reposição. Sim. Eu teria a ver com... Como que a gente registra essa reposição?"
+      },
+      {
+        "start_time": 1770399930049,
+        "end_time": 1770399933302,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A comanda aula extra. Aula extra."
+      },
+      {
+        "start_time": 1770399933302,
+        "end_time": 1770399937639,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Deve estar lá na sua guia, no Slack."
+      },
+      {
+        "start_time": 1770399937639,
+        "end_time": 1770399947941,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A minha guia tem. Deixa eu ver. Se não tiver na sua, vai ter no do professor, é isso."
+      },
+      {
+        "start_time": 1770399947941,
+        "end_time": 1770399951737,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Se não tiver, vou pedir para colocar."
+      },
+      {
+        "start_time": 1770399952518,
+        "end_time": 1770399963201,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Aqui, tá aqui a posição, aula extra. Aí, no caso, bota o número do aluno, o ID do aluno."
+      },
+      {
+        "start_time": 1770399963201,
+        "end_time": 1770399964326,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso, isso."
+      },
+      {
+        "start_time": 1770399964326,
+        "end_time": 1770400004726,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E você sacou aquela coisa que pode colocar, né? Se você colocar... Isso aí eu vou ter que testar depois, essa questão da aula extra. Ah, tá tranquilo, tranquilo. E... Se é ensaio de banda, ou teore, se tiver um ensaio extra de banda, eles só colocam a presença preta e o número do dia. Você viu isso? Que pode colocar com o número do dia, do mês."
+      },
+      {
+        "start_time": 1770400004726,
+        "end_time": 1770400071949,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Não, porque os ensaios, por exemplo, banda verde, é só na quarta sim não é só na quinta se eu botar a data de sexta vai aparecer uma vez sim o que você que você colocaria seria a seria a eu esqueço a presença verde né que se coloca a presença verde eu botei no dia 6 não apareceu porque o dia de ensaio da banda verde é só na quinta não sei se ele reconhece em sexta como uma opção que não dá a reconhecimento.\n\n Usando a verde só como referência vou botar presença verde 4 seria quarta-feira também não tá aparecendo. E aí, até em relação a esse negócio do dia, você colocou só o primeiro número, né, do dia."
+      },
+      {
+        "start_time": 1770400071949,
+        "end_time": 1770400078044,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, eles têm até o final do mês só pra prestar, quando vir o mês."
+      },
+      {
+        "start_time": 1770400078044,
+        "end_time": 1770400088203,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, mas também, eles deveriam estar fazendo no dia, né? Não, sim, claro, só pra entender. Mas eu entendi. Teoricamente, o programa ele atualiza, né?"
+      },
+      {
+        "start_time": 1770400088203,
+        "end_time": 1770400088609,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770400088838,
+        "end_time": 1770400093678,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É bom sempre conferir, né, se a data tá certinha."
+      },
+      {
+        "start_time": 1770400093678,
+        "end_time": 1770400099002,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Passar essa orientação pra eles. Só pra você saber, eu tô..."
+      },
+      {
+        "start_time": 1770400099002,
+        "end_time": 1770400102874,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah não, pode concluir o que você tava..."
+      },
+      {
+        "start_time": 1770400102874,
+        "end_time": 1770400120205,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Era isso que eu ia falar, pra eles conferirem sempre a data certinha do dia pra ver se tá batendo. Às vezes a gente não quando vir o mês, vai estar certinho."
+      },
+      {
+        "start_time": 1770400120205,
+        "end_time": 1770400123564,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, a gente tem que..."
+      },
+      {
+        "start_time": 1770400123564,
+        "end_time": 1770400165052,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu estou trabalhando, no momento, no fluxo de trabalho para Lilian, que ela vai receber alertas que teve falta dos alunos, e ela vai, via Slack, ela vai poder autorizar, não autorizar, e coloca os comentários. Aí, subindo no sistema, você viu as outras abas do site? Relatórios. Do relatório eu vi. Olhei por aluno, aí aparece lá sinalizando a advertência, né?"
+      },
+      {
+        "start_time": 1770400165052,
+        "end_time": 1770400169642,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sim, você poderia clicar nos alunos também."
+      },
+      {
+        "start_time": 1770400171136,
+        "end_time": 1770400250155,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "é não não aparece para mim não peraí deixa eu ligar aqui e não aparece não aqui não no outro o aluno assim é porque não aparece qual que tá de vertente tem que olhar lá e depois clicar aqui sim aí se clicar no aluno vai vai aparecer isso aparece a ficha e precisa de dar sua ajuda para saber ver se está certo. Para a gente. A gente só só aquela coisa que você viu a 95 por cento de bola preta mas 100 por cento 100 por cento de um por um.\n\n Eu não sei se você vê que está dando certo. Está tudo certo e tranquilo mas de qualquer forma eu vou ter e abrir um por um para poder enviar no início do mês os responsáveis. Depois de uma semana, a gente vai, acho que, identificar a maioria das coisas, de qualquer forma. E você viu as fichas de WhatsApp para mandar no relatório?"
+      },
+      {
+        "start_time": 1770400250155,
+        "end_time": 1770400252406,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Essa eu não vi."
+      },
+      {
+        "start_time": 1770400252406,
+        "end_time": 1770400262731,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, se você vai... Relatórios, fichas mensais para WhatsApp. Está vendo? Aí, clique na barra preta."
+      },
+      {
+        "start_time": 1770400262731,
+        "end_time": 1770400265249,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Clique na barra preta."
+      },
+      {
+        "start_time": 1770400265249,
+        "end_time": 1770400266508,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, tá."
+      },
+      {
+        "start_time": 1770400266508,
+        "end_time": 1770400275951,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Já tem de todos os alunos. Ah, sim. Ah, perfeito. E também, aquela mesma coisa."
+      },
+      {
+        "start_time": 1770400275951,
+        "end_time": 1770400327044,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se você sente que está fazendo alguma coisa minimamente trabalhosa, fala para a gente não mas isso aqui para mim já é uma maravilha e na verdade mas a questão mesmo é só ver se tá realmente batendo tudo né mas É, é isso. O bom é que a gente vê tudo isso funcionando antes de começar as escolas, aí a gente vai poder começar as escolas com confiança, né? É, depois tem que ver como vai ser essa questão das escolas, né?\n\n"
+      },
+      {
+        "start_time": 1770400327044,
+        "end_time": 1770400333579,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sim. Porque as escolas vão ser só as presenças, né? E, no caso, três pautas seguidas."
+      },
+      {
+        "start_time": 1770400333579,
+        "end_time": 1770400370148,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, aí eu vou colocar nisso. A questão das escolas. Mas isso não vai ir. Acho que a gente vai ter que entender... Sabe o que a gente vai precisar entender para as escolas? Quem o fluxo do... Acho que é só para a gente saber que as escolas estão todas por turma, não tem... A gente só tem que entender como vai... Como vai ser feita a presença nas escolas?"
+      },
+      {
+        "start_time": 1770400370148,
+        "end_time": 1770400374862,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Nas escolas, normalmente, o professor que faz."
+      },
+      {
+        "start_time": 1770400374862,
+        "end_time": 1770400382945,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente. Às vezes, eu que preenchi. Basicamente, a gente só precisa saber..."
+      },
+      {
+        "start_time": 1770400382945,
+        "end_time": 1770400391700,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Porque nas escolas vai ser Mangueirinho e Dan, mas vai ter os auxiliares?"
+      },
+      {
+        "start_time": 1770400391700,
+        "end_time": 1770400393047,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Em alguns."
+      },
+      {
+        "start_time": 1770400393259,
+        "end_time": 1770400401173,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Porque o Mangueirinha não consegue mexer nessas coisas, mas ele não tem facilidade."
+      },
+      {
+        "start_time": 1770400401173,
+        "end_time": 1770400417002,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente só precisa de uma pessoa para cada... A gente tem que dividir as escolas em turmas e ter uma pessoa responsável para cada turma."
+      },
+      {
+        "start_time": 1770400417002,
+        "end_time": 1770400418828,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Turma Amarela Cordinha."
+      },
+      {
+        "start_time": 1770400418828,
+        "end_time": 1770400462094,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas talvez Tem dois turmas. Uma turma de percussão e uma de outra coisa. A gente só tem que dividir em turmas e fazer a presença por turma, com um professor sendo o responsável para a turma. Porque quando começam as aulas, é uma turma só. Se um semestre... Exatamente. Então, pode parecer até mais fácil. Mas, basicamente, entram as inscrições, a gente bate... Junto com o Cláudio, quais são as turmas.\n\n E acho que a gente consegue fazer isso facilmente, só quando a gente faz a matrícula das escolas."
+      },
+      {
+        "start_time": 1770400462094,
+        "end_time": 1770400467274,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá, mas aí depois a gente pode combinar, organizar isso."
+      },
+      {
+        "start_time": 1770400467274,
+        "end_time": 1770400468310,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1770400468310,
+        "end_time": 1770400473490,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Toda vez, acho que é só anotar aqui, não é?"
+      },
+      {
+        "start_time": 1770400473498,
+        "end_time": 1770400511659,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Aí eu tenho mais coisas que eu identifiquei. Identifiquei não, que eu acho que é importante. A questão do horário dos professores que eu te falei, para ver se dá para acessar."
+      },
+      {
+        "start_time": 1770400511659,
+        "end_time": 1770400524192,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O que você precisava fazer com o horário dos professores? Eu queria acessar para poder ver se está batendo."
+      },
+      {
+        "start_time": 1770400524192,
+        "end_time": 1770400528150,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "As presenças, no caso, as presenças."
+      },
+      {
+        "start_time": 1770400528159,
+        "end_time": 1770400540313,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Deixa eu entender. Então, você precisa entrar... Ah, porque você pode saber a presença por aluno, né? Dá para clicar nesses alunos por aluno, né?"
+      },
+      {
+        "start_time": 1770400540313,
+        "end_time": 1770400543716,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, mas aí vai dar mais trabalho."
+      },
+      {
+        "start_time": 1770400543716,
+        "end_time": 1770400551494,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Se fosse por professor, eu consigo ver se o professor preencheu de todo mundo, por exemplo."
+      },
+      {
+        "start_time": 1770400551494,
+        "end_time": 1770400569059,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Outra coisa que eu tenho que colocar no sistema não sei se você nota no documento, que a gente tem que acompanhar a presença dos professores, sabe? Tipo, professor tá faltando, coisa assim."
+      },
+      {
+        "start_time": 1770400569059,
+        "end_time": 1770400575864,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É difícil acontecer isso. É muito difícil eles faltarem sem falar nada, mas..."
+      },
+      {
+        "start_time": 1770400575864,
+        "end_time": 1770400593802,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, mas até eles falando. Sim, mas até eles falando, só para saber organizar essa coisa É, mas é exatamente por isso que eu acho importante eu conseguir ter acesso ao preenchimento do professor, pra ver se ele tá registrando certo."
+      },
+      {
+        "start_time": 1770400593802,
+        "end_time": 1770400608706,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Porque, por exemplo, a gente recebe a justificativa de falta de um aluno, e aí o professor coloca como presença, aí a gente não vai saber a advertência, por exemplo. Tipo, aparecer aquele link lá pra Lília poder justificar."
+      },
+      {
+        "start_time": 1770400608706,
+        "end_time": 1770400615310,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas se o professor, você tá falando assim, erra e colocar alguém presente que não estava..."
+      },
+      {
+        "start_time": 1770400615310,
+        "end_time": 1770400616970,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Presente, é isso, exatamente."
+      },
+      {
+        "start_time": 1770400616970,
+        "end_time": 1770400618215,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, entendi, entendi."
+      },
+      {
+        "start_time": 1770400618215,
+        "end_time": 1770400630250,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Entendeu? E aí a Línia não vai receber a notificação, porque ela não faltou para ela poder justificar. Não, não. Então seria bom ter esse acompanhamento para isso também."
+      },
+      {
+        "start_time": 1770400630250,
+        "end_time": 1770400630665,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ok."
+      },
+      {
+        "start_time": 1770400630665,
+        "end_time": 1770400639381,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Por profissão então, uma aba por profissão e presentes. Você poderia colocar isso no documento que você vai mandar para mim?"
+      },
+      {
+        "start_time": 1770400639389,
+        "end_time": 1770400645382,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu vou botar a Claudia nisso."
+      },
+      {
+        "start_time": 1770400646435,
+        "end_time": 1770400704971,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E aí A questão do ajuste dos horários que eu vou te mandar também. E eu não tô conseguindo abrir a aula de teoria do nível 3 da Joana e nem do Pablo."
+      },
+      {
+        "start_time": 1770400704971,
+        "end_time": 1770400715022,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok. Eu achei que eu tinha conseguido, mas talvez seja o outro. Você coloca isso no doc?"
+      },
+      {
+        "start_time": 1770400715022,
+        "end_time": 1770400721672,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Coloco. Está bom o formato de documento que estou te enviando?"
+      },
+      {
+        "start_time": 1770400721672,
+        "end_time": 1770400724091,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Só teve uma coisa."
+      },
+      {
+        "start_time": 1770400724091,
+        "end_time": 1770400730741,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se você... Uma coisa, você colocou alguma coisa em duas colunas."
+      },
+      {
+        "start_time": 1770400730741,
+        "end_time": 1770400731346,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Foi."
+      },
+      {
+        "start_time": 1770400731346,
+        "end_time": 1770400733159,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Aí, sem voltação."
+      },
+      {
+        "start_time": 1770400733159,
+        "end_time": 1770400735578,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O mínimo de formação."
+      },
+      {
+        "start_time": 1770400736803,
+        "end_time": 1770400744957,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Se quiser, o que o Claudio gosta mais é .md."
+      },
+      {
+        "start_time": 1770400744957,
+        "end_time": 1770400759633,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se você bola um documento no Claudio e fala, não, me faz um .md para ir a entender."
+      },
+      {
+        "start_time": 1770400759633,
+        "end_time": 1770400760449,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": ".md."
+      },
+      {
+        "start_time": 1770400760449,
+        "end_time": 1770400778708,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": ".md, markdown. É uma coisa de... Sim, sim, mas se você joga o que você tem no cloud e fala, eu quero um resumo .md disso."
+      },
+      {
+        "start_time": 1770400778708,
+        "end_time": 1770400784720,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Me escreve isso aí no WhatsApp para eu gravar."
+      },
+      {
+        "start_time": 1770400784720,
+        "end_time": 1770400787392,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": ".md, é só .md."
+      },
+      {
+        "start_time": 1770400787392,
+        "end_time": 1770400798507,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas pode ser no Mato Grosso. Eu só tô sendo, de forma geral, o que o Cloud mais gosta. É, se tiver um modelo é mais fácil."
+      },
+      {
+        "start_time": 1770400798507,
+        "end_time": 1770400801549,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, o que o Cloud mais gosta é .md."
+      },
+      {
+        "start_time": 1770400801549,
+        "end_time": 1770400838028,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E você joga qualquer coisa no seu Cloud e fala pra ele produzir um documento .md que explique direitinho, aí a gente não vai ter o som eu vou ter erro e aí e aí e aí Mais uma coisa..."
+      },
+      {
+        "start_time": 1770400838028,
+        "end_time": 1770400842565,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu não testei a parte de justificativa, mas isso aí é com a Lília, né?"
+      },
+      {
+        "start_time": 1770400842565,
+        "end_time": 1770400842867,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1770400842867,
+        "end_time": 1770400847403,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu estou tomando isso nesse momento. Vou finalizar isso e depois vou ver com ela."
+      },
+      {
+        "start_time": 1770400847403,
+        "end_time": 1770400918294,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Então ainda não dá para testar ainda. Depois tem que fazer uns testes para ver se vai entrar direitinho. E aí Ah, outra coisa que eu não falei. Sobre a aula de percussão. Temos o Thiago e o Irá, que fazem aula de percussão com a banda preta e roxa. E o Marquinhos, que faz aula particular de percussão antes do ensaio, né? Com a banda verde e amarela. Como é que a gente registra isso? Porque é específico, né?\n\n Não é aula particular. É aula... Com os alunos de percussão. No dia de ensaio, tem a aula com os alunos de percussão."
+      },
+      {
+        "start_time": 1770400918294,
+        "end_time": 1770400920332,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "No dia de ensaio."
+      },
+      {
+        "start_time": 1770400920332,
+        "end_time": 1770400934088,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "No dia de ensaio, aquela coisa... Sim, boa pergunta. Eu já falei para a Cláudia que isso não entra na... Você está falando da presença, não é?"
+      },
+      {
+        "start_time": 1770400934088,
+        "end_time": 1770400939741,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "A presença pode entrar como sendo o ensaio da banda, né?"
+      },
+      {
+        "start_time": 1770400939741,
+        "end_time": 1770400956993,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente. Eu pedi pra gente tratar isso como se fosse... Imagina, tem... Exatamente, o Marquinho tá fazendo... Marquinho e Tiaguera, mas é o, por exemplo, o Banda Preta, o Wesley que vai marcar pra todo mundo, sabe?"
+      },
+      {
+        "start_time": 1770400956993,
+        "end_time": 1770400963521,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá. Mas em relação ao horário deles, como é que isso vai ficar registrado?"
+      },
+      {
+        "start_time": 1770400963521,
+        "end_time": 1770400986129,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A folha de pagamento? E isso, né? Não, eu já estou vendo isso. Tá, então tá bom. Sim, sim, mas eu já estou vendo essa questão. Eu acho que o que vai... É possível, onde eu estava nisso, eu estava pensando, eu até só fazer a folha para as aulas particulares e as outras aulas, outras coisas fazem a parte."
+      },
+      {
+        "start_time": 1770400986129,
+        "end_time": 1770400987240,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Fica fixa, né?"
+      },
+      {
+        "start_time": 1770400987240,
+        "end_time": 1770400988351,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, fica fixa."
+      },
+      {
+        "start_time": 1770400988351,
+        "end_time": 1770400990202,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Fica fixa a parte, tá?"
+      },
+      {
+        "start_time": 1770400990202,
+        "end_time": 1770400992053,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vai estar como coisa fixa."
+      },
+      {
+        "start_time": 1770400992053,
+        "end_time": 1770401002655,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Aham. Tá bom. Eu fiquei nessa dúvida, porque eles estão todos preocupados. Ai, tem que registrar no Slack, senão não vai receber."
+      },
+      {
+        "start_time": 1770401002655,
+        "end_time": 1770401005350,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Então tá bom. Deixa eu ver."
+      },
+      {
+        "start_time": 1770401005350,
+        "end_time": 1770401033583,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Em relação à aula do Pierre, o Pierre ele tá fazendo um curso aos sábados, que termina final de março, que a mãe dele tinha falado ano passado. A gente conversou com ela e aceitamos que ele voltaria só em final de março para as aulas, de sábado. Mas quarta-feira ele faz aula normal com o Luthier."
+      },
+      {
+        "start_time": 1770401033583,
+        "end_time": 1770401040058,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ele está marcado na minha casa nas quatro férias do nosso hotel."
+      },
+      {
+        "start_time": 1770401040058,
+        "end_time": 1770401044914,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Isso, com o Luthier, depois de Carnaval ele mora."
+      },
+      {
+        "start_time": 1770401045576,
+        "end_time": 1770401048593,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "falando das aulas de instrumento, não é?"
+      },
+      {
+        "start_time": 1770401048593,
+        "end_time": 1770401059367,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, vamos dar as aulas do ensaio de sábado e a aula particular dele de sábado. Ele só vai começar sábado, no final de março."
+      },
+      {
+        "start_time": 1770401059367,
+        "end_time": 1770401065401,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, a gente ajusta isso quando ele entrar na turma, a gente ajusta isso."
+      },
+      {
+        "start_time": 1770401065401,
+        "end_time": 1770401069280,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá, então ele vai levando falta, por enquanto, justificado."
+      },
+      {
+        "start_time": 1770401069280,
+        "end_time": 1770401071866,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, porque ele não vai estar..."
+      },
+      {
+        "start_time": 1770401071866,
+        "end_time": 1770401078648,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ele vai levar falta. Então, ele leva falta e a Lívia injustifica. Justifica, tá?"
+      },
+      {
+        "start_time": 1770401078648,
+        "end_time": 1770401079570,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1770401079570,
+        "end_time": 1770401087405,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Essa é a minha dúvida, se a gente tira ele, depois inclui-o, se dá falta e justifica."
+      },
+      {
+        "start_time": 1770401087405,
+        "end_time": 1770401090631,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Efetivamente, é uma falta de justificado, né?"
+      },
+      {
+        "start_time": 1770401090631,
+        "end_time": 1770401091553,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1770401091553,
+        "end_time": 1770401105142,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "No caso das aulas de quarta, ele só vai começar depois do carnaval. Então, por exemplo, essa semana eu não sei tem aberto a aula de guidoline."
+      },
+      {
+        "start_time": 1770401105142,
+        "end_time": 1770401106927,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Nem sei se..."
+      },
+      {
+        "start_time": 1770401106927,
+        "end_time": 1770401111688,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu não entendi de ter guidoline, na verdade."
+      },
+      {
+        "start_time": 1770401111688,
+        "end_time": 1770401115258,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Deixa eu ver aqui. Tem guidoline?"
+      },
+      {
+        "start_time": 1770401115258,
+        "end_time": 1770401121804,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Professor Guidoline? Ou é fixo o D? Não tem nada aqui."
+      },
+      {
+        "start_time": 1770401121804,
+        "end_time": 1770401126565,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Presença... Eu não sei o primeiro nome dele."
+      },
+      {
+        "start_time": 1770401126565,
+        "end_time": 1770401129540,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É, deveria estar, não é?"
+      },
+      {
+        "start_time": 1770401129549,
+        "end_time": 1770401132859,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se não tiver, a gente..."
+      },
+      {
+        "start_time": 1770401132859,
+        "end_time": 1770401137493,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Qual que será o primeiro nome dele?"
+      },
+      {
+        "start_time": 1770401137493,
+        "end_time": 1770401138155,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Bernardo."
+      },
+      {
+        "start_time": 1770401138155,
+        "end_time": 1770401140803,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ah, deixa eu ver."
+      },
+      {
+        "start_time": 1770401140803,
+        "end_time": 1770401148747,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, é. Tá aparecendo. Ok. Você pode colocar no doc? É isso."
+      },
+      {
+        "start_time": 1770401148747,
+        "end_time": 1770401149409,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Posso."
+      },
+      {
+        "start_time": 1770401149409,
+        "end_time": 1770401156691,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E aí eu posso colocar aula cancelada? Dessas últimas que tiveram?"
+      },
+      {
+        "start_time": 1770401157358,
+        "end_time": 1770401180831,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Sim, sim. Será que tem mais coisa aqui?"
+      },
+      {
+        "start_time": 1770401180839,
+        "end_time": 1770401193033,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "que eu anotei. Tem as aulas de sábado também que vão ser canceladas, todas as aulas. Teria aula agora sábado, não vai ter."
+      },
+      {
+        "start_time": 1770401193033,
+        "end_time": 1770401200455,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente nem vai... A gente não gravar na presença, então não tem, sabe..."
+      },
+      {
+        "start_time": 1770401200455,
+        "end_time": 1770401203636,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas não fica como pendente, não?"
+      },
+      {
+        "start_time": 1770401203636,
+        "end_time": 1770401206287,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, eu acho que não."
+      },
+      {
+        "start_time": 1770401206287,
+        "end_time": 1770401208937,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Nem considera, então, a senhora."
+      },
+      {
+        "start_time": 1770401209351,
+        "end_time": 1770401212002,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É só não preencher."
+      },
+      {
+        "start_time": 1770401212002,
+        "end_time": 1770401219293,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É que eu tinha pensado em colocar uma opção sem aula."
+      },
+      {
+        "start_time": 1770401219293,
+        "end_time": 1770401247350,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Seria bom ter essa coisa de... Isso que eu estava colocando, eu comecei a fazer isso. A questão de gravar as aulas que não aconteceram. Tem uma função pra gente também. Sim, mas eles não foram... Então, você poderia gravar as aulas como cancelada, se quiser. Cancelada."
+      },
+      {
+        "start_time": 1770401247350,
+        "end_time": 1770401248352,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ensaio cancelado."
+      },
+      {
+        "start_time": 1770401248352,
+        "end_time": 1770401252859,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E a aula dos professores eu boto cancelada também."
+      },
+      {
+        "start_time": 1770401252859,
+        "end_time": 1770401255864,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas a única coisa é que..."
+      },
+      {
+        "start_time": 1770401255864,
+        "end_time": 1770401261875,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Até um certo ponto, a gente acabou só começando depois do carnaval."
+      },
+      {
+        "start_time": 1770401261875,
+        "end_time": 1770401262376,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770401263106,
+        "end_time": 1770401267869,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sim. A gente vai começar só dia 28. Sim, mas tipo, a gente poderia..."
+      },
+      {
+        "start_time": 1770401267869,
+        "end_time": 1770401280458,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu não sei se a gente fala, ah não, que eu penso a aula cancelada. Tipo, a gente ia fazer essa aula, mas a gente cancelou. Mas, na verdade, a gente nem ia fazer essas aulas porque..."
+      },
+      {
+        "start_time": 1770401280458,
+        "end_time": 1770401286242,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, no caso do dia 7, que era sábado, agora a gente cancelou por causa do bolo."
+      },
+      {
+        "start_time": 1770401286242,
+        "end_time": 1770401289304,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, sim. Pode colocar como cancelada, se quiser. Beleza."
+      },
+      {
+        "start_time": 1770401289304,
+        "end_time": 1770401300505,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E do dia 14 é feriado. Feriado é feriado, não é? Não sei se ele identifica feriado."
+      },
+      {
+        "start_time": 1770401300505,
+        "end_time": 1770401317677,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você poderia colocar isso no doc também? Opção de gravar como feriado. Recesso, né?"
+      },
+      {
+        "start_time": 1770401317677,
+        "end_time": 1770401321080,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá, feriado."
+      },
+      {
+        "start_time": 1770401321080,
+        "end_time": 1770401327886,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Feriado ou férias, né?"
+      },
+      {
+        "start_time": 1770401327886,
+        "end_time": 1770401331289,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, sim."
+      },
+      {
+        "start_time": 1770401331289,
+        "end_time": 1770401344929,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E, por último... Muita coisa, né?"
+      },
+      {
+        "start_time": 1770401344929,
+        "end_time": 1770401354172,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ai, esqueci que eu ia falar."
+      },
+      {
+        "start_time": 1770401354172,
+        "end_time": 1770401361874,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Peraí, deixa eu pensar aqui."
+      },
+      {
+        "start_time": 1770401361874,
+        "end_time": 1770401369577,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu só não vejo de..."
+      },
+      {
+        "start_time": 1770401372234,
+        "end_time": 1770401383323,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Acho que é isso, então. Tem que ver agora se vai atualizar."
+      },
+      {
+        "start_time": 1770401383323,
+        "end_time": 1770401394412,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Deixa eu ver se atualizou aqui. De presença não registrei. Ah, atualizou."
+      },
+      {
+        "start_time": 1770401394412,
+        "end_time": 1770401397184,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Banda roxa 100."
+      },
+      {
+        "start_time": 1770401397184,
+        "end_time": 1770401398108,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Teoria."
+      },
+      {
+        "start_time": 1770401400350,
+        "end_time": 1770401415515,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, a Banda Verde Natal. Pabllo M2. Tá certo. Não, mas foi tudo isso, de fato."
+      },
+      {
+        "start_time": 1770401415515,
+        "end_time": 1770401419306,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Deixa eu ver aqui."
+      },
+      {
+        "start_time": 1770401419306,
+        "end_time": 1770401427837,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Deixa eu ver se não é safado. É isso."
+      },
+      {
+        "start_time": 1770401435842,
+        "end_time": 1770401438751,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E agora ele não quer ver."
+      },
+      {
+        "start_time": 1770401438751,
+        "end_time": 1770401449906,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tem esse delimito nas aulas de teoria. A N3, ele não tá nem a nível 3, ele nem abre nenhum dos dois professores."
+      },
+      {
+        "start_time": 1770401449906,
+        "end_time": 1770401454755,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, se você coloca no documento e eu pego lá."
+      },
+      {
+        "start_time": 1770401454891,
+        "end_time": 1770401465182,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu tô achando essa porcentagem muito alta."
+      },
+      {
+        "start_time": 1770401465182,
+        "end_time": 1770401472532,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Tá, acho que foi isso."
+      },
+      {
+        "start_time": 1770401472532,
+        "end_time": 1770401485671,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Deixa eu ver a nossa pauta aqui Ah, a questão do calendário."
+      },
+      {
+        "start_time": 1770401485671,
+        "end_time": 1770401487942,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Eu queria te perguntar."
+      },
+      {
+        "start_time": 1770401487942,
+        "end_time": 1770401498733,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Eu vou também, a partir de semana que vem, tentar já colocar em prática as presenças dos meus professores."
+      },
+      {
+        "start_time": 1770401498733,
+        "end_time": 1770401499869,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ah, show!"
+      },
+      {
+        "start_time": 1770401499869,
+        "end_time": 1770401504980,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Você acha que é melhor? Vou esperar um pouco."
+      },
+      {
+        "start_time": 1770401504980,
+        "end_time": 1770401515295,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, eu acho que agora está muito menos bugado, né? Quando tá funcionando aquela coisa das aulas de teoria."
+      },
+      {
+        "start_time": 1770401515295,
+        "end_time": 1770401525968,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Pelo menos a parte de visualizar o aprendizagem dos professores seria bom. Pra eu ver se eles estão conseguindo preencher direitinho."
+      },
+      {
+        "start_time": 1770401525968,
+        "end_time": 1770401526984,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Ah, sim."
+      },
+      {
+        "start_time": 1770401526984,
+        "end_time": 1770401533591,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O histórico pro professor. Vou colocar. Antes de eu mostrar pra eles, né?"
+      },
+      {
+        "start_time": 1770401533591,
+        "end_time": 1770401535624,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Antes deles começarem mesmo."
+      },
+      {
+        "start_time": 1770401535633,
+        "end_time": 1770401536089,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770401536089,
+        "end_time": 1770401551590,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E a outra ponta de dados é o calendário, a questão do calendário. Como é que vai ser o processo de atualização do calendário? Você vai usar aquele, né? Vamos usar aquele por enquanto."
+      },
+      {
+        "start_time": 1770401551590,
+        "end_time": 1770401562533,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ainda não cheguei nisso, mas daqui a pouco eu vou organizar isso para a gente ter um site com um calendário e essas coisas."
+      },
+      {
+        "start_time": 1770401562533,
+        "end_time": 1770401563445,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ah, tá."
+      },
+      {
+        "start_time": 1770401563445,
+        "end_time": 1770401563901,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aí..."
+      },
+      {
+        "start_time": 1770401563935,
+        "end_time": 1770401570205,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Não, porque você tinha falado que eu ia ficar nessa responsabilidade de atualizar."
+      },
+      {
+        "start_time": 1770401570205,
+        "end_time": 1770401581782,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, eu fiz alguns na reunião porque não fez sentido não fazer, sabe? Porque eles estavam definindo as coisas na reunião, eu joguei lá."
+      },
+      {
+        "start_time": 1770401581782,
+        "end_time": 1770401598024,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas aí como que você me passaria? Você acha que você ia registrar e me mandar para eu atualizar? Só para entender mesmo como é que vai ser o fluxo."
+      },
+      {
+        "start_time": 1770401598024,
+        "end_time": 1770401613323,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu vou ter que pensar nisso. Por enquanto, eu acho que nós dois podemos mexer lá para deixar... Para não ficar... Eles atualizem isso na planilha quando eu posso ir lá e fazer."
+      },
+      {
+        "start_time": 1770401613323,
+        "end_time": 1770401620277,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Porque tem coisas que o Wesley definia. Ah, vocês definem em reunião de liderança também."
+      },
+      {
+        "start_time": 1770401620277,
+        "end_time": 1770401635456,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas também... Mas também vão ter coisas que vocês definem lá, sei lá, na pedagógica também. Aí você vai atualizando. Acho que vai funcionar com nós dois atualizando."
+      },
+      {
+        "start_time": 1770401635456,
+        "end_time": 1770401646004,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá. Tá bom. E aí essas outras colunas eu posso ir ajustando, perguntando para o Wesley, vou ajustando, por exemplo."
+      },
+      {
+        "start_time": 1770401646004,
+        "end_time": 1770401653519,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim. Sim. Outra coisa que eu queria te pedir Ah, não consigo editar."
+      },
+      {
+        "start_time": 1770401653519,
+        "end_time": 1770401656868,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Pedir para ver o Big Tech."
+      },
+      {
+        "start_time": 1770401656868,
+        "end_time": 1770401661334,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim. Ah, pedir para a produção, né?"
+      },
+      {
+        "start_time": 1770401661334,
+        "end_time": 1770401664684,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, que a produção tem propriedade."
+      },
+      {
+        "start_time": 1770401664684,
+        "end_time": 1770401679198,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Esse chegou para mim. Eu vou abrir na conta da produção. Mas teve outra coisa que eu queria ver com você. É sobre o carnaval. Aham."
+      },
+      {
+        "start_time": 1770401680726,
+        "end_time": 1770401683384,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, não, não. Transporte."
+      },
+      {
+        "start_time": 1770401683384,
+        "end_time": 1770401725531,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quantos alunos vão direto? Eu já falei com a Wesley sobre isso, mas quantos alunos vão direto e quantos alunos vão precisar do transporte do ascensão? Eu e o Wesley estávamos falando, estávamos achando que a gente deveria por causa de todos esses incógnitos, marcar bem cedo, sabe? Seis horas. Eu não sei, seis horas eu não sei, mas cedo, né? É, tem que tentar marcar cedo, sei lá."
+      },
+      {
+        "start_time": 1770401725531,
+        "end_time": 1770401729887,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas seis e meia tá bom, eu acho."
+      },
+      {
+        "start_time": 1770401729887,
+        "end_time": 1770401735877,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, eu vou ver esse como é, mas só para adiantar."
+      },
+      {
+        "start_time": 1770401736451,
+        "end_time": 1770401739166,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Uma hora, mais ou menos, de organização."
+      },
+      {
+        "start_time": 1770401739166,
+        "end_time": 1770401755839,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, eu estou falando que a gente vai sair a oito horas, que eu coloquei. Oito horas, o cortejo. O cortejo, né? Mas aí todo mundo lá até sete horas. Eu acho que é difícil a Santa Teresa entorpecer antes de sete horas."
+      },
+      {
+        "start_time": 1770401755839,
+        "end_time": 1770401764370,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Esse bloco que o Wesley comentou é um bloco que não parece ser oficial, não? Não sei, eu também pesquisei sobre isso."
+      },
+      {
+        "start_time": 1770401764378,
+        "end_time": 1770401789547,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu compartilhei lá. Não é exatamente Céu na Terra, né? Uma coisa que vai sair... Vai sair do rato molhado. Eu acho que a coisa é só marcar cedo. Tudo bem, já estão começando as conversas."
+      },
+      {
+        "start_time": 1770401789547,
+        "end_time": 1770401793147,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Mas a coisa... A principal ali."
+      },
+      {
+        "start_time": 1770401793147,
+        "end_time": 1770401805456,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E, se a gente tiver tempo, se a gente marcar cedo, se a galera está tentando chegar lá para sete horas e tem problema, a gente tem tempo, não é?"
+      },
+      {
+        "start_time": 1770401805456,
+        "end_time": 1770401810790,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sim. No pior dos casos, a gente faz um caminhozinho curto, mais curto."
+      },
+      {
+        "start_time": 1770401810790,
+        "end_time": 1770401840969,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas essa é a questão. Amanhã vamos voltar duas semanas para o cortejo, então, seria bom a gente organizar esse transporte. Eu não sei, de cabeça, você acha que vai ter gente que vai direto? Sim, tem. Se você quiser chutar para mim, talvez você chute um número... Ih, agora não vou conseguir. Não, tudo bem."
+      },
+      {
+        "start_time": 1770401840969,
+        "end_time": 1770401847614,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Porque são quatro bandas, né? Tem que olhar banda por banda."
+      },
+      {
+        "start_time": 1770401847614,
+        "end_time": 1770401849822,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tranquilo. Mas mesmo assim..."
+      },
+      {
+        "start_time": 1770401849822,
+        "end_time": 1770401852922,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas eu tenho uma noção, sim."
+      },
+      {
+        "start_time": 1770401852922,
+        "end_time": 1770401871003,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque talvez, se você tiver uma noção, a gente fala... A gente já sabe que vai precisar de, sei lá, um micro. Bem que dá para fazer mais do que uma ilha, né? É perto."
+      },
+      {
+        "start_time": 1770401871003,
+        "end_time": 1770401872037,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É perto."
+      },
+      {
+        "start_time": 1770401872037,
+        "end_time": 1770401875136,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "É, pode já fechar um micro."
+      },
+      {
+        "start_time": 1770401875145,
+        "end_time": 1770401878107,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E aí com mais deslocamento, né?"
+      },
+      {
+        "start_time": 1770401878107,
+        "end_time": 1770401882056,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Usar dois, tipo, pegar dois vans ou coisa."
+      },
+      {
+        "start_time": 1770401882056,
+        "end_time": 1770401886993,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Acho que o micro e com mais deslocamento é melhor."
+      },
+      {
+        "start_time": 1770401886993,
+        "end_time": 1770401887487,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1770401887487,
+        "end_time": 1770401893904,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O micro saindo seis e meia, o micro saindo sete horas, coisa assim."
+      },
+      {
+        "start_time": 1770401893904,
+        "end_time": 1770401895386,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, pode ser."
+      },
+      {
+        "start_time": 1770401895386,
+        "end_time": 1770401898348,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "Ou o micro saindo seis, é."
+      },
+      {
+        "start_time": 1770401898348,
+        "end_time": 1770401920706,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, pode ser o micro saindo seis com instrumento, Eu marco seis e meia com todo mundo, um micro sai seis e meia, um micro sai, vai pra lá, um micro sai seis e meia, tipo, cinco, dez minutos pra voltar, aí depois volto direto e pego o resto, aí sete, quinze, tá todo mundo lá."
+      },
+      {
+        "start_time": 1770401920706,
+        "end_time": 1770401921797,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sim, pode ser."
+      },
+      {
+        "start_time": 1770401921797,
+        "end_time": 1770401928706,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, beleza, mas era isso, só se a SIS tiver quantas crianças são, que talvez a gente precise dar."
+      },
+      {
+        "start_time": 1770401928706,
+        "end_time": 1770401930888,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá, eu vou fazer o Minecraft."
+      },
+      {
+        "start_time": 1770401930888,
+        "end_time": 1770401945591,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, obrigado, obrigado. Até na próxima semana eu peço para todo mundo responder o quanto antes."
+      },
+      {
+        "start_time": 1770401945591,
+        "end_time": 1770401956055,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É segunda, eu mando na enquete. Então tá, é isso."
+      },
+      {
+        "start_time": 1770401956055,
+        "end_time": 1770401967033,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Sobre desligamentos de alunos. Você atualiza isso também lá no Slack? Eu vi que tem alguns comandos que dá para fazer... Sim."
+      },
+      {
+        "start_time": 1770401967033,
+        "end_time": 1770401968494,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas eu não consigo."
+      },
+      {
+        "start_time": 1770401968494,
+        "end_time": 1770401983833,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Por enquanto, você anota, por favor. Aí depois, até semana que vem, eu organizo a parte dos... Eu acho que, na verdade, a gente já está organizado, mas eu só vou... A gente pode ver isso em detalhe na semana que vem."
+      },
+      {
+        "start_time": 1770401983833,
+        "end_time": 1770402005261,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá. Tá bom. Tá bom. Vou te mandar, então. A lista. Até mais tarde, desculpa. Tá resolvendo uma outra coisa aqui? Não, tranquilo. Tem que ajustar aqui alguns horários ainda. Eu já vou... Alguns que eu já lembro. Eu te mando um fechado de horário pra não ter que ficar toda hora te pedindo pra ajustar."
+      },
+      {
+        "start_time": 1770402005261,
+        "end_time": 1770402012591,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E algumas das coisas que eu já posso começar com algumas coisas, né? Do histórico pro professor, etc, etc."
+      },
+      {
+        "start_time": 1770402012591,
+        "end_time": 1770402013749,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Aham, isso, tá."
+      },
+      {
+        "start_time": 1770402013749,
+        "end_time": 1770402014520,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Tá bom."
+      },
+      {
+        "start_time": 1770402014520,
+        "end_time": 1770402018104,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "E deixa eu ver aqui... Tá bom."
+      },
+      {
+        "start_time": 1770402018104,
+        "end_time": 1770402031210,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 2"
+        },
+        "words": "É isso. É isso. Obrigada, Tom. Ah, que não. Obrigado, Vassa Iris. Qualquer coisa, tá ok."
+      },
+      {
+        "start_time": 1770402031210,
+        "end_time": 1770402049932,
+        "speaker": {
+          "name": "Conference Room (Iris Nascimento) - Speaker 1"
+        },
+        "words": "Espero que a gente tenha menos bug na semana que vem. Ah, vai ter alguma coisa mas acho que já vai começar a funcionar melhor. É, eu também acho."
+      },
+      {
+        "start_time": 1770402049932,
+        "end_time": 1770402053383,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá bom. Então é isso. Obrigado. Obrigado, Elis."
+      },
+      {
+        "start_time": 1770402053383,
+        "end_time": 1770402054246,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tchau, tchau."
+      },
+      {
+        "start_time": 1770402054246,
+        "end_time": 1770402055971,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tchauzinho, boa tarde. Tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Tom Ashe"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Conference Room (Iris Nascimento) - Speaker 2"
+      },
+      {
+        "name": "Conference Room (Iris Nascimento) - Speaker 1"
+      }
+    ]
+  },
+  "platform_meeting_id": "yad-ioqw-psn",
+  "platform": "meet"
+}

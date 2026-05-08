@@ -1,0 +1,1797 @@
+{
+  "session_id": "01KH9K21ECB5SR3VANHWKKKWMV",
+  "trigger": "meeting_end",
+  "title": "Meet Meeting",
+  "start_time": "2026-02-12T15:51:07-03:00",
+  "end_time": "2026-02-12T16:32:40-03:00",
+  "participants": [
+    {
+      "name": "Iris Nascimento",
+      "first_name": "Iris",
+      "last_name": "Nascimento",
+      "email": null
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião abordou diversos problemas relacionados ao sistema de registro de presenças e faltas, com Iris Nascimento relatando dificuldades na atualização de justificativas e no fechamento de janelas. Tom Ashe e Iris discutiram a necessidade de auditar os dados gravados, uma vez que algumas aulas estavam sendo registradas incorretamente como faltas devido a bugs. Eles consideraram a possibilidade de ajustar informações diretamente no sistema, enfatizando a colaboração necessária para resolver essas falhas e melhorar o fluxo de trabalho.\n\nAlém disso, foram discutidas novas funcionalidades para o site, como a visualização de presenças e a gravação de ensaios extras. Tom destacou a importância de permitir que os usuários editem presenças diretamente no site. A conversa também incluiu a apresentação do aplicativo WhisperFlow, que facilita a transcrição de voz para texto, e a necessidade de separar informações de presença por escola para evitar confusões. Por fim, Iris e Tom discutiram a organização de eventos para o carnaval, incluindo a logística de lanches e a expectativa de um evento tranquilo.",
+  "action_items": [
+    {
+      "text": "Tom Ashe vai passar a transmissão para o Claudio para que ele entenda as questões discutidas."
+    },
+    {
+      "text": "Tom Ashe vai trabalhar com o Claudio para entender como cancelar presenças no sistema."
+    },
+    {
+      "text": "Tom Ashe vai enviar a transcrição da reunião para o Claudio para que ele possa trabalhar nas questões levantadas."
+    },
+    {
+      "text": "Iris Nascimento vai clicar em todas as abas do sistema para verificar se as atualizações discutidas foram implementadas."
+    },
+    {
+      "text": "Iris Nascimento vai registrar as presenças que estão faltando e ajustar os erros de registro."
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Como será feito o acompanhamento das faltas não justificadas pelos professores?"
+    },
+    {
+      "text": "Como será feita a separação das informações das escolas no sistema?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Uso de ferramentas como WhisperFlow para facilitar a comunicação e registro de informações."
+    },
+    {
+      "text": "Acompanhamento das faltas não justificadas pelos professores."
+    },
+    {
+      "text": "Necessidade de atualização e correção de bugs no sistema."
+    },
+    {
+      "text": "Problemas de registro de presenças e faltas no sistema."
+    },
+    {
+      "text": "Discussão sobre a separação de informações das escolas no sistema."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KH9K21ECB5SR3VANHWKKKWMV",
+  "chapter_summaries": [
+    {
+      "title": " Problemas e Ajustes no Sistema de Registro",
+      "description": " Iris Nascimento mencionou que estava enfrentando dificuldades com o sistema de registro, como a atualização de presenças e a exibição de faltas incorretas. Tom Ashe confirmou que os dados enviados estavam corretos, mas destacou a importância de resolver os bugs para garantir a precisão das informações. Eles concordaram em trabalhar juntos para encontrar soluções.",
+      "topics": []
+    },
+    {
+      "title": " Discussão sobre funcionalidades do site e comandos no Slack",
+      "description": " Tom Ashe e Iris Nascimento abordam a necessidade de melhorias no site, incluindo a visualização de presenças e a gravação de ensaios. Iris relata problemas com comandos no Slack, que não funcionam de forma consistente. Tom sugere que ajustes sejam feitos para facilitar a edição de presenças diretamente no site.",
+      "topics": []
+    },
+    {
+      "title": "Uso do WhisperFlow para Transcrição",
+      "description": "Tom Ashe explicou como o WhisperFlow funciona, destacando sua capacidade de transcrever voz em texto. Ele mencionou que os usuários podem gravar mensagens longas e enviá-las para correção, facilitando a comunicação sobre problemas no site.",
+      "topics": [
+        "Uso de ferramentas como WhisperFlow para facilitar a comunicação e registro de informações."
+      ]
+    },
+    {
+      "title": " Discussão sobre o sistema de registro de faltas e presenças",
+      "description": " Tom Ashe e Iris Nascimento abordam problemas no sistema de registro de faltas e presenças, destacando a falta de comunicação dos professores. Iris explica que está monitorando os registros, mas enfrenta erros que podem levar a confusões. Tom enfatiza a importância de corrigir esses bugs antes de passar o sistema para os professores.",
+      "topics": [
+        "Acompanhamento das faltas não justificadas pelos professores.",
+        "Necessidade de atualização e correção de bugs no sistema.",
+        "Problemas de registro de presenças e faltas no sistema."
+      ]
+    },
+    {
+      "title": "Discussão sobre Cloud Code",
+      "description": "Tom Ashe compartilhou suas experiências com o Cloud Code, comparando sua funcionalidade atual com a de ferramentas anteriores, como o ChatGBT. Iris Nascimento questionou sobre a capacidade do sistema de gerar resultados e testou um comando relacionado a uma \"banda amarela\", que apresentou problemas inicialmente, mas foi resolvido.",
+      "topics": []
+    },
+    {
+      "title": "Discussão sobre Relatórios e Presença nas Escolas",
+      "description": "Iris Nascimento sugere que as informações de presença sejam organizadas em abas separadas por escola, enquanto Tom Ashe menciona que a ideia é que os dados das escolas apareçam em uma área específica. Iris expressa preocupação com a possibilidade de mistura de informações no relatório, pedindo que os dados sejam mantidos separados para facilitar a análise.",
+      "topics": [
+        "Discussão sobre a separação de informações das escolas no sistema."
+      ]
+    },
+    {
+      "title": "Atualizações sobre Presenças e Eventos",
+      "description": "Iris Nascimento planeja revisar o sistema durante o carnaval para corrigir erros de presença e atualizar informações. Tom Ashe está acompanhando as correções e informa que uma nova corretora será testada por três meses. Ambos comentam sobre a organização do carnaval e a necessidade de garantir que todos estejam bem alimentados durante os eventos.",
+      "topics": []
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1770922266952,
+        "end_time": 1770922269075,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E aí, tudo bem?"
+      },
+      {
+        "start_time": 1770922269075,
+        "end_time": 1770922271197,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vou tomar um esporro?"
+      },
+      {
+        "start_time": 1770922271197,
+        "end_time": 1770922274912,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tudo bem. Não. Vai tomar mais trabalhos."
+      },
+      {
+        "start_time": 1770922274912,
+        "end_time": 1770922278096,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tem alguns probleminhas aí que identifiquei."
+      },
+      {
+        "start_time": 1770922278096,
+        "end_time": 1770922283933,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu tô de óculos porque eu tô com sensibilidade à luz."
+      },
+      {
+        "start_time": 1770922283933,
+        "end_time": 1770922302792,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu tô com óculos. Entendi. Sim. Você me mandou aí no... Eu posso passar esse pro Claudio já? Tá. A gente vai tirando as... Mas os dados que você colocou chegaram lá certinho?"
+      },
+      {
+        "start_time": 1770922302792,
+        "end_time": 1770922305715,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Aqueles que eu te enviei?"
+      },
+      {
+        "start_time": 1770922305715,
+        "end_time": 1770922312145,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aqueles que você gravou alguns do Slack para o sistema, né?"
+      },
+      {
+        "start_time": 1770922312145,
+        "end_time": 1770922323871,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu não olhei um por um, não, mas eu estou vendo parte de justificativas. Mas, pelo que eu estava registrando, estava certo."
+      },
+      {
+        "start_time": 1770922323871,
+        "end_time": 1770922354573,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Legal, porque a coisa era de só olhar, de a gente saber se estava dando certo, se o que a gente tem no sistema até agora está certo. Porque, se está certo tudo o que foi gravado até agora e o sistema está funcionando, Aí a gente sabe que já estamos a todo vapor e tá tudo certo. Vamos lá, então."
+      },
+      {
+        "start_time": 1770922354573,
+        "end_time": 1770922374003,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "O que que tá acontecendo? Isso tá aparecendo só na parte de teoria. Então, quando eu preencho, eu quero preencher a teoria do Pablo, vamos supor. Deixa eu ver aqui qual que é o problema, dia 9."
+      },
+      {
+        "start_time": 1770922374012,
+        "end_time": 1770922378756,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se a gente ficar a aceitar, é bonitinho, não é?"
+      },
+      {
+        "start_time": 1770922378756,
+        "end_time": 1770922387770,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, fica legal. Eu não sei onde aparece isso depois, quando eu o registro. Fica nos detalhes do aluno?"
+      },
+      {
+        "start_time": 1770922387770,
+        "end_time": 1770922405516,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E qualquer coisa... Se você pensa, não, eu queria isso, isso seria mais... Porque a gente estava fazendo a mesma coisa, não é? Sobre colocar no site essas coisas. Qualquer coisa. A gente fala que agora dá pra fazer."
+      },
+      {
+        "start_time": 1770922405516,
+        "end_time": 1770922426394,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Qualquer coisa que você quer a gente faz. É só falar. Deve demorar ainda. Isso aqui, por exemplo, eu não consigo fechar quando eu abro um... Qualquer coisa que eu abro, não tá fechando. Então tem que atualizar o site pra poder voltar. Aí, por exemplo, eu justifiquei uma foto da Elizabeth, mas ainda não atualizou."
+      },
+      {
+        "start_time": 1770922426394,
+        "end_time": 1770922427513,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ele atualiza depois?"
+      },
+      {
+        "start_time": 1770922427513,
+        "end_time": 1770922430077,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tá como falta aqui ainda. Entendi."
+      },
+      {
+        "start_time": 1770922430077,
+        "end_time": 1770922450813,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, você justifica a volta, mas demora para apresentar. Talvez, provavelmente, vai ser no início da próxima hora. Vamos checar daqui seis minutos. Deve ser isso, que não é imediato."
+      },
+      {
+        "start_time": 1770922450813,
+        "end_time": 1770922470897,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Aqui... Deixa eu pegar o do Pablo. Eu fiz um... Um errozinho na hora de preencher, por exemplo, aula de teoria, ao invés de botar dia 10, eu botei dia 9. Então, eu estou deixando dia 9 mesmo, para não registrar duas aulas de teoria. Não sei se tem problema."
+      },
+      {
+        "start_time": 1770922470897,
+        "end_time": 1770922478020,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Acho que não, porque para a gente não, a gente só quer saber das presenças e da quantidade de ouro dos professores."
+      },
+      {
+        "start_time": 1770922478020,
+        "end_time": 1770922486142,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Então, se eu preenchi dia 9, eu não vou preencher dia 10, porque já está começando dia 9, senão ficar duas aulas Ah, entendi."
+      },
+      {
+        "start_time": 1770922486142,
+        "end_time": 1770922529291,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Talvez vai cadastrar, vai pedir um justificativo porque a aula não aconteceu depois, mas... Mas é bom. O bom é que a gente grave isso com o UDI. Eu vou passar essa transmissão para o Claudio. Ele vai já entender que a gente tem essa questão. Eu vou trabalhar com o Claudio depois para entender como a gente faz para poder cancelar, talvez já tenha um comando, mas como a gente faz um fluxo mais fácil para cancelar uma presença que a gente quer tirar, e acho que talvez já tenha...\n\n"
+      },
+      {
+        "start_time": 1770922529291,
+        "end_time": 1770922548205,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Estou registrando errado. Estou fazendo a presença do Pablo de teoria. Vamos ver se vai certo. Aqui foi, presente. Só que às vezes ele registra falta, contrário. Aí bota dez faltas. Aconteceu isso. Por isso tá aparecendo um monte aqui de..."
+      },
+      {
+        "start_time": 1770922548205,
+        "end_time": 1770922566595,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Descreve detalhadamente o que que é isso. Às vezes, quando você grava a presença da teoria, aparece tudo falta, ao invés do presente. Então, isso a gente tem que... Isso é bug. Aí depois a gente vai..."
+      },
+      {
+        "start_time": 1770922566595,
+        "end_time": 1770922583823,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Isso é ótimo, porque essa justificativa elas vão atualizando conforme eu vou preenchendo lá, então vai saindo, aí é mais fácil para eu poder ver. Mas ainda tá aparecendo aqui, teoria Joana, que foi esse bug que deu, que deu falta para todo mundo."
+      },
+      {
+        "start_time": 1770922583823,
+        "end_time": 1770922638070,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Entendi. Então, a gente tem uma aula de teoria no dia 11 de fevereiro, que foi gravado e ficou gravado com todo mundo faltando. Isso. E no meu caso, a gente tem que tirar isso do sistema. E depois, quando você tiver tempo, eu queria saber se você tenta usar a ferramenta para ver, por exemplo, vamos ver se tudo no final fica certo, os dias certos de teoria foram gravados certos. Eu queria saber que, dentro do sistema que tem, dá para você fazer isso, sabe?\n\n E se fica uma caixa preta que você não consegue auditar, que ainda é de de você poder, sabe, fazer a auditoria, isso é importante, de você poder fazer essa auditoria para ver exatamente se foi gravado no sistema ou não, se está certo, está certo, está certo, sabe?"
+      },
+      {
+        "start_time": 1770922638070,
+        "end_time": 1770922655091,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, eu queria ver isso, porque, por exemplo, aqui está falando dia 11, não está errado, 11 é quarta, teoria é dia 10, mas eu tenho certeza que eu não botei dia 11, então não sei se... Bug aí da data também. Não, atingi."
+      },
+      {
+        "start_time": 1770922655091,
+        "end_time": 1770922669988,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, tem um outro bug para a gente ver que é o sistema gravando coisas em data diferente do que o dia que você colocou. Isso. Que isso é 11 agora que você está colocando aí, né?"
+      },
+      {
+        "start_time": 1770922669988,
+        "end_time": 1770922678443,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, eu botei 11 porque está aparecendo lá no sistema que é dia 11, para eu poder tirar daqui essas faltas."
+      },
+      {
+        "start_time": 1770922678443,
+        "end_time": 1770922680456,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Porque eu estou retirando 11."
+      },
+      {
+        "start_time": 1770922680779,
+        "end_time": 1770922683466,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "mas eu registrei dia 10, com certeza."
+      },
+      {
+        "start_time": 1770922683466,
+        "end_time": 1770922703044,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu não sei, a outra questão que a gente tem que ver, eu não sei se, então você tá regravando, quando você quer alterar um dia, você regrava a presença. Eu não sei como isso conversa com o sistema, isso é outra coisa que vai ter que ver com o cloud."
+      },
+      {
+        "start_time": 1770922703044,
+        "end_time": 1770922706651,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Se desse para eu ajustar direto no sistema, melhor."
+      },
+      {
+        "start_time": 1770922706651,
+        "end_time": 1770922710341,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Ao invés de ter que regravar."
+      },
+      {
+        "start_time": 1770922710341,
+        "end_time": 1770922710868,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770922710868,
+        "end_time": 1770922756241,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, a gente está caminhando para querer isso também no site, é isso? É. Você vai podendo visualizar tudo no site. É isso, porque o Slack entra como útil para os professores. Mas, de repente, a gente quer de você poder está direto no site. O Cláudio está falando comigo alguma coisa aqui. Ele falou que gravar ensaio extra já é possível. É só colocar slash presença e abar meio-dia. Eu tentei, mas não está indo.\n\n Ah, ok. Ah, extra."
+      },
+      {
+        "start_time": 1770922756241,
+        "end_time": 1770922759252,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, não, tem que colocar..."
+      },
+      {
+        "start_time": 1770922759260,
+        "end_time": 1770922762470,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Que foi ontem. Isso. Tá vendo?"
+      },
+      {
+        "start_time": 1770922762470,
+        "end_time": 1770922766215,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Não tá reconhecendo. Eu testei várias vezes."
+      },
+      {
+        "start_time": 1770922766215,
+        "end_time": 1770922766750,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ok."
+      },
+      {
+        "start_time": 1770922766750,
+        "end_time": 1770922779053,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Não, porque às vezes ele fala assim, não tá encontrando o comando. Só que aí depois que eu tento várias vezes, aí vai."
+      },
+      {
+        "start_time": 1770922779053,
+        "end_time": 1770922787077,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem isso também, por exemplo. Às vezes funciona. Às vezes eu tento teoria, por exemplo."
+      },
+      {
+        "start_time": 1770922787355,
+        "end_time": 1770922808599,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "eu vou teoria, presença teoria, Pabllo e bota a data. Vou tentar aqui, Pabllo 11. Aqui ele apareceu, mas às vezes dá como erro. Tem que ficar colocando várias vezes o comando para poder... Aí vai. Mas esse da banda eu tentei algumas vezes e não foi."
+      },
+      {
+        "start_time": 1770922808599,
+        "end_time": 1770922836060,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Deixa eu colocar... Eu vou colocar o erro agora. Banda não encontrada, Amaralé 11. Não encontrada. Ok, vou... Aí, ele vai dar uma olhada lá."
+      },
+      {
+        "start_time": 1770922890279,
+        "end_time": 1770922928247,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E aí É que ele não autorizou ainda a presença dessa semana. Aqui já atualizou de choque."
+      },
+      {
+        "start_time": 1770922932713,
+        "end_time": 1770922960900,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "A Kelly está fazendo algumas alterações."
+      },
+      {
+        "start_time": 1770922960909,
+        "end_time": 1770922970676,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "para tentar tirar esses erros intermitentes, essa coisa do comando, né, banda amarela 11, de colocar ensaio extra."
+      },
+      {
+        "start_time": 1770922970676,
+        "end_time": 1770922982613,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Deixa eu te perguntar, em relação a, aqui só aparece as aulas particulares, né, professor? A de teoria não aparece aqui, né?"
+      },
+      {
+        "start_time": 1770922982613,
+        "end_time": 1770922983155,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ok."
+      },
+      {
+        "start_time": 1770922983155,
+        "end_time": 1770922987496,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Não contabiliza, né? É direto, é fixo, professor?"
+      },
+      {
+        "start_time": 1770922988124,
+        "end_time": 1770923011098,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, as aulas de teoria não estão incluídas na... Na aula particular? Você está em qual aula? Professor é isso? Professora. Essas são as aulas particulares, são as aulas com os alunos. Com os alunos individuais? Individuais, sim."
+      },
+      {
+        "start_time": 1770923011098,
+        "end_time": 1770923020995,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu vou ter que olhar mais tarde para entrar o que eu atualizei, dos últimos dias."
+      },
+      {
+        "start_time": 1770923020995,
+        "end_time": 1770923025416,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Mas da semana passada tá ok."
+      },
+      {
+        "start_time": 1770923025416,
+        "end_time": 1770923026680,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ok, show."
+      },
+      {
+        "start_time": 1770923026680,
+        "end_time": 1770923037416,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não é isso, é esse trabalho chato, mas se tá indo, sabe? Mas é sempre aquela coisa."
+      },
+      {
+        "start_time": 1770923037416,
+        "end_time": 1770923039943,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Agora entrou aqui, ó."
+      },
+      {
+        "start_time": 1770923039943,
+        "end_time": 1770923044364,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim. Entrou em cima da hora."
+      },
+      {
+        "start_time": 1770923045111,
+        "end_time": 1770923066382,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, repare-se dia 11 e dia 9. Não está correto. Era pra ser dia 3 e dia 10, de teoria. Se desse pra ajustar aqui direto, ó, na data, tá vendo?"
+      },
+      {
+        "start_time": 1770923066382,
+        "end_time": 1770923069126,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tá ajustando aqui direto."
+      },
+      {
+        "start_time": 1770923069126,
+        "end_time": 1770923081232,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, ok. Então, deixa eu ver. Tá. Então, e não fecha. E não fecha. Não, tudo bem."
+      },
+      {
+        "start_time": 1770923081232,
+        "end_time": 1770923082577,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Esses diálogos."
+      },
+      {
+        "start_time": 1770923082577,
+        "end_time": 1770923130926,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Peraí, só fica aí um segundo. A gente tá na página alertas e aí ele está abrindo... Não, na página posta. Na página posta, e quando clica nos botões, abre, mas depois não dá para fechar. E para facilitar, aí eles querem poder clicar dentro de cada botão, clicar, por exemplo, presença por data, para entrar nas presenças de cada data e poder editar. De forma geral, poder editar as presenças diretamente do site.\n\n"
+      },
+      {
+        "start_time": 1770923130934,
+        "end_time": 1770923141783,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E o relatório, é o relatório geral, né. E as fichas dos alunos."
+      },
+      {
+        "start_time": 1770923141783,
+        "end_time": 1770923171302,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A ideia sendo que a gente manda os fichas todo mês, de qualquer forma, porque acho que isso é bom para acompanharem, né, que mostrem que a gente tá acompanhando, mas assim que a gente tiver falta na autorizada, a mensagem para os pais."
+      },
+      {
+        "start_time": 1770923171302,
+        "end_time": 1770923174408,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aqui tá fechando a nota, né?"
+      },
+      {
+        "start_time": 1770923174408,
+        "end_time": 1770923181654,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aqui fecha. Ah, ok. Então, fecha em algumas páginas e não em outras. Isso."
+      },
+      {
+        "start_time": 1770923181654,
+        "end_time": 1770923185795,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Deixa eu ver se na raiz tá fechando."
+      },
+      {
+        "start_time": 1770923185795,
+        "end_time": 1770923266233,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas, isso, o mais vídeo mesmo é qualquer erro que você encontra escreve olha eu tenho um aplicativo para você a gente fala whisperflow não não conheço esse é grátis e basicamente você é transcrição de voz só que é o diferencial é que transcreve muito bem sabe então você fala então whisperflow É um aplicativo, aí depois você dá acesso para o aplicativo para os outros aplicativos. E no meu celular, eu uso meu celular, mas, por exemplo, aquele que eu mandei para você, aquele textão, eu gravei no WhisperFlow, aí ele transcreveu, aí eu colei no WhatsApp, sabe?\n\n Acho que nem precisa colar no WhatsApp, eu só clico em alguma coisa, Aí dá para gravar. Eu falo isso porque, por exemplo, se você quer, tem que descobrir tudo que está errado para mandar para o botão, para mandar para o cloud. Você pode ligar a WispFlow, fala tudo que você tem para falar, vai colocar no texto, você manda para mim, eu boto no cloud e já resolve, sabe?"
+      },
+      {
+        "start_time": 1770923266233,
+        "end_time": 1770923271795,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Por exemplo, se a gente está fazendo uma reunião aqui, eu consigo conectar esse WIP?"
+      },
+      {
+        "start_time": 1770923271795,
+        "end_time": 1770923277691,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, não é tão assim. Então, quando você quer gravar a sua voz para uma mensagem específica."
+      },
+      {
+        "start_time": 1770923277691,
+        "end_time": 1770923278358,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, tá."
+      },
+      {
+        "start_time": 1770923278358,
+        "end_time": 1770923325379,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Entendi. Ou você pensa, ah, eu tenho muitas coisas para falar para essa pessoa no WhatsApp. Eu vou gravar um áudio de seis minutos. Mas você pode só falar. Fala para o WhisperFlow que vai transcriber tudo. E, por exemplo, uma aplicação, você vê. Numa situação dessa, o que a gente precisa? A gente precisa pôr escrito tudo o que está errado com o site. Aí, com o WhisperFlow, você fala, fala, fala o que está acontecendo, vai jogar no texto, você manda isso para mim, eu mando para o Claudio e ele já vai colocar a mão na massa para fazer isso.\n\n Entendi, então vou ver se eu consigo baixar. Tem no celular, né? Agora o Claudio está te mandando mensagem no Slack sem me pedir permissão, tá? Desculpa."
+      },
+      {
+        "start_time": 1770923325379,
+        "end_time": 1770923329345,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu acabei de mandar uma mensagem para eles para explicar."
+      },
+      {
+        "start_time": 1770923329345,
+        "end_time": 1770923341218,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tem alguns Algumas opções aqui do WhisperFlow. É assim mesmo que se escreve, né?"
+      },
+      {
+        "start_time": 1770923341218,
+        "end_time": 1770923420224,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas essa coisa de VDA é muito bom também, porque eu vou mandar a transcrição dessa reunião para a Cláudia, E ele falou, então, identifiquei essas coisas que vocês falaram, vão embora, sabe? Ele já falou que ele conseguiu aqueles quatro que você mandou. Ok, acabei de falar. Falar deles, sobre a questão do por grupo. Mas você está conseguindo, independente desse sistema, você está conseguindo acompanhar quem fez, quais são as faltas?\n\n"
+      },
+      {
+        "start_time": 1770923420224,
+        "end_time": 1770923447264,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Então, é isso que está difícil, porque os professores não necessariamente me mandam a relação Então eu preencho depois no Slack, e aí depois eu confiro no sistema do Slack as faltas. Porque senão eu teria que colocar numa planilha para poder visualizar quem faltou e quem não faltou."
+      },
+      {
+        "start_time": 1770923447264,
+        "end_time": 1770923455725,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas as faltas, a gente deve saber quais faltas aconteceram, né? Os professores estão mandando as faltas."
+      },
+      {
+        "start_time": 1770923455725,
+        "end_time": 1770923457219,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "As faltas, é."
+      },
+      {
+        "start_time": 1770923457227,
+        "end_time": 1770923465766,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Daí a gente consegue, a Lilian autoriza ou não autoriza essas faltas. Isso."
+      },
+      {
+        "start_time": 1770923465766,
+        "end_time": 1770923474306,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ela coloca lá no grupo das justificativas e a gente vai acompanhando junto."
+      },
+      {
+        "start_time": 1770923474306,
+        "end_time": 1770923488280,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, o importante em termos da nossa política é que as faltas não justificadas estão recebendo competências, a gente está fazendo isso."
+      },
+      {
+        "start_time": 1770923488280,
+        "end_time": 1770923491904,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Isso, por enquanto só tem uma competência."
+      },
+      {
+        "start_time": 1770923491904,
+        "end_time": 1770923517331,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso é o mais importante, para a gente não perder a coisa, mas o que realmente que a gente, quando der para você colocar, quando está tudo funcionando, que você vai colocar na mão dos professores para preencher diretamente no Slack, porque eles têm que preencher o Slack diretamente. Sim, sim."
+      },
+      {
+        "start_time": 1770923517331,
+        "end_time": 1770923546386,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "A questão é, mas esse erro do Slack, por exemplo, eu olhei, eu estou olhando, preenchendo e verificando se está dando algum erro. Estou com o olhar atento. Se o professor preenche e sai tudo falta nesse erro que está dando, ele colocou presença para todos, mas aí registrou como falta, ele não vai perceber. Ele vai ver que foi salvo ali e não vai reparar que foi falta."
+      },
+      {
+        "start_time": 1770923546386,
+        "end_time": 1770923547570,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu não entendi."
+      },
+      {
+        "start_time": 1770923547570,
+        "end_time": 1770923549544,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Está vendo aqui? Presença salva."
+      },
+      {
+        "start_time": 1770923549544,
+        "end_time": 1770923551912,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Você que salvou essa presença, né?"
+      },
+      {
+        "start_time": 1770923551912,
+        "end_time": 1770923553096,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu que salvei."
+      },
+      {
+        "start_time": 1770923553096,
+        "end_time": 1770923562964,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu que estou fazendo a presença de todos. Sim, sim, sim. Só que eu estou registrando e reparando se está dando algum erro. Sim, sim."
+      },
+      {
+        "start_time": 1770923562964,
+        "end_time": 1770923567701,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, eu reparei que estava registrando falta, mesmo quando eu dei presença."
+      },
+      {
+        "start_time": 1770923567701,
+        "end_time": 1770923589681,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas o professor... A gente não pode defender dos professores para reparar isso. Então, é isso, a gente está nessa fase de você colocar pelo sistema que a gente tem, identificar os erros, a gente tirar todos os bugs, e assim que não está dando bug por uma semana inteira, a gente sabe que dá para passar para os próximos."
+      },
+      {
+        "start_time": 1770923589681,
+        "end_time": 1770923590754,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso, exatamente isso."
+      },
+      {
+        "start_time": 1770923590754,
+        "end_time": 1770923597909,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Porque esses detalhes, eles não vão se atentar a olhar, se está registrando certinho o site, eu vou ficar acompanhando."
+      },
+      {
+        "start_time": 1770923598321,
+        "end_time": 1770923598826,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770923598826,
+        "end_time": 1770923635329,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas aqui dá para clicar para ver qual os alunos que faltaram, isso é bom. Mas ainda não registrou a presença da semana passada. Deixa eu ver se eu não registrei. Eu registrei, eu estava dando bug. Foi dia 3. Não vai. Às vezes abre, às vezes não abre."
+      },
+      {
+        "start_time": 1770923635329,
+        "end_time": 1770923642415,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Olha aí, apareceu quatro fotos."
+      },
+      {
+        "start_time": 1770923642415,
+        "end_time": 1770923651611,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Não era para ter aparecido. Eu registrei só uma."
+      },
+      {
+        "start_time": 1770923651611,
+        "end_time": 1770923664219,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok. Então isso foi dentro da teoria. Tá gravando faltas erradas. Quando não tá falta, você não gravou as faltas, mas quatro faltas apareceram."
+      },
+      {
+        "start_time": 1770923664219,
+        "end_time": 1770923664744,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1770923664744,
+        "end_time": 1770923673149,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você sabe que tem dois, tem duas partes, né? Tem, às vezes, é... Não, mas, é..."
+      },
+      {
+        "start_time": 1770923673149,
+        "end_time": 1770923676827,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ó, vou tirar uma foto desse lá."
+      },
+      {
+        "start_time": 1770923677913,
+        "end_time": 1770923678618,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Então, entendi."
+      },
+      {
+        "start_time": 1770923678618,
+        "end_time": 1770923680379,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Aí agora deu dez faltas."
+      },
+      {
+        "start_time": 1770923680379,
+        "end_time": 1770923697084,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok, então é na função de teoria que não tá gravando as faltas certo, o número de faltas certo. É, nas presenças. Antes do que você tá marcando. Beleza, a gente tem que ver isso. Ainda está registrando 4."
+      },
+      {
+        "start_time": 1770923697084,
+        "end_time": 1770923721932,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas essa parte da aula de teoria não influencia na na carga horária do professor não né, porque Aí, deu dez fotos agora."
+      },
+      {
+        "start_time": 1770923721932,
+        "end_time": 1770923750722,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, realmente, tem algum bug. Não, tudo bem. Mas aí, eu vou mandar essa transcrição para o Claudio, mas, realmente, para resolver essas coisas, o mais fácil, você me manda a lista das questões por escrito, aí eu boto lá no Claudio e a gente vai trabalhando. E se a gente tiver uma dúvida, livro eu coloco para você. Eu pergunto para você."
+      },
+      {
+        "start_time": 1770923750722,
+        "end_time": 1770923753751,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E agora desatualizou aqui."
+      },
+      {
+        "start_time": 1770923753751,
+        "end_time": 1770923756024,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então tem dados."
+      },
+      {
+        "start_time": 1770923756024,
+        "end_time": 1770923762840,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Acho que eu mexi lá na presença e desatualizou."
+      },
+      {
+        "start_time": 1770923762840,
+        "end_time": 1770923771172,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então você gravou uma presença da teoria e depois desatualizou ela."
+      },
+      {
+        "start_time": 1770923773311,
+        "end_time": 1770923774290,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendi."
+      },
+      {
+        "start_time": 1770923774290,
+        "end_time": 1770923786033,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, parece que a presença das aulas de TRE não está estável."
+      },
+      {
+        "start_time": 1770923786033,
+        "end_time": 1770923788969,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, meu Deus."
+      },
+      {
+        "start_time": 1770923788969,
+        "end_time": 1770923793862,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "A gente vai chegar lá."
+      },
+      {
+        "start_time": 1770923793862,
+        "end_time": 1770923804567,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Eu fiz vários registros de presença hoje. Vamos ver se vai atualizar até amanhã, aí eu vou dar uma olhada."
+      },
+      {
+        "start_time": 1770923804567,
+        "end_time": 1770923810502,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas eles devem atualizar na próxima aula, na próxima hora, essa é a questão."
+      },
+      {
+        "start_time": 1770923810502,
+        "end_time": 1770923819827,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Porque, por exemplo, aqui a banda preta, eles teve aula segunda, dia dois e dia seis, só que aqui não tá aparecendo."
+      },
+      {
+        "start_time": 1770923819827,
+        "end_time": 1770923821947,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Só tá aparecendo dia dois."
+      },
+      {
+        "start_time": 1770923821947,
+        "end_time": 1770923824066,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Só tá aparecendo dia dois."
+      },
+      {
+        "start_time": 1770923825306,
+        "end_time": 1770923826779,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Da vaga preta."
+      },
+      {
+        "start_time": 1770923826779,
+        "end_time": 1770923834146,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E aqui a data da banda roxa tá errada também. Deixa eu ir anotando. Isso."
+      },
+      {
+        "start_time": 1770923834146,
+        "end_time": 1770923848389,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas aí, tudo que você já me mandou, dá para eu já é... Já colocar tudo... É, já pode... Tem que olhar... No site, tem que olhar todos os..."
+      },
+      {
+        "start_time": 1770923848389,
+        "end_time": 1770923852318,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Clicar em tudo e olhar um por um."
+      },
+      {
+        "start_time": 1770923853022,
+        "end_time": 1770923865958,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ele falou que aquela coisa da caixa não fechar ainda tem, se você refrescar o site, ainda tem essa questão de..."
+      },
+      {
+        "start_time": 1770923865958,
+        "end_time": 1770923869654,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Deixa eu ver. Agora tá indo."
+      },
+      {
+        "start_time": 1770923869654,
+        "end_time": 1770923870886,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Agora foi."
+      },
+      {
+        "start_time": 1770923870886,
+        "end_time": 1770923952009,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Um bug foi. Tem que entrar aí todos para poder conferir. Mas é isso, eu vou, desculpa, se você puder fazer isso, porque estou montando várias coisas aqui, se puder, realmente, de você me ajudar com o sistema, é isso mesmo. O que é que a gente está a lutar? Beleza, então... Eu não sei. A gente poderia encerrar e eu tiro esses punks e você vai anotando outros punks e a gente vai chegando lá."
+      },
+      {
+        "start_time": 1770923952009,
+        "end_time": 1770923952814,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1770923952814,
+        "end_time": 1770923953619,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Beleza."
+      },
+      {
+        "start_time": 1770923953619,
+        "end_time": 1770923956034,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Show de bola."
+      },
+      {
+        "start_time": 1770923957639,
+        "end_time": 1770923964164,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque a gente fez pouco, não. É muito pouco, mas a gente chega lá."
+      },
+      {
+        "start_time": 1770923964164,
+        "end_time": 1770923966960,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, vamos ir fazendo aos poucos."
+      },
+      {
+        "start_time": 1770923966960,
+        "end_time": 1770923968358,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu acho que..."
+      },
+      {
+        "start_time": 1770923968358,
+        "end_time": 1770923996031,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vamos ver se a gente consegue, para início de março, pelo menos, aplicar isso. Sim, mas eu ainda... Vale a pena a gente soar e ter esse momento, que depois vai ficar muito mais fácil. Para pessoas da vaga... Ah, esse é o de mensagem dele."
+      },
+      {
+        "start_time": 1770923996031,
+        "end_time": 1770924032554,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Aqui vai aparecer de novo a audio teoria. Que foi registrada com a foto. Aí eu acho que vou ter que fazer isso, registrar de novo pra poder ajustar. Mas aí se você já for direcionando aí o IA pra consertar, ele não vai se programar."
+      },
+      {
+        "start_time": 1770924036306,
+        "end_time": 1770924038988,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Está bem aqui o cláudio tá falando. De saber a suporção."
+      },
+      {
+        "start_time": 1770924070873,
+        "end_time": 1770924079704,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "As justificativas funcionou, eu registrei lá e saiu do alerta. Mas aí, onde que vai? Para onde que vai sair essas informações?"
+      },
+      {
+        "start_time": 1770924079704,
+        "end_time": 1770924106995,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok, então a outra coisa que a gente poderia ver é um lugar nesse site, onde dá para ver as justificativas, para consultar as justificativas. Isso. Porque aquela coisa que a gente tem que, em termos de experiência para o usuário, não pode ser uma caixa preta. De gravar, mas saber que tá gravado, então."
+      },
+      {
+        "start_time": 1770924106995,
+        "end_time": 1770924141933,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Sim. Pode ser até que na aba relatórios, só que a informação, é porque esse aqui tá correndo. Deu uma opção Justificativa, não sei. Uma aba justificativa dessa parte de relatórios. Aqui na aba relatório, a gente tem que também ter, tem aqui presença e faltas, né?"
+      },
+      {
+        "start_time": 1770924141933,
+        "end_time": 1770924154380,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem que ter também justificativas, quantidade. Ah, sim, verdade. Na aba relatórios, precisamos de faltas justificativas e faltas não justificáveis. Com certeza."
+      },
+      {
+        "start_time": 1770924154380,
+        "end_time": 1770924154946,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso."
+      },
+      {
+        "start_time": 1770924154946,
+        "end_time": 1770924156078,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Com certeza."
+      },
+      {
+        "start_time": 1770924161706,
+        "end_time": 1770924175815,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Estou preocupada com as escolas entrando aqui. Como é que vai ser? Será que não dá para fazer um site só escola? Vai misturar muita coisa."
+      },
+      {
+        "start_time": 1770924175815,
+        "end_time": 1770924197741,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Parece que é só colocar um site separado de presença. Só para você saber também, eu estou trabalhando num site que vai ser central. Que vai dar todos os links para todos os sites que a gente tem, sabe? Então, todo mundo pode poder começar..."
+      },
+      {
+        "start_time": 1770924197741,
+        "end_time": 1770924201130,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Como é que você aprendeu isso tudo, Toto?"
+      },
+      {
+        "start_time": 1770924201130,
+        "end_time": 1770924212990,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso é Cloud Code. A gente está no momento que a gente fala o que a gente quer e ele faz. Não é tão simples, mas é isso."
+      },
+      {
+        "start_time": 1770924212990,
+        "end_time": 1770924222248,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas você que bota os comandos. No sentido de ele que gera esse site aqui, sozinho?"
+      },
+      {
+        "start_time": 1770924222248,
+        "end_time": 1770924222860,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770924222860,
+        "end_time": 1770924224084,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É doido."
+      },
+      {
+        "start_time": 1770924224084,
+        "end_time": 1770924290387,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Nos últimos dois meses, mudou. A gente foi do momento de... Teve alguém que falou, um jornalista falou, então, mudamos da... Antigamente, você levava seu carro para o ChatGBT, e o ChatGBT te falou vão consertar seu carro. Mas agora o Cloud Coach conserta seu carro ele. E alguém falou, não, não é isso. Agora você vai pro Cloud Coach, você descreve o carro que você quer, ele já vai te dar um novo carro que você quer.\n\n E é bem por aí. É doido. Eu gostaria de fingir que eu sou gênio. Mas é isso. Mas tem um limite de uso do Cloud? Ou dá pra usar direto? Não, eu tô com um pacote Max. Ah, tá. Entendi."
+      },
+      {
+        "start_time": 1770924290387,
+        "end_time": 1770924292439,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Vou tentar aqui."
+      },
+      {
+        "start_time": 1770924292447,
+        "end_time": 1770924300965,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Vamos ver se resolveu o comando da banda amarela."
+      },
+      {
+        "start_time": 1770924300965,
+        "end_time": 1770924302858,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não foi."
+      },
+      {
+        "start_time": 1770924302858,
+        "end_time": 1770924312323,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Presença, deixa eu ver aqui como é que é o..."
+      },
+      {
+        "start_time": 1770924312838,
+        "end_time": 1770924333651,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você consegue a amarela onde está funcionando?"
+      },
+      {
+        "start_time": 1770924333651,
+        "end_time": 1770924336624,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Apareceu."
+      },
+      {
+        "start_time": 1770924337787,
+        "end_time": 1770924343627,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tá botando. Vixi."
+      },
+      {
+        "start_time": 1770924346055,
+        "end_time": 1770924346972,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah não."
+      },
+      {
+        "start_time": 1770924369858,
+        "end_time": 1770924415560,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Agora ele não deve aparecer, só na próxima hora. Mas já, ele já resolveu essa questão. Então tá Tom, vamos testando então. Sim. E aí é possível incluir essa opção das justificativas para a gente poder ver."
+      },
+      {
+        "start_time": 1770924415560,
+        "end_time": 1770924438588,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu vou testando aqui aquela coisa da Eu não sei."
+      },
+      {
+        "start_time": 1770924439266,
+        "end_time": 1770924442642,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, beleza."
+      },
+      {
+        "start_time": 1770924442642,
+        "end_time": 1770924466274,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho que já tem bastante coisa para eu ir concentrando aqui, com certeza."
+      },
+      {
+        "start_time": 1770924466283,
+        "end_time": 1770924473066,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas essa questão das escolas, de ser separado, porque talvez misture muito a informação."
+      },
+      {
+        "start_time": 1770924473066,
+        "end_time": 1770924475973,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E se você clica nas escolas..."
+      },
+      {
+        "start_time": 1770924475973,
+        "end_time": 1770924480333,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "As escolas eu acho que é mais simples, né?"
+      },
+      {
+        "start_time": 1770924480333,
+        "end_time": 1770924483241,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É presença e o relatório geral."
+      },
+      {
+        "start_time": 1770924483241,
+        "end_time": 1770924494400,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Presença das escolas, separado e o relatório. Não precisa ter essa separação toda, né? Basta essas duas abas. E relatório."
+      },
+      {
+        "start_time": 1770924494400,
+        "end_time": 1770924501289,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você acha que a gente não precisa separar escolas, ou a gente precisa separar escolas?"
+      },
+      {
+        "start_time": 1770924501289,
+        "end_time": 1770924516445,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Não, tem que separar por escola, para a gente poder ver os alunos. Vai ser muito aluno na escola, então, se misturar nessa parte de presença de Santa Tereza, vai ficar muito informativo."
+      },
+      {
+        "start_time": 1770924516445,
+        "end_time": 1770924527736,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ele está fazendo justamente isso. Tudo das escolas vai aparecer só naquela naquela área de escolas, sabe? Essa é a ideia dessa parte."
+      },
+      {
+        "start_time": 1770924527736,
+        "end_time": 1770924531933,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas e no relatório? No relatório vai misturar?"
+      },
+      {
+        "start_time": 1770924531933,
+        "end_time": 1770924555640,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu posso ver depois, mas acho que não vai misturar. Se aparecer no relatório todo mundo, a gente separa, porque a gente quer o relatório geral das escolas também. Sim, mas aí pode ser dois relatórios, não, a gente separa, com certeza, a gente separa isso, sim."
+      },
+      {
+        "start_time": 1770924555640,
+        "end_time": 1770924569533,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Só não ficar misturado, porque aí vai ficar as faltas misturadas, vai ficar a justificativa junto, aí vai separar, porque é muito aluno na escola. Então tá, Tom, obrigado aí pelo tempo."
+      },
+      {
+        "start_time": 1770924569533,
+        "end_time": 1770924578437,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Obrigado você pela paciência com o sistema, mas a gente chega lá, eu já vou, já tenho coisas para ir atacando."
+      },
+      {
+        "start_time": 1770924578437,
+        "end_time": 1770924590929,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Tá, mas aí durante o carnaval eu vou dar uma geralzona, assim, clicar em todas as abas e vou anotando também. Vou ver se vai atualizar esses pontos que a gente conversou hoje."
+      },
+      {
+        "start_time": 1770924590929,
+        "end_time": 1770924592443,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vou atacar, vou atacar."
+      },
+      {
+        "start_time": 1770924592443,
+        "end_time": 1770924595850,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "E vou preencher também as presenças que estão faltando."
+      },
+      {
+        "start_time": 1770924595850,
+        "end_time": 1770924596228,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770924596228,
+        "end_time": 1770924611901,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Esse erro que deu aqui da presença, eu vou ter que ajustar. Eu acho que não vai sair, assim, esses da que preencheu falta para todo mundo. Eu vou colocar de novo presença para ver se é justa."
+      },
+      {
+        "start_time": 1770924611901,
+        "end_time": 1770924612744,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Estou observando."
+      },
+      {
+        "start_time": 1770924612744,
+        "end_time": 1770924620334,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu vou te atualizando. Eu até vou pedir, eu posso mandar mensagem? Você está de olho no Slack?"
+      },
+      {
+        "start_time": 1770924620334,
+        "end_time": 1770924623285,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Estou recebendo aqui, ele está falando comigo."
+      },
+      {
+        "start_time": 1770924623285,
+        "end_time": 1770924627502,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente. Então, cada vez que a gente conserta alguma coisa..."
+      },
+      {
+        "start_time": 1770924627502,
+        "end_time": 1770924629610,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ele já vai me virando."
+      },
+      {
+        "start_time": 1770924629610,
+        "end_time": 1770924649156,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ele te avisando. Ele está trabalhando nessa questão das da teoria, da presença de teoria. Ele já está identificando o que está errado, ele está... Não é sempre que ele conserta e ainda funciona. Às vezes, ele acha que vai funcionar e tem que vir de novo, mas vamos ver."
+      },
+      {
+        "start_time": 1770924649156,
+        "end_time": 1770924656835,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas eu vou botar aqui nas minhas tarefas para tirar um dia só para testar isso de ponta a ponta."
+      },
+      {
+        "start_time": 1770924656835,
+        "end_time": 1770924659907,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Obrigado. E a gente tem uma nova corretora."
+      },
+      {
+        "start_time": 1770924662394,
+        "end_time": 1770924666725,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, a gente tem amigos em comuns, eu conheço ela."
+      },
+      {
+        "start_time": 1770924666725,
+        "end_time": 1770924668457,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Conhece ela, que legal."
+      },
+      {
+        "start_time": 1770924668457,
+        "end_time": 1770924672355,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Lembra de mim, mas não sou amiga nem nada."
+      },
+      {
+        "start_time": 1770924672355,
+        "end_time": 1770924676686,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas a gente tem amigos em comuns. Ah, tá. Entendi."
+      },
+      {
+        "start_time": 1770924676686,
+        "end_time": 1770924683182,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas a ideia é ela ficar direto ou ela vai fazer esse evento e depois..."
+      },
+      {
+        "start_time": 1770924683182,
+        "end_time": 1770924692561,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É um teste de três meses. Qualquer competição é um teste de três meses. Mas... A princípio, né, para ela ficar."
+      },
+      {
+        "start_time": 1770924692561,
+        "end_time": 1770924693998,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não ficaria direto."
+      },
+      {
+        "start_time": 1770924693998,
+        "end_time": 1770924701664,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Ah, que bom. Estamos precisando. É um alívio hoje de ver ela organizando tudo do carnaval."
+      },
+      {
+        "start_time": 1770924701664,
+        "end_time": 1770924704539,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas merece alguma coisa para mim."
+      },
+      {
+        "start_time": 1770924704539,
+        "end_time": 1770924710768,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "É, vai ser tranquilo o carnaval, a gente vai estar todo mundo, né?"
+      },
+      {
+        "start_time": 1770924710768,
+        "end_time": 1770924715080,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho, é muita gente que vai estar lá."
+      },
+      {
+        "start_time": 1770924715080,
+        "end_time": 1770924720534,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Mas aí, no caso dos lanches, vai ser na Zola, né?"
+      },
+      {
+        "start_time": 1770924720534,
+        "end_time": 1770924731382,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não vai ser. Então, eu tava pensando antes de quando eles chegarem e também Zola fazendo pizza, sabe? Ah, tá. Só pra exagerar."
+      },
+      {
+        "start_time": 1770924731382,
+        "end_time": 1770924732797,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Aquela coisa, né?"
+      },
+      {
+        "start_time": 1770924732797,
+        "end_time": 1770924737985,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se eles tão fazendo cortejo, alguém não come antes, sei lá."
+      },
+      {
+        "start_time": 1770924737985,
+        "end_time": 1770924740815,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Sim, porque é muito cedo, né?"
+      },
+      {
+        "start_time": 1770924740815,
+        "end_time": 1770924745060,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "De vez em quando eles tomam café. É melhor."
+      },
+      {
+        "start_time": 1770924745069,
+        "end_time": 1770924755663,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem que ser fator da comida, né? Mas, beleza. Então é isso."
+      },
+      {
+        "start_time": 1770924755663,
+        "end_time": 1770924757428,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Obrigada, Tom."
+      },
+      {
+        "start_time": 1770924757428,
+        "end_time": 1770924759194,
+        "speaker": {
+          "name": "Iris Nascimento"
+        },
+        "words": "Obrigado, Inês."
+      },
+      {
+        "start_time": 1770924759194,
+        "end_time": 1770924761843,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Um abraço. Tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Tom Ashe"
+      },
+      {
+        "name": "Iris Nascimento"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      }
+    ]
+  },
+  "platform_meeting_id": "yad-ioqw-psn",
+  "platform": "meet"
+}

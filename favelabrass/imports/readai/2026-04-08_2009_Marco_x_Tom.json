@@ -1,0 +1,819 @@
+{
+  "session_id": "01KNQ8Q0VRED334204KZS2AY4G",
+  "trigger": "meeting_end",
+  "title": "Marco x Tom",
+  "start_time": "2026-04-08T16:31:14-03:00",
+  "end_time": "2026-04-08T17:05:32-03:00",
+  "participants": [
+    {
+      "name": "Marco",
+      "first_name": "Marco",
+      "last_name": null,
+      "email": "marco_buck@t-online.de"
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "The meeting convened to plan a two-way musical exchange between Marco’s Manhattan-based wind ensemble and Tom Ashe’s Favela Brass students, reviewing project history and mutual materials that established shared interest. Tom described his long-term work teaching brass in a Rio favela and arranging exchanges with well-trained youth bands such as Bad Kissingen, providing context for repertoire and community goals. Marco summarized his group as a semi-professional wind/orchestral ensemble with roots in German village bands and emphasized a preference for collaborative playing over one-sided performances.\n\nParticipants moved to logistics for Marco’s July trip, noting Marco’s ensemble will be in Brazil roughly July 17–26 and that Tom will be in Germany in late July, which requires schedule coordination. They agreed on a flexible program combining a full wind-band rehearsal and concert with a smaller evening or street brass set, mixing Tom’s brass arrangements with woodwind parts prepared by Marco’s conductor. Tom confirmed his arrangements can scale for doubling and that he can add woodwind parts for a few pieces. Next steps are that Marco will relay the plan to colleagues and follow up by week’s end or early next week, and Tom will present the weekend plan at his staff meeting the following Tuesday to secure student participation.",
+  "action_items": [
+    {
+      "text": "Marco will act as the primary point of contact and coordinate bringing two or three additional musician-leaders from his side to handle musical responsibility and conductor liaison"
+    },
+    {
+      "text": "Tom Ashe will check and confirm holiday and availability dates for his students to determine who can participate during Marco’s visit"
+    },
+    {
+      "text": "Tom Ashe will send the Favela Brass arrangements to Marco for review and learning ahead of rehearsals"
+    },
+    {
+      "text": "Marco will coordinate with his conductor and music teachers to prepare woodwind parts for selected Tom arrangements if needed"
+    },
+    {
+      "text": "Tom Ashe will prepare woodwind parts for a couple of his arrangements if Marco’s team prefers that approach"
+    },
+    {
+      "text": "Marco will tell his colleagues about the proposed exchange and follow up by the end of the week or beginning of next week"
+    },
+    {
+      "text": "Tom Ashe will present the weekend exchange plan at his staff meeting on the next Tuesday to secure student participation"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Are the Favela Brass students all going away for holiday during Marco’s visit, or will they be available to participate in an exchange?"
+    },
+    {
+      "text": "Do your brass players have repertoire they can play in a street performance?"
+    },
+    {
+      "text": "Can you send me your itinerary so we can plan around it?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Tom described the Favela Brass project’s mission to teach brass in favelas and integrate children into Rio’s street brass scene"
+    },
+    {
+      "text": "Marco’s ensemble is a Manhattan-based, semi-professional wind/orchestral group with some classical instrumentation and a history as a youth band"
+    },
+    {
+      "text": "Marco and Tom agreed both groups prefer an exchange where musicians rehearse and play together rather than a one-sided concert performance"
+    },
+    {
+      "text": "Marco’s group will be in Brazil roughly 17–26 July, creating a limited window for collaboration that requires schedule alignment with Tom’s commitments"
+    },
+    {
+      "text": "The proposed format is a large joint rehearsal with the full orchestra followed by smaller evening events or street performances for public engagement"
+    },
+    {
+      "text": "Tom can provide brass arrangements that scale for multiple players and offered to add woodwind parts for a couple of pieces if needed"
+    },
+    {
+      "text": "The group agreed on a two-part exchange: a joint wind-band rehearsal/concert and a separate street-style brass performance"
+    },
+    {
+      "text": "The groups plan to exchange two or three tunes for mutual rehearsal so visiting musicians can integrate into each ensemble’s context"
+    },
+    {
+      "text": "Tom suggested performing in a large studio or hall and proposed possibilities for a street show with Favela Brass and local percussion"
+    },
+    {
+      "text": "Marching/street repertoire will include German traditional pieces and pop arrangements suitable for smaller brass groups"
+    },
+    {
+      "text": "Marco will inform his colleagues and aim to confirm availability by end of the week or early next week due to Easter holidays"
+    },
+    {
+      "text": "Tom will take the weekend proposal to his staff meeting the next Tuesday to finalize student involvement"
+    },
+    {
+      "text": "There is interest in demonstrating Brazilian percussion with the brass arrangements and adapting pieces accordingly"
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KNQ8Q0VRED334204KZS2AY4G",
+  "chapter_summaries": [
+    {
+      "title": "Introductions and Technical Check",
+      "description": "The call began with brief technical checks and greetings, followed by Marco thanking Tom for the invitation and praising a video Tom sent that motivated the meeting. Marco asked Tom to explain the project in more detail.",
+      "topics": []
+    },
+    {
+      "title": "Favela Brass Background",
+      "description": "Tom explained the origin and goals of Favela Brass, his move to a favela to teach brass, and the successful exchange with Bad Kissingen musicians that combined formal training with street-band energy.",
+      "topics": [
+        "Tom described the Favela Brass project’s mission to teach brass in favelas and integrate children into Rio’s street brass scene"
+      ]
+    },
+    {
+      "title": "Marco’s Ensemble and Musical Identity",
+      "description": "Marco described his Manhattan-based ensemble as semi-professional with classical and popular repertoire, roots in German village bands, and a desire to engage in exchange projects that preserve collaborative playing.",
+      "topics": [
+        "Marco’s ensemble is a Manhattan-based, semi-professional wind/orchestral group with some classical instrumentation and a history as a youth band",
+        "Marco and Tom agreed both groups prefer an exchange where musicians rehearse and play together rather than a one-sided concert performance"
+      ]
+    },
+    {
+      "title": "Event Opportunities and Venues",
+      "description": "Participants discussed possible event types, emphasizing both full-orchestra experiences and smaller brass-focused sets, and noted public-space performances and rehearsals as viable options.",
+      "topics": []
+    },
+    {
+      "title": "Travel Dates and Scheduling Constraints",
+      "description": "The conversation covered Marco’s travel dates (arriving 17 July, leaving 26 July) and Tom’s overlapping commitments in Germany, prompting discussion of flexibility and potential timetable adjustments.",
+      "topics": [
+        "Marco’s group will be in Brazil roughly 17–26 July, creating a limited window for collaboration that requires schedule alignment with Tom’s commitments"
+      ]
+    },
+    {
+      "title": "Rehearsal Structure and Repertoire Planning",
+      "description": "They proposed a format of initial rehearsal time for Marco’s orchestra followed by joint playing, mixing Tom’s brass arrangements with additional woodwind parts created by Marco’s conductor and teachers.",
+      "topics": [
+        "The proposed format is a large joint rehearsal with the full orchestra followed by smaller evening events or street performances for public engagement"
+      ]
+    },
+    {
+      "title": "Arrangements and Practical Execution",
+      "description": "Tom described his arrangements as brass-focused and scalable and offered to create woodwind parts for a couple of arrangements, while Marco confirmed his group's teachers will support adapting repertoire for the joint rehearsals.",
+      "topics": [
+        "Tom can provide brass arrangements that scale for multiple players and offered to add woodwind parts for a couple of pieces if needed"
+      ]
+    },
+    {
+      "title": "Guest visit and evening brass flexibility",
+      "description": "Marco invites Tom's group to be guests and notes evening brass playing is feasible even in light rain. Tom responds positively and begins to outline a two-part plan combining ensemble exchange and street performance.",
+      "topics": []
+    },
+    {
+      "title": "Concept for repertoire exchange and joint performance",
+      "description": "Tom proposes each side teach two or three tunes to the other for joint rehearsals and a conductor-led performance, describing how students would sit in and perform in context. He follows with the idea of a separate street performance involving the brass players alongside students.",
+      "topics": [
+        "The group agreed on a two-part exchange: a joint wind-band rehearsal/concert and a separate street-style brass performance",
+        "The groups plan to exchange two or three tunes for mutual rehearsal so visiting musicians can integrate into each ensemble’s context"
+      ]
+    },
+    {
+      "title": "Venue ideas and street-show logistics",
+      "description": "Tom suggests venues such as the Funkhaus-style studio and a street show hosted by a local contact, and Marco affirms this could work. They discuss possible pre-visit interactions and timing around travel to Germany and Mannheim.",
+      "topics": [
+        "Tom suggested performing in a large studio or hall and proposed possibilities for a street show with Favela Brass and local percussion"
+      ]
+    },
+    {
+      "title": "Local repertoire and ensemble composition",
+      "description": "Tom asks if Marco’s brass players have street repertoire and Marco explains they have flexible smaller groups that play traditional German \"blast\" music, pop arrangements, and casual ensembles during summer breaks. Tom agrees that mixing those sets with Favela Brass and joint pieces would be effective.",
+      "topics": [
+        "Marching/street repertoire will include German traditional pieces and pop arrangements suitable for smaller brass groups"
+      ]
+    },
+    {
+      "title": "Scheduling, confirmations, and prior experience",
+      "description": "Marco says he is noting items and will tell colleagues the plan, aiming to confirm timing (Saturday morning/afternoon) and follow up by end of week/beginning next week given the Easter holiday. Tom recalls similar past projects and offers to contact Brazilian schools as an additional option, while noting holidays may prevent school performances.",
+      "topics": [
+        "Marco will inform his colleagues and aim to confirm availability by end of the week or early next week due to Easter holidays"
+      ]
+    },
+    {
+      "title": "Final commitments, benefits, and closing remarks",
+      "description": "Tom will bring the weekend plan to his staff meeting the next Tuesday to secure participation and emphasizes the value for students to play with high-standard musicians. Marco confirms enthusiasm for the exchange, mentions sharing videos, and both agree to stay in contact and keep developing percussion integration ideas.",
+      "topics": [
+        "Tom will take the weekend proposal to his staff meeting the next Tuesday to finalize student involvement",
+        "There is interest in demonstrating Brazilian percussion with the brass arrangements and adapting pieces accordingly"
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1775676720996,
+        "end_time": 1775676723438,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Thank you. So."
+      },
+      {
+        "start_time": 1775676733699,
+        "end_time": 1775676736481,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Is it working? Yeah. Can you hear me? Yeah."
+      },
+      {
+        "start_time": 1775676737342,
+        "end_time": 1775676738383,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yes. Yes."
+      },
+      {
+        "start_time": 1775676739164,
+        "end_time": 1775676772142,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Okay. Yeah. Cool. So, um, yeah. Uh, thanks, uh, to, to invite for the, for the meeting and, uh, highly appreciate it. And, uh, I was really impressed by the video that you sent over, uh, last week. Um, because it's, uh, I think, uh, what you're doing, but, but please, uh, explain this in a, in a few minutes. Than on your own, but it seems to me like it's something we should really appreciate as a high valuable work.\n\n"
+      },
+      {
+        "start_time": 1775676775063,
+        "end_time": 1775676886548,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah, I mean, I don't know how much you know about the project, but it's basically that Rio's got a very interesting street brass movement. I guess, you know, based around Carnival. And then I, I saw I came to Rio in 2008. I'm a trumpet player. And I saw that basically, poorer kids from the favelas weren't having the chance to learn brass music. So you have like a crazy situation where, you know, all the cool street brass bands, you know, it's middle class people, and it's not quite right.\n\n So, so I moved to a favela and started giving lessons to kids in Favela and, and, you know, now they're, they're getting out there and they're in the Rio street brass scene. And, um, yeah, we had the, you had the visit from the guys from Bad Kissingen and they're, I mean, they're, they're still really, they're really, you know, there's a really cool exchange because, you know, they can really play, you know, they're, they're, you know, very well trained, you know, trained sort of, uh, you know, wind band musicians and they, you know, they read everything and And, you know, they came together with our kids who were, you know, they've got, you know, the kind of, the sort of street band energy.\n\n And they, you know, we played, you know, they're my arrangements and everyone played the arrangements together of the pop stuff. It was just a great weekend. And I've been, ever since I've been trying to work out how the hell we're going to get our kids to Germany, which is what we want to do. And I, I looked at your materials as well. I mean, it's a very serious group you've got there. Right. I mean, it's like it looks like a national youth wind orchestra kind of thing, basically.\n\n Right."
+      },
+      {
+        "start_time": 1775676886988,
+        "end_time": 1775676910164,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "It's basically we're nothing, nothing like that. We're we're somehow professional. So it's our hobby. But we behave a little bit professional. But we are we're based in Manhattan. I don't know if it's a city next to Heidelberg. Most people know Heidelberg, but they don't know Mannheim."
+      },
+      {
+        "start_time": 1775676911265,
+        "end_time": 1775676918666,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "I looked up Mannheim and obviously it's got a big significance for classical music. You know, the history of Mannheim."
+      },
+      {
+        "start_time": 1775676919106,
+        "end_time": 1775676934826,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Yeah, yeah, actually. And yes, so we do, yeah, quite often very classical music. Maybe I sent you later on. A YouTube link to some of our concerts."
+      },
+      {
+        "start_time": 1775676935426,
+        "end_time": 1775676937706,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "I'll look you up."
+      },
+      {
+        "start_time": 1775676938387,
+        "end_time": 1775676938687,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "OK."
+      },
+      {
+        "start_time": 1775676940407,
+        "end_time": 1775677044779,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "You also saw the Star Wars theme we played a few years ago and things like that. And we also do now for Rio some compositions which are originally done for us quite now. But this is somehow like our identity. But what we are really searching for is the possibility to have exchange with other kinds of music, other kinds of thing. And what maybe is the basics for all this, that all of us are coming from small music wind bands.\n\n I'm originally from a village with 2,000 inhabitants and a village band, which is 40 people. And They do all the year round, also music on the streets. In summer it's this typical German marching thing, but we also have Kampfball, where we play and things like this. That's maybe the fascinating thing for me about your project. It reminds me a little bit about their own roots. For us, I mean, it could be very cool to have an exchange like this and to play.\n\n For us it's important that we play them together. It's not like we do a concert and the kids come and listen to us. The concept should be we do something together. You said you have some arrangements about pop music. Maybe something like this could be cool to have a rehearsal together in a big orchestra. We will have around key musicians with us."
+      },
+      {
+        "start_time": 1775677045559,
+        "end_time": 1775677046160,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Wow."
+      },
+      {
+        "start_time": 1775677047000,
+        "end_time": 1775677066715,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "And and all the let's call it all the classic cool stuff. Yeah. So harp and cellos and so on and so forth. Yeah. So maybe maybe that's also a cool exchange for both sides and also for the kids to sit in this or to play in this huge orchestra."
+      },
+      {
+        "start_time": 1775677068176,
+        "end_time": 1775677075709,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. Yeah. So It's an orchestra. I mean, that's right. It's not a wind band. It's an orchestra, right?"
+      },
+      {
+        "start_time": 1775677076170,
+        "end_time": 1775677095760,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "It's a wind band in the end of the day. But we have two celli with us. We have at least one contrabass. Maybe it's two. I am not sure. We have a harp with us, a piano. But in fact, we have woodwinds and brass. Yeah, that's what I'm saying."
+      },
+      {
+        "start_time": 1775677099471,
+        "end_time": 1775677103452,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "And it's a youth band, right? But there are some older people in it. Is that it?"
+      },
+      {
+        "start_time": 1775677104232,
+        "end_time": 1775677179848,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Yeah, it started then as a youth band 30 years ago. And we have still some people who started then, but most of us are somewhere in the early 20s. So I am 30 and I'm for sure one of the older ones right now. What is maybe a little bit reasonable for you as well? We have a high share of teachers with us. And they always appreciate them to get to know kids which are in school somewhere else. So, in fact, I hope that we could organize something around this WASP conference.\n\n Maybe for you to know, we will play them a a concert in this, how is it, Teatro Municipal? Yeah. And a second one at the, it's called Fringe Festival. It's also there somewhere in the area. And then one concert in Metropolis. Is that a city next to Rio, might it be Metropolis? Yeah, Petropolis. Petropolis, yeah, okay."
+      },
+      {
+        "start_time": 1775677180188,
+        "end_time": 1775677181429,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Right."
+      },
+      {
+        "start_time": 1775677181769,
+        "end_time": 1775677234929,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Yes. And so, Maybe we could, if that sounds interesting to you, we could maybe try to exchange over the next weeks and figure out how exchange in between your project and our orchestra could look like, In the end, I'm the first point of contact because I would then also try to bring in two or three other people from our side who are a little bit more in this musical, yeah, musician responsibility, yeah.\n\n So, I'm a normal musician. I'm playing in the orchestra, but maybe also with the conductor and something like this and figure out, okay, how might this work out so that it's a valuable event for both sides, yeah."
+      },
+      {
+        "start_time": 1775677236370,
+        "end_time": 1775677281487,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. I mean, the thing that, the tricky thing is that, you know, as Luke would have, I will be in, I'll be in Germany because I'm doing a, I'm doing a project this summer. Yeah. Getting the students from Bad Kiersingen and making a sort of favela brass type brass band with them, street brass band to play at their, that they, you know, the Rodotsky fest, their local festival. So in the second, you know, sort half of July, I'll be over there.\n\n So just remind me of the dates that you're over."
+      },
+      {
+        "start_time": 1775677283028,
+        "end_time": 1775677299985,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "And you need to check that I don't tell it to you the wrong way that what happened to me several times. So we will arrive at the Friday 17th. We will be there till Sunday 26th of July."
+      },
+      {
+        "start_time": 1775677301707,
+        "end_time": 1775677345455,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Right. Friday. So, yeah. That's gonna be that's tricky, because basically, Friday, Friday, the 17th, because it's Yeah, I mean, I will head so I might see what I might say I could know you'll be arriving on the Friday. So it's because on the on the on either on the Friday or the Saturday, I'll be flying out to to bad to bad kissing Give me one second."
+      },
+      {
+        "start_time": 1775677345955,
+        "end_time": 1775677397718,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "I need to cross to my best knowledge. To my best knowledge, we are flying on Thursday and arrive on Friday. Yeah. So, we will start in the very early on 17th and we will arrive at Sao Paulo at 17th in the evening. So, it's really in the Friday evening, unfortunately."
+      },
+      {
+        "start_time": 1775677398942,
+        "end_time": 1775677432336,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "I mean, I'm going to be, I'm probably going to be heading out sort of Saturday morning or something like that to get to Bad Gissigan for Sunday. But it's not, I mean, we can, you know, it's not, with me not being there, it's not impossible. So that, and the schools, the kids are on holiday. Our students are on holiday. Let me check the holiday dates for our kids."
+      },
+      {
+        "start_time": 1775677451109,
+        "end_time": 1775677461253,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Are they all going somewhere on holiday? Or does holidays just mean that the project also does, so for sure, they don't go on holiday?"
+      },
+      {
+        "start_time": 1775677461333,
+        "end_time": 1775677505271,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah, yeah, exactly. It means that I didn't go to school, but it also means I have to be, I have to negotiate with my team because, you know, we take two weeks off and obviously it means people work in the holidays, but I don't know I don't know if we can, you know, I don't know if we can move for Velabrasi's holiday. I'm thinking out loud here, if we move for Velabrasi's holidays and everybody just takes, and I say, you're off.\n\n We'll take the last week of July and the first week of August off rather than those two weeks that rather than, yeah."
+      },
+      {
+        "start_time": 1775677508625,
+        "end_time": 1775677552787,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "yeah maybe we should do that and then and then have you have you any ideas for what days you would like to do with this when you've got the you've got the worst be confidence right conference yeah I guess so so really really um don't don't rely on this but um from from my perspective in our timetable it would be the best to do it in the early phase of our travel yeah so do it really at this Okay, Friday, that doesn't work out, but maybe on this Saturday.\n\n And Saturday, Sunday, Monday, because on first day, Tumabe's Knowledge Tree is then our big concert."
+      },
+      {
+        "start_time": 1775677552807,
+        "end_time": 1775677555608,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yeah."
+      },
+      {
+        "start_time": 1775677555948,
+        "end_time": 1775677632315,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "So maybe, yeah. So maybe if you need to cross-check with your team, then feel free to do and we try to move our timetable so that it's the best for you. If there's any constraints in the end, I guess, anyhow, we need to figure out what is the best format to bring the two things together. My first glimpse or idea was if we do a rehearsal and then we somehow combine the rehearsal together and doing a little bit like, okay, we use the first two hours for our salon and then you join us and then we do together some music and some exchange.\n\n I don't know if you have any possibility to have a small concert anywhere. I don't know if we could then also do it with the whole 70, but also some smaller groups out of the musicians. So maybe only the brass to play some things."
+      },
+      {
+        "start_time": 1775677634336,
+        "end_time": 1775677698503,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. Yeah, I'm just thinking how we do this, because the whole 70s, if we did concerts, we have places where we could sort of play in in this, because we don't, we don't do that much consoles. We, you know, we play in the street in squares and it's, and it's cool. And that's the kind of thing we could definitely, that we could organize that pretty well. If, yeah, if we work with a smaller group who are brass players, then, then that might be more, that might be more manageable.\n\n I'm just I mean, with the group, the group from the group from Bad Kissingen, we did a Friday night. They all came on the Friday night. They all came for a barbecue in the favela. And it's just a party and favela brass played for them. And that was that was they really enjoyed that. That was a big success."
+      },
+      {
+        "start_time": 1775677699084,
+        "end_time": 1775677716037,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "So maybe it could look like like a mixture of both. So on the one hand, the the Favela Brass could somehow visit us in the rehearsal. We could play together and really it is 70 plus. Yeah. Because this is this sample."
+      },
+      {
+        "start_time": 1775677716097,
+        "end_time": 1775677718997,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "That would be fantastic for Favela Brass, because it's a completely different."
+      },
+      {
+        "start_time": 1775677719277,
+        "end_time": 1775677725119,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "So that would be slightly different. So they can they can they can just sit in, sit in on a high level."
+      },
+      {
+        "start_time": 1775677725139,
+        "end_time": 1775677750507,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "And play with really this experience of of sound and and maybe then do something smaller in the evening and come as a visitor. And some of us play something or we play something together, but in a smaller group. But with all the orchestra and yeah, together with it or doing a party together."
+      },
+      {
+        "start_time": 1775677750647,
+        "end_time": 1775677781047,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. Do you have any because, you know, our students that do you have any simpler repertoire that I, for example, when you do your, you know, you do, we see you rehearsing, we see you all playing, and then we play together. If you sent us some, you know, relatively easy music for them to learn beforehand, so that we can, we can, we can learn your music beforehand, and then them sitting with you."
+      },
+      {
+        "start_time": 1775677783148,
+        "end_time": 1775677800156,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "So you said you do arrangements. Why don't you send us your arrangements? Yeah. And, and we learn your arrangements and then it's somehow this experience of the used music for the kids, but in a way played, maybe. Yeah."
+      },
+      {
+        "start_time": 1775677800576,
+        "end_time": 1775677816583,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. I mean, I think, I mean, my, my arrangements are for, you know, trumpet, trombone. It's basically for, it's basically like a big band. So that that's sort of, it's like a big band with, with, with percussion. So, you know, uh, sorry. Oops."
+      },
+      {
+        "start_time": 1775677817563,
+        "end_time": 1775677817723,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Yeah."
+      },
+      {
+        "start_time": 1775677820396,
+        "end_time": 1775677843931,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "So it scales. It's like there are two trumpet parts, two trombone parts, alto tenor and bari saxophone parts, and a tuba part. And it just scales. So you can have as many, you can double any of those up. So it's quite flexible. But I don't have the woodwind parts, you see. So to do that, I'd be then writing extra arrangements."
+      },
+      {
+        "start_time": 1775677846335,
+        "end_time": 1775677863630,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Yeah, so maybe you don't need to do extra arrangements for this, but we could work something like we do two arrangements of yours. You send us what you have and our conductor and some of our music teachers will do then the wood parts additionally."
+      },
+      {
+        "start_time": 1775677863650,
+        "end_time": 1775677872978,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Yeah, well, I mean, I've got I think I've got if it was just a couple of arrangements, I'll be fine. I can just I can just I can put the wood parts in."
+      },
+      {
+        "start_time": 1775677873198,
+        "end_time": 1775677906982,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "And so no worries. I think that's the things we will get arranged in the end. And on the other hand, I would ask the music responsibilities of our orchestra, because we have our own youth band, And they might have something more easy. On the other hand, I also want to play something which is known to the kids. I don't think that they need to study the etudes X, Y, Z of Bach or something like that.\n\n"
+      },
+      {
+        "start_time": 1775677907542,
+        "end_time": 1775677912924,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "It would still be whatever you want. They'd still be interested in it. It would still be different for them."
+      },
+      {
+        "start_time": 1775677915185,
+        "end_time": 1775677952909,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "For sure, we have enough music teachers in in the group, and they will have more than enough ideas. And then we do somehow a mixture, so maybe one or two arrangements which is your repertoire, one or two which comes more from our side, maybe we can play something from your side which is very Brazilian, and we bring a little bit something of the European history of this wind band music, and then we use there are two hours of rehearsal to play this in the in the big round.\n\n Yeah."
+      },
+      {
+        "start_time": 1775677953609,
+        "end_time": 1775678017480,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. I'm just thinking about, you know, it's just where we do it as well. Do you. Are you. Are people all right playing outside, you know, that are you usually playing always in a concert hall, because that, we could, you know, if we did something, I was trying to think about, let me have a think about this in terms of, you know, a public space, because we don't, you know, our rehearsal, yeah, our own, we don't have, like, our own rehearsal venue that's big enough for seven musicians, but let me think about it, like, because before, like, when we did it with Bad Kissingen, played at the Flamengo Park.\n\n So there's a park which got a bandstand and we just went and we did the rehearsal there. But obviously that's a little bit, it's weather dependent as well. So we have to, yeah."
+      },
+      {
+        "start_time": 1775678018661,
+        "end_time": 1775678060450,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "So for the part where we play with the 70 plus favela, I would suggest that we do it in the place, wherever we do our rehearsal, we will have a, I don't call it concert room, but a room which is big enough for us. So I don't know if that's manageable from your side to come there then and be our guest somehow. And then in the evening, I think that's not really an issue if we only play with the brass.\n\n Trumpet doesn't care about a little bit of rain, they would stay a little bit more."
+      },
+      {
+        "start_time": 1775678061651,
+        "end_time": 1775678159197,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. I'm thinking, mate, could it be two things? Could it be we have the one big exchange where we come to you, like we come to you and we play wind band music and you send us two or three of your tunes that our students learn beforehand, maybe two tunes, We learn beforehand so they can come in and sit in and play that in the proper context. And then you guys learn two of our tunes. And then our conductor, Wesley, gets up and does that with me.\n\n And he'll play those two tunes. And that'd be a fantastic exchange with everybody. And then that's a second moment where some of your brass guys, and we could work with your brass guys before, we do like a street, street performance. For example, have you heard of the place called the Funkhaus in Berlin? This is just a, it's a huge studio. It was Eastern German radio, official radio recording studio.\n\n And basically the guy who owns that, Uwe, he's German and he owns a pizza place in Rio, in Santa Teresa. So, for example, we could play there. I mean, he'd absolutely love that. And we do some kind of a street show with your brass guys playing with our students in the show."
+      },
+      {
+        "start_time": 1775678159217,
+        "end_time": 1775678161899,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "That sounds like a very good plan."
+      },
+      {
+        "start_time": 1775678162780,
+        "end_time": 1775678183883,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "And that could be really cool. I mean, a part of me wants to come over to Mannheim just before, you know, in Germany, before you over to Germany. I could go to Germany early and visit you in Mannheim, but I think I'm getting ahead of myself there. But yeah, I think something like that might work. So sort of two days, basically."
+      },
+      {
+        "start_time": 1775678185463,
+        "end_time": 1775678189905,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Sorry? So it could be like two days, basically."
+      },
+      {
+        "start_time": 1775678190265,
+        "end_time": 1775678214470,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Maybe Saturday, we visit you and we do the rehearsal and play to this music in exchange for the whole group. And then Sunday, your brass guys come, and do you have, if you brought the brass, do they have a repertoire that they can play in the street as well?"
+      },
+      {
+        "start_time": 1775678217132,
+        "end_time": 1775678260420,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "I guess, so we have smaller groups, and sometimes we play for fun. We have always a summer break, and in summer break we meet up a group of 10 to 15, whoever has time and wants to, and play a mixture of this classical German blast music. I don't know if you're familiar with what they do at the Oktoberfest and so on. And at the other hand, some pop arrangements, so Coldplay and ABBA and the Evergreens.\n\n It's not official, it's for fun, but for this case it would be... It's easy."
+      },
+      {
+        "start_time": 1775678262361,
+        "end_time": 1775678312315,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Perfect. And if you played a set of that kind of stuff, and then Favela Brass play our stuff, and then we play together, that would be great. Because, I mean, that's basically what I'm doing in Bad Kissing, is we're putting together little summer band for with them to play for fellow brass style brass band arrangements, you know, because it's all, you know, we've got Brazilian stuff, but we've also got pop stuff.\n\n And it's arranged for for brass and Brazilian percussion. So. So, yeah, but that sounds that sounds that I think I think we've got a good beginning of an idea here. And I and that's not going to that's not going to it's a shame that I won't be there for the two days."
+      },
+      {
+        "start_time": 1775678313395,
+        "end_time": 1775678316296,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Don't worry."
+      },
+      {
+        "start_time": 1775678317737,
+        "end_time": 1775678364951,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "In best case, in the end, you will receive some videos of a very cool event. And first, I think it's the part of our vacation which is missed right now. So this is real exchange. And also this pizza idea, the soundscribe because we have lots of very, very good musicians. And they're not only this classical type, so we have a guy who can play every song on piano. So you can, it's a pop song, you can say to him, play me, I don't know, Abba, X, Y, Z, Mamma Mia, and he starts trying out and two minutes later he has, and then we have a percussion man who's sitting on the box.\n\n So that's our normal way after rehearsal to chill out."
+      },
+      {
+        "start_time": 1775678366439,
+        "end_time": 1775678367160,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "So, yeah."
+      },
+      {
+        "start_time": 1775678369240,
+        "end_time": 1775678416784,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Right, okay. So, yeah, if you, I mean, if you can sort of send me, if you can send me your itinerary, you know, so I just know what you're doing, we can think about other stuff, but basically if we're thinking about that first Saturday and Sunday, Saturday we come over to you to do the rehearsal thing, Sunday we organise some kind of a show, you know, with the two smaller with the brass, with the smaller brass group.\n\n And then we can we can sort of take it from there. Yeah, it's cool that you're going up to Petropolis. That'd be really, that'd be really good. And, you know, we could, you know, maybe try and Depending on your movements in the week, if you some people wanted to come and visit a fellow brass rehearsal or something like that, you know."
+      },
+      {
+        "start_time": 1775678417845,
+        "end_time": 1775678470809,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Yeah, sounds sounds very good. You might have recognized, I tried to note down everything so that I don't miss out anything. What I would suggest right now, I tell my colleagues what we spoke right now about this idea of how this could look like, Yes, but from my perspective, this would for us work out also time-wise and if it's then the and if it's a Saturday morning or Saturday afternoon, we will have to clarify then.\n\n And yes, so that's quite good. And then I would come back to you maybe end of the week, beginning next week. I don't know, here it's Easter holiday, so I don't know how good I can reach out to them."
+      },
+      {
+        "start_time": 1775678471710,
+        "end_time": 1775678474062,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "And we yeah, can do so something I together. Hope We that did we, something similar in 2019."
+      },
+      {
+        "start_time": 1775678474101,
+        "end_time": 1775678509021,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "We did a concert tour in China. We were in five elementary schools and played together with these kids. So they played a part, we played a part, and then we played together and it was always quite good. I never understood one of these kids, but you can see it's this magic of music."
+      },
+      {
+        "start_time": 1775678510282,
+        "end_time": 1775678540811,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "The other thing we could try is if you wanted to do a show in a Brazilian state school, we could make that contact. I mean, they will have zero infrastructure, but if you're happy just going to a big hall, setting up your instruments and presumably if you, you'll have your own, I don't know if you have your own music stands and stuff like that. So the schools, they won't have any infrastructure, but if you want to play in a Brazilian school, you know, that could be quite fun.\n\n"
+      },
+      {
+        "start_time": 1775678542051,
+        "end_time": 1775678549159,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Maybe I'll come back to this. So it was basically one of our big ginning ideas, but then we recognized it's holiday."
+      },
+      {
+        "start_time": 1775678552380,
+        "end_time": 1775678560782,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sorry, I'm talking rubbish. They're not going to be at school."
+      },
+      {
+        "start_time": 1775678563562,
+        "end_time": 1775678576214,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "However, I think if you could do those two things together with you, our week is quite full-packed. In the end, it's for us. One week in Rio."
+      },
+      {
+        "start_time": 1775678576575,
+        "end_time": 1775678582279,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "You've already got the conference, you've already got Petropolis, you've got more than enough already."
+      },
+      {
+        "start_time": 1775678583020,
+        "end_time": 1775678606220,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "Yeah, and we also want a little bit to see about the city, but as I said, it's really good that we found you, or that Frank found you, however, because somehow it's a missed of our idea how a concert tour should look like,"
+      },
+      {
+        "start_time": 1775678608021,
+        "end_time": 1775678624866,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Now that I've spoken to you, the next Tuesday now, I'll take it to our staff meeting and start explaining. It's not too much. It's one weekend. It's not like they're going to have to work the whole holidays. It's just the first weekend of the holidays and I'll give them an extra at the end and it'll be fine."
+      },
+      {
+        "start_time": 1775678625686,
+        "end_time": 1775678673925,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "We could also do it at one day, so that in the morning you come to us and in the afternoon evening we come to you something like this we need to clarify how this is in the end organizable um yeah but I reckon I reckon that that first weekend will be that first week great okay so then um Tom thank you very much um thank you for getting in contact with this very this is brilliant yeah two two german exchanges this is brilliant yeah so it's really uh it's really it's also cool for a And as I said, so it's really, I saw the video and a little bit of what you're doing.\n\n And I think our society would need more projects like this. So it's also for us something good to support."
+      },
+      {
+        "start_time": 1775678675647,
+        "end_time": 1775678688907,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Thank you. No, it will be great because for our kids to play, you know, high standard of, you know, high standard musicians for our kids to see that is so important for them as musicians. So, great."
+      },
+      {
+        "start_time": 1775678689707,
+        "end_time": 1775678694749,
+        "speaker": {
+          "name": "Marco"
+        },
+        "words": "And you have seen some of our videos on YouTube? Yeah. Okay."
+      },
+      {
+        "start_time": 1775678695370,
+        "end_time": 1775678695710,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah."
+      },
+      {
+        "start_time": 1775678696170,
+        "end_time": 1775678696970,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Maybe Star Wars?"
+      },
+      {
+        "start_time": 1775678697070,
+        "end_time": 1775678709376,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Very, very good. I can see it's a fantastic standard. So, you know, a real privilege for our kids to be able to sort of rub shoulders with your musicians."
+      },
+      {
+        "start_time": 1775678709757,
+        "end_time": 1775678724137,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "And yeah, you also mentioned the Brazilian percussion. This is also something which we will like then to see how it's working. And as I said, we're very open then to adapt. Yeah."
+      },
+      {
+        "start_time": 1775678724937,
+        "end_time": 1775678757442,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Yeah. I mean, that could be great as well. I have to think about that. Because this is what I'm going to do in Bad Kissing. I'm going to go there. I'm going to get them, you know, their big band is going to play in the horns and the rhythm section and learn the percussion instruments. Because, you know, I've got it all written out. It's not impossible. Yeah, okay. Well, let's keep thinking, and yeah, let's keep thinking, and it's great, I'm sure.\n\n"
+      },
+      {
+        "start_time": 1775678758043,
+        "end_time": 1775678761325,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Perfect. Yeah, let's keep in contact, and see you soon. Bye."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Marco"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Tom Ashe"
+      }
+    ]
+  },
+  "platform_meeting_id": "cia-atuv-she",
+  "platform": "meet"
+}

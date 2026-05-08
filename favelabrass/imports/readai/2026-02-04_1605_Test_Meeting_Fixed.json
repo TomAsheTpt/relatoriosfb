@@ -1,0 +1,49 @@
+{
+  "title": "Test Meeting Fixed",
+  "start_time": "2026-02-04T14:00:00Z",
+  "summary": "This is a test summary",
+  "action_items": [
+    {
+      "text": "Follow up on X"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Topic A"
+    },
+    {
+      "text": "Topic B"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "What about Y?"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Tom"
+    },
+    {
+      "name": "Wesley"
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "speaker": {
+          "name": "Tom"
+        },
+        "start_time": 60,
+        "words": "Hello everyone"
+      },
+      {
+        "speaker": {
+          "name": "Wesley"
+        },
+        "start_time": 65,
+        "words": "Hi Tom!"
+      }
+    ]
+  }
+}

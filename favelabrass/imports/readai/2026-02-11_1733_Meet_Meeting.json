@@ -1,0 +1,950 @@
+{
+  "session_id": "01KH6TJ9FN3H6DJE1GR7T7GJ5R",
+  "trigger": "meeting_end",
+  "title": "Meet Meeting",
+  "start_time": "2026-02-11T14:04:32-03:00",
+  "end_time": "2026-02-11T14:30:46-03:00",
+  "participants": [
+    {
+      "name": "Raíssa Celina da Costa Sousa",
+      "first_name": "Raíssa",
+      "last_name": "Celina da Costa Sousa",
+      "email": null
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A conversa abordou diversas questões relacionadas à gestão financeira e à comunicação da equipe. Tom Ashe expressou preocupações sobre a necessidade de um sistema que permita atualizações em tempo real durante eventos e sugeriu a criação de um aplicativo para registro de vendas, ao passo que Raíssa Celina se comprometeu a manter a planilha financeira atualizada. Tom também recomendou o uso do aplicativo Whisper Note para gravações de voz e Raíssa demonstrou interesse em aprender a usar o Slack. A discussão incluiu a avaliação de uma candidata com experiência em um show popular, com a proposta de um período de teste de três meses, além da revisão do orçamento de comunicação do ano anterior.\n\nTom mencionou a intenção de ajustar a verba de pessoal e a possibilidade de oferecer uma bolsa para um projeto de captação de vídeo. A colaboração de Wellington em filmar ensaios foi elogiada, e Raíssa levantou a ideia de ele voltar a estudar. Por fim, foram discutidos ajustes no orçamento de comunicação, reembolso de despesas e a criação de um site para facilitar a comunicação com a equipe de finanças.",
+  "action_items": [
+    {
+      "text": "Raíssa Celina da Costa Sousa continuará preenchendo a planilha financeira da associação para manter as informações atualizadas."
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa gravará um vídeo mostrando o processo do Saliki para facilitar a compreensão do sistema."
+    },
+    {
+      "text": "Tom Ashe enviará informações sobre o aplicativo Whisper Note para Raíssa Celina da Costa Sousa."
+    },
+    {
+      "text": "Tom Ashe pedirá para Wellington tirar fotos e vídeos das aulas para documentar as atividades."
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa calculará os salários e a verba disponível para o Carnaval."
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Quais são os próximos passos para a contratação de novos funcionários?"
+    },
+    {
+      "text": "Qual é o processo para reembolso de despesas relacionadas ao ar-condicionado?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Atualização da planilha financeira da associação."
+    },
+    {
+      "text": "Discussão sobre o uso de aplicativos para facilitar a gestão de eventos."
+    },
+    {
+      "text": "Necessidade de documentação visual das aulas e ensaios."
+    },
+    {
+      "text": "Planejamento e orçamento para contratações e produção."
+    },
+    {
+      "text": "Questões relacionadas ao reembolso de despesas e gestão de equipamentos."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KH6TJ9FN3H6DJE1GR7T7GJ5R",
+  "chapter_summaries": [
+    {
+      "title": "Discussão sobre Ferramentas e Processos",
+      "description": "Tom Ashe menciona a importância de um sistema eficiente para gerenciar as finanças e a atualização da planilha por Raíssa Celina. Ele propõe um aplicativo para registrar vendas em eventos, destacando a necessidade de um processo simples. Raíssa concorda em continuar atualizando a planilha para facilitar a comunicação.",
+      "topics": [
+        "Atualização da planilha financeira da associação.",
+        "Discussão sobre o uso de aplicativos para facilitar a gestão de eventos.",
+        "Necessidade de documentação visual das aulas e ensaios."
+      ]
+    },
+    {
+      "title": "Discussão sobre Contratações e Orçamento",
+      "description": "Tom Ashe discutiu as entrevistas realizadas com três produtores, enfatizando a escolha de uma candidata com experiência significativa. Ele propôs um teste de três meses para avaliar seu desempenho, considerando a dificuldade de julgar alguém em um único evento. Raíssa Celina da Costa Sousa comentou sobre a importância de ter uma pessoa especializada em comunicação.",
+      "topics": [
+        "Planejamento e orçamento para contratações e produção."
+      ]
+    },
+    {
+      "title": "Discussão sobre ensaios e colaborações",
+      "description": "Raíssa menciona que Wellington poderia filmar os ensaios e que ele já demonstrou interesse em fazer isso. Tom concorda e decide pedir a ele para tirar fotos e vídeos das aulas, ressaltando que a qualidade do celular de Wellington é superior ao seu. Raíssa também sugere que Wellington poderia voltar a estudar, mencionando um curso gratuito no Senac.",
+      "topics": []
+    },
+    {
+      "title": "Discussão sobre Orçamento e Comunicação",
+      "description": "Tom Ashe questiona os custos de movimentação nas redes sociais e sugere ajustes no orçamento de comunicação, enquanto Raíssa Celina destaca a importância de comprovar entregas mensais. Eles discutem a possibilidade de reembolsos e a necessidade de revisar os gastos com ar-condicionado.",
+      "topics": [
+        "Questões relacionadas ao reembolso de despesas e gestão de equipamentos."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1770829470914,
+        "end_time": 1770829561151,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "eu fiz para você checar mas teve bug aqui e aí eu fiz e se houvesse Se eu só ver aqui rapidinho pra ver se... Beleza. Encontrei só... Coloquei para... E agora... Tem coisa para a gente ver do seu lado?"
+      },
+      {
+        "start_time": 1770829561151,
+        "end_time": 1770829570723,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Por enquanto, não. Eu só atualizei aqui a planilha financeira da associação."
+      },
+      {
+        "start_time": 1770829570723,
+        "end_time": 1770829701280,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O que você achou da site da lojinha? Eu gostei demais. O que eu estou pensando? A questão para todas essas coisas no cloud é como a gente vai editar? Como vai ser isso? Aí eu pensei, neste caso, a gente poderia fazer um app para quem estiver trabalhando, atualizar lá no evento. E você, acesso ao site. Eu coloquei no site de você poder ajustar qualquer coisa. Se você virar de estoque, de vendas, para você poder fazer manual também, qualquer coisa.\n\n Mas, de repente, no evento mesmo, a gente faz um aplicativo. Tem que ser a coisa com menos fricção possível. Então, no evento, eles estão lá aí eles cadastram. Quantidade, valor, forma de pagamento, a gente sabe que o valor pode mudar, porque alguém poderia colocar mais do que foi o valor para dar uma doce, sabe, essa coisa. E eles fazem no evento, isso atualizando lá na lojinha. Eu também estou fazendo um site central para valorize.org, que está quase lá, para ser o lugar onde todo mundo pode ir e ver quais são todos os sites, esse tipo de coisa.\n\n E finanças, eu estava querendo... O que eu fiz? Eu coloquei, eu botei os estratos e expliquei como a gente faz finanças. Aí eu falei, vai, sabe? Eu acho que ele vai, mas eu tenho medo de a gente perder... Esse manual, não é? Eu acho que é bom. Sim, o relatório está ótimo. A parte crucial é a caixinha. Eu estou com muito medo da gente... De você parar de fazer a caixinha e depois a gente fica perdido.\n\n"
+      },
+      {
+        "start_time": 1770829701280,
+        "end_time": 1770829712181,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu vou continuar preenchendo a panilha, porque às vezes você está no meio e quer me perguntar alguma coisa, então é bom sempre atualizar."
+      },
+      {
+        "start_time": 1770829712181,
+        "end_time": 1770829737227,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Em paralelo com isso, eu vou botando no automático com o Claudio. A outra coisa que... Se você consegue me... Gravar... Se você gravar um vídeo mostrando essa coisa do Saliki, porque... Como a gente tem no momento... É porque eu vou ter que tirar a nota para colocar, e o sistema novo ainda não abriu."
+      },
+      {
+        "start_time": 1770829737227,
+        "end_time": 1770829745651,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Mas eu vou ver alguma nota que eu consiga tirar e fazer esse processo. Eu vou fazer, eu vou fazer."
+      },
+      {
+        "start_time": 1770829745651,
+        "end_time": 1770829802723,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas não de uma forma muito trabalhosa, para você, tá? Porque se você falar, gravar um vídeo, ó, eu tenho um outro aplicativo que tá muito bom. Whisper Note. Eu não tô pagando nada. Whisper Note. Simplesmente é um aplicativo para quando você quer gravar sua voz. O WhatsApp vai te transcrever a áudio, mas é muito ruim. Mas essa luz da voz, e conecte com seus aplicativos. Por exemplo, eu tive que mandar alguma coisa para eles agora.\n\n E eu coloquei o WhisperNote dentro do WhatsApp, eu falei tudo, aí transcreve direitinho, sabe? Eu não queria mandar aquele áudio de blá, blá, blá. Aí é muito bom esse WhisperNote."
+      },
+      {
+        "start_time": 1770829802723,
+        "end_time": 1770829805490,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vou passar isso para você."
+      },
+      {
+        "start_time": 1770829805490,
+        "end_time": 1770829817963,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah... Whistleflow. Tá, manda aí. Eu vou te mandar, é que tá soltrado. E aí, tá gostando do Slack? Bastante."
+      },
+      {
+        "start_time": 1770829817963,
+        "end_time": 1770829830015,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu não tô tentando entender ainda como também armazenar coisas, né? Porque eu vi que tem mensagens, adicionar canvas e adicionar arquivos. Ah, você tá na minha frente nesse caso."
+      },
+      {
+        "start_time": 1770829830015,
+        "end_time": 1770829833630,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas aí é... Não, na verdade eu não sei."
+      },
+      {
+        "start_time": 1770829833630,
+        "end_time": 1770829838450,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu sei, eu sei. Ah, sim. Mas eu não sei ainda como..."
+      },
+      {
+        "start_time": 1770829838459,
+        "end_time": 1770829896618,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "e conecte com o Drive. Eu acho que para trabalhar mais profissionais do que o WhatsApp, a gente tem que tomar cuidado para não interromper as coisas. Algumas coisas tem que ser pelo WhatsApp, mas eu acho que as nossas coisas financeiras é legal, os professores gravarem as presenças é legal. Só para você saber, eu fiz as reuniões com os três produtores ontem, as entrevistas. Ganhadora clara. Ela era produtora de um show que se chama Tom Dia Favela, no Bond.\n\n E ela conheceu a gente? Já conheceu, porque eles fizeram matéria na gente um pouco atrás. Ela é de favela, mas muito experiente. Ela trabalhou naquela coisa do Espanto e Neném, O Universo Espanto, São bailes para eles."
+      },
+      {
+        "start_time": 1770829896618,
+        "end_time": 1770829897630,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "De pesado."
+      },
+      {
+        "start_time": 1770829897630,
+        "end_time": 1770829899146,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas eu coloquei..."
+      },
+      {
+        "start_time": 1770829899146,
+        "end_time": 1770829941136,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu achei, talvez, escroto colocar... A gente vai testar voce no carnaval e se não der, não tem contrato. Porque ela não vai ter tempo, vai estar conhecendo todo mundo. O sistema de julgar alguém que nem teve tempo para enganar. Coloquei aquela coisa padrão. Três meses de teste. Depois do teste, se é alguma coisa real. A gente vai testar. Até pra saber se ela vai conseguir. Porque, por exemplo, com a Pathy, isso teria funcionado.\n\n Com a Pão, isso teria funcionado. É porque um evento não dá pra julgar a pessoa."
+      },
+      {
+        "start_time": 1770829941136,
+        "end_time": 1770829941525,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não."
+      },
+      {
+        "start_time": 1770829941525,
+        "end_time": 1770830007968,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas olha a coisa boa. Eu falei pra eles, todos eles, ah, eu quero a sua expectativa de salário. E ela falou, não, pela produção que você tá falando, e eu tava falando muito claro, a gente prioritaria pros nossos shows. Aí tudo isso, e ela falou, então, para parte da produção, 3 mil, mas ela também faz assessoria de imprensa, por causa dos contatos dela trabalhando na TV, ela acaba fazendo isso, então ela falou mil reais para...\n\n Então, para 4 mil reais, sabe, a gente transferiu um pouco da Carol para você, um pouco para o Wellington. Agora, pelo menos, a gente tem alguém muito mais experiente e ela vai fazer assessoria de imprensa. Porque a coisa é que a gente precisa mais de qualquer coisa. A gente tem que chegar lá no Domingão do Hulk, esse tipo de coisa. Que a gente não tem visto."
+      },
+      {
+        "start_time": 1770830007968,
+        "end_time": 1770830013447,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Faz muita diferença ter uma pessoa especializada em coisa de imprensa."
+      },
+      {
+        "start_time": 1770830013447,
+        "end_time": 1770830066190,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ela vai fazer as duas coisas e eu, engraçado, eu fiz as três entrevistas. As outras duas, entre a gente, as outras duas chegaram atrasadas. A Etilene, ela mandou mensagem quando estava saindo de casa, chegou lá 20 minutos antes, sabe? E são essas pequenas coisas. Você marca entrevista com a Tereza, como vai ser? Mas acho que vai gostar dela. Então, financeiramente, a gente tem que pensar se a gente paga ela mil, ela tem MEI, se a gente paga ela mil pela comunicação e três pela produção, ou se a gente só paga ela pela produção, Então, te olho na minha verba de comunicação.\n\n"
+      },
+      {
+        "start_time": 1770830066190,
+        "end_time": 1770830078387,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Então, a gente... Quer que eu compartilhe aqui? Porque, na verdade, a gente não tem muita coisa prevista..."
+      },
+      {
+        "start_time": 1770830078387,
+        "end_time": 1770830084485,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Na comunicação, não, mas eu vou querer estar contratando..."
+      },
+      {
+        "start_time": 1770830084485,
+        "end_time": 1770830090932,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu deixei aqui, na verdade. O salário que era antigo."
+      },
+      {
+        "start_time": 1770830090932,
+        "end_time": 1770830116083,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Sim. Eu não tirei. Não, mas é isso, porque basicamente eu vou fazer, eu vou contratar gente, mas eu vou contratar a ideia de manter mesmo, não de cortar a verba, mas de tentar usar mais eficaz. Então, você fez exatamente certo com isso."
+      },
+      {
+        "start_time": 1770830116856,
+        "end_time": 1770830126073,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Porque aí, no caso, ela seria R$4.000, né? E aí você teria um saldo de R$725 por mês, né? Sim."
+      },
+      {
+        "start_time": 1770830126073,
+        "end_time": 1770830144968,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você pensando assim, né? Sim. A única coisa era de anotar o que foi o orçamento do ano passado. Porque, por exemplo, em janeiro e fevereiro a gente economizou. Eu quero trabalhar com o orçamento... Você quer saber o que foi?"
+      },
+      {
+        "start_time": 1770830145260,
+        "end_time": 1770830147825,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "que a gente gastou ano passado?"
+      },
+      {
+        "start_time": 1770830147825,
+        "end_time": 1770830152527,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Na comunicação, para aumentar isso para a inflação e isso ser..."
+      },
+      {
+        "start_time": 1770830152527,
+        "end_time": 1770830158512,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Mas o total da comunicação ou o que a gente pagou para caminho? Total."
+      },
+      {
+        "start_time": 1770830158512,
+        "end_time": 1770830165780,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Total da comunicação para o ano passado, sendo a verba que a gente tem para esse ano."
+      },
+      {
+        "start_time": 1770830165780,
+        "end_time": 1770830170055,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que ano passado assim é muito parâmetro, mas..."
+      },
+      {
+        "start_time": 1770830170055,
+        "end_time": 1770830176233,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas o problema é que esse ano A acessibilidade está dentro disso também, não é?"
+      },
+      {
+        "start_time": 1770830176233,
+        "end_time": 1770830192120,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Por isso, não é muito parâmetro. Então, a gente teve que trazer várias rúbricas para dentro de comunicação. E, ano passado, a gente basicamente teve aquela coisa de entrada e saída do menino, não me esqueço o nome dele agora."
+      },
+      {
+        "start_time": 1770830192120,
+        "end_time": 1770830192517,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Rafael."
+      },
+      {
+        "start_time": 1770830192517,
+        "end_time": 1770830202122,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Foi o Rafael, depois Camila, e depois quase coisas de impressão gráfica. Enfim, foi meio bagunçado assim. Mas, te dando números, Sim."
+      },
+      {
+        "start_time": 1770830202122,
+        "end_time": 1770830216369,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É só para ter uma ideia de quanto a gente estava pagando em comunicação por mês. Ou esquece... Não. Esquecendo as palavras... 61 mil que a gente gastou no ano."
+      },
+      {
+        "start_time": 1770830216369,
+        "end_time": 1770830233326,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E aí, isso dividido por 12, daria uma coisa de um gasto só de 5 mil. Mas é isso. Tipo, agora que a gente tem previsão maior Sim, a única coisa que eu queria..."
+      },
+      {
+        "start_time": 1770830233326,
+        "end_time": 1770830298490,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu queria colocar, por exemplo, em janeiro e fevereiro, com o pessoal, eu paguei menos do que a Camila. E aí eu queria levar esse crédito para eu poder pagar com o pessoal. É isso mesmo que eu estou falando. Vou basicamente pegar a cenário da Camila e contratar gente. Pode dizer que a minha verba para pessoal é igual a isso, então eu só tenho que acrescentar, sabe que eu só gastei menos em janeiro e fevereiro, eu só queria acrescentar isso no que eu tenho previsto para o resto do ano, porque eu pretendo gastar.\n\n O Alexandre, e está querendo trabalhar com Darlan e Caterina para fazer alguma coisa de comunicação com eles. Então, eu vou dar um teste com eles no Carnaval para ver eles para fazer Rio de Carnaval. Então, isso é alguma coisa que vai sair, por exemplo. Eu não sei quanto que vai ser."
+      },
+      {
+        "start_time": 1770830298490,
+        "end_time": 1770830315848,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu estava até pensando em oferecer uma bolsa para o Wellington de captação de vídeo para o celular que vai ter lá na escola de cinema se fechar a turma. Porque isso depende se fecha a turma, não é? Aí eu consigo deixar na bolsa. Se tiver um mínimo de pagantes, né?"
+      },
+      {
+        "start_time": 1770830315848,
+        "end_time": 1770830321911,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim. Mas a Catarina poderia ser para isso também, né? É. Mas se quiser..."
+      },
+      {
+        "start_time": 1770830321911,
+        "end_time": 1770830334443,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu comia da Catarina, não ia assistir, eu me queimava. Quando eu dou a bolsa, eu preciso que a pessoa realmente vá. Eu só comia duas vezes da Catarina, não ia."
+      },
+      {
+        "start_time": 1770830334443,
+        "end_time": 1770830336060,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendi, entendi. Ela ficou..."
+      },
+      {
+        "start_time": 1770830336068,
+        "end_time": 1770830338960,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "bagunçada com isso, né, de... Não, beleza."
+      },
+      {
+        "start_time": 1770830338960,
+        "end_time": 1770830340612,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas é isso, então..."
+      },
+      {
+        "start_time": 1770830340612,
+        "end_time": 1770830368092,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Você acha que pode ser outra pessoa também? Não, mas era até bom, porque o Wellington poderia filmar coisas dos nossos ensaios, por exemplo. Foi isso que eu pensei, da diferença entre os nossos ensaios e das suas. Mas seria bom aí passar para mim, deixar o iPhone lá na aula. Eu preciso disso agora, aliás. Não, pensando assim é bem feito, que ele já tá lá."
+      },
+      {
+        "start_time": 1770830368092,
+        "end_time": 1770830374098,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Exato. E tu viu aquelas fotos que foi ele que fez, eu só pedi pra ele."
+      },
+      {
+        "start_time": 1770830374098,
+        "end_time": 1770830381230,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah é? Então fechou. Esse iPhone eu tenho que levar lá pra ele, então ele fica com o iPhone."
+      },
+      {
+        "start_time": 1770830381230,
+        "end_time": 1770830385359,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "O celular dele é bom, Tom. Ah é? É, eu acho."
+      },
+      {
+        "start_time": 1770830385359,
+        "end_time": 1770830387235,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Melhor do que o meu."
+      },
+      {
+        "start_time": 1770830387235,
+        "end_time": 1770830391740,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então eu vou pedir pra ele tirar fotos e vídeos das duas."
+      },
+      {
+        "start_time": 1770830391748,
+        "end_time": 1770830396771,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ele falou que estava super interessado em fazer. O que ele tem?"
+      },
+      {
+        "start_time": 1770830396771,
+        "end_time": 1770830397189,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "iPhone?"
+      },
+      {
+        "start_time": 1770830397189,
+        "end_time": 1770830398026,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Coisa legal?"
+      },
+      {
+        "start_time": 1770830398026,
+        "end_time": 1770830406397,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu vou perguntar para ele, mas a foto que ele me mandou, a qualidade era melhor do que a minha."
+      },
+      {
+        "start_time": 1770830406397,
+        "end_time": 1770830426824,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu vou mandar mensagem para ele agora, para pedir para ele tirar fotos das aulas. Ele poderia estar fazendo isso direto. Eu não estou pagando ninguém para sair de casa. Não, show de bola, bota ele nessa bolsa sim. Ah, isso, para de ter ideias melhores que as minhas."
+      },
+      {
+        "start_time": 1770830426824,
+        "end_time": 1770830429804,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Aí eu vou convidar ele pra ele poder..."
+      },
+      {
+        "start_time": 1770830429804,
+        "end_time": 1770830460750,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "isso é porque... Eu perguntei pra ele se ele tava, como se diz, interessado em voltar a estudar, e aí ele falou que ele não tava estudando nada e que ele tava realmente pensando, aí eu comecei a fazer umas perguntas pra ele sobre isso, e pensei também de para fazer o curso do Senac, que é à noite, e é de graça também, porque lá tem coisa de produção, tem curso de produção."
+      },
+      {
+        "start_time": 1770830460750,
+        "end_time": 1770830484682,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Onde a Carol estudou. Maravilha. Mas é interessante, a Carol falando das condições, das conversas que eu tive ontem, acho que cinco minutos atrás, falar a verdade. Mas é igual as conversas com a Camila. Eu acho que a galera talvez... Se acomodou, talvez, não sei."
+      },
+      {
+        "start_time": 1770830484682,
+        "end_time": 1770830485945,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu não sei."
+      },
+      {
+        "start_time": 1770830485945,
+        "end_time": 1770830555332,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas há a coisa de... Se eu boto alguém para movimentar nossas redes sociais, eles vão me cobrar cinco... Eu vou ter que pagar cinco mil reais? Eu acho que a gente não vai precisar. Se a gente queria um assistente Acho que tem gente lá. Mas, de qualquer forma, só para você ver, para o Carnaval, se você puder fazer esse cálculo com os salários, está vendo? Colocar previsto para a gente pagar, se você só vir assim, por exemplo...\n\n Não, não é isso. O que estou falando é que... É no outro, não é? Porque isso vira o meu orçamento. Pode ser dentro das custas de divulgação mesmo. Onde você tá, tá ótimo. Mas a coisa é de... Não, aqui eu vou ajustar para 4 mil, né? Não. Entendi. A produtora? É, porque a gente..."
+      },
+      {
+        "start_time": 1770830555332,
+        "end_time": 1770830558343,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim, sim, sim. Isso, isso."
+      },
+      {
+        "start_time": 1770830558352,
+        "end_time": 1770830566325,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso, aí a gente vai tratar isso. Porque a gente poderia pagar separado para ser..."
+      },
+      {
+        "start_time": 1770830566325,
+        "end_time": 1770830568982,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Fazer duas notas com ela?"
+      },
+      {
+        "start_time": 1770830568982,
+        "end_time": 1770830604056,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, mas é uma burocracia. Então, se você voltar para o custo de divulgação, o que estou falando? Quando a gente não colocou, ao invés de 4725, a gente colocou 1.888, 1.600. Ah, isso aqui é da menina. Sim, sim, mas o que eu tô falando nesses, eu tenho uma, o meu orçamento de comunicação é o que a gente tem como total lá, em N5, entendeu?"
+      },
+      {
+        "start_time": 1770830604056,
+        "end_time": 1770830605556,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Esse 50 mil."
+      },
+      {
+        "start_time": 1770830605556,
+        "end_time": 1770830627372,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas o que acontece, esse total do ano era maior. Tem que voltar para o total que era. Sabe, se você coloca um eixo em mês seguinte, para que eu fico com o mesmo orçamento. Se não, como eu gastei menos de janeiro e fevereiro..."
+      },
+      {
+        "start_time": 1770830627372,
+        "end_time": 1770830628819,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "O quê? Isso?"
+      },
+      {
+        "start_time": 1770830628819,
+        "end_time": 1770830629784,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "60 mil?"
+      },
+      {
+        "start_time": 1770830629784,
+        "end_time": 1770830643856,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, mas tem que totalar em 4, 7, 2, 5. Mas você poderia colocar isso não em janeiro e fevereiro."
+      },
+      {
+        "start_time": 1770830643856,
+        "end_time": 1770830661162,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tem que ver quanto eu economizei em janeiro, que é 4,725 menos 1,888."
+      },
+      {
+        "start_time": 1770830664770,
+        "end_time": 1770830669554,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aqui é a vez de estresse."
+      },
+      {
+        "start_time": 1770830669554,
+        "end_time": 1770830671149,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, sim."
+      },
+      {
+        "start_time": 1770830671149,
+        "end_time": 1770830671947,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Exatamente."
+      },
+      {
+        "start_time": 1770830671947,
+        "end_time": 1770830674339,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pode fazer assim."
+      },
+      {
+        "start_time": 1770830674339,
+        "end_time": 1770830697149,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Se puder. Você entendeu? Aí vai e eu vou trabalhando dentro disso. Dentro desse orçamento. Aí vai no carnaval. Eu acho carnaval. Não sei quanto eles vão pedir."
+      },
+      {
+        "start_time": 1770830697149,
+        "end_time": 1770830719884,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Pensando nas entregas da Ruaneta, talvez seja interessante dividir, porque a gente tem uma coisa para comprovar também em comunicação. Se ela for entregar esse trabalho mensalmente de imprensa, a gente pode comprovar isso depois em comunicação."
+      },
+      {
+        "start_time": 1770830719884,
+        "end_time": 1770830722342,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim, com certeza."
+      },
+      {
+        "start_time": 1770830722350,
+        "end_time": 1770830726668,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E aí, talvez, pedindo para ela ser parada, a gente..."
+      },
+      {
+        "start_time": 1770830726668,
+        "end_time": 1770830727963,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Quer colocá-la assim?"
+      },
+      {
+        "start_time": 1770830727963,
+        "end_time": 1770830729690,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É mais correto, né?"
+      },
+      {
+        "start_time": 1770830729690,
+        "end_time": 1770830730985,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu acho, é."
+      },
+      {
+        "start_time": 1770830730985,
+        "end_time": 1770830741347,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, bote R$3.000 no produto de produção, R$1.000, aí eu vou... A minha VEB vai diminuir por um mês, mas tá ok. Na comunicação."
+      },
+      {
+        "start_time": 1770830741347,
+        "end_time": 1770830757632,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, a gente não mexe, porque essa daqui era o que tava dentro... Era ainda dentro dos R$4.900. Na verdade, tá sobrando Agora 900 por mês, porque a verba que estava predestinada para Carol era 4.919."
+      },
+      {
+        "start_time": 1770830757632,
+        "end_time": 1770830761450,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, então a gente já está economizando 900."
+      },
+      {
+        "start_time": 1770830761450,
+        "end_time": 1770830762404,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Está ótimo."
+      },
+      {
+        "start_time": 1770830762404,
+        "end_time": 1770830792487,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E o que que eu... Não, isso está ótimo. Uma outra coisa rapidinho é que o ar-condicionador é um caso a parte, a gente tem que pensar. Eu comprei no cartão de crédito, mas... Eu coloquei... É para colocar isso na caixinha. Tem que ser na caixinha. É o único lugar para coisas que eu comprei. A questão é se a gente vai poder reembolsar depois."
+      },
+      {
+        "start_time": 1770830792487,
+        "end_time": 1770830795083,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É isso que eu estava pensando."
+      },
+      {
+        "start_time": 1770830795083,
+        "end_time": 1770830798113,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então é uma pergunta para a Jane."
+      },
+      {
+        "start_time": 1770830798113,
+        "end_time": 1770830809641,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Se não tiver como, não tem problema. Eu acho que sim, porque... Ah, não. Porque o ideal teria sido o sônulo pagar para a empresa."
+      },
+      {
+        "start_time": 1770830809641,
+        "end_time": 1770830825762,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente não teve tempo para fazer isso, a agilidade, não tem problema. Mas a única coisa seria se a Rona poderia me reembolsar. Se fosse possível a Rona me reembolsar. Aí eu pago a associação."
+      },
+      {
+        "start_time": 1770830825762,
+        "end_time": 1770830830688,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Você não tem rúbrica de equipamento de venda de ar condicionado."
+      },
+      {
+        "start_time": 1770830830688,
+        "end_time": 1770830842839,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então não tem como. Você pode ir checar com a Jani, mas eu acho que virou caixinha. Mas não tem problema, que tem muito acondicionado pra frente."
+      },
+      {
+        "start_time": 1770830842839,
+        "end_time": 1770830847789,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É isso que eu ia falar, de repente nos próximos, né?"
+      },
+      {
+        "start_time": 1770830847789,
+        "end_time": 1770830884290,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, que a gente tem que colocar acondicionado split lá embaixo, que no momento a gente tem acondicionado janela, e isso não ajuda na parte de... Porque, de janela, tem muito espaço para o som passar. Aí, se colocar... E a gente quer colocar ar-condicionado lá em cima, se a gente faz lá em cima. Então, ainda tem muita coisa para frente. Alguma coisa que você quer que eu leve para a reunião de finanças hoje?\n\n Desculpa, mais perguntas. Todo mundo assinou? Quem não assinou a ata?"
+      },
+      {
+        "start_time": 1770830884290,
+        "end_time": 1770830887325,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Continuou o Norton e o Alberto sem assinar."
+      },
+      {
+        "start_time": 1770830887325,
+        "end_time": 1770830901859,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Norton e Alberto. Caramba, gente. O Alberto falou que ele... Eu vou colocar aqui."
+      },
+      {
+        "start_time": 1770830904771,
+        "end_time": 1770830909476,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, eles não assinaram."
+      },
+      {
+        "start_time": 1770830909476,
+        "end_time": 1770830924770,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu vou ver hoje à noite, então, vá que é hoje à noite."
+      },
+      {
+        "start_time": 1770830924770,
+        "end_time": 1770830961373,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas é estúpido isso, né? Correndo para... Para redagir tudo isso, checar com o contador, a gente pede dois dias só para o pessoal clicar, mas não sabe como acontece. A conexão foi por caixinha, basicamente, tem isso. O fluxo, eu vou tentar um fluxo, um aplicativo na lojinha para quem está trabalhando lá, faz login num site, mas é tipo login num site... Não, eu gostei demais."
+      },
+      {
+        "start_time": 1770830961440,
+        "end_time": 1770830977604,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "A outra coisa da lojinha é que daqui copo mais tirante, zero. Na verdade, a gente tem 120 copos e tem 100 tirantes deles. A gente tem visto um saldo de tirantes gigantesco. Eu não sei o que o Claudio fez."
+      },
+      {
+        "start_time": 1770830977604,
+        "end_time": 1770830983518,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu falei pro Claudio colocar 200. Tirante é que eu não sei ainda o número."
+      },
+      {
+        "start_time": 1770830983518,
+        "end_time": 1770830989431,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu tenho que ainda contar. É um monte ainda. Deve ter uns 500 ainda, sabe?"
+      },
+      {
+        "start_time": 1770830989440,
+        "end_time": 1770830990254,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim."
+      },
+      {
+        "start_time": 1770830990254,
+        "end_time": 1770831046834,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, é isso. Então, com essa coisa, com o Cloud Code, eu fico aqui com vários agentes ao mesmo tempo. É doido. Ok. Então, eu acho que é basicamente isso, né? Para hoje, qualquer coisa, eu estou aqui. E eu vou te mandar esse site para finanças. Porque isso é uma coisa que eu vou precisar de ajuda. Aí eu crio a coisa e você dá uma lá ver se está certo. Porque eu acho que daqui a pouco a gente vai conseguir otimizar até essa parte dos estratos, etc, etc.\n\n Mas, por enquanto, faça como você estava fazendo para a gente não ter nenhum problema aí. Talvez até mais que a gente não precise disso. Mas em termos dos relatórios, os relatórios estou fazendo aqui. Obrigada, Aíson."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Tom Ashe"
+      },
+      {
+        "name": "Raíssa Celina da Costa Sousa"
+      }
+    ]
+  },
+  "platform_meeting_id": "vbw-tzde-ajs",
+  "platform": "meet"
+}

@@ -1,0 +1,3242 @@
+{
+  "session_id": "01KH3T8SHYGT4WQ20VJ4K3GTPW",
+  "trigger": "meeting_end",
+  "title": "Meet Meeting",
+  "start_time": "2026-02-10T10:01:36-03:00",
+  "end_time": "2026-02-10T11:31:35-03:00",
+  "participants": [
+    {
+      "name": "Raíssa Celina da Costa Sousa",
+      "first_name": "Raíssa",
+      "last_name": "Celina da Costa Sousa",
+      "email": null
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Wesley Araujo",
+      "first_name": "Wesley",
+      "last_name": "Araujo",
+      "email": null
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A conversa abordou diversos tópicos relevantes para a organização de eventos e a logística das atividades. Wesley Araujo informou que os ensaios na casa de Tom Ashe estão ocorrendo sem problemas, mas destacou a necessidade de reparo em uma telha quebrada que causou alagamento. Raíssa Celina da Costa Sousa atualizou sobre a planilha de execução das obras e a organização de eventos futuros, como o carnaval, além de discutir a revisão de contratos e a configuração de uma maquininha para pagamentos.\n\nA centralização das informações sobre instrumentos e sites foi um ponto importante, com Tom apresentando um novo site em desenvolvimento. Wesley expressou sua confusão sobre onde acessar a lista de instrumentos e Tom sugeriu que as atualizações sejam feitas pelo Code até que o novo sistema esteja pronto. Raíssa também contribuiu com informações sobre a organização de shows nas escolas e a necessidade de manter a agenda atualizada, além de discutir a assinatura de documentos e a organização de fitas de Bom Fim.\n\nA questão da sustentabilidade foi abordada, com Raíssa e Tom discutindo o uso de copos descartáveis nas aulas e a importância de alternativas mais ecológicas. Raíssa mencionou que a escola possui ecocopos, mas a prática de usá-los não tem sido seguida. Tom sugeriu reavaliar a ideia de copos fixos devido à falta de infraestrutura para lavagem. A equipe concordou em reduzir o uso de descartáveis e planejou discutir mais sobre o assunto em futuras reuniões.\n\nA logística para o transporte de instrumentos e a organização de lanches para um evento programado foram discutidas, com Wesley e Raíssa planejando a transferência de materiais e buscando alternativas para os lanches. Além disso, a segurança das crianças durante o cortejo de carnaval foi uma preocupação, com Wesley propondo o uso de uma corda para isolamento e a participação dos pais na supervisão. A equipe também discutiu a manutenção do telhado e a necessidade de reparos acústicos, além de abordar a segurança na escada, sugerindo a instalação de fita antiderrapante.",
+  "action_items": [
+    {
+      "text": "Tom Ashe vai entregar a prestação de contas para revisão junto com Jânia ainda esta semana."
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa vai ensinar Wesley a usar a maquininha de cartão e marcar um dia para isso."
+    },
+    {
+      "text": "Wesley Araujo vai pegar os instrumentos de percussão na Zola amanhã de manhã para o ensaio da Banda Amarela."
+    },
+    {
+      "text": "Raíssa Celina da Costa Sousa vai pedir para Iris preparar o termo dos instrumentos para ser assinado nas escolas."
+    },
+    {
+      "text": "Wesley Araujo vai organizar as estantes e bancos na parte principal das aulas antes do início das aulas."
+    },
+    {
+      "text": "Tom Ashe vai entrar em contato com Fábio para consertar a telha quebrada e limpar o telhado."
+    },
+    {
+      "text": "Wesley Araujo irá colocar estantes e bancos na parte onde serão dadas as aulas e verificar se a quantidade está suficiente."
+    },
+    {
+      "text": "Tom Ashe irá passar o número da equipe para Raíssa Celina da Costa Sousa no carnaval."
+    },
+    {
+      "text": "Tom Ashe irá atualizar Natasha sobre o primeiro show na Zola, que ocorrerá em abril."
+    },
+    {
+      "text": "Wesley Araujo irá conferir a roteira.favelabras.org e avisar sobre qualquer erro."
+    },
+    {
+      "text": "Wesley Araujo irá revisar os horários dos professores e enviar para Raíssa Celina da Costa Sousa."
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Como será a logística para o transporte dos instrumentos para as escolas?"
+    },
+    {
+      "text": "Qual é a quantidade total de lanches prevista para os ensaios extras?"
+    },
+    {
+      "text": "Qual é o status da limpeza do telhado e da telha quebrada?"
+    },
+    {
+      "text": "Como será a logística para as aulas que ocorrem ao mesmo tempo?"
+    },
+    {
+      "text": "Quais são os horários dos ensaios da banda roxa e do ensaio geral?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Preparação da prestação de contas e revisão de documentos."
+    },
+    {
+      "text": "Planejamento de eventos e shows futuros."
+    },
+    {
+      "text": "Organização das estantes e bancos para as aulas."
+    },
+    {
+      "text": "Planejamento de eventos e alimentação para o cortejo."
+    },
+    {
+      "text": "Logística para o transporte de instrumentos para as escolas."
+    },
+    {
+      "text": "Conserto da telha quebrada e limpeza do telhado."
+    },
+    {
+      "text": "Atualização sobre os ensaios e lanches para eventos."
+    },
+    {
+      "text": "Questões sobre a acústica e uso de espaços para ensaios."
+    },
+    {
+      "text": "Logística das aulas e uso de salas."
+    },
+    {
+      "text": "Controle de faltas e presença dos professores."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KH3T8SHYGT4WQ20VJ4K3GTPW",
+  "chapter_summaries": [
+    {
+      "title": "Atualizações e Planejamento",
+      "description": "Wesley Araujo relata que os ensaios estão ocorrendo na casa de Tom Ashe sem problemas, mesmo com as chuvas. Ele destaca a necessidade de reparar uma telha quebrada que causou alagamento na lavanderia. Raíssa Celina da Costa Sousa atualiza sobre a planilha de gastos com obras.",
+      "topics": [
+        "Preparação da prestação de contas e revisão de documentos."
+      ]
+    },
+    {
+      "title": "Atualizações sobre Instrumentos e Organização de Shows",
+      "description": "Durante a conversa, Wesley expressa sua confusão sobre onde acessar informações atualizadas sobre os instrumentos. Tom informa que está criando um site para facilitar o acesso e que, por enquanto, as informações devem ser gerenciadas pelo Code. Raíssa também participa, mencionando a necessidade de organizar as mudanças de instrumentos para as aulas.",
+      "topics": [
+        "Planejamento de eventos e shows futuros."
+      ]
+    },
+    {
+      "title": "Discussão sobre o uso de copos ecológicos",
+      "description": "Durante a conversa, Raíssa Celina menciona que a escola tem copos de alumínio, mas atualmente está utilizando copos descartáveis, o que não é ecológico. Tom Ashe concorda e sugere que a ideia original era que os alunos usassem copos fixos nas aulas. Eles discutem a possibilidade de resgatar essa prática e reduzir o desperdício de plástico.",
+      "topics": []
+    },
+    {
+      "title": "Organização da Logística dos Instrumentos",
+      "description": "Raíssa Celina menciona a necessidade de programar o fornecedor para o dia 28 de fevereiro, enquanto Tom Ashe questiona sobre a liberação dos instrumentos para o carnaval. Wesley Araujo confirma que pegará os instrumentos da Banda Amarela e que a logística para as escolas será feita no dia 2 de março, com um roteiro a ser elaborado para o transporte.",
+      "topics": []
+    },
+    {
+      "title": "Atualização sobre Materiais e Logística",
+      "description": "Wesley Araujo mencionou a situação dos materiais nas escolas, incluindo baterias e estantes de partitura. Raíssa Celina da Costa Sousa e Tom Ashe discutiram a necessidade de transferir esses materiais antes das aulas, com a possibilidade de realizar essa tarefa na próxima terça-feira, embora haja preocupações sobre a disponibilidade de pessoas para ajudar.",
+      "topics": [
+        "Organização das estantes e bancos para as aulas."
+      ]
+    },
+    {
+      "title": "Discussão sobre Lanches e Patrocínios",
+      "description": "Durante a conversa, Raíssa Celina apresenta a situação dos lanches para o evento, destacando um aumento de 68 lanches necessários. Ela propõe alternativas, como patrocínios e a possibilidade de fornecer pizzas da Azula e sanduíches do Petit Pain, para evitar desperdícios e custos extras. Tom Ashe concorda que é importante ter lanches disponíveis para a equipe.",
+      "topics": [
+        "Planejamento de eventos e alimentação para o cortejo."
+      ]
+    },
+    {
+      "title": "Planejamento do Cortejo de Carnaval",
+      "description": "Tom Ashe abordou o horário do cortejo de carnaval e a contratação de novos produtores, destacando a importância de testar o entrosamento da equipe. Raíssa concordou e anotou que a responsabilidade ficaria com a nova produtora. Wesley levantou questões sobre a segurança das crianças durante o evento.",
+      "topics": []
+    },
+    {
+      "title": "Atualização sobre Calendário e Manutenção",
+      "description": "Wesley Araujo apresentou as datas das apresentações escolares e o início do período de matrícula, que se inicia em 23 de março. Raíssa Celina da Costa Sousa perguntou sobre a alimentação da equipe, enquanto Tom Ashe e Wesley discutiram a necessidade de manutenção do telhado e melhorias acústicas na sala de percussão. A equipe decidiu entrar em contato com um profissional para realizar os reparos necessários.",
+      "topics": [
+        "Logística para o transporte de instrumentos para as escolas.",
+        "Conserto da telha quebrada e limpeza do telhado."
+      ]
+    },
+    {
+      "title": " Manutenção da Escada e Segurança",
+      "description": " Wesley Araujo alertou sobre a escorregosidade da escada, especialmente após a chuva, e propôs a instalação de fita antiderrapante. Ele enfatizou a importância de limpar a escada e retirar os matos acumulados. Tom Ashe confirmou que já havia adquirido fita, mas que ela não fixou adequadamente e que seria necessário conversar com Fábio sobre a situação.",
+      "topics": []
+    },
+    {
+      "title": "Feedback sobre o espaço e organização",
+      "description": "Tom Ashe e Wesley Araujo avaliam a primeira semana de ensaios na casa, destacando que o espaço ficou bom, mas ainda precisa de ajustes. Wesley comenta sobre a dificuldade de ensaiar com as janelas fechadas devido à chuva e ao calor, e sugere melhorias para o futuro, como a instalação de ar-condicionado.",
+      "topics": []
+    },
+    {
+      "title": "Atualizações sobre Ensaios e Logística de Lanches",
+      "description": "Wesley Araujo e Raíssa Celina da Costa Sousa discutiram a atualização da planilha de lanches, que agora inclui ensaios extras. Wesley esclareceu que o ensaio da banda roxa na quarta-feira de cinzas será de manhã, e Raíssa expressou preocupação com o aumento do custo dos lanches devido a ensaios adicionais.",
+      "topics": [
+        "Atualização sobre os ensaios e lanches para eventos.",
+        "Questões sobre a acústica e uso de espaços para ensaios.",
+        "Logística das aulas e uso de salas."
+      ]
+    },
+    {
+      "title": "Questões sobre Presenças e Ensaios",
+      "description": "Tom e Wesley abordam a situação das faltas dos professores e a dificuldade de justificativas, com Tom afirmando que as informações sobre as faltas estão sendo recebidas. Ele destaca a importância de seguir as políticas em relação às faltas não justificadas. Wesley concorda e se compromete a conversar com Iris para esclarecer a situação.",
+      "topics": [
+        "Controle de faltas e presença dos professores."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1770728499030,
+        "end_time": 1770728570837,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Esperar a ilícia. Deixa eu ver alguma coisa aqui. A gente aproveita. Eu vou deixar para semana que vem, quando você vier, na reunião de terça, para você Eu posso fazer isso?"
+      },
+      {
+        "start_time": 1770728570837,
+        "end_time": 1770728598027,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Porque o que que acontece? Por exemplo, essa semana todinha, com exceção de sexta, que o ensaio é lá na Silvia e tal, essa semana praticamente toda a gente teve ensaio lá na sua casa. A banda, como choveu bastante, a banda verde saiu da sua casa. E assim, eu não vi nenhuma reclamação de ninguém, muito pelo contrário. Eu passo o pessoal sempre sorrindo, bom dia, tal, seus vizinhos ali debaixo. Pessoal, então, assim, é só pra você ter uma noção, realmente, é...\n\n"
+      },
+      {
+        "start_time": 1770728598027,
+        "end_time": 1770728598467,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "a... A..."
+      },
+      {
+        "start_time": 1770728623147,
+        "end_time": 1770728647219,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas depois parou, parou de chover, mas a gente continuou com tudo lá em cima fechado. Não houve reclamação, vou te contar, de noite as crianças descendo ali, tinha o pessoal ali na janela, bom dia, boa noite, boa noite, boa noite. Então assim, eu acho que não teremos reclamações, só pra você ficar ciente."
+      },
+      {
+        "start_time": 1770728647219,
+        "end_time": 1770728647657,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entendi."
+      },
+      {
+        "start_time": 1770728647657,
+        "end_time": 1770728711881,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Essa semana, novamente, tá previsto Então não tem como... Aí eu tô botando a banda verde pra ir sair na tua casa. Aquela tenda não dá conta de chuva. Por mais que seja uma banda pequena, acho que não tem necessidade. A chuva é muito forte. Então tô botando pra só passar na tua casa. Até então não houve problema nenhum. E o Wellington tem dado super conta lá. Sempre mantendo tudo fechado, a limpeza, enfim.\n\n Agora uma coisa que a gente tem... Só antes da raiz... Concentrar, ontem que a gente percebeu com a chuva, olha Tom, ontem choveu muito forte, do nada, tava chovendo, tava pra chegar na boa, mas quando deu mais ou menos assim umas seis e quinze, caiu aquele, sabe aquela tempestade de uma vez só, mas muito forte, não tinha mais como cancelar, era seis e quinze, aí a gente percebeu ali na... Ali na lavanderia tem uma telha quebrada fora a fora.\n\n"
+      },
+      {
+        "start_time": 1770728711881,
+        "end_time": 1770728714285,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E aí alagou ali d'água."
+      },
+      {
+        "start_time": 1770728714285,
+        "end_time": 1770728722456,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Aí ontem até... Eu pedi para as crianças descerem devagar ali e aí a dúvida escorregou. Entendeu?"
+      },
+      {
+        "start_time": 1770728722456,
+        "end_time": 1770728725820,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente tem que botar... Tem que..."
+      },
+      {
+        "start_time": 1770728725820,
+        "end_time": 1770728737907,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É só botar uma telha em cima... Ela tá rachada de fora a fora. Aí encheu d'água mesmo. Mexeu d'água, ele foi e tá bom."
+      },
+      {
+        "start_time": 1770728737907,
+        "end_time": 1770728751124,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Em relação a isso, tu até fez uma aba lá na planilha de execução da associação do que a gente já gastou com as obras, tá atualizado."
+      },
+      {
+        "start_time": 1770728751124,
+        "end_time": 1770728753082,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok, show, show, show."
+      },
+      {
+        "start_time": 1770728753082,
+        "end_time": 1770728754061,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, beleza."
+      },
+      {
+        "start_time": 1770728754061,
+        "end_time": 1770728777766,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu marquei online hoje porque eu tô cuidando do Tiago à noite, e ontem à noite Não consigo imaginar. Achei pior eu ir para o Rio Verde, sabe, sem dormir. Pelo menos dormir um pouquinho só para o cérebro estar funcionando minimamente."
+      },
+      {
+        "start_time": 1770728777766,
+        "end_time": 1770728781314,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ele está chovendo muito também, né?"
+      },
+      {
+        "start_time": 1770728781314,
+        "end_time": 1770728783679,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, ele está tranquilo."
+      },
+      {
+        "start_time": 1770728783679,
+        "end_time": 1770728793056,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É só mais a questão de estar com o cérebro funcionando minimamente. Então, vamos lá."
+      },
+      {
+        "start_time": 1770728793056,
+        "end_time": 1770728793813,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ok?"
+      },
+      {
+        "start_time": 1770728793813,
+        "end_time": 1770728798359,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Sei bem o que é isso."
+      },
+      {
+        "start_time": 1770728798359,
+        "end_time": 1770728808207,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Sei bem o que é isso. Não dormir à noite com aquela criança."
+      },
+      {
+        "start_time": 1770728808207,
+        "end_time": 1770728819887,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Meu Deus. Jesus. Deixa eu ver. Beleza. Então, notícias Coisas boas."
+      },
+      {
+        "start_time": 1770728819887,
+        "end_time": 1770728822146,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu organizei um pouco da..."
+      },
+      {
+        "start_time": 1770728822146,
+        "end_time": 1770728823050,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ah, sim!"
+      },
+      {
+        "start_time": 1770728823050,
+        "end_time": 1770728826664,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Adorei! Adorei. Você viu lá o Agilion, né?"
+      },
+      {
+        "start_time": 1770728826664,
+        "end_time": 1770728838412,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu ia lá agora de manhã cedo terminar de organizar, mas aí quando você falou que tava chovendo, eu falei, ah, não vou na chuva não."
+      },
+      {
+        "start_time": 1770728838412,
+        "end_time": 1770728868356,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu vi que desceu tudo. Mas quando eu cheguei, eu já fui auxiliando ali, que caraca, tava uma poção d'água. Escorrer criança escorregando, opa, o Ayrton tava ali toda hora limpando, eu fui só, não deu tempo de entrar, mas hoje eu vou lá, hoje eu vou dar uma olhada lá. Agora liberou espaço, aí eu vou conseguir agora organizar o instrumento, os instrumentos lá em cima né, só dar uma organizada."
+      },
+      {
+        "start_time": 1770728868356,
+        "end_time": 1770728886644,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Liberou bastante espaço Você mandou o pauto Wesley? Só pra saber, você não mandou tudo bem, mas só que eu não tô vendo, só pra eu organizar aqui. Não, não mandei pauta."
+      },
+      {
+        "start_time": 1770728886644,
+        "end_time": 1770728896612,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tem alguma coisa que quer colocar já? Ah, eu queria colocar só a questão dessa, né, da finalização ali da obra e o feedback da..."
+      },
+      {
+        "start_time": 1770728896612,
+        "end_time": 1770728995365,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim, feedback da... Eu acho que eu tive isso na minha lista também. Da primeira semana de aulas, né? Na minha casa. Então, vamos colocar isso lá na... Tá. Então, indo para... E a questão do carnaval, Tom. Ah, sei, isso tá na minha também. O que mais a gente tem aqui? Ok, beleza, acho que estou com a lista aqui. Vamos lá dar uma olhada nas pedras. Ah, não, as pedras primeiro. Primeiro era pedras.\n\n"
+      },
+      {
+        "start_time": 1770728995365,
+        "end_time": 1770729002661,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Pedras e como era o outro nome do negócio que a gente fazia, do cheque dos números, né?"
+      },
+      {
+        "start_time": 1770729002661,
+        "end_time": 1770729025660,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, os cocais. Vamos voltar a isso depois. A gente acabou não definindo, né, para esse trimestre aí. Acho que tudo deve estar nos trilhos, porque temos 90 dias. Mas eu acho que é bom a gente só visitar as pedras, que a gente teve raíça, Fazer peças físicas, lei Rouanet. Certo, está nos trilhos."
+      },
+      {
+        "start_time": 1770729025660,
+        "end_time": 1770729028764,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Prestação de contas revisadas e enviadas 100%."
+      },
+      {
+        "start_time": 1770729028764,
+        "end_time": 1770729036744,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Está nos trilhos, eu deveria ter te entregado na sexta, mas eu prometo te entregar ainda essa semana."
+      },
+      {
+        "start_time": 1770729036744,
+        "end_time": 1770729049554,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Essa semana, então apertar o botão mesmo? Não, para te entregar, para te revisar junto com a Jânia, porque eu demorei realmente para terminar os anexos, ainda. Ok."
+      },
+      {
+        "start_time": 1770729049554,
+        "end_time": 1770729056201,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vamos gravar isso alguma coisa para essa semana."
+      },
+      {
+        "start_time": 1770729056201,
+        "end_time": 1770729057863,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Raíssa mandar..."
+      },
+      {
+        "start_time": 1770729057863,
+        "end_time": 1770729061186,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Desculpa, eu era pretentosa."
+      },
+      {
+        "start_time": 1770729061186,
+        "end_time": 1770729090251,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, não, não. Tudo bem. Então, essa semana tem... Raíssa mandar... Prestação de contas. Para revisão. Então... É claro. Beleza. Organizar lojinha, maquininha e estoque. Estoque tá quase finalizado, falta só o estoque das crianças, né? Que falta eu organizar pra saber o que precisa comprar de novas camisas."
+      },
+      {
+        "start_time": 1770729090251,
+        "end_time": 1770729134043,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Sobre a maquininha, já tá comigo e eu vou ensinar o Wesley, eu ia ensinar hoje ele também, só que ele falou que não podia, então eu vou marcar com ele dia para ensinar ele e deixava funcionando aí minha única dúvida é com qual celular que a gente vai configurar vai ensinar ensinar quem o Wesley Weslington tá juntando os dois nomes eu tô falando isso direto é com ele então qual telefone que eu deixo a maquininha configurada será que eu deixo o meu pessoal a bota seu eu acho Revisar contratos e pedir assinaturas.\n\n"
+      },
+      {
+        "start_time": 1770729134043,
+        "end_time": 1770729134632,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1770729134632,
+        "end_time": 1770729137580,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Esse tá nos trilhos. Show."
+      },
+      {
+        "start_time": 1770729137580,
+        "end_time": 1770729285170,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, relatório anual. Não comecei, mas tá nas trilhas. Implementar um novo sistema com Slack, criar sites de apoio, orientações. Tá nas trilhas, tá indo. Contratar produtora. Entrevistas hoje. Tem três boas, parecem muito boas, de condições Sucesso com o cortejo de carnaval. Contratar a produtora de imediato vai ajudar com isso, mas está indo. A flyer foi aprovada hoje, então vou poder divulgar.\n\n Organizar ajuda para criação de conteúdo para Instagram. Estou vendo isso também. Wesley, resolver a crítica da sala de percussão na casa do Tom. Na verdade, vamos colocar isso na lista de coisas para a gente falar também, porque é bom. Estabelecer oficinas na Zola. É super fraco, né? Fazer as aulas que já estão agendadas. Preencher vagas nas escolas. Preencher vagas nas escolas. Encher, né? Incluir as aplicações das bandas.\n\n Beleza? Campanha de recrutamento das favelas. Uma coisa que eu queria falar sobre isso. Depois. Mas a gente vai... Se a Iris precisar fazer uma coisa ou outra, nosso Canva, eu tô pedindo para esse designer montar... Deixar tudo lá. Recursos. Então, uma coisa para fazer no futuro... Como eu coloco isso para fazer no futuro? É mostrar Canva. Eu vou colocar para mim, mostrar Canva. Para a Iris, porque a gente tem...\n\n Ela tá fazendo template. Então, você vai poder fazer uma coisa no nosso... Tem recurso de marca, dá para montar qualquer gráfica no nosso estilo. Mas é isso. Só uma pergunta."
+      },
+      {
+        "start_time": 1770729285170,
+        "end_time": 1770729295072,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Todas as pedras, etc., antes a gente via lá no... Onde eu acho, né? Agora a gente via onde?"
+      },
+      {
+        "start_time": 1770729295072,
+        "end_time": 1770729316450,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu estou com um site aqui, é boa pergunta, Estou só esperando subir um site aqui. Talvez até vai estar durante. Se chama planetimento.favelabase.org. Eu já fiz o site. Vou passar para vocês. Tudo bem. É mais porque acho que a gente deveria..."
+      },
+      {
+        "start_time": 1770729316450,
+        "end_time": 1770729350763,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Me desculpe a ignorância, porque realmente estou me sentindo um pouco perdido. Acho que a gente poderia tentar um lugar onde estão todos esses sites. Sabe? Sim, sim, sim. Eu tô meio perdido, você falou, você me explicou que é pra mim, inclusive eu vou fazer isso ainda hoje, a questão da atualização dos instrumentos que eu troquei e tal, mas aonde que eu acesso a lista com tudo agora?"
+      },
+      {
+        "start_time": 1770729350763,
+        "end_time": 1770729359085,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Use o Code por enquanto, porque eu ainda não fiz a parte dos instrumentos. Sabe o que você quer dizer?"
+      },
+      {
+        "start_time": 1770729359085,
+        "end_time": 1770729369422,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Porque eu troquei, eu esqueci qual instrumento que eles estavam. Eu tenho que colocar, o aluno estava com o instrumento tal, trocou o instrumento para o outro."
+      },
+      {
+        "start_time": 1770729369422,
+        "end_time": 1770729414674,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tudo bem, eu não fiz nada, até, isso é importante, até entrar em um novo sistema, a gente mantém o que estava antes. Em algum momento, eu vou entrar em contato lá. Então, tem esse site agora e você vai atualizá-lo pelo Slack. Mas, por enquanto, roteiro, Depois a gente entra nisso. Mas eu estou, em termos das coisas dessa reunião, eu fiz um site para alojamento.org, só que tem que esperar para tramitar, para subir, sabe?\n\n Mas isso aí eu vou passar. Eu vou colocar nas minhas tarefas para passar para o alojamento.org."
+      },
+      {
+        "start_time": 1770729414674,
+        "end_time": 1770729422759,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vou recolocar aqui. Um local onde tem todos esses sites que a gente possa acessar, fica mais fácil."
+      },
+      {
+        "start_time": 1770729422759,
+        "end_time": 1770729481463,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tudo bem, mas eu ainda não terminei isso, sabe? Eu tô no meio de fazer isso, é só isso. Mas eu concordo com você. Mas vai ter essa orientação sim, é só que eu tô no meio da parada. Mas eu concordo, eu também entendo que a gente tá num momento, né, Pode ficar perdido. Centralizar esses sites faz sentido, vou fazer isso. Voltando para as pedras. Tom e Raíssa contam em bancos do Brasil funcionais tendo acesso administrativo para a Raíssa.\n\n A gente tá... Eles estão assinando hoje. Vários me responderam a isso, falando que..."
+      },
+      {
+        "start_time": 1770729481463,
+        "end_time": 1770729485265,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu já te mandei o documento assinado."
+      },
+      {
+        "start_time": 1770729485265,
+        "end_time": 1770729539790,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Já deu certo. Tu não assinou? Maravilha. Eu dei aquele filé, filho. Consegue assinar hoje? Aí ele está tudo assinado. Beleza. Ok. Então vamos lá nas tarefas da semana passada. Então, Wesley organizar shows nas escolas. Sim. Maravilha. Depois a gente vai dar uma olhada na agenda e... Colocar os horários dos shows na agenda. Para isso, organizar mudanças dos instrumentos. É porque a aula foi cancelada, né?\n\n"
+      },
+      {
+        "start_time": 1770729539790,
+        "end_time": 1770729549342,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ah, tá. Tanto que eu botei isso como tópico para a gente conversar de quando vai ser para poder organizar."
+      },
+      {
+        "start_time": 1770729549342,
+        "end_time": 1770729584679,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok. O que vai ficar. Ah, isso é mudança dos instrumentos para as aulas, né? Ah, porque não precisava, não. Faz tudo sentido. Mas aí... Agora eu preciso entender como é que ficou essa agenda, de como é que a gente vai fazer agora. Então, o primeiro show, o primeiro show nas aulas, vai ser no final de fevereiro, né? Primeira aula nas aulas. É 28."
+      },
+      {
+        "start_time": 1770729584679,
+        "end_time": 1770729586908,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "28, deixa eu ver."
+      },
+      {
+        "start_time": 1770729586917,
+        "end_time": 1770729624415,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "28. Então, quando você quer fazer... Ah, mas depois a gente pode ver isso depois também. A coisa que eu vou tirar da lista porque eu não precisava fazer no KNAB. Colocar shows nas escolas? Não entendi. Avisar a Ivonete que não tem aula sábado? Foi avisado. Feito. Mandar estoque para então colocar no sistema? Feito."
+      },
+      {
+        "start_time": 1770729624415,
+        "end_time": 1770729639080,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu mandei, só que agora eu fiz uma revisão no sábado, e aí tá no link, nesse link também da planilha da execução da associação, é onde eu vou ficar fazendo as revisões, aí eu ia te mostrar também."
+      },
+      {
+        "start_time": 1770729639080,
+        "end_time": 1770729646324,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok. Show de bola. Me mostra isso então. Porque eu tô Porque eu tinha muita coisa escondida."
+      },
+      {
+        "start_time": 1770729646324,
+        "end_time": 1770729662912,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não estava nem com o estoque da Carol, nem com o estoque do Elton, que eu tinha pedido para ele colocar. E aí a gente viu que tem mais, muita tira. A gente não conseguiu terminar de comprar as tiras."
+      },
+      {
+        "start_time": 1770729662912,
+        "end_time": 1770729671206,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, gostei. Deixa eu fazer uma pergunta. Só uma pergunta enquanto eu lembro disso. As fitas de Bom Fim, coloridas."
+      },
+      {
+        "start_time": 1770729671356,
+        "end_time": 1770729672621,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "já organizei todas."
+      },
+      {
+        "start_time": 1770729672621,
+        "end_time": 1770729690747,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vou colocar isso como pauta para quando a gente conseguir. Eu organizei todas elas numa gaveta. Porque as fitas de bom fim foram, a ideia era, passando de nível, eles ganham as fitas. Então a gente poderia retomar, retomar isso, que é bacana."
+      },
+      {
+        "start_time": 1770729690747,
+        "end_time": 1770729700443,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E uma coisa que eu senti que não achei era aqueles copos de alumínio que tinham, que as crianças tomavam água. Ah, sim."
+      },
+      {
+        "start_time": 1770729700451,
+        "end_time": 1770729701129,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "No chão."
+      },
+      {
+        "start_time": 1770729701129,
+        "end_time": 1770729704178,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não sei. É, eu visitia uns copos de óleo."
+      },
+      {
+        "start_time": 1770729704178,
+        "end_time": 1770729707904,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É, pelo menos quando eu ia tinha uns copos de óleo."
+      },
+      {
+        "start_time": 1770729707904,
+        "end_time": 1770729709598,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tem, tem, tem tempo isso."
+      },
+      {
+        "start_time": 1770729709598,
+        "end_time": 1770729710275,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tem tempo."
+      },
+      {
+        "start_time": 1770729710275,
+        "end_time": 1770729717728,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu vi que a gente tava comprando só copo descartável. E aí eu pensei que a gente não tá sendo muito ecológico."
+      },
+      {
+        "start_time": 1770729717728,
+        "end_time": 1770729721793,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Pelo menos me dói o coração ter um monte de copo descartável."
+      },
+      {
+        "start_time": 1770729721793,
+        "end_time": 1770729728229,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Sim, não, não, sim. A gente faz copo descartável só pras apresentações, mas pras aulas tem copos fixos, né?"
+      },
+      {
+        "start_time": 1770729728334,
+        "end_time": 1770729748590,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu nunca vi esse copo de alumínio, mas as crianças têm um copo... É, nunca vi. Desde quando eu cheguei, essa pra mim é nova. Tem tempo. Mas as crianças têm os copos, os ecocopos, né? As crianças novas, não. Chegaram pro ano passado, mas o resto de todo mundo tem um ecocopo com aquela..."
+      },
+      {
+        "start_time": 1770729748590,
+        "end_time": 1770729766644,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "A gente tem 100 copos de ecocopos, assim. Mas... Enfim, também é uma coisa pra venda também. A gente poderia ter não sei, pensar em alguma coisa que a gente não precisa ficar gastando dinheiro com descartável e gerando lixo, deixar só para as apresentações."
+      },
+      {
+        "start_time": 1770729766644,
+        "end_time": 1770729813802,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente tem nossos ecocopos também, né? É isso que eu falei, a gente tem nossos, são 120 ecocopos que a gente tem. A gente poderia colocar isso na parte também, né? Ecocopos, não uso de, né? Porque antigamente a ideia era que eles levaram nas aulas para ter copo para usar nas aulas. De repente fica na sua casa... Mas acho que é uma coisa que não... Ficou difícil e não acabou acontecendo. É porque lá na sessão não tinha onde lavar, talvez guardar alguma coisa do tempo.\n\n Agora na sua casa tem. Isso, exatamente. De repente. Não tinha como fazer nada lá."
+      },
+      {
+        "start_time": 1770729813802,
+        "end_time": 1770729815166,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Nossa, e não total."
+      },
+      {
+        "start_time": 1770729815166,
+        "end_time": 1770729818234,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí de repente na minha casa tem uma lojinha..."
+      },
+      {
+        "start_time": 1770729818234,
+        "end_time": 1770729821984,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É para resgatar essa ideia e não ficar usando tanto plástico."
+      },
+      {
+        "start_time": 1770729821984,
+        "end_time": 1770729825392,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quer fazer isso, então? Pode dar uma decisão. Não, sim."
+      },
+      {
+        "start_time": 1770729825392,
+        "end_time": 1770729845255,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu estava justamente pensando nisso, assim, porque a gente tem 100 copos com mil tiras. Pensei em pegar um pouco dessa... A gente vai vender agora o tanto que a gente conseguiu vender no carnaval. Ah, a gente tem mil tiras. Cara, a gente tem muita tira. Muita. Eu não consegui conferir todas."
+      },
+      {
+        "start_time": 1770729845255,
+        "end_time": 1770729933631,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho que a gente precisa conferir. Tudo bem. Mas... Tá, eu vou colocar isso na agenda. Mas é uso de ecocopos, né? Que realmente... Não é legal a gente ficar usando descartável quando não precisar. Quando não precisar. E comprir na minha casa, de repente... Não, beleza. Mandar contato da criadora de conteúdo voluntário, mandou. Organizar a máquina de cartão, está organizando. Mandar estoque, botão, colocar.\n\n Eu, a minha parte foi orientar todos no Slack e pensar num roteiro, canal da equipe técnica. Eu estou orientando a Iris quanto a isso. Ainda estou trabalhando nisso. Na Doíres, nessa parte do Slack, porque o principal do Slack é para as presenças dos professores. Então, eu tenho trabalhado isso com ela. Mas, de qualquer forma, fica pendente essa orientação total do Slack e os sites, todas essas coisas.\n\n Ainda estou trabalhando nisso. Vamos mais nas pautas. Nova data de organização dos instrumentos de logística. Ah, é essa, né? Então, vamos nessa. Essa é a nova data para tirar as coisas do..."
+      },
+      {
+        "start_time": 1770729933631,
+        "end_time": 1770729951443,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Agora a gente vai fazer essa organização, porque eu vi pelo nosso calendário, teria o dia 28 de fevereiro. Eu queria saber se seria nessa data, para eu já deixar programado o fornecedor, com o João disponível."
+      },
+      {
+        "start_time": 1770729951443,
+        "end_time": 1770729954592,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Basicamente, a gente tem... Que dia que seria?"
+      },
+      {
+        "start_time": 1770729954592,
+        "end_time": 1770729956954,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Porque 21 é o nosso cortejo."
+      },
+      {
+        "start_time": 1770729956954,
+        "end_time": 1770729960103,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Dia 28 é a primeira aula nas aulas."
+      },
+      {
+        "start_time": 1770729960103,
+        "end_time": 1770729962071,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, seria a primeira aula."
+      },
+      {
+        "start_time": 1770729962071,
+        "end_time": 1770729967976,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Então, eu teria que fazer no dia 27. Durante essa semana, do 23 ao 27."
+      },
+      {
+        "start_time": 1770729967976,
+        "end_time": 1770729977424,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O que eu fico pensando, a gente vai ter que liberar mais instrumentos. Tem instrumento nas aulas que a gente vai precisar no carnaval?"
+      },
+      {
+        "start_time": 1770729977432,
+        "end_time": 1770730010163,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu vou amanhã de manhã, eu e o Elton amanhã de manhã, lá na Zola pegar os instrumentos de percussão que tá lá pro ensaio da Banda Amarela. A Banda Amarela vai ensaiar amanhã na Assunção. Então nós vamos de manhã lá pegar, vamos no meu carro, vamos lá, que o Elton sabe onde é que tá, vamos pegar tudo e vamos levar pra lá. Vai ficar lá na Assunção. E os instrumentos voltam no dia do cortejo. 21 já vai deixar o instrumento lá.\n\n Sim. Da banda amarela, né?"
+      },
+      {
+        "start_time": 1770730010163,
+        "end_time": 1770730030270,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Já vai deixar o instrumento da banda amarela lá. Faz sentido. Então, a logística que precisa ser feita é de tirar tudo, né? Depois do cortejo, tirar tudo e colocar lá numa sala onde a gente vai dar aula. É nas escolas, não é isso?"
+      },
+      {
+        "start_time": 1770730030270,
+        "end_time": 1770730034661,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Que era tirar da Azula para levar para as escolas?"
+      },
+      {
+        "start_time": 1770730034661,
+        "end_time": 1770730041534,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ah, é para levar para as escolas, Wesley? Então, para levar para as escolas a gente..."
+      },
+      {
+        "start_time": 1770730041534,
+        "end_time": 1770730043252,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "São duas coisas diferentes?"
+      },
+      {
+        "start_time": 1770730043252,
+        "end_time": 1770730045400,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Isso, são duas coisas diferentes."
+      },
+      {
+        "start_time": 1770730045400,
+        "end_time": 1770730086552,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Amanhã nós vamos pegar só o instrumento da banda amarela para levar para a função, para eles ensaiarem. Essas duas semanas. Aí no cortejo eles vão voltar com o instrumento. Os instrumentos que vão... O dia 23 ao dia 27 é a semana do dia das apresentações nas escolas. E as aulas começam uma semana depois. Ou seja, a gente pode pegar qualquer dia da semana depois das apresentações. Primeira, segunda-feira, dia 27, 28...\n\n Dia 30. Dia 30 a gente pega os instrumentos lá na principalia. Não tem nesse mês, 30."
+      },
+      {
+        "start_time": 1770730086552,
+        "end_time": 1770730088370,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tem dia do ano."
+      },
+      {
+        "start_time": 1770730088379,
+        "end_time": 1770730090754,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Já dois, isso. Desculpa, é... Dois de março?"
+      },
+      {
+        "start_time": 1770730090754,
+        "end_time": 1770730091645,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Dois de março."
+      },
+      {
+        "start_time": 1770730091645,
+        "end_time": 1770730095802,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, já estava marcado aqui. Dois de março, transporte dos instrumentos para as escolas."
+      },
+      {
+        "start_time": 1770730095802,
+        "end_time": 1770730102631,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Dois de março, a gente vai lá, pega o instrumental, que aí tem que ser um carro meu que não cabe no outro."
+      },
+      {
+        "start_time": 1770730102631,
+        "end_time": 1770730103819,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Do João Nery, aham."
+      },
+      {
+        "start_time": 1770730103819,
+        "end_time": 1770730107976,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É, a gente bota tudo dentro do carro e já sai seguindo nas escolas."
+      },
+      {
+        "start_time": 1770730107976,
+        "end_time": 1770730108273,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1770730108273,
+        "end_time": 1770730114211,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E aí a gente tira das aulas para levar nas escolas, aí faz um roteirozinho para o João Nery, não?"
+      },
+      {
+        "start_time": 1770730114211,
+        "end_time": 1770730115696,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso, eu vou com ele."
+      },
+      {
+        "start_time": 1770730117054,
+        "end_time": 1770730121294,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "para ele, para ele poder fazer o orçamento?"
+      },
+      {
+        "start_time": 1770730121294,
+        "end_time": 1770730154425,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, a gente sai dali e a primeira escola, vai passando então as escolas, a gente desce primeiro o Catete, que é Vital Brasil e Maria Leopoldina, depois a gente vai para o Rio Cumprido, que é Mendes Sá, Pereira Passos e Ponta Numa. Maria Leopoldina, Vital Brasil, MediSap, Pereira Passos. Pô Jesus, tá faltando uma escola."
+      },
+      {
+        "start_time": 1770730154425,
+        "end_time": 1770730157322,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Estados Unidos, Estados Unidos."
+      },
+      {
+        "start_time": 1770730157322,
+        "end_time": 1770730161668,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É tudo no Rio Comprido, né?"
+      },
+      {
+        "start_time": 1770730161668,
+        "end_time": 1770730162392,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1770730162392,
+        "end_time": 1770730163116,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tá."
+      },
+      {
+        "start_time": 1770730163116,
+        "end_time": 1770730176200,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, primeiro a gente faz Vital Brasil, Maria Leopoldina, aí já vem Medi sai e termina na pirarapaça."
+      },
+      {
+        "start_time": 1770730176200,
+        "end_time": 1770730177084,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tá, show."
+      },
+      {
+        "start_time": 1770730177084,
+        "end_time": 1770730180177,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Aí eu vou mandar pra ele, então."
+      },
+      {
+        "start_time": 1770730180177,
+        "end_time": 1770730192992,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A pirarapaça são pouquíssimos instrumentos, porque a gente tem a maioria. Surdos, a gente só leva caixa, baqueta, talabate, é nosso. O restante é tudo que a gente tem."
+      },
+      {
+        "start_time": 1770730192992,
+        "end_time": 1770730199621,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E essa lista de instrumentos com quantidades pra cada escola é você que tem? Mangueirinha."
+      },
+      {
+        "start_time": 1770730199629,
+        "end_time": 1770730201005,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "a mesma quantidade."
+      },
+      {
+        "start_time": 1770730201005,
+        "end_time": 1770730207882,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Você vai acompanhar ou eu deixaria na mão do Wellington? Eu vou estar nesse dia."
+      },
+      {
+        "start_time": 1770730207882,
+        "end_time": 1770730220720,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu prefiro estar para não ter nenhum tipo de problema. Chega lá no dia, a diretora quer conversar, então eu já vou estar lá para dar qualquer atenção."
+      },
+      {
+        "start_time": 1770730220720,
+        "end_time": 1770730227926,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que nesse dia a gente já tem que levar aquele termo Sim, dos instrumentos."
+      },
+      {
+        "start_time": 1770730227926,
+        "end_time": 1770730228955,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Dos instrumentos, né?"
+      },
+      {
+        "start_time": 1770730228955,
+        "end_time": 1770730234447,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Isso. E aí, você fala com a Iris, pra ela já deixar pra trás? Sim, sim."
+      },
+      {
+        "start_time": 1770730234447,
+        "end_time": 1770730247147,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ano passado a Iris fez pra mim, né? Termo, tudo direitinho. Eu ia levando nas escolas, a diretora ia assinando. Depois ia entregar pra ela pra digitalizar. Tá. Você pede pra ela, ou eu peço pra ela?"
+      },
+      {
+        "start_time": 1770730247147,
+        "end_time": 1770730249550,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Você pede? Não, eu peço, eu peço."
+      },
+      {
+        "start_time": 1770730249550,
+        "end_time": 1770730256670,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Peço. Eu acho que eu peço. É pra eu ter que passar a lista novamente pra ela. Tá bom."
+      },
+      {
+        "start_time": 1770730256670,
+        "end_time": 1770730259076,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então, instrumentos de logística, tudo certo?"
+      },
+      {
+        "start_time": 1770730259076,
+        "end_time": 1770730259477,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tudo."
+      },
+      {
+        "start_time": 1770730259477,
+        "end_time": 1770730260278,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Alguém quer..."
+      },
+      {
+        "start_time": 1770730260278,
+        "end_time": 1770730275110,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Já não é da minha parte, mas vou perguntar assim mesmo. Vai trocar o banner das escolas ou vai manter os que já estão na escola? A gente vai ter que fazer novos, mas vai ter que..."
+      },
+      {
+        "start_time": 1770730275110,
+        "end_time": 1770730291108,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Acho que vai ser depois desse primeiro mês de março. Durante o mês de março que a gente vai produzir. Porque a gente saiu uma nova EN e saiu também um novo manual de logomarcas."
+      },
+      {
+        "start_time": 1770730291108,
+        "end_time": 1770730299238,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, a gente vai ter. Vamos fazer. Vamos ver se dá para fazer até passar nas escolas."
+      },
+      {
+        "start_time": 1770730299238,
+        "end_time": 1770730306413,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Vamos ver a questão do fluxo de caixa para saber se a gente consegue encaixar."
+      },
+      {
+        "start_time": 1770730306413,
+        "end_time": 1770730314293,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, essa é a questão. Que a gente olha o fluxo de caixa. Acho que a gente consegue."
+      },
+      {
+        "start_time": 1770730314293,
+        "end_time": 1770730325212,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Os banhos estão lá nas escolas. Inclusive, eu passei em frente à MediSar, que é uma que tá bem no portão mesmo da escola. Tá lá. O banho tá lá intacto e tal."
+      },
+      {
+        "start_time": 1770730325212,
+        "end_time": 1770730333153,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas é isso. Não. Nada impede. A gente coloca o que já teve, né? Coloca banho antigo, até a gente ter a banha nova."
+      },
+      {
+        "start_time": 1770730333153,
+        "end_time": 1770730337785,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Nada impede. Ele tá falando que eles ainda estão lá, que não foi retirado."
+      },
+      {
+        "start_time": 1770730337785,
+        "end_time": 1770730341424,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não foi retirado de nenhuma escola. Então é o de menos."
+      },
+      {
+        "start_time": 1770730341521,
+        "end_time": 1770730344403,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas é bom fazer novas aí."
+      },
+      {
+        "start_time": 1770730344403,
+        "end_time": 1770730353529,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É bom fazer novas aí, de pensar no nome da escola, porque com as fotos ficam legais, não é?"
+      },
+      {
+        "start_time": 1770730353529,
+        "end_time": 1770730402375,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ou até... Ok, mas... Eu não sei sobre nominar mais, mas... A outra coisa que a gente pode fazer também é deixar essa... Agora a gente pode ter dois bancos na escola, entendeu? Antiga em algum lugar para a nova em algum lugar, para ter mais visibilidade, opção. Vamos ver aqui. Atualização sobre o evento. Então, o logístico está feito. E aquela coisa... Em algum momento, a gente vai transferir os instrumentos daquela sala.\n\n Eu não sei o que tem naquela sala. Além do que vai para as escolas, naquela sala, nas aulas."
+      },
+      {
+        "start_time": 1770730402375,
+        "end_time": 1770730453413,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Eu não sei onde estão os estudantes. Quem foi que levou foi a Carol. A Carol junto com os meninos. Eu não sei onde é que está lá. Mas tem duas ou três baterias, tem a bateria eletrônica, tem um monte de coisa lá que a gente levou para tirar da situação. Mas são coisas que literalmente que normalmente a gente não usa. A gente tava até pensando em vender. É uma coisa que a gente não usa. Tá lá e tá estragando.\n\n Bateria tá estragando, tá? A gente organizou da melhor maneira pra conservar, mas lá na Assunção era complicado. Mas esse é o material que a gente não usa. Se a gente tiver que tirar dessa casa aí, é só falar onde é que tem que guardar, mas pode guardar num lugar que a gente não vai mexer mesmo, entendeu?"
+      },
+      {
+        "start_time": 1770730453413,
+        "end_time": 1770730453735,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Bateria..."
+      },
+      {
+        "start_time": 1770730454040,
+        "end_time": 1770730457949,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "bateria eletrônica, coisas que a gente não usa."
+      },
+      {
+        "start_time": 1770730457949,
+        "end_time": 1770730467721,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho que tá na casinha do Simon. Vou perguntar para... Vou colocar na minha... Tom Vecon, Natasha, Melhor Lugar..."
+      },
+      {
+        "start_time": 1770730467721,
+        "end_time": 1770730468210,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Para..."
+      },
+      {
+        "start_time": 1770730468210,
+        "end_time": 1770730474073,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Porque isso, Tom, a gente pode ver até mesmo no dia. Sim."
+      },
+      {
+        "start_time": 1770730474073,
+        "end_time": 1770730478960,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "No dia que a gente vai lá, entendeu? Sim, exatamente."
+      },
+      {
+        "start_time": 1770730478960,
+        "end_time": 1770730480425,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, tudo bem."
+      },
+      {
+        "start_time": 1770730480425,
+        "end_time": 1770730495398,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, exatamente, no dia de... No dia em que vocês vão levar coisas para as escolas. Mas o importante é que isso aí não tem coisa que tem que ser usado nas aulas, no sábado, nas aulas."
+      },
+      {
+        "start_time": 1770730495398,
+        "end_time": 1770730498528,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E estantes de partitura, como vai funcionar isso?"
+      },
+      {
+        "start_time": 1770730498528,
+        "end_time": 1770730500876,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "As estantes lá são aquelas desmontáveis."
+      },
+      {
+        "start_time": 1770730500876,
+        "end_time": 1770730510267,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem estantes de partitura lá, então, que precisam ser transferidos para a parte principal antes das aulas, das aulas. Então, isso precisa ser feito."
+      },
+      {
+        "start_time": 1770730510438,
+        "end_time": 1770730512086,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Essas estantes estão aonde?"
+      },
+      {
+        "start_time": 1770730512086,
+        "end_time": 1770730515793,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Estão guardadas nessa casa do Simon. Está tudo lá."
+      },
+      {
+        "start_time": 1770730515793,
+        "end_time": 1770730517441,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Está tudo ali perto."
+      },
+      {
+        "start_time": 1770730517441,
+        "end_time": 1770730518677,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Está tudo lá."
+      },
+      {
+        "start_time": 1770730518677,
+        "end_time": 1770730522796,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Só precisa de Wellington e mais outra pessoa em casa."
+      },
+      {
+        "start_time": 1770730522796,
+        "end_time": 1770730543982,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "No sábado, o Tom tinha dado a ideia de, no sábado, a gente ir mais cedo, chegar lá mais cedo e montar as estantes, montar as coisas. A gente deixou banquinho, só que eu não sei se... Sinceramente, não sei se a quantidade dá para todo mundo."
+      },
+      {
+        "start_time": 1770730543982,
+        "end_time": 1770730547279,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "A gente tem poucos bancos, Natânia."
+      },
+      {
+        "start_time": 1770730547279,
+        "end_time": 1770730548927,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Fala sobre isso."
+      },
+      {
+        "start_time": 1770730548927,
+        "end_time": 1770730573592,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente comprou, mas não sei se a quantidade dá para todo mundo. A ideia é transferir as coisas antes do sábado, antes do sábado da aula. A gente chega lá cedo as coisas, mas em termos de transferir, no caso do Simon, vamos fazer isso antes."
+      },
+      {
+        "start_time": 1770730573592,
+        "end_time": 1770730578599,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Acho que uma sugestão seria a gente fazer isso na terça."
+      },
+      {
+        "start_time": 1770730578599,
+        "end_time": 1770730579509,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Próxima terça?"
+      },
+      {
+        "start_time": 1770730579509,
+        "end_time": 1770730586792,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A próxima terça a gente vai para lá, porque as únicas coisas que vão ser transferidas..."
+      },
+      {
+        "start_time": 1770730586792,
+        "end_time": 1770730592254,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É que não vai estar presentando a Tereza na terça-feira de carnaval."
+      },
+      {
+        "start_time": 1770730592254,
+        "end_time": 1770730594074,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É carnaval, carnaval diferente."
+      },
+      {
+        "start_time": 1770730594405,
+        "end_time": 1770730596494,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não seria bom vocês fazerem..."
+      },
+      {
+        "start_time": 1770730596494,
+        "end_time": 1770730598165,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem na terça, 24."
+      },
+      {
+        "start_time": 1770730598165,
+        "end_time": 1770730602760,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E se vocês fazem isso, que tem que ser antes, né?"
+      },
+      {
+        "start_time": 1770730602760,
+        "end_time": 1770730609443,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tem a terça-feira do dia 24, a aula é 28, tem a terça-feira do dia 24."
+      },
+      {
+        "start_time": 1770730609443,
+        "end_time": 1770730611114,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas podemos organizar para..."
+      },
+      {
+        "start_time": 1770730611114,
+        "end_time": 1770730614873,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas não, você vai estar nas escolas, não dá."
+      },
+      {
+        "start_time": 1770730614873,
+        "end_time": 1770730619468,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas não dá para o Wellington fazer isso? Tá, eu passo..."
+      },
+      {
+        "start_time": 1770730619468,
+        "end_time": 1770730636711,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Alguém ajudar ele? Eu não para ficar carregando coisas. Eu tenho outra coisa para fazer. Não, eu estou sério. Então, se a gente... Eu não sei quem poderia ajudar com isso, mas pelo menos o Wellington..."
+      },
+      {
+        "start_time": 1770730636711,
+        "end_time": 1770730644348,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu posso, mas se for na terça-feira, eu posso combinar com ele de ir e fazer."
+      },
+      {
+        "start_time": 1770730644348,
+        "end_time": 1770730682276,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O problema é que eu não tenho noção de quantas coisas mas acho que não é muita coisa, a gente está falando de tantas coisas assim, a gente fica marcado um dia, aí de repente a gente só... Eu não sei se você... Se essa semana das escolas a gente não vai estar lá. E até realmente, se é só banco e estante de partitura mesmo, Isso realmente dá pra fazer no dia. A gente só tem que saber que está aberto.\n\n"
+      },
+      {
+        "start_time": 1770730682276,
+        "end_time": 1770730685399,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Você ia falar de fazer no dia 28 mesmo, de manhã?"
+      },
+      {
+        "start_time": 1770730685399,
+        "end_time": 1770730687102,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim. Se é só isso."
+      },
+      {
+        "start_time": 1770730687102,
+        "end_time": 1770730687386,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então..."
+      },
+      {
+        "start_time": 1770730687386,
+        "end_time": 1770730689373,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O que a gente pode fazer, Tom?"
+      },
+      {
+        "start_time": 1770730689373,
+        "end_time": 1770730708804,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Olha só, eu vou... Assim que acabar essa reunião, eu vou entrar em contato com a Natasha só pra confirmar, marcar com ela de amanhã. De manhã, eu e o Elton estamos indo lá pegar o material de percussão. E isso daí a gente já marca com o Elton. Já pegar o material e já deixar na sala. Onde a gente vai dar aula. Isso, isso, só..."
+      },
+      {
+        "start_time": 1770730708804,
+        "end_time": 1770730715050,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E assim dá para fazer rapidinho amanhã, só pegar os bancos. Se for qualquer coisa, posso ajudar na sexta-feira."
+      },
+      {
+        "start_time": 1770730715050,
+        "end_time": 1770730726883,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Acho que na terça, porque a gente tem reunião, mas na sexta-feira de manhã, acho que é um horário para mim super tranquilo, dia 27, se faltar alguma coisinha. É, mas acho que não vai faltar."
+      },
+      {
+        "start_time": 1770730726883,
+        "end_time": 1770730833892,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Acho que não vai faltar, gente. Realmente, se Wesley e o Andrew vão estar lá de qualquer forma, é só que vão estar atendendo Eles vão lá e abrem essa casa? Então, é o momento perfeito, só para pegar os bancos e as estantes e deixar um acessível para as nossas aulas. E você poderia aproveitar, Wesley, para contar o que a gente tem e fazer o planejamento de se a gente precisar de mais coisa. Entendeu?\n\n Então, vou colocar assim... Mas é depois que você você vai lá com o Wellington, né? Ou é essa semana? É essa semana que você vai lá com o Wellington? Ah, então, beleza. Então, se eu colocar, Wesley, colocar estantes e bancos na parte principal das aulas, onde vamos dar aula, e planejar e ver quantidades de bancos e estantes está suficiente. Beleza, então Logística já foi. A Raíssa colocou atualizações sobre eventos.\n\n Era, mas eu quero saber a questão, eu tinha te falado, acho que durante a semana, sobre o aumento do valor dos lanches, né?"
+      },
+      {
+        "start_time": 1770730833892,
+        "end_time": 1770730845050,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E aí eu tinha dado a ideia da gente talvez conseguir um patrocínio com para diminuir um, para não ficar..."
+      },
+      {
+        "start_time": 1770730845050,
+        "end_time": 1770730849631,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "São 68 lanches a mais, assim, teoricamente, só para esse dia 21."
+      },
+      {
+        "start_time": 1770730849631,
+        "end_time": 1770730878017,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não sei se precisa realmente de lanche, porque aí você fala assim, mas tem o lanche do dia da apresentação, aí eu fiquei de confirmar com vocês, não sei se vai ter pizza da Azula, poderia ter um sanduíche do Petit Pain, e aí eu acho que fecharia, a gente não precisaria contratar 68 lanches a mais e não desperdiçar. Eu não sei o que ficou combinado, eu queria entender isso."
+      },
+      {
+        "start_time": 1770730878017,
+        "end_time": 1770730882273,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ok. Só para entender os números aí, deixa eu..."
+      },
+      {
+        "start_time": 1770730882273,
+        "end_time": 1770730885110,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "estava na nossa conversa, não estava?"
+      },
+      {
+        "start_time": 1770730885110,
+        "end_time": 1770730885583,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Estava."
+      },
+      {
+        "start_time": 1770730885583,
+        "end_time": 1770730891258,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu posso abrir aqui também, se ficar mais fácil. Se vocês quiserem."
+      },
+      {
+        "start_time": 1770730891258,
+        "end_time": 1770730895987,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quer que eu apresente aqui, rapidinho, para a gente ver?"
+      },
+      {
+        "start_time": 1770730895987,
+        "end_time": 1770730897406,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, pode ser."
+      },
+      {
+        "start_time": 1770730900020,
+        "end_time": 1770730953192,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Por exemplo, aqui é uma planilha que a Carol fazia, aí eu comecei a adaptar ela também até com os dias de aulas. Aí no dia 21, a Carol tinha falado que vai ter o cortejo, aí a gente colocou aqui, ela falou aqui que as bandas pretas, roxa, verde e amarela, então seria 68 lanches. E aí eu pensei, bom, eu não sei se vai ter pizza, não sei se antes de pedir esse dinheiro, contratar esse serviço a mais da Evonet, eu queria entender de vocês se há algum tipo de acordo com a Azula de fornecer pizzas nesse dia do cortejo.\n\n E se era possível talvez entrar em contato com o Antonin lá do Petit Pan para ele fornecer algum lanche, alguma coisa que diminuísse talvez esse custo."
+      },
+      {
+        "start_time": 1770730953192,
+        "end_time": 1770730974212,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente vai ter pizza na Azula, mas A questão é que, de repente, seria bater alguma coisa quando eles chegarem, né? Porque, imagina, dia quente, calor, etc. Eu acho que a gente tem que ter lanche quando eles chegarem. O preço disso, quanto é cada lanche?"
+      },
+      {
+        "start_time": 1770730974212,
+        "end_time": 1770730990340,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É R$10,00. Não, é R$10,00. Não, é, mas teve um outro aumento, que é a Iris. Teve um aumento de R$460,00, que foi devido também a esses ensaios extras e os números que ela atualizou, que aí não tinha antes."
+      },
+      {
+        "start_time": 1770730990340,
+        "end_time": 1770730992440,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aham, ok, não, tudo bem, aí..."
+      },
+      {
+        "start_time": 1770730992440,
+        "end_time": 1770730997691,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tipo, seria uma nota, seria mil reais a mais, né, juntando com esses aumentos, né?"
+      },
+      {
+        "start_time": 1770730997691,
+        "end_time": 1770730998741,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, tá. 1.140."
+      },
+      {
+        "start_time": 1770730998741,
+        "end_time": 1770731002591,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, mas tá assim, tá dentro do orçamento, não tá fora."
+      },
+      {
+        "start_time": 1770731002591,
+        "end_time": 1770731123486,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tudo bem, tudo bem. Num dia a gente vai precisar lanche pra equipe, lanche pra equipe também. Lanche de produção. Quantas pessoas são da equipe? Posso te passar depois também. Estão passando Eu coloquei, já coloquei, já que a gente tá falando de carnaval, tem outras coisas... Desculpa, rapidão, então o cortejo, só pra eu entender a quantidade de água também, o cortejo vai de que horas até que horas?\n\n De 8h30 até 9h30, 10h, coisa assim. É só aquele trecho. Mas, Raíssa, tem uma coisa com isso, a gente tem que ver, eu posso falar com o Rolf, que o Dialcio tem um ambulante. A gente estava vendo isso com o Rolf. Sabe, Raíssa, deixa eu falar como um índio, Eu tenho entrevista com três produtores. Ah, perfeito. Por isso que eu tô meio... Hoje eu tenho entrevista com três produtores boas, que estão disponíveis desde agora, sabe?\n\n Mas se der certo, ou eu coloco eles para trabalhar, ou eu chamo um para um teste do carnaval, se deu certo, a gente contrata."
+      },
+      {
+        "start_time": 1770731124340,
+        "end_time": 1770731139902,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Então, pensando no nosso histórico de contratação rápida, eu sugeriria muito fazer um teste com a pessoa, saber o entrosamento dela com a equipe, antes de você firmar contato."
+      },
+      {
+        "start_time": 1770731139902,
+        "end_time": 1770731168869,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente pode fazer isso, mas são pessoas, sabe, são pessoas, né, são boas. Eu já falei com eles, são boas. Enfim, mas eu vou ver elas hoje. Então a coisa é que isso vai passar para outra pessoa e o cara vai estar meio que encaminhado nesse sentido."
+      },
+      {
+        "start_time": 1770731168869,
+        "end_time": 1770731178345,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Então eu vou deixar aqui anotado que vai ficar sobre a responsabilidade da nova produtora."
+      },
+      {
+        "start_time": 1770731179024,
+        "end_time": 1770731204538,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "E eu já coloquei também, eu fiz os anúncios no Atados para a galera de audiovisual e para a mulher de equipe de produção. Aliás... Se você tiver um anúncio por WhatsApp, eu mando nos grupos que eu tô. Show. Tá pendente no Atados. Vou colocar no meu liste para mandar a vaga de Atados para a Raíssa."
+      },
+      {
+        "start_time": 1770731204547,
+        "end_time": 1770731215685,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, a minha pergunta é em relação a voluntários na corda, tal, a gente vai... Vai baixar manatários?"
+      },
+      {
+        "start_time": 1770731215685,
+        "end_time": 1770731216923,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Como, Xuxu?"
+      },
+      {
+        "start_time": 1770731216923,
+        "end_time": 1770731218161,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não entendi."
+      },
+      {
+        "start_time": 1770731218161,
+        "end_time": 1770731224968,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A gente vai... Isolamento das crianças, uma corda pra gente andar."
+      },
+      {
+        "start_time": 1770731224968,
+        "end_time": 1770731225587,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Hum..."
+      },
+      {
+        "start_time": 1770731225587,
+        "end_time": 1770731230538,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Teria que ser uma corda de 200 metros?"
+      },
+      {
+        "start_time": 1770731230538,
+        "end_time": 1770731236960,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É. Então, a gente tem... Eu estou falando de pessoas."
+      },
+      {
+        "start_time": 1770731236960,
+        "end_time": 1770731244004,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Vai ter o Henrique, Natan, a Paola vai estar lá. Sim, sim."
+      },
+      {
+        "start_time": 1770731244004,
+        "end_time": 1770731246352,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mais algumas outras pessoas."
+      },
+      {
+        "start_time": 1770731246352,
+        "end_time": 1770731257505,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente está chamando de voluntários matados também. Matados, não é? Se tiver outras pessoas que podem ajudar, pode..."
+      },
+      {
+        "start_time": 1770731257505,
+        "end_time": 1770731259266,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu vou levar..."
+      },
+      {
+        "start_time": 1770731259275,
+        "end_time": 1770731266713,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu e a Gabi, com certeza. Sim, sim. Mas é bom, realmente, a gente vai criar de pessoas."
+      },
+      {
+        "start_time": 1770731266713,
+        "end_time": 1770731272911,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Mas ele está falando mais para proteger as crianças, não é? Ali é o quê?"
+      },
+      {
+        "start_time": 1770731272911,
+        "end_time": 1770731310086,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Uns 400 metros? Mais ou menos? Vejo, uns 400 metros. É, é por aí. É curto, é curto. A rua é morta, mas a gente sabe, a rua, a partir do momento que a gente está na rua, Seria bom tentar pegar emprestado. Vamos tentar isso outra vez. Eu pensei também até, assim, como é só, eu não sei se teve alguma experiência anterior, os pais na corda. Sim, sim."
+      },
+      {
+        "start_time": 1770731310086,
+        "end_time": 1770731363444,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O fato, eu não quero, na hora a gente arruma isso. Com certeza, que é assim que funciona. Mas também, vamos deixar, porque acho que a gente, quando esse produtor entrar, aí reunião para ver todos esses detalhes, porque se não fica combinado de coisas que depois muda. Mas as coisas que eu coloquei na minha lista da TATUS, eu acho que uma boa ideia é essa de poderem nomear pais também. A gente realmente poderia convocar se tem pais que poderiam ajudar especificamente com isso.\n\n E acabou o problema. Acho que esse foi o ideia, Wesley. Beleza, então... Preciso de outras coisas sobre os eventos, Raíssa. Eu acho que a gente poderia olhar o calendário."
+      },
+      {
+        "start_time": 1770731363444,
+        "end_time": 1770731373747,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A gente está atualizando hoje o calendário dos grupos, mas posso até adiantar para vocês aqui também."
+      },
+      {
+        "start_time": 1770731373755,
+        "end_time": 1770731385807,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Minha última dúvida é se vocês vão precisar de alimentação nas apresentações das escolas. A equipe, além da diária que a gente vai dar, não precisa, né?"
+      },
+      {
+        "start_time": 1770731385807,
+        "end_time": 1770731387145,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "A equipe não."
+      },
+      {
+        "start_time": 1770731387145,
+        "end_time": 1770731389824,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Geralmente, a gente come na escola."
+      },
+      {
+        "start_time": 1770731389824,
+        "end_time": 1770731409248,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, vamos dar uma olhada, só para dar uma olhada no aparelho para ver onde a gente está, início das aulas, perigo de matrícula. Assim. E é matrícula."
+      },
+      {
+        "start_time": 1770731413976,
+        "end_time": 1770731414316,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mano..."
+      },
+      {
+        "start_time": 1770731443577,
+        "end_time": 1770731450794,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A período de matrícula começa com as aulas nas escolas, não começa, Wesley?"
+      },
+      {
+        "start_time": 1770731450794,
+        "end_time": 1770731463007,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Período de matrícula nas escolas, é, começa a partir das apresentações. Dia 25, aí. Dia 23, isso. Já começa já as inscrições."
+      },
+      {
+        "start_time": 1770731463007,
+        "end_time": 1770731479202,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, eu posso deixar o de ré-matrícula, né? Tá, nem precisa. Já passou, já fez."
+      },
+      {
+        "start_time": 1770731479202,
+        "end_time": 1770731480880,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E..."
+      },
+      {
+        "start_time": 1770731480880,
+        "end_time": 1770731482558,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isola."
+      },
+      {
+        "start_time": 1770731482558,
+        "end_time": 1770731485914,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá, então..."
+      },
+      {
+        "start_time": 1770731485914,
+        "end_time": 1770731494304,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Deixa eu abrir aqui só."
+      },
+      {
+        "start_time": 1770731494918,
+        "end_time": 1770731500987,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "para atualizar a silência das escolas?"
+      },
+      {
+        "start_time": 1770731500987,
+        "end_time": 1770731503010,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, sim."
+      },
+      {
+        "start_time": 1770731503010,
+        "end_time": 1770731504021,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Obrigado."
+      },
+      {
+        "start_time": 1770731504021,
+        "end_time": 1770731506044,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Vamos lá."
+      },
+      {
+        "start_time": 1770731506044,
+        "end_time": 1770731511102,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, dia 23 é Mendeçá."
+      },
+      {
+        "start_time": 1770731511102,
+        "end_time": 1770731532949,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Dia 23 é Mendeçá. Dia 24 é Estados Unidos. Dia 25 Pereira Passos. Dia 26, Maria Leopoldina. E dia 27 é Vital Brasil."
+      },
+      {
+        "start_time": 1770731551302,
+        "end_time": 1770731579644,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí, vou colocar professores. Deixa eu só fazer isso. A gente... São ali alunos, 18 mais. Mas tem professor aí também."
+      },
+      {
+        "start_time": 1770731579644,
+        "end_time": 1770731581565,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim, tem."
+      },
+      {
+        "start_time": 1770731581905,
+        "end_time": 1770731637849,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vamos botar esses na ordem. Exorários, Mendes Sáquio, horas são 12 horas e 15 horas vou ter que duplicar então 11... Que safado."
+      },
+      {
+        "start_time": 1770731637849,
+        "end_time": 1770731639519,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, não..."
+      },
+      {
+        "start_time": 1770731639519,
+        "end_time": 1770731641190,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vamos lá."
+      },
+      {
+        "start_time": 1770731641190,
+        "end_time": 1770731642861,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tem opção..."
+      },
+      {
+        "start_time": 1770731642861,
+        "end_time": 1770731673565,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, caraca. Vamos lá. Tem que colocar 11 horas como opção. E 15 horas como opção. Tá, então, Mendizá é onze horas. Onze horas e quinze horas. E na terça, os Estados Unidos?"
+      },
+      {
+        "start_time": 1770731673565,
+        "end_time": 1770731679012,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Na terça-feira, nove da manhã. Nove da manhã."
+      },
+      {
+        "start_time": 1770731679012,
+        "end_time": 1770731683778,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Perda de passos na quarta? São duas."
+      },
+      {
+        "start_time": 1770731683778,
+        "end_time": 1770731689226,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ok. Onze e trinta e uma e trinta."
+      },
+      {
+        "start_time": 1770731690190,
+        "end_time": 1770731749237,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Quanto tempo eu não tento? Quanto tempo eu não tento? Gente, isso nem precisa. Isso é a memória e podina 13 e 30 e a vitória brasil a diretora pediu para guardar que ela está confirmando o horário vai vai entrar em contato com ele não quer beleza vai ser de bola a primeira aula nas aulas É, eu vou dar um jeito, vou dar um jeito nesse."
+      },
+      {
+        "start_time": 1770731749237,
+        "end_time": 1770731751277,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, pode dar quatro."
+      },
+      {
+        "start_time": 1770731751277,
+        "end_time": 1770731753317,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Não, depois você se..."
+      },
+      {
+        "start_time": 1770731753317,
+        "end_time": 1770731754337,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tudo bem."
+      },
+      {
+        "start_time": 1770731754337,
+        "end_time": 1770731779624,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Transporte de instrumentos, termino de prazo, início das aulas das escolas no dia 9 de março. Até agora é isso, né? A gente tem... Tem o primeiro show na... Tem o primeiro show na... Na zola para colocar né? A voz que quis começar em abril foi isso?"
+      },
+      {
+        "start_time": 1770731779624,
+        "end_time": 1770731782459,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Foi, a gente tinha combinado."
+      },
+      {
+        "start_time": 1770731783959,
+        "end_time": 1770731795835,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vamos saber se eu utilizar."
+      },
+      {
+        "start_time": 1770731795835,
+        "end_time": 1770731807711,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eu tenho que mudar ali."
+      },
+      {
+        "start_time": 1770731811701,
+        "end_time": 1770731841875,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "em abril. Ok, então acho que tá, o bom é que tem esses dados, esses dados da escola definidos, depois a gente vai. Demanda de despesas da semana. Aí, se já, já, isso é outro item."
+      },
+      {
+        "start_time": 1770731841875,
+        "end_time": 1770731854744,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Ah, sim, era pra saber se além da manutenção do instrumento musical do David, você tem previsto alguma outra coisa que precisa pra essa semana?"
+      },
+      {
+        "start_time": 1770731854744,
+        "end_time": 1770731857318,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, pra essa semana não."
+      },
+      {
+        "start_time": 1770731857318,
+        "end_time": 1770731867630,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, você tem alguma coisa de Então, só teria que ver essa questão da telha lá, né?"
+      },
+      {
+        "start_time": 1770731867630,
+        "end_time": 1770731880944,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente tem a telha e a gente tem a questão da insonaização da acústica interna da sala para percussão. Você conseguiu falar com o pessoal, Tom? O quê?"
+      },
+      {
+        "start_time": 1770731880944,
+        "end_time": 1770731884617,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Você conseguiu falar com o pessoal da acústica?"
+      },
+      {
+        "start_time": 1770731884617,
+        "end_time": 1770731892184,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu falei com o cara. Aí ele colocou, então, começa colocando um... E começa colocando um teto."
+      },
+      {
+        "start_time": 1770731892184,
+        "end_time": 1770731900380,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Bom, isso aqui é a atualização que você tinha pedido. O que a gente já gastou e com o quê?"
+      },
+      {
+        "start_time": 1770731900380,
+        "end_time": 1770731901200,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, sim."
+      },
+      {
+        "start_time": 1770731901200,
+        "end_time": 1770731902429,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá pequeno ainda?"
+      },
+      {
+        "start_time": 1770731902429,
+        "end_time": 1770731903249,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tá ok."
+      },
+      {
+        "start_time": 1770731903249,
+        "end_time": 1770731907347,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "A gente já gastou 27 mil quase. Não, tudo bem."
+      },
+      {
+        "start_time": 1770731907347,
+        "end_time": 1770731911855,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente vai ter mais um pagamento? A gente precisa ainda..."
+      },
+      {
+        "start_time": 1770731911855,
+        "end_time": 1770731916772,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, esse aqui é o total que a gente já gastou, né?"
+      },
+      {
+        "start_time": 1770731916772,
+        "end_time": 1770731927490,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aham. Total o quê? Eu não acredito bem o aparelho, então. Foi. E aí?"
+      },
+      {
+        "start_time": 1770731927490,
+        "end_time": 1770731937891,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, isso vai para um aparelho que vai apresentar amanhã nas finanças."
+      },
+      {
+        "start_time": 1770731937891,
+        "end_time": 1770731940491,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, o cara..."
+      },
+      {
+        "start_time": 1770731946680,
+        "end_time": 1770731953415,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E ainda falta eu te repor esse valor aqui, que foram das notinhas que você me mandou e eu esqueci, desculpa."
+      },
+      {
+        "start_time": 1770731953415,
+        "end_time": 1770731955981,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas eu vou pedir reposição do caixinha agora."
+      },
+      {
+        "start_time": 1770731955981,
+        "end_time": 1770731965283,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, tudo bem, tudo bem. Eu queria saber se vocês vão querer mais alguma coisa para providenciar, o que a gente faz em relação a esse conserto da telha?"
+      },
+      {
+        "start_time": 1770731965283,
+        "end_time": 1770731982714,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque acho que as conversas não vão parar, não vão parar muito até março, né? Não, a gente precisa chamar alguém essa semana. Eu indicaria... De repente, Fábio mesmo. O Mazinho não tem noto fiscal. O Fábio é bom porque agora ele é MEI, né?"
+      },
+      {
+        "start_time": 1770731982714,
+        "end_time": 1770731984440,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ele é MEI, sim."
+      },
+      {
+        "start_time": 1770731984440,
+        "end_time": 1770731988756,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas ele não é barato, mas ele vai fazer direitinho."
+      },
+      {
+        "start_time": 1770731988756,
+        "end_time": 1770731993503,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "É melhor do que fazer uma coisa barata e depois... É."
+      },
+      {
+        "start_time": 1770731993503,
+        "end_time": 1770731997819,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Dar mais tratamento das chuvas que tem em Santa Tereza."
+      },
+      {
+        "start_time": 1770731997819,
+        "end_time": 1770732000840,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá. Eu falo com o Fábio, então."
+      },
+      {
+        "start_time": 1770732002410,
+        "end_time": 1770732055245,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É porque ali, Tom, vai ter que fazer, vai ter que limpar o seu telhado de cima. Pra ficar um negócio, assim, que não tenha tanto quebra-quebra nem nada. O seu telhado, a gente olhou lá ontem na chuva, tá com muito peso em cima, muita folha em cima. Então teria que limpar o telhado e botar um telhado Justamente aonde tá trincado, botar um telhado por cima mesmo. Entende? Ou substituir aquele telhado que tá quebrado, botando um outro.\n\n Mas assim, pra não quebrar, dá perfeitamente pra comprar uma folha de telha e botar ali. A gente só viu aquele vazamento, não viu outro. Pode ser que tenha mais. Aquele ali tá grotesco. Realmente tá um buraco assim, ó. Dessa largura assim. Abriu mesmo a telha, entendeu?"
+      },
+      {
+        "start_time": 1770732055390,
+        "end_time": 1770732058357,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que o Fábio vai saber o que fazer."
+      },
+      {
+        "start_time": 1770732058357,
+        "end_time": 1770732117627,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Legal. Aí nesse mesmo link, Tom, ele tem essa coisa do controle da lojinha, que é que as coisas que a gente conferiu, como eu falei pra vocês, tiras, tem um monte, tem que realmente sentar o rabo e conferir. Tem bastante coisa. Aí eu pensei, como é uma coisa pequena e leve pra vender no carnaval, que eu acho que é uma coisa que sai no cortejo, né? Da gente talvez levar mais opções, a gente tem esses copos também que vêm nesse bastante no carnaval, mas de blusa a gente tem 58 unidades, 30 bonés, acho que não precisa repor nada para o carnaval, aí depois do carnaval eu iria programar a reposição desse estoque de lojinha.\n\n A gente no mês de março não tem previsão, pelo que eu entendi, não tem tanta previsão de apresentações em março, então daria tempo de confeccionar, ver as camisas de banda também, o que precisa repor, criança que cresceu, o que precisa ou não. Esse tempo para planejar bem, não comprar nada desperdiçado."
+      },
+      {
+        "start_time": 1770732117627,
+        "end_time": 1770732218239,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tchau. Tchau. E a outra coisa, falando na questão da casa, essa acústica, eu falei com essa indicação sua, Wesley, e ele falou, não, então, a primeira coisa é colocar de placas acústicas. Ele me mandou contatos de fornecedores. Falei com um. Estava vendo se ele poderia fazer a visita técnica, mas ele não me respondeu. Agora, não sei se vai ser só o telhado, não é? É para começar, não é? É o primeiro momento de fazer isso.\n\n Se quiser, eu posso te passar esses... Eu não sei. Você vai estar lá nas aulas, né? Mas eu estou pensando quando... Ou a gente faz com o Fábio e pede para o Fábio instalar, ou a gente pede para as empresas especializadas. Agora, o rapaz... O contato que você me deu foi uma... Arquiteta acústica. Ele estava só dando uma dica do que poderia ser feito. Mas, por outro lado, a gente sabe que só o teto não vai resolver isso.\n\n Volto a... Acho que a gente poderia fazer aquela questão que a gente falou do Fábio."
+      },
+      {
+        "start_time": 1770732218239,
+        "end_time": 1770732231586,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Acho que a gente poderia... Eu também acho. A gente cola o teto todo e faz aquelas placas na parede. Se a gente comprar material, o Fábio faz. Ou promete."
+      },
+      {
+        "start_time": 1770732231586,
+        "end_time": 1770732271892,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É isso que eu estava pensando. Vou ver o que a EA indica e aí sabe, sabe. Porque esse cara falou, não, fala com essa empresa. Eu falei, não, mas é melhor... A gente tem alguém que faz. Melhor essa empresa ou melhor esse cara? Melhor a empresa que eles veem material etc. Mas também empresa... Ah, você pode marcar para fazer um orçamento, coisa assim. Será que não vai ser a mesma coisa da empresa de ar-condicionado?\n\n Eles vão lá, cobram... Tem que esperar para eles marcarem, depois eles vão lá, depois eles cobram caro. Eu não sei."
+      },
+      {
+        "start_time": 1770732271892,
+        "end_time": 1770732278213,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Acho que a gente já tem essa carta na manga, já está o Fábio aí."
+      },
+      {
+        "start_time": 1770732278213,
+        "end_time": 1770732315495,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ele já conhece o espaço, para poder falar, Fábio, que você consegue colocar esse tipo de teleado lá, etc., etc., e a gente vai sair dentro do orçamento. E o Fábio, sabendo fazer, pode fazer nos outros lugares lá na casa, eu acho. Colocar cortina... Vou perguntar o que acha sobre essa questão. A questão do telhado. Então, a gente vai pra frente com o Fábio, melhor, né?"
+      },
+      {
+        "start_time": 1770732315495,
+        "end_time": 1770732344342,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "E aproveitando o Fábio, o que acontece? Voltando novamente à situação da sujeira ali, o que acontece? Enquanto essa casa ali tem muita árvore, muita folha. E ontem eu percebi isso. Eu lavei a escada pra circular, mas a escada tá um sabão. Aquela escada ali, a gente tinha que colocar aquela faixa. Comprar aquela fita, sabe? Antes do derrapante."
+      },
+      {
+        "start_time": 1770732344342,
+        "end_time": 1770732346820,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Antes do derrapante, no ponto."
+      },
+      {
+        "start_time": 1770732346820,
+        "end_time": 1770732399902,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É, só pra colocar na beirada de cada degrau. Porque ontem, deu pra ver, ontem choveu muito, muito, e a escada tava super escorregadia. Acho que essa descenda com o instrumento ali não tava legal. Entendeu? Então, tipo, tem que limpar, tirar aqueles matos ali de volta da escada e botar essa fita. Porque ontem eu desci com todo mundo. Eu desci com todos eles, não desci sozinho não. Mas aí a dúvida já escorregou.\n\n Pessoal, redobre atenção. E tal, sem brincadeira. E a gente foi descendo, mas realmente, está escorregadícula ali. Então, tem que botar uma fita em cada degrau ali, para a gente não ter problema."
+      },
+      {
+        "start_time": 1770732399902,
+        "end_time": 1770732437482,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu comprei essa fita, quando eu comecei, eu comprei essa fita e saiu. Então, tem que ver com o Fábio o que que é alguma coisa que vai sair do rodouro, que tem aquela coisa. Eu comprei um monte de fita, trouxe lá dentro da terra, colei, Eu acho que como a coisa estava... Talvez porque... Como as escadas são antiderrapantes, não são totalmente lisos, aí descolou tudo, quer dizer. Então, eu vou... Para eu falar com o Fábio sobre telhado para limpar...\n\n"
+      },
+      {
+        "start_time": 1770732437482,
+        "end_time": 1770732443652,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Eu acho que é uma coisa que fixa com parafuso mesmo."
+      },
+      {
+        "start_time": 1770732443652,
+        "end_time": 1770732469247,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso. Vamos voltar... Fita antiderrapante. Vamos ver essas coisas direto com o Fabio mesmo. Beleza. Feedback da primeira semana na minha casa. Como ficou, Wesley? Olha, acho que ficou muito bom."
+      },
+      {
+        "start_time": 1770732469247,
+        "end_time": 1770732548679,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ainda tem algumas coisas para organizar e tal, para a gente ocupar melhor o espaço, mas acho que foi bom, só não deu muito certo mesmo essa questão da profissão que tem que abrir a porta, mas justamente nesse dia não tem aula de outros professores, então não atrapalha, só atrapalha mesmo o ensaio. Realmente você percebe, a gente fecha a casa todinha, as janelas e tal, a porta da cozinha, fecha a porta de fora e abre a porta do o som da percussão vai lá em cima, vai com pressão mesmo, vai com pressão, é muita coisa, vai com pressão.\n\n E assim, eu acho que é só isso, o restante foi super de boa, as aulas estão rolando, a banda verde, que seria a banda que vai sair na sessão, ela ensaiou essa semana lá na casa, e essa semana vai sair de novo com a percussão de Chupacabra, O Wesley, seu som tá ficando fraco. Alguma coisa aconteceu com seu som?"
+      },
+      {
+        "start_time": 1770732548679,
+        "end_time": 1770732556386,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá conseguindo me ver? Por exemplo, ontem."
+      },
+      {
+        "start_time": 1770732556386,
+        "end_time": 1770732602812,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Geralmente, lá na parte de cima, a gente ensaia com as janelas abertas. Mas ontem estava chovendo muito forte, a gente teve que fechar tudo. O calor estava insuportável. Os ventiladores não deram vazão. Mas a gente foi distraindo, parou de abrir a janela. Aí voltou a chover, a gente fecha. Mas estava embaçando, realmente ficou um calor, calorzão mesmo. Todo mundo tocando ali e tal, vinte e uma pessoas ali dentro tocando.\n\n Então, é só essa questão mesmo. No futuro, a gente realmente fechar ali e botar um arco."
+      },
+      {
+        "start_time": 1770732602812,
+        "end_time": 1770732611802,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Pode, está perfeito. Está perfeito. Chega, chega. Realmente, seria muito bom. Vamos fazer isso sim. Colocar o ar."
+      },
+      {
+        "start_time": 1770732611811,
+        "end_time": 1770732618392,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O espaço ficou legal para a quantidade de alunos. Dá para fechar aquela..."
+      },
+      {
+        "start_time": 1770732618392,
+        "end_time": 1770732620923,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ficar só fechando aquela lateral."
+      },
+      {
+        "start_time": 1770732620923,
+        "end_time": 1770732638136,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Cabe todo mundo ali dentro perfeito. Entendeu? A gente só tem que ver... Aí vai ser uma outra questão, porque quando a gente fechar, provavelmente tem a mesma questão da sala da percussão embaixo."
+      },
+      {
+        "start_time": 1770732638136,
+        "end_time": 1770732648514,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A busca ali dentro, se eu estou com tudo fechado, de repente, tem que colocar alguma coisa na parede."
+      },
+      {
+        "start_time": 1770732648514,
+        "end_time": 1770732695005,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, sim, entendo. Lá no fundo vai ser melhor por alguns motivos. O principal é que o teto está no ângulo e isso já vai diminuir muito a reverberação e não tem aquela porta de vidro para atrapalhar que atrapalhem. Então, menos... Mas a gente deveria... Vamos ver como é que fica. E, se precisar, realmente a gente faz no longo prazo, quando a gente tiver condições. Bom, é um processo, não é? É um processo.\n\n É um processo que a gente resolveu."
+      },
+      {
+        "start_time": 1770732697212,
+        "end_time": 1770732749116,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Acho que agora, com o material da produção que desceu, ficou um espaço maior. Agora vou organizar os instrumentos nas estantes. Assim que passar o carnaval, vou organizar aquilo tudo ali. Vai ficar um espaço. Já tem o bebedouro ligado lá, com água gelada. Enfim, acho que está melhor do que a gente esperava. É só dar atenção a essas coisas, a escada escorregando ali. Ontem, pela quantidade de chuva, deu para ver que, por exemplo, naquela pedra ali, de dentro da sua casa, que desce para o primeiro andar, também estava minando água.\n\n Muita água ali, entende? Descendo água ali naquela pedra de dentro da sua casa. Descendo para a enxergada."
+      },
+      {
+        "start_time": 1770732749116,
+        "end_time": 1770732758350,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Exatamente. A pedra que está dentro da casa, a gente não tem como, vai ter infiltração, não tem como."
+      },
+      {
+        "start_time": 1770732758350,
+        "end_time": 1770732775881,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Não, não, não, sim, mas, por exemplo, a gente pode ver uma maneira de como canalizar aquela água ali, para que ela não... Como choveu muito forte mesmo, a água estava minando forte, descendo pela escada de dentro da sua casa."
+      },
+      {
+        "start_time": 1770732775881,
+        "end_time": 1770732776309,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Entende?"
+      },
+      {
+        "start_time": 1770732776309,
+        "end_time": 1770732799156,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, de repente, Não sei se a gente pode fazer um... Analisar mesmo, botar alguma coisa ali que exista para a Pedra, mas ela não vá para dentro do... Não vá para dentro daquele estudiozinho. Sabe, ela siga um caminho ali, a gente pensar em algo do tipo."
+      },
+      {
+        "start_time": 1770732799156,
+        "end_time": 1770732814420,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim. Eu vou... Vamos colocar isso para o Pedro. Para o... Água na pedra, crescendo a escada interna, que essa escada interna já não é boa."
+      },
+      {
+        "start_time": 1770732814420,
+        "end_time": 1770732821376,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É essa a questão, a escada interna já não é boa."
+      },
+      {
+        "start_time": 1770732821376,
+        "end_time": 1770732849860,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Esse roteiro Favela Bryce, roteiro.favelabryce.org, isso é uma parte que está resolvida. A gente tem nosso roteiro central, coloquei no grupo, roteiro.favela.org. Isso precisa ser atual. Aí eu peço para a Iris revisar, mas o Wesley também. Eu te peço, se você puder olhar isso, ver se está tudo certo, ver se a Iris perdeu alguma coisa. É ela que faz a mudança, né?"
+      },
+      {
+        "start_time": 1770732849860,
+        "end_time": 1770732854690,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela que faz a atualização. Eu não consigo atualizar, é ela que faz."
+      },
+      {
+        "start_time": 1770732854690,
+        "end_time": 1770732861378,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas qualquer coisa pode falar para mim também. Tom, isso está errado. Só falar que eu atualizo..."
+      },
+      {
+        "start_time": 1770732861491,
+        "end_time": 1770732867505,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ontem eu falei com ela, tinha uns negócios errados ali, eu pedi pra ela consertar."
+      },
+      {
+        "start_time": 1770732867505,
+        "end_time": 1770732884746,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Sobre só uma dúvida, a Elisa acabou de atualizar aqui essa planilha de lanches, ela tá colocando alguns lanches extras. Quarta-feira de cinzas, depois dia 19, depois dia 20, que eram lanches que não estavam previstos, que são ensaios extras. É isso mesmo?"
+      },
+      {
+        "start_time": 1770732884746,
+        "end_time": 1770732890473,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Nossa, quarta-feira de cinzas? O ensaio da banda roxa vai ser de manhã."
+      },
+      {
+        "start_time": 1770732890473,
+        "end_time": 1770732894898,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "São quantas horas de ensaio? Esses ensaios aqui são quantas horas?"
+      },
+      {
+        "start_time": 1770732894898,
+        "end_time": 1770732897715,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "São duas horas e meia de ensaio."
+      },
+      {
+        "start_time": 1770732897715,
+        "end_time": 1770732899727,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Normalmente vocês oferecem lanche. Sim."
+      },
+      {
+        "start_time": 1770732899727,
+        "end_time": 1770732921563,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "E aí tem o ensaio, quarta-feira é o ensaio da banda roxa normal. Só que como é feriado, em vez de eu cancelar, eu só passei por um turno da manhã. Porque o pessoal não ia conseguir chegar por causa dos blocos que vão estar rolando, então vai ser de 9h30 a 12h."
+      },
+      {
+        "start_time": 1770732921563,
+        "end_time": 1770732925485,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "E aí vai ter um ensaio geral no dia 20."
+      },
+      {
+        "start_time": 1770732925485,
+        "end_time": 1770732932938,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Isso, na sexta-feira dia 20 vai ter um ensaio geral com as quatro bandas pra tocar no outro dia."
+      },
+      {
+        "start_time": 1770732932938,
+        "end_time": 1770732955291,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Aí subiu bastante aqui, mas eu vou ver mas do planejamento mensal. Eu acho que a Carol também fazia, às vezes, lanche perecível, não é? Ou sempre era lanche. Os lanches perecíveis eram mais não perecíveis. Ah, tinha, tinha, tinha. Biscoitinho, clube social."
+      },
+      {
+        "start_time": 1770732955291,
+        "end_time": 1770732958036,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ela fazia isso, não é?"
+      },
+      {
+        "start_time": 1770732958036,
+        "end_time": 1770732960779,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Quando... Para não subir muito."
+      },
+      {
+        "start_time": 1770732960779,
+        "end_time": 1770732962975,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas assim, mas esse..."
+      },
+      {
+        "start_time": 1770732963379,
+        "end_time": 1770732998072,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Não, não tava, não tinha nada na quarta-feira de cinzas. Ela acabou de colocar, ela tava aqui, eu tava recebendo notificação, não tava não. Tipo, a gente tava com o teto de 1.400 de lanche acima do que a gente tinha previsto inicialmente, agora foi pra 2.400, mil reais a mais. Foram três dias de de ensaios a mais? Talvez você tinha passado pra ela ou não tinha passado pra mim, e agora que eu fiquei sabendo.\n\n"
+      },
+      {
+        "start_time": 1770732998072,
+        "end_time": 1770733025899,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Porque, assim, eu tava consultando sobre a quarta-feira. Porque, geralmente, na quarta-feira era o cortejo do Favela Brás. Enfim, como a gente teve poucos ensaios, essa quarta-feira já não ia ter ensaio e já ia direto pro cortejo. Aí complica um pouco, entende? Mas enfim, é só isso mesmo."
+      },
+      {
+        "start_time": 1770733025899,
+        "end_time": 1770733069766,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Wesley, só pra eu tirar uma dúvida aqui, eu tava olhando o roteiro na segunda-feira Segunda-feira tem... Nessas coisas das aulas aconteceram ao mesmo tempo na Silvia. João e Pablo, na segunda-feira na Silvia. Sim, dois professores. Aí, ao mesmo tempo, não estamos usando as salas da minha casa."
+      },
+      {
+        "start_time": 1770733069766,
+        "end_time": 1770733081720,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas na segunda-feira tem ensaio da banda preta lá. Como a gente está tendo que abrir a porta da sala de percussão, fica inviável. Entendi. Mas quando a gente organiza..."
+      },
+      {
+        "start_time": 1770733081720,
+        "end_time": 1770733087696,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É a percussão embaixo que fica inviável, mas quando a gente consegue fechar essa porta?"
+      },
+      {
+        "start_time": 1770733087696,
+        "end_time": 1770733093918,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Quando a gente resolver a questão da acústica, a gente pode utilizar. Da nossa sala."
+      },
+      {
+        "start_time": 1770733093918,
+        "end_time": 1770733095350,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Legal, só para..."
+      },
+      {
+        "start_time": 1770733095350,
+        "end_time": 1770733104418,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "A gente não está abrindo a porta para fora, está abrindo a porta de dentro do corredor. Sim, entendi."
+      },
+      {
+        "start_time": 1770733104418,
+        "end_time": 1770733110145,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Beleza, então mais um motivo para a gente pegar nessa coisa do..."
+      },
+      {
+        "start_time": 1770733110145,
+        "end_time": 1770733116349,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É menos um gasto que a gente tem alugando lá a Silvia, né?"
+      },
+      {
+        "start_time": 1770733116349,
+        "end_time": 1770733122129,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas também é a logística da aula, né? Não, beleza."
+      },
+      {
+        "start_time": 1770733122129,
+        "end_time": 1770733131497,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "É por isso que eu tô evitando ao máximo, por exemplo, botar a aula lá no Assunção. O Elton aqui, o Elton lá..."
+      },
+      {
+        "start_time": 1770733131497,
+        "end_time": 1770733170599,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, mas eu tô falando do logístico da aula em termos de duas aulas acontecendo no mesmo espaço, né? É complicado aí ter sala para cada aula. Beleza. Carnaval a gente falou, acústica e sala para cursão a gente falou, calendário a gente falou, já pedi para o Wesley, só para ficar mais uma coisa. Wesley, teve uma coisa aqui, eu vi uma mensagem da Iris falando, então, a gente não está sabendo das... Fica meio no ar em termos das presenças com os professores.\n\n O que a gente faz? Você lembra dessa mensagem do grupo?"
+      },
+      {
+        "start_time": 1770733170599,
+        "end_time": 1770733187386,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Ela falou que está difícil a questão da justificativa, porque, por exemplo, O professor me manda aí ter que... Com essa mudança que teve aí, está difícil de manter o controle para as advertências e tal."
+      },
+      {
+        "start_time": 1770733187386,
+        "end_time": 1770733202968,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas o que é... Eu estou mandando isso ainda, etc., etc., mas ele está pedindo para os professores mandarem as faltas. Ela ainda está pedindo isso. Então, essa informação a gente tem."
+      },
+      {
+        "start_time": 1770733202968,
+        "end_time": 1770733203455,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1770733203463,
+        "end_time": 1770733210342,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "as pessoas estão mandando a falta pra ela. As advertências são baseadas nas faltas, né? Sim."
+      },
+      {
+        "start_time": 1770733210342,
+        "end_time": 1770733222380,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O que eu tô entendendo é que tá mais difícil de manter o controle assim. Foi isso que eu entendi. Ela falou, pô, o que vocês me sugeriram?"
+      },
+      {
+        "start_time": 1770733222380,
+        "end_time": 1770733363814,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não sei, eu não entendi. A gente tá basicamente lá com esse sistema, só tá esperando ele checar os dados mas esse novo sistema está lá, mas independente disso, as presenças, os profissionais mandaram as faltas de qualquer forma, então a gente tem essa informação. Sim, sim. A nossa política é de ver todas essas faltas, ver o que está justificado e não está justificado, e no momento que tem faltas justificadas, entrar em contato com os pais, de acordo com o manual.\n\n Sim. Não estou vendo por que não cumprir as nossas políticas. Ela perguntou lá no grupo, aí não coloquei nada, queria falar com você primeiro, mas, de onde estou olhando, os professores mandaram as faltas e a gente recebeu as faltas. A gente não tem que calcular lá no final do mês, nada assim, é em cima das faltas. Então, ver as faltas que a gente teve, injustificados, então tem que seguir a política, a não ser que tenha alguma coisa que eu não estou sabendo, talvez.\n\n Mas os professores mandando as presenças, dá para a gente identificar, a gente só precisa identificar as faltas não justificadas. Então, é isso. O que eu estou falando que é aquela coisa do... Se a gente já fez isso na primeira semana, tudo bem. A semana antes de fevereiro, não cobramos presença, tudo bem, eu acho, tudo bem, joga de cintura. Já que começou em fevereiro, se a gente não aplicar políticas agora, pode ficar complicado.\n\n Quando a gente vai começar Então, só para a minha opinião. Pelo que eu entendi, temos essa informação. Temos essa informação de quais faltas foram e quais desses foram justificados. Então, dá para aplicar essas políticas."
+      },
+      {
+        "start_time": 1770733363814,
+        "end_time": 1770733365390,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Tudo bem."
+      },
+      {
+        "start_time": 1770733365399,
+        "end_time": 1770733381980,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Já tá sob... Já é o padrão. Eu só não entendi, acho que ela tá com dificuldade de... Eu vou conversar com ela melhor. Ela mandou várias mensagens aqui. Vou conversar com ela melhor pra entender essa questão."
+      },
+      {
+        "start_time": 1770733381980,
+        "end_time": 1770733385471,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ela mandou lá, o que tem que fazer?"
+      },
+      {
+        "start_time": 1770733385471,
+        "end_time": 1770733576001,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A gente tá montando esse novo sistema, né? Para os professores poderem marcar a presença direto. Então, se ela tiver dificuldade com o sistema, ela pode falar comigo, eu estou resolvendo as coisas, eu estou esperando ela para me falar se as dadas estão certas, etc, etc. Mas a questão das presenças, os professores ainda estão mandando as faltas, então eu não vejo essa questão do novo sistema, como um impedimento para entender quais são as faltas e autorizá-las ou não autorizá-las.\n\n Ela pode falar comigo, estamos do sistema, mas eu acho que a gente, tendo as faltas na mão, a gente organiza. Tudo bem. Fites de bom fim. Oh, Read AI, aquela coisa só, quando a gente faz qualquer reunião, vamos colocar esse read aí, deveria aparecer automaticamente nas reuniões, porque aí eu mando tudo para o cloud e ajuda para organizar as coisas, vai saber as questões que estão acontecendo, etc, etc.\n\n Aí, se não está aparecendo em uma reunião, pode mandar mensagem também, que eu coloco dentro da reunião. O mais importante é a gente ter AI nas reuniões. Fites de bom fim. Acho que a gente pode deixar para a próxima, que a gente só tem cinco minutos. Vamos... Então, vamos olhar a lista do que fazer. Desta semana, Raíssa vai me dar a prestação de contas para revisão, Tom, Joana e Cláudio. Tom, arranjamento.feverabrass.org, quando estiver pronto.\n\n Raíssa, mostrar planilho de estoque para Tom. Tom, ver com Natasha melhor lugar para as baterias. Wesley, colocar estantes e bancos na parte onde vamos dar aula nas aulas e ver se a quantidade de bancos e estantes está suficiente. Tom, passar número de equipe para Raíssa no carnaval. Então, mandar dados, vaga link para a Raíssa. Então, atualizar a Natasha sobre o primeiro show na Zola, de abril. Então, falar com o Fábio sobre telhado, lavanderia, aquisitação de percussão, água na pedra descendo a escada interna e a fita antiderrepante.\n\n E o Wesley conferir a roteira.favelabras.org, avisar qualquer erro. Acho que é isso. Alguma coisa da Renan de hoje que a gente precisa avisar outras pessoas? Não, é só, eu tenho que avisar eles quando eu acabar de revisar mais uma vez e mandar pra lá."
+      },
+      {
+        "start_time": 1770733576001,
+        "end_time": 1770733586964,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Tá, e eu acho que o que eu preciso de você hoje não é só essa revisão então sobre esses ensaios registro de horário de professores."
+      },
+      {
+        "start_time": 1770733586964,
+        "end_time": 1770733592883,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Então, os horários de professores eu vou ter que te mandar novamente, né, porque..."
+      },
+      {
+        "start_time": 1770733592883,
+        "end_time": 1770733599225,
+        "speaker": {
+          "name": "Raíssa Celina da Costa Sousa"
+        },
+        "words": "Você vai colocar isso como tarefa que eu tô precisando pra poder atualizar a planilha."
+      },
+      {
+        "start_time": 1770733599225,
+        "end_time": 1770733646894,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim, aqui o Wesley. O Wesley poderia colocar, o Tibarius, colocar nesse planejamento geral aqui os ensaios extras, Vai ter que colocar... E avisar a Raíssa, tá certo? Vai ter que pedir para eles colocarem a aula e ser inscritos em um arquivo o ensaio geral de 2016 e avisa a Raíssa. A gente marca antiteses, alas, extras, gravado em algum lugar."
+      },
+      {
+        "start_time": 1770733646894,
+        "end_time": 1770733662759,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Mas só pra enxergar, se for contar da banda roxa, são somente dois. É o ensaio geral que vai rolar e o da banda roxa que vai rolar na quarta-feira de manhã."
+      },
+      {
+        "start_time": 1770733662759,
+        "end_time": 1770733663751,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, beleza."
+      },
+      {
+        "start_time": 1770733664393,
+        "end_time": 1770733687737,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Se for isso, mas eu vou revisar, porque até então, como vai ter todo esse feriado aí, vai ter como ensaiar a banda preta de novo, eles vão... Não tem espaço, mas eu vou ver se eu consigo fazer o ensaio com a banda preta antes da apresentação. Mas, até então, é somente isso, somente esses dois ensaios que vão acontecer."
+      },
+      {
+        "start_time": 1770733687737,
+        "end_time": 1770733690416,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ah, quer colocar... Então, quarta-feira de 11..."
+      },
+      {
+        "start_time": 1770733690425,
+        "end_time": 1770733694511,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "de manhã é a banda roxa."
+      },
+      {
+        "start_time": 1770733694511,
+        "end_time": 1770733698598,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É o leite da banda roxa."
+      },
+      {
+        "start_time": 1770733698598,
+        "end_time": 1770733702003,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Mas é isso que horas?"
+      },
+      {
+        "start_time": 1770733702657,
+        "end_time": 1770733728014,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "De nove e meia a meia-dia. Caraca, três horas? Vamos lá, nove e meia."
+      },
+      {
+        "start_time": 1770733728022,
+        "end_time": 1770733730059,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É meio-dia."
+      },
+      {
+        "start_time": 1770733730059,
+        "end_time": 1770733737185,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, duas horas e meia, tá certo."
+      },
+      {
+        "start_time": 1770733737185,
+        "end_time": 1770733747364,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "E qual é a outra? No dia 20 é geral."
+      },
+      {
+        "start_time": 1770733747364,
+        "end_time": 1770733753472,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Lá são só. Geral, é geral?"
+      },
+      {
+        "start_time": 1770733753778,
+        "end_time": 1770733755098,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Geral."
+      },
+      {
+        "start_time": 1770733755098,
+        "end_time": 1770733780652,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Deve te ser geral. Que horas? Aí é... De seis às oito e meia. Beleza. Vou tirar essa última. Beleza, então."
+      },
+      {
+        "start_time": 1770733780652,
+        "end_time": 1770733793328,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí eu só vou ver a questão da banda preta, realmente."
+      },
+      {
+        "start_time": 1770733794279,
+        "end_time": 1770733823820,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "Outro eu comecei a dar uma passada no repertório, mas não consegui passar tudo. Enfim, mas eu não tenho espaço, não tenho horário. Se eu conseguir encaixar, mas eu precisava sair com a banda preta assim. Eu vou passar o repertório da Pizzeria Zola. Estou pensando aqui no espaço, porque a banda roxa, a banda amarela já vai estar tocando, já vai ter a hora em cima, a banda verde vai estar lá, então eu estou sem espaço.\n\n Então eu tenho que pensar nisso."
+      },
+      {
+        "start_time": 1770733827445,
+        "end_time": 1770733836278,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Isso para a banda preta, esse é o seu repertório normal? Repertório normal para tocar na zona."
+      },
+      {
+        "start_time": 1770733836278,
+        "end_time": 1770733865038,
+        "speaker": {
+          "name": "Wesley Araujo"
+        },
+        "words": "O ensaio de ontem foi o repertório. O ensaio de ontem foi o repertório, mas a gente não conseguiu passar tudo. Passamos só uma parte ali, faltou gente por causa da chuva forte. Mas eu vou... Vou arrumar o espaço pra sair acabando a preta o repertório que a gente vai tocar na pizzeria."
+      },
+      {
+        "start_time": 1770733865038,
+        "end_time": 1770733878990,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "No dia do carnaval? No dia do carnaval. Ah, ok. Entendi. Ah, beleza. Então é isso. Ó, tem que... Tem que colocar nota pra reunião."
+      },
+      {
+        "start_time": 1770733878990,
+        "end_time": 1770733879548,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Wesley?"
+      },
+      {
+        "start_time": 1770733879548,
+        "end_time": 1770733880106,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Oi?"
+      },
+      {
+        "start_time": 1770733880106,
+        "end_time": 1770733881223,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí, senhora."
+      },
+      {
+        "start_time": 1770733882487,
+        "end_time": 1770733896019,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu vou oito. Tá ótimo. Obrigado, gente. E desculpa aquela coisa de online. Mas realmente fica um pouco melhor. Obrigado, gente. Tchau, tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Wesley Araujo"
+      },
+      {
+        "name": "Raíssa Celina da Costa Sousa"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Tom Ashe"
+      }
+    ]
+  },
+  "platform_meeting_id": "kvi-hiio-tqq",
+  "platform": "meet"
+}

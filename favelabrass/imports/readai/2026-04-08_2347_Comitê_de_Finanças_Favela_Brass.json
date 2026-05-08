@@ -1,0 +1,1958 @@
+{
+  "session_id": "01KNQJZ9PXMJEYG2SBZSBFFD4R",
+  "trigger": "meeting_end",
+  "title": "Comitê de Finanças Favela Brass",
+  "start_time": "2026-04-08T19:31:15-03:00",
+  "end_time": "2026-04-08T20:43:56-03:00",
+  "participants": [
+    {
+      "name": "a.corio@gmail.com",
+      "first_name": "a.corio@gmail.com",
+      "last_name": null,
+      "email": "a.corio@gmail.com"
+    },
+    {
+      "name": "Bruno Muniz",
+      "first_name": "Bruno",
+      "last_name": "Muniz",
+      "email": null
+    },
+    {
+      "name": "bruno.pgl.muniz@gmail.com",
+      "first_name": "bruno.pgl.muniz@gmail.com",
+      "last_name": null,
+      "email": "bruno.pgl.muniz@gmail.com"
+    },
+    {
+      "name": "Norton Fritzsche",
+      "first_name": "Norton",
+      "last_name": "Fritzsche",
+      "email": "norton.vieira@gmail.com"
+    },
+    {
+      "name": "pugliese.bruno@outlook.it",
+      "first_name": "pugliese.bruno@outlook.it",
+      "last_name": null,
+      "email": "pugliese.bruno@outlook.it"
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião tratou da situação operacional e financeira da Favela Brass, com foco em logística de eventos, patrocínios e estratégia de captação para garantir liquidez no trimestre. Inicialmente foram alinhados detalhes de agendas e deslocamentos para apresentações no Rio, Petrópolis, Paraty e Belo Horizonte, incluindo estimativa de custo de cerca de R$15.000 para Paraty e a redução do número de participantes para ajustar despesas; também houve definição de divisão de grupos e confirmação de patrocínio para BH. O comitê de finanças permanecerá com três membros e a transição da tesouraria para Bruno Muniz foi iniciada.\n\nA discussão principal abordou atrasos e condições de pagamento da Prio/PetroRio, riscos contábeis e a necessidade de contratos formais, além da meta de captar R$250–300 mil para cobrir o intervalo financeiro. Foram exploradas alternativas de captação: doações de pessoa física com meios de pagamento diretos (Stripe, Apple/Google Pay, PIX identificado), eventos trimestrais de arrecadação e busca por patrocínios via Lei Rouanet, incluindo um projeto para intercâmbio e apresentações na Alemanha. Por fim, debatida a urgência de ajustar governança bancária, aprovar um diretor executivo na próxima AGE e usar procedimentos manuais temporários para viabilizar pagamentos enquanto formalizações não se concluem.",
+  "action_items": [
+    {
+      "text": "Roberto: Continuar buscando captação de recursos para viabilizar a participação em Paraty"
+    },
+    {
+      "text": "Participante da sala de conferência: Enviar a Bruno as informações sobre a banda de Mannheim que tocará em Petrópolis e no Teatro Municipal"
+    },
+    {
+      "text": "Participante da sala de conferência: Compartilhar as decisões tomadas com Rolf nas reuniões quinzenais do comitê"
+    },
+    {
+      "text": "Bruno Muniz: Começar a pensar e planejar a transição da tesouraria para assumir responsabilidades a partir do ano que vem"
+    },
+    {
+      "text": "Camila: Obtenha os detalhes do diário oficial e compartilhe com a equipe"
+    },
+    {
+      "text": "Participante da sala de conferência: Buscar doação de R$250.000–R$300.000 de pessoas físicas ou empresa para garantir o caixa do próximo trimestre"
+    },
+    {
+      "text": "Participante da sala de conferência: Colocar os dados e pesquisas sobre orçamentos da Prio no grupo para consulta da equipe"
+    },
+    {
+      "text": "Participante da sala de conferência: Elaborar e adaptar o projeto Rouanet para a viagem das crianças à Alemanha em maio e iniciar contatos com potenciais patrocinadores"
+    },
+    {
+      "text": "Participante da sala de conferência: Contatar o possível parceiro alemão (Uwe Fabitz / Funkhaus) para avaliar interesse em patrocínio ou apoio logístico para a viagem"
+    },
+    {
+      "text": "Participante da reunião: Organizar um evento de captação neste trimestre para reunir investidores e doadores e definir formato e local"
+    },
+    {
+      "text": "Participante da reunião: Verificar a implementação de pagamento direto via Stripe/Apple Pay/Google Pay e avaliar integração com PIX identificado"
+    },
+    {
+      "text": "Bruno Muniz: Incluir na sua lista e contatar potenciais doadores para lembrar de declarar a contribuição no imposto de renda e estimular a doação"
+    },
+    {
+      "text": "Participante da reunião: Convocar e agendar a AGE na semana que vem para aprovar a eleição do diretor executivo com poderes para movimentar a conta"
+    },
+    {
+      "text": "Norton Fritzsche: Programar os pagamentos operacionais urgentes até que o diretor executivo seja formalmente habilitado no banco"
+    },
+    {
+      "text": "Participante na sala de conferência: Enviar o projeto para apoiar suas passagens ao Instituto Goethe e parceiros mencionados"
+    },
+    {
+      "text": "Marcos: Contatar a Embaixada para viabilizar entradas e contatos com agentes privados e instituições alemãs"
+    },
+    {
+      "text": "Participante na sala de conferência: Compartilhar o vídeo do intercâmbio anterior no grupo e com potenciais apoiadores como o Goethe"
+    },
+    {
+      "text": "Presidente do Rotary local: Fazer contato com o Rotary da Bavária para apoiar o projeto piloto e facilitar conexões locais"
+    },
+    {
+      "text": "Rolf: Liberar o acesso para movimentação da conta após emissão da ata da diretoria executiva"
+    },
+    {
+      "text": "Participante na sala de conferência: Cobrar a Prio e outros contatos para tentar viabilizar os pagamentos de abril"
+    },
+    {
+      "text": "Participante na sala de conferência: Criar e preencher a pasta de abril no Drive do Conselho com a ata e a transcrição"
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Por quanto tempo a Thaís ficará nos Estados Unidos?"
+    },
+    {
+      "text": "Quanto foi pago pelo evento no ano passado?"
+    },
+    {
+      "text": "Quantas crianças participaram no ano passado?"
+    },
+    {
+      "text": "Por que a Prio só paga ao final do trimestre?"
+    },
+    {
+      "text": "Estou errado em supor que essa mesma situação de ciclo de pagamento se repetirá?"
+    },
+    {
+      "text": "Quem são os outros acionistas da Prio hoje?"
+    },
+    {
+      "text": "Estamos falando de pagamento incentivado (patrocínio via empresas) ou de doação direta de pessoa física?"
+    },
+    {
+      "text": "Como devemos proceder para habilitar a movimentação da conta e permitir que alguém da operação programe pagamentos?"
+    },
+    {
+      "text": "Quanto custa levar as crianças para a Alemanha?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "Norton fará apresentação final em julho e concluirá curso em seguida."
+    },
+    {
+      "text": "Thaís vai para os Estados Unidos para pós-doutorado por seis meses, de julho a dezembro."
+    },
+    {
+      "text": "Há incerteza sobre captação de recursos para o evento em Paraty, com Roberto informando dificuldades."
+    },
+    {
+      "text": "O custo estimado do evento incluindo transporte, alimentação e hospedagem foi citado em cerca de R$15.000."
+    },
+    {
+      "text": "O grupo planeja levar menos crianças e dividir a banda entre Paraty e BH para ajustar logística."
+    },
+    {
+      "text": "BH já tem patrocínio que cobre hospedagem e custos, enquanto Paraty depende de negociação."
+    },
+    {
+      "text": "Foi indicada a possibilidade de colaboração com uma banda de sopros da Alemanha que visitará em julho."
+    },
+    {
+      "text": "A reunião abordou logística e finanças da Favela Brass com foco em eventos e comitê de finanças."
+    },
+    {
+      "text": "Ficou decidido que o comitê de finanças começará com três membros e as decisões serão compartilhadas com Rolf nas reuniões quinzenais."
+    },
+    {
+      "text": "Existe intenção de planejar a transição da tesouraria para Bruno Muniz a partir do próximo ano."
+    },
+    {
+      "text": "A Prio/PetroRio está optando por pagar patrocínios somente ao final do trimestre após fechar lucros, o que causou atraso no repasse à organização."
+    },
+    {
+      "text": "A falta de contrato formal impediu pagamentos prometidos e gerou desorganização no processo de faturamento e reembolso."
+    },
+    {
+      "text": "A equipe definiu como prioridade reduzir o descompasso de fluxo de caixa com uma captação emergencial de aproximadamente R$250–300 mil."
+    },
+    {
+      "text": "Há consenso em que gerar receita livre (por apresentações ou serviços) é necessário para financiar projetos entre recebimentos incentivados."
+    },
+    {
+      "text": "Estimativas internas colocam a capacidade de destinação via Lei Rouanet da Prio entre R$10 milhões e R$70 milhões, dependendo do ano e variáveis do setor."
+    },
+    {
+      "text": "Foi proposta a elaboração de um projeto Rouanet adaptado para levar crianças à Alemanha em maio, com busca de patrocinadores alemães e contato com o dono do Funkhaus como potencial parceiro."
+    },
+    {
+      "text": "Manter relacionamento com contatos internos da Prio (Camila, Diane, Lívia) foi identificado como estratégico para facilitar futuras aprovações e pagamentos."
+    },
+    {
+      "text": "A priorização da captação de pessoa física foi proposta como estratégia central para diversificar receitas."
+    },
+    {
+      "text": "A integração de pagamentos via Stripe, Apple Pay e Google Pay foi apontada como solução para reduzir o cancelamento automático de contribuições recorrentes."
+    },
+    {
+      "text": "O uso do PIX identificado foi indicado como uma alternativa prática que facilita doações de pessoa física neste ano."
+    },
+    {
+      "text": "Eventos trimestrais presenciais e um “clube de doadores” foram sugeridos para engajar tanto doadores recorrentes quanto potenciais grandes financiadores."
+    },
+    {
+      "text": "Há interesse em colocar o projeto em eventos maiores (por exemplo, Rock in Rio/Rock the Mountain) e em shows de rua para visibilidade e captação."
+    },
+    {
+      "text": "A organização enfrenta uma pressão de caixa operacional imediata para despesas como alimentação e transporte, estimadas em até cerca de 20 mil reais no curto prazo."
+    },
+    {
+      "text": "É necessário convocar uma AGE para eleger um diretor executivo com poderes bancários para liberar movimentação da conta corrente institucional."
+    },
+    {
+      "text": "O grupo pretende realizar um projeto piloto em julho para ensaios e apresentação na Bavária como passo para iniciativas maiores em 2027."
+    },
+    {
+      "text": "O custo inicial do projeto submetido pelo Rouanet foi informado em R$300, com possibilidade de reduzir pela metade se o transporte for viabilizado."
+    },
+    {
+      "text": "Há interlocução com o Instituto Goethe, Humboldt e a Embaixada para buscar apoio institucional ao intercâmbio Alemanha-Brasil."
+    },
+    {
+      "text": "Foi produzido um vídeo do intercâmbio anterior para usar em captações e será compartilhado com potenciais parceiros."
+    },
+    {
+      "text": "A movimentação da conta e pagamentos dependem da liberação por Rolf e da ata da diretoria executiva; pagamentos de abril estão pendentes e sendo cobrados junto à Prio."
+    },
+    {
+      "text": "Foi criada uma pasta no Drive do Conselho para armazenar a ata e a transcrição de abril e combinaram enviar esses arquivos ao grupo."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KNQJZ9PXMJEYG2SBZSBFFD4R",
+  "chapter_summaries": [
+    {
+      "title": "Abertura e cumprimentos",
+      "description": "O início da reunião foi dedicado a saudações, verificações de presença e troca de informações pessoais sobre saúde e bem-estar familiar, incluindo comentários sobre alergia de uma criança e conversas informais sobre o cotidiano em São Paulo. Há comentários sobre desgaste de trabalho e expectativas para eventos sociais e formaturas.",
+      "topics": []
+    },
+    {
+      "title": "Estudos e planos pessoais",
+      "description": "Norton comentou sobre sua apresentação e conclusão do curso em julho, e houve menções ao interesse em continuar estudos em finanças e provável participação em exame do CFA Society em novembro. Foi mencionada a possibilidade de visitas à Thaís nos EUA e planos de viagens futuras.",
+      "topics": [
+        "Norton fará apresentação final em julho e concluirá curso em seguida.",
+        "Thaís vai para os Estados Unidos para pós-doutorado por seis meses, de julho a dezembro."
+      ]
+    },
+    {
+      "title": "Informações sobre viagens e agenda de shows",
+      "description": "Foram discutidas agendas de shows, datas conflitantes e deslocamentos entre Rio e Petrópolis, incluindo participação no Rio Fashion Week e ajustes de data do baile e feijoada. Também houve troca de informações sobre músicos convidados e apresentações em teatros locais.",
+      "topics": []
+    },
+    {
+      "title": "Negociações para o festival em Paraty",
+      "description": "O grupo analisou a situação financeira do festival em Paraty, com Roberto sinalizando que há dificuldades de captação e risco de não conseguir custear a viagem; foi mencionada a estimativa de custos de aproximadamente R$15.000 e discussão sobre redução do número de crianças e divisão da banda para minimizar despesas. Debateram-se estratégias de negociação e a ocupação do festival na programação local como argumento para apoio.",
+      "topics": [
+        "Há incerteza sobre captação de recursos para o evento em Paraty, com Roberto informando dificuldades.",
+        "O custo estimado do evento incluindo transporte, alimentação e hospedagem foi citado em cerca de R$15.000.",
+        "O grupo planeja levar menos crianças e dividir a banda entre Paraty e BH para ajustar logística."
+      ]
+    },
+    {
+      "title": "Decisões sobre BH e divisão de grupos",
+      "description": "Confirmou-se que a viagem para Belo Horizonte tem patrocínio que cobre hospedagem e custos, ao passo que Paraty permanece incerto; definiu-se que metade da banda seguirá para Paraty e outra metade para BH, complicando negociações de custos por grupo.",
+      "topics": [
+        "BH já tem patrocínio que cobre hospedagem e custos, enquanto Paraty depende de negociação."
+      ]
+    },
+    {
+      "title": "Chegada do Bruno e logística de deslocamento",
+      "description": "Bruno juntou-se à reunião explicando atraso causado por tráfego e discutiu deslocamentos entre serra, Niterói e Petrópolis; também foi mencionada visita de uma banda de Mannheim que tocará em Petrópolis e Teatro Municipal, com promessa de envio de informações sobre o grupo.",
+      "topics": [
+        "Foi indicada a possibilidade de colaboração com uma banda de sopros da Alemanha que visitará em julho."
+      ]
+    },
+    {
+      "title": "Organização do comitê de finanças e transição",
+      "description": "Encerrando o trecho disponível, o grupo alinhou que o comitê de finanças começaria com três membros e que Rolf seria informado das decisões nas reuniões quinzenais; também foi sugerido que Bruno seja o sucessor natural na tesouraria e que se inicie planejamento da transição.",
+      "topics": [
+        "A reunião abordou logística e finanças da Favela Brass com foco em eventos e comitê de finanças.",
+        "Ficou decidido que o comitê de finanças começará com três membros e as decisões serão compartilhadas com Rolf nas reuniões quinzenais.",
+        "Existe intenção de planejar a transição da tesouraria para Bruno Muniz a partir do próximo ano."
+      ]
+    },
+    {
+      "title": "Acesso e abertura do tema PetroRio/Prio",
+      "description": "O segmento inicia com confirmação de acesso às contas e introduz o pedido de atualização sobre a PetroRio/Prio e o contexto do mercado de petróleo, mencionando efeitos recentes no preço do óleo e a estrutura contábil da patrocinadora. Foram feitos apontamentos iniciais sobre pesquisa do histórico da empresa e impactos macroeconômicos.",
+      "topics": []
+    },
+    {
+      "title": "Atrasos de pagamento e exigência de contrato",
+      "description": "A discussão centrou-se nos atrasos de pagamento devido à política da Prio de só pagar após fechamento trimestral e à nova diretriz de não pagar sem contrato; foram descritas dificuldades operacionais, comunicação com a gestora e tentativas de acelerar pagamento por meio de solicitações específicas.",
+      "topics": [
+        "A Prio/PetroRio está optando por pagar patrocínios somente ao final do trimestre após fechar lucros, o que causou atraso no repasse à organização.",
+        "A falta de contrato formal impediu pagamentos prometidos e gerou desorganização no processo de faturamento e reembolso."
+      ]
+    },
+    {
+      "title": "Estratégias de mitigação do descompasso financeiro",
+      "description": "A equipe avaliou o caráter estrutural do descompasso de caixa e propôs captar R$250–300 mil de doações ou pessoas físicas para cobrir o trimestre faltante; também discutiram liberar saldo para obras e a necessidade de gerar receita livre para financiar projetos incentivados.",
+      "topics": [
+        "A equipe definiu como prioridade reduzir o descompasso de fluxo de caixa com uma captação emergencial de aproximadamente R$250–300 mil.",
+        "Há consenso em que gerar receita livre (por apresentações ou serviços) é necessário para financiar projetos entre recebimentos incentivados."
+      ]
+    },
+    {
+      "title": "Valorização do projeto e aproveitamento da Lei Rouanet",
+      "description": "Foi argumentado que o projeto tem alto impacto educacional e que isso deve ser usado para posicionamento frente à Prio; iniciaram-se cálculos e estimativas sobre o volume disponível para destinação via Lei Rouanet e comparações entre anos fiscais.",
+      "topics": []
+    },
+    {
+      "title": "Planejamento de projeto internacional e captação externa",
+      "description": "Sugeriu-se adaptar o projeto Rouanet para levar crianças à Alemanha em maio e buscar patrocinadores alemães e da Prio; mencionou-se convite do proprietário do Funkhaus em Berlim como oportunidade para parceria e intercâmbio.",
+      "topics": [
+        "Estimativas internas colocam a capacidade de destinação via Lei Rouanet da Prio entre R$10 milhões e R$70 milhões, dependendo do ano e variáveis do setor.",
+        "Foi proposta a elaboração de um projeto Rouanet adaptado para levar crianças à Alemanha em maio, com busca de patrocinadores alemães e contato com o dono do Funkhaus como potencial parceiro."
+      ]
+    },
+    {
+      "title": "Relações institucionais e governança na Prio",
+      "description": "O grupo discutiu mudanças no quadro acionário e na governança da Prio, incluindo saída de acionistas controversos, efeitos institucionais positivos, e o fortalecimento de contatos internos (Camila, Diane, Lívia) que apoiam o relacionamento e a captação de patrocínios.",
+      "topics": [
+        "Manter relacionamento com contatos internos da Prio (Camila, Diane, Lívia) foi identificado como estratégico para facilitar futuras aprovações e pagamentos."
+      ]
+    },
+    {
+      "title": "Prioridade em captação de pessoa física e meios de pagamento",
+      "description": "A equipe discutiu dar maior prioridade à captação de pessoa física e a necessidade de organizar eventos de captação no trimestre para reunir investidores e doadores individuais. Foi apresentada a experiência de outra associação que adotou Stripe e pagamentos via Apple Pay/Google Pay com sucesso para reduzir churn de doadores recorrentes. Também foi mencionada a vantagem do PIX identificado como facilitador para doações neste ano.",
+      "topics": [
+        "A priorização da captação de pessoa física foi proposta como estratégia central para diversificar receitas.",
+        "A integração de pagamentos via Stripe, Apple Pay e Google Pay foi apontada como solução para reduzir o cancelamento automático de contribuições recorrentes.",
+        "O uso do PIX identificado foi indicado como uma alternativa prática que facilita doações de pessoa física neste ano.",
+        "Eventos trimestrais presenciais e um “clube de doadores” foram sugeridos para engajar tanto doadores recorrentes quanto potenciais grandes financiadores."
+      ]
+    },
+    {
+      "title": "Problemas operacionais de doações recorrentes e solução técnica",
+      "description": "A conversa apontou que o mecanismo atual gera expirations de meios de pagamento e um \"decay\" nas contribuições, e que migrações para pagamentos vinculados a Apple/Google ou PIX identificado poderiam mitigar esse problema. Foi discutida a complexidade do processo de depósito identificado e a necessidade de suporte presencial para ajudar doadores a efetivar a doação e entender o impacto no imposto de renda.",
+      "topics": []
+    },
+    {
+      "title": "Formatos de eventos e ativação de rede de doadores",
+      "description": "Debatido o formato ideal para encontros com doadores — reuniões trimestrais com sessões presenciais para explicar dedução de IR e apresentar projetos, além de shows temáticos e exibição de filme institucional como ferramentas de engajamento. Avaliou‑se a possibilidade de parcerias com empresas como Prio para ceder espaços e a ideia de um clube ou força‑tarefa para prospectar projetos e atrair doadores de alto patrimônio.",
+      "topics": []
+    },
+    {
+      "title": "Oportunidades em eventos sociais e mercados de alto padrão",
+      "description": "Foram mencionados contatos e experiências de arrecadação em locais de alto padrão, como Itaipava e condomínios de luxo, e a participação em eventos imobiliários e culturais como canais para captação e apresentações das crianças. A equipe considerou tentar inserir o projeto em grandes festivais e realizar apresentações de rua como estratégia de visibilidade e captação.",
+      "topics": [
+        "Há interesse em colocar o projeto em eventos maiores (por exemplo, Rock in Rio/Rock the Mountain) e em shows de rua para visibilidade e captação."
+      ]
+    },
+    {
+      "title": "Situação de caixa e pagamentos operacionais",
+      "description": "A equipe relatou dificuldades imediatas de caixa e atrasos em pagamentos operacionais, incluindo alimentação e transporte, com saldo em CDB estimado e necessidade de pagamento de cerca de 20 mil para despesas correntes. Foi mencionado que Raíssa estava negociando com financiadores para efetuar pagamentos durante a semana.",
+      "topics": [
+        "A organização enfrenta uma pressão de caixa operacional imediata para despesas como alimentação e transporte, estimadas em até cerca de 20 mil reais no curto prazo."
+      ]
+    },
+    {
+      "title": "Alteração estatutária e governança bancária para movimentação da conta",
+      "description": "Discutiu‑se a necessidade de aprovar nova ata/AGE para eleger o diretor executivo com poderes bancários para cadastrar assinatura no banco e permitir movimentação da conta institucional. Como medida intermediária propôs‑se conceder acesso administrativo para que a responsável financeira programe pagamentos para assinatura posterior, enquanto Norton executa os pagamentos urgentes.",
+      "topics": [
+        "É necessário convocar uma AGE para eleger um diretor executivo com poderes bancários para liberar movimentação da conta corrente institucional."
+      ]
+    },
+    {
+      "title": "Presença e logística de participantes remanescentes",
+      "description": "A reunião registrou problemas de conectividade e ausência temporária de participantes, com menção específica à queda do Norton e à dificuldade de visualizá‑lo na chamada [592?]. (Observação: as referências sobre presença foram tratadas como operacional para o seguimento dos itens financeiros e de governança).",
+      "topics": []
+    },
+    {
+      "title": "Pergunta sobre custo e proposta inicial",
+      "description": "Houve uma breve troca inicial de confirmação e em seguida a solicitação sobre o custo para levar as crianças à Alemanha. Foi relatado que o projeto de Rouanet do ano anterior tinha orçamento de R$300 e que é possível reduzir para metade se o transporte for resolvido.",
+      "topics": [
+        "O grupo pretende realizar um projeto piloto em julho para ensaios e apresentação na Bavária como passo para iniciativas maiores em 2027.",
+        "O custo inicial do projeto submetido pelo Rouanet foi informado em R$300, com possibilidade de reduzir pela metade se o transporte for viabilizado.",
+        "Há interlocução com o Instituto Goethe, Humboldt e a Embaixada para buscar apoio institucional ao intercâmbio Alemanha-Brasil."
+      ]
+    },
+    {
+      "title": "Contatos institucionais e potenciais apoios",
+      "description": "Discutiram-se potenciais apoiadores institucionais como Goethe-Institut, Humboldt, embaixada alemã e Rotary, e a estratégia de acessar a embaixada para facilitar conexões com agentes privados. Mencionou-se o envolvimento de contatos locais, Rotary e sociedade de beneficência vinculada ao Cruzeiro para captar patrocínios.",
+      "topics": [
+        "Foi produzido um vídeo do intercâmbio anterior para usar em captações e será compartilhado com potenciais parceiros."
+      ]
+    },
+    {
+      "title": "Rede de empresas e oportunidades comerciais",
+      "description": "O grupo avaliou que empresas da Bavária com subsidiárias no Brasil podem ser potenciais patrocinadoras, citando setores como automotivo e farmacêutico e empresas como BASF, Adidas e Puma como referências regionais. Também foi mencionado que a iniciativa poderia abrir portas para empresas alemãs com operações no Rio de Janeiro.",
+      "topics": []
+    },
+    {
+      "title": "Planejamento de eventos e cronograma futuro",
+      "description": "Foram consideradas ações para 2027, incluindo parceria com o Funk House, participação no Carnaval das Culturas em Berlim e uma semana de atividades na Bavária como metas de médio prazo. Paralelamente, afirmou-se que o foco deve incluir a obtenção de recursos institucionais para o ano seguinte, citando ANEI como parte do plano alto.",
+      "topics": []
+    },
+    {
+      "title": "Administração financeira e encerramento",
+      "description": "A equipe discutiu a necessidade de aguardar liberação de Rolf e a ata da diretoria para movimentar conta, com pagamentos de abril pendentes e tentativas de agilização junto à Prio e outros contatos. Combineou-se enviar a ata e a transcrição ao Drive do Conselho, criou-se a pasta de abril e a reunião foi encerrada com confirmações de comunicação futura.",
+      "topics": [
+        "A movimentação da conta e pagamentos dependem da liberação por Rolf e da ata da diretoria executiva; pagamentos de abril estão pendentes e sendo cobrados junto à Prio.",
+        "Foi criada uma pasta no Drive do Conselho para armazenar a ata e a transcrição de abril e combinaram enviar esses arquivos ao grupo."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1775687486970,
+        "end_time": 1775687487901,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Boa noite."
+      },
+      {
+        "start_time": 1775687487901,
+        "end_time": 1775687490228,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Boa noite, Leandro. Tudo bem?"
+      },
+      {
+        "start_time": 1775687490228,
+        "end_time": 1775687491624,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tudo bom, você?"
+      },
+      {
+        "start_time": 1775687491624,
+        "end_time": 1775687492089,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tranquilo."
+      },
+      {
+        "start_time": 1775687492089,
+        "end_time": 1775687493020,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Como vai?"
+      },
+      {
+        "start_time": 1775687493020,
+        "end_time": 1775687494882,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Tudo bem por aqui."
+      },
+      {
+        "start_time": 1775687494882,
+        "end_time": 1775687503725,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Acho que o Bruno tá entrando aí também. Como vão as coisas? Como é que tá o moleque aí?"
+      },
+      {
+        "start_time": 1775687503725,
+        "end_time": 1775687541298,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, ele tá bem. O Thiago, na verdade, ele tá com uma alergia no momento, eu não sei. Mas é nada... A Tamiris... A Tamiris levou ele para o médico. Não é sério, só ficou com uma alexiazinha. O médico falou que é quadritibirose. Eles falam que é virose, mas não sabem o que é. Se é médico caro, fala que é quadritibirose."
+      },
+      {
+        "start_time": 1775687541298,
+        "end_time": 1775687546084,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É. Mas ele tá tipo com a pele vermelha, assim?"
+      },
+      {
+        "start_time": 1775687546084,
+        "end_time": 1775687553663,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "É, ele tá com pintinhos, coisa assim. Mas ele tá ok. E você, como tá as coisas aí em São Paulo?"
+      },
+      {
+        "start_time": 1775687553663,
+        "end_time": 1775687564490,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tô em São Paulo, acabei de chegar do trabalho. Muito trabalho. Aqui em São Paulo é muito trabalho. Tô exausto. Mas animado pra ir pro Rio pro seu casamento, inclusive."
+      },
+      {
+        "start_time": 1775687564490,
+        "end_time": 1775687568461,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Yes. E o NBA? Tô no fim, tô na reta final."
+      },
+      {
+        "start_time": 1775687568461,
+        "end_time": 1775687581823,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Amanhã eu vou apresentar meu trabalho de... De combinação de negócios, que é a penúltima matéria. E em julho eu apresento o projeto final e formo. Aí termino. Dois anos."
+      },
+      {
+        "start_time": 1775687581823,
+        "end_time": 1775687592937,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Passou rápido, né? Junho você falou que vai ser aí? Julho. Julho, Julho. Ó, mas aí muito bom, né? Muito bom. Foi muito legal."
+      },
+      {
+        "start_time": 1775687592937,
+        "end_time": 1775687628946,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Conheci muita gente interessante aqui também, lá no Insper, É uma universidade bem legal aqui em São Paulo. Enfim, tô querendo continuar estudando. Ainda não sei bem pra que lado eu vou, mas no momento eu tô gostando de estudar Finanças a fundo. Eu acho que eu vou fazer uma outra prova em novembro, do CFA Society. Aí vou continuar estudando. A Thaís está indo para os Estados Unidos, né? Então eu vou ficar sozinho uns meses.\n\n"
+      },
+      {
+        "start_time": 1775687628946,
+        "end_time": 1775687632279,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Acho que vai ser bom voltar a estudar também."
+      },
+      {
+        "start_time": 1775687632279,
+        "end_time": 1775687644128,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ela vai fazer o quê nos Estados Unidos? Ela vai fazer pós-doutorado. Ela tem uma bolsa lá, um grant. E vai conseguir fazer uma experiência lá na Denver. Acho que é Denver."
+      },
+      {
+        "start_time": 1775687644128,
+        "end_time": 1775687646350,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Talvez eu dê um pulo lá."
+      },
+      {
+        "start_time": 1775687646350,
+        "end_time": 1775687650424,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Estou pensando em ir lá no fim do ano visitar ela."
+      },
+      {
+        "start_time": 1775687650704,
+        "end_time": 1775687654282,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Quanto tempo vai levar? Quanto tempo lá?"
+      },
+      {
+        "start_time": 1775687654282,
+        "end_time": 1775687655304,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Uma semana."
+      },
+      {
+        "start_time": 1775687655304,
+        "end_time": 1775687657860,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, não. Ela, quanto tempo?"
+      },
+      {
+        "start_time": 1775687657860,
+        "end_time": 1775687660416,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ela vai ficar seis meses."
+      },
+      {
+        "start_time": 1775687660416,
+        "end_time": 1775687661950,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Seis meses. Ah."
+      },
+      {
+        "start_time": 1775687661950,
+        "end_time": 1775687665528,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Vai ficar de julho agora até dezembro."
+      },
+      {
+        "start_time": 1775687665528,
+        "end_time": 1775687674218,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É, bastante tempo, mas... Aí se você vai de meio quebra ou... É, mas ainda assim... É."
+      },
+      {
+        "start_time": 1775687677053,
+        "end_time": 1775687683324,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Vamos ver. Mas tá legal aqui em São Paulo, tá bem legal."
+      },
+      {
+        "start_time": 1775687683324,
+        "end_time": 1775687684892,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tá bem legal."
+      },
+      {
+        "start_time": 1775687684892,
+        "end_time": 1775687685937,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É, eu..."
+      },
+      {
+        "start_time": 1775687685937,
+        "end_time": 1775687694821,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Só foi lá com... Quando o Favela Bryce toca lá, eu não... É, olha o avião passando."
+      },
+      {
+        "start_time": 1775687694821,
+        "end_time": 1775687702137,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Acho que o Google corta, mas tem um avião na minha orelha aqui agora."
+      },
+      {
+        "start_time": 1775687702137,
+        "end_time": 1775687780394,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Caraca. Caraca. Quando eu morava na Pereira da Selva às vezes eles mudaram a rota coisa assim teve avião indo para o Santo Dumont e pareceu que alguém ia pousar em cima da gente não recebeu a gente não recebeu a notícia do bondinho né vou dar um toque no Daniel lá verdade e a gente mandou e vai aproximar dele devagar vai rolar seria legal você conhecer o daniel você tá tocando ainda eu não tô fazendo em chão eu só faço para o braço mas mas eu toco ainda né acabei de estudar mas é ó eu vou tá no rio esse mês Deixa eu ver aqui, peraí que por acaso eu tô com a minha agenda aqui, não é mesmo?\n\n No dia 25, se você for tocar em algum lugar, de repente eu vou... É, 23, a gente tem um feijoada ABCDE na comunidade. Eu vou no 25 e volto 26, só se fosse 25."
+      },
+      {
+        "start_time": 1775687780394,
+        "end_time": 1775687787690,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Esse dia no baile, o baile tá sendo 18, ia ser 25, mas a gente..."
+      },
+      {
+        "start_time": 1775687787690,
+        "end_time": 1775687839408,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ia ser 18, aí depois a Priu chamou a gente pra tocar no Rio Fashion Week, 18. Aí depois a gente colocou pra 25, aí depois eles falaram que não deu certo no Rio Fashion Week, então a gente voltou pra dia 18, porque teve o regente que não pediu no dia 25, então... O que tá me preocupando Não me preocupei no momento porque o Roberto do Paraty está falando, está meio que dando para trás, porque ele está falando que eles não captaram, teve um Repsol de uma das empresas deles, reduziu o volume e ele está correndo atrás da captação.\n\n E agora ele está falando para mim que não sei se vai dar para levar."
+      },
+      {
+        "start_time": 1775687839547,
+        "end_time": 1775687842561,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Eles pagaram pra gente ano passado?"
+      },
+      {
+        "start_time": 1775687842561,
+        "end_time": 1775687869082,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eles pagam os custos, sabe? E deve dar em volta de 15 mil para tudo. Mas quanto que eles pagaram ano passado? Eles não pagam caxé, sabe? Eles só compram os custos. Mas eu acho que a raiz é a coisa inteira em torno de 15 mil reais, com transporte, alimentação, e hospedagem."
+      },
+      {
+        "start_time": 1775687869082,
+        "end_time": 1775687872631,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Quantas crianças a gente teve no ano passado?"
+      },
+      {
+        "start_time": 1775687872631,
+        "end_time": 1775687874849,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Esse número estava no relatório."
+      },
+      {
+        "start_time": 1775687874849,
+        "end_time": 1775687912250,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "No ano passado, o grupo deveria ter sido de 16 crianças e umas 23 pessoas. Dessa vez, vai ser um pouquinho menos, porque a gente está dividindo o entry. A gente fechou BH. Então, a gente vai fazer esse festival Sabácio e a gente vai dividir em duas bandas. E então a gente vai ter uma banda menor de crianças, então a gente só vai estar levando, sabe, uns 16 adultos. Aí eu falei isso pro Roberto, mas ele falou, não, mas ainda assim a hospedagem tá muito cara.\n\n"
+      },
+      {
+        "start_time": 1775687912250,
+        "end_time": 1775687920541,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Mas você já resolveu lá pra ir, né? Já, a gente alugou uma casinha bem legal, a gente alugou cedo, pagou bem."
+      },
+      {
+        "start_time": 1775687920541,
+        "end_time": 1775687929014,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ah, não, mas tomara que dá pra gente ir. Ele falou que está com boas expectativas, mas..."
+      },
+      {
+        "start_time": 1775687929014,
+        "end_time": 1775687940258,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É, vamos ver, continua tentando aí, porque o festival é bem legal. Não dá para levar menos crianças e aí chegar num meio termo com ele?"
+      },
+      {
+        "start_time": 1775687940258,
+        "end_time": 1775687948043,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Exatamente. Não, a gente está levando menos crianças, é isso, a gente está levando... Ao invés de levar..."
+      },
+      {
+        "start_time": 1775687948043,
+        "end_time": 1775687951502,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tentar negociar com ele. Quanto foi por criança?"
+      },
+      {
+        "start_time": 1775687952116,
+        "end_time": 1775688005894,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "ano passado você lembra que ele pagou então 15 mil por criança é mais mil reais por criança né e aí aí esse ano vão ter quatro menos crianças vão ter 11 crianças mas é aquela coisa assim eu pensei aí você aí você quis Tá, mas eu falei, se tiver uma oportunidade de a gente chegar no meio termo, a gente pagar alguma coisa, sabe, para protegibilizar. Mas é complicado, porque metade da banda vai para Paraty e metade vai para o BBH, esse que a gente combinou.\n\n Aí fica complicado uma metade ter e outra metade não ter."
+      },
+      {
+        "start_time": 1775688007558,
+        "end_time": 1775688011395,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Sim, sim, faz sentido, não, vai ter outra viagem."
+      },
+      {
+        "start_time": 1775688011395,
+        "end_time": 1775688050519,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas a de BH, você tem algum patrocínio ou vai ser só o nosso assento? Eles vão pagar tudo. O BH, eles já têm, acho que eles têm uma situação melhor de patrocínio, o cara falando, tranquilo, todo mundo fica no hotel, tudo né. Ah, melhor. Mas vamos ver, vamos ver, eu quero que a gente Mas eu acho que o Roberto é bobeira, porque tem muitos shows lá. Eu acho que tem muitas coisas que deveriam cair antes da Favela Brás, na programação lá, honestamente.\n\n"
+      },
+      {
+        "start_time": 1775688050519,
+        "end_time": 1775688062203,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Esse é um ótimo argumento. A gente carrega o festival nas costas, né? Sim! Até o gerente do Banco do Brasil me reconheceu."
+      },
+      {
+        "start_time": 1775688063716,
+        "end_time": 1775688088006,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Não, é isso que a gente teve. No A festival, gente sempre estava lá, o público perguntando, quando eles não colocaram eles no palco. Por que vocês não colocaram eles no palco? Melhor coisa do festival, etc. Sabe, entre amigos. Tem um monte de coisa que não tem muito a ver também no festival."
+      },
+      {
+        "start_time": 1775688088006,
+        "end_time": 1775688089881,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Vamos ver, vamos ver."
+      },
+      {
+        "start_time": 1775688089881,
+        "end_time": 1775688360395,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Vai dar certo. Você conheceu o Stuart? Meu amigo Stuart, ou não? Stug e Carola. É meu amigo que toca trombone. Enfim. A mesma coisa com eles. Eles vão para Paraty. Agora eu tenho que conversar com eles só para entender a situação. Será que os outros vão entrar? O que vocês acham? O Alberto falou... Peraí, vou ligar pro Bruno, me dá um segundo. Tá, tô aqui. Fala pessoal! Fala Bruno, tudo bem?"
+      },
+      {
+        "start_time": 1775688360395,
+        "end_time": 1775688396969,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Tudo bem, gente. Desculpa a demora, galera. Descendo a serra e tinha uma carreta virada aqui eu tava sem sinal os últimos 30 minutos Opa, tranquilo, távamos começando aqui, a gente tava só batendo papo, só Ah, beleza, foi mal, eu não consegui nem avisar, cara Fiquei sem internet e só passei da carreta agora e a internet voltou junto É maluco de ficar descendo a Caralho, cheio de caminhão, cheio de carro.\n\n"
+      },
+      {
+        "start_time": 1775688396969,
+        "end_time": 1775688398755,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Espera melhorar o trânsito."
+      },
+      {
+        "start_time": 1775688398755,
+        "end_time": 1775688404112,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É foda, cara. Complicado. Eu não tive que descer, não tem jeito."
+      },
+      {
+        "start_time": 1775688404112,
+        "end_time": 1775688408131,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "E aí, como é que tá lá em cima?"
+      },
+      {
+        "start_time": 1775688408131,
+        "end_time": 1775688412149,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Tudo em cima? Lá em cima, tudo em cima?"
+      },
+      {
+        "start_time": 1775688412149,
+        "end_time": 1775688413488,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Na serra? É."
+      },
+      {
+        "start_time": 1775688413488,
+        "end_time": 1775688417953,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Tudo certo, tudo certo. Tipo, eles vão indo bem, cara."
+      },
+      {
+        "start_time": 1775688417953,
+        "end_time": 1775688419292,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Indo bem, sim."
+      },
+      {
+        "start_time": 1775688419292,
+        "end_time": 1775688425024,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Só esse vai e vem que me mata um pouco."
+      },
+      {
+        "start_time": 1775688425024,
+        "end_time": 1775688449846,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O Tom também está no vai e vem agora que está em Niterói. Sim estou no ônibus tem um bom executivo entre a região oceânica e o Rio que está me salvando. Eu sou o terror do executivo sem reuniões do ônibus."
+      },
+      {
+        "start_time": 1775688449846,
+        "end_time": 1775688473880,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Isso é a melhor coisa que eu estou procurando um aluguel mais perto do centro de Petrópolis para parar de ficar e só vir de ônibus que você consegue fazer as coisas do ônibus pode atrasar não tem problema nenhum não pode levar o tempo que for se você tiver sendo produtivo descansando é melhor do que dirigir dirigir que a pior parte."
+      },
+      {
+        "start_time": 1775688473880,
+        "end_time": 1775688515227,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim sim é verdade. Eu estava conversando hoje, Bruno, com a Ian Nottingham também, com um grupo de Mannheim, na Alemanha, que eles vêm em julho. É uma banda de sopros, né? Mas muito bom, muito bom. Eu vi os vídeos deles lá, uma coisa muito séria. E eles vão tocar, eles são parte das eles vão fazer uma coisa com a gente, a gente tá planejando isso, mas eles vão tocar em Petrópolis também. Então eu vou te mandar...\n\n"
+      },
+      {
+        "start_time": 1775688515227,
+        "end_time": 1775688522532,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Fica a dica, que eles vão tocar no Teatro Municipal, e eles vão tocar em Petrópolis também."
+      },
+      {
+        "start_time": 1775688522532,
+        "end_time": 1775688528977,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Legal, me fala sim. Eu pego o nome depois, que eu sigo eles no Instagram."
+      },
+      {
+        "start_time": 1775688528977,
+        "end_time": 1775688529836,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1775688529836,
+        "end_time": 1775688531555,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Tá cheio de bola."
+      },
+      {
+        "start_time": 1775688531555,
+        "end_time": 1775688531985,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Legal."
+      },
+      {
+        "start_time": 1775688532469,
+        "end_time": 1775688544162,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, começando a reunião aqui, acho que vamos ser nós três. Será que o Rolf vai querer participar, Tom? Ele vai ter que assinar tudo junto comigo."
+      },
+      {
+        "start_time": 1775688544162,
+        "end_time": 1775688556289,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Então, seria bom ele participar desse comitê. É, mas ele não está... A gente não oficializou ele fazendo parte do comitê de finanças. Então, ele não está esperando."
+      },
+      {
+        "start_time": 1775688558224,
+        "end_time": 1775688570522,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "E aí a gente compartilha com ele nas reuniões quinzenais o que a gente decidir aqui então, né?"
+      },
+      {
+        "start_time": 1775688570522,
+        "end_time": 1775688579404,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Ele também poderia, se ele quiser, estar nesse comitê, mas já tem quatro."
+      },
+      {
+        "start_time": 1775688579404,
+        "end_time": 1775688605710,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Acho que a gente pode começar nós três aqui, partindo do princípio, né, de que o Bruno seria o meu sucessor natural na tesouraria e teria que assumir algumas decisões a partir do ano que vem, a gente poderia começar a pensar já nessa transição, né?"
+      },
+      {
+        "start_time": 1775688605710,
+        "end_time": 1775688606247,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1775688606247,
+        "end_time": 1775688624301,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, eu consegui acessar suas contas, a gente ainda não tem o para tirar da conta a movimentação para a conta de execução. Então, acho que o primeiro tema da pauta seria um update da PetroRio."
+      },
+      {
+        "start_time": 1775688624301,
+        "end_time": 1775688896531,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Hoje acabou a guerra, o que foi bom para o mundo, mas muito ruim para a terra, não é? Sim, a pressa do óleo foi para a terra. Eu fiz um pouquinho de... Fiquei pesquisando mais. E o que eu estava pesquisando, então, falando que abriu... É o Bonanza, o que eles ganharam, mas... A tendência vai ser, provavelmente, mais caro, mas eles estão fazendo alguma coisa estrutural de contabilidade com alguns investimentos deles, sabe?\n\n Eles estão... Que vai, no ano passado, foi abafando os... Os lucros deles, e assim a ONU continua abafando um pouco os lucros deles. Então, com aquele campo peregrino que eles têm, eles estão, não sei como se fala em português, mas aí isso abafa um pouco os... Eu estou entendendo a situação deles. Pagam a gente no final do trimestre. Por quê? Porque eles não sabem, só quando eles sabem o lucro para o semestre, porque eles vão saber quanto que eles têm para pagar pela Rua Ney.\n\n Então, eles não vão querer pagar os projetos sociais no início do mês, não só por questão dos juros, mas também por questão que, no início do mês, eles não sabem, se eles pagam todos os projetos sociais no início do mês, eles estão meio que chutando o que eles vão ter no início do trimestre formal. Só no final do trimestre que eles vão saber o quanto que eles vão ter para o ANEI. Então, basicamente, a gente tem esse problema meio estrutural, e eu entendo porque eles vão pagar no final do primeiro trimestre, mas é foi muito ruim que eles não pagaram a gente no final do primeiro trimestre, porque duas coisas, uma coisa é que eu que estava atrás deles para o contrato, aí eles falaram, ó, chegou um novo diretriz lá da diretoria, que a gente não pode pagar sem contrato, foi muito ruim, foi muito ruim, desorganizado, porque eles falaram que iam pagar a gente, a gente até emitiu de mercenato para eles, e eu só no dia 27, pensei, não, vou entrar em contato com eles.\n\n E quando eu entrei em contato com eles, está tudo certo com o documento, aí eles tinham que admitir que eles não vão pagar. Mas, enfim, eu tive... Alguma coisa está acontecendo, que também eles pediram para a gente tocar no domingo, na corrida deles, em Copacabana. Aí eu falei para eles, olha, a gente vai fazer, mas eu quero que vocês façam uma coisa para dar uma coisa no final, a gente vai dar esse jeito, mas pelo amor de Deus, dá esse jeito para a gente e adianta esse pagamento.\n\n Aí a Camila estava em contato na segunda-feira para pegar detalhes do diário oficial, essas coisas que parece que está caminhando, mas nossa, é preocupante. É preocupante mesmo. Quando falei, tem o João Vitor e a Camila, que são dos patrocínios. Ele falou, o que aconteceu? A gente não teve contrato com ninguém, agora a gente tem que fechar contrato com todos os projetos. Eu peguei metade, a Camila pegou metade, a gente está fazendo uma força-tarefa.\n\n Eu falei, mas quando vocês vão pagar a gente? Ele falou, não, não vai demorar muito. Metade de maio com certeza e eu falei ó o que sabe porque a gente não tem a gente não tem dinheiro a gente não está sem caixa eu deixei isso bem claro com eles a gente vai acabar suspendo a atividade coisa assim mas eu fico na esperança que eles vão eles não vão demorar tanto para pagar porque tá Pessoal, eu caí um pouco aqui, mas estou entendendo que isso vai ser provavelmente ano que vem de novo.\n\n"
+      },
+      {
+        "start_time": 1775688896531,
+        "end_time": 1775688898280,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Estou errado, Tom?"
+      },
+      {
+        "start_time": 1775688898280,
+        "end_time": 1775688919131,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A mesma situação? É, porque se tem essa questão desse ciclo que eles precisam encerrar o trimestre para saber quanto foi o lucro e poder pagar, é algo que acho que a gente tem que se precaver."
+      },
+      {
+        "start_time": 1775688919131,
+        "end_time": 1775689091701,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Exatamente, Bruno. Exatamente. Isso é estrutural para agora. O que a gente tem que fazer? O que eu acho? Se a gente consegue uma doação no final desse ano, se a gente consegue por pessoas físicas ou empresas, se a gente consegue 250 mil reais no final desse ano, depositado para 2027, a gente não tem esse problema de fluxo de caixa. Acho que a gente está faltando um trimestre. Não tem como, isso é estrutural.\n\n Ainda acho que a Pri gosto da gente, mas a gente está faltando esse trimestre. Quando a gente chega na parte de captação, é isso, se a gente só consegue uns 250 mil, 300 mil, imagina se a gente, né, se a gente conseguir 300, 250, aí a gente consegue pagar primeiro trimestre com outras coisas até chegar o dinheiro da Prio e depois a gente vai caminhando, mas ainda, a gente sempre vai ficar com Prio, pensando agora, né, a Prio vai pagar o nosso último parcelo esse ano, no dia 31 de dezembro, num projeto.\n\n Então, vão reembolsar a gente. É muito ruim para a parte da contabilidade também, da burocracia com a lei Juaneda, a gente tá pagando as coisas com a nossa conta, depois reembolsando. Então, tomara que Tomara que a gente consiga repetir, conseguir uma... E outra coisa que isso mata, para o Bruno entender a nossa situação, a gente tem uns 220, nossa, de reserva, mas tudo isso a gente nem pode tocar.\n\n A gente não quer gastar tudo, mas temos... Reformas na nossa sete, que seriam muito boas. A gente fez uma reformazinha na nossa sete no início desse ano, que foi muito bom. A gente fez tratamento acústico, portas e janelas acústicas na parte de baixo. Seria bom um dia mostrar para o conselho, mas isso ficou muito bom, e a gente quer fazer lá em cima, aí a gente vai ficar com um lugar onde dá para ensaiar sem atrapalhar ninguém, colocar tudo, mas...\n\n A gente precisa de mais uns 50 mil, 70 mil. Se a gente não estivesse colocando o nosso dinheiro na caixa... Tem que fazer, tem que fazer, não dá para esperar, não."
+      },
+      {
+        "start_time": 1775689091701,
+        "end_time": 1775689095479,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tem que aproveitar o momento que dá para fazer e fazer."
+      },
+      {
+        "start_time": 1775689095479,
+        "end_time": 1775689098913,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É, mas o problema é com a Pria fazendo assim..."
+      },
+      {
+        "start_time": 1775689098913,
+        "end_time": 1775689105438,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Não, a gente está enfocado, mas a gente está acostumado, não é, Tom? Todo ano é assim na cultura."
+      },
+      {
+        "start_time": 1775689105438,
+        "end_time": 1775689142963,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, mas é isso que estou falando. Se a gente... Se a gente consegue esse extra, a gente conseguiu 100 reais de pessoas físicas que vão entrar agora. Então, por exemplo, quando entra esse dinheiro da Prio, na verdade, vão entrar 350 mil, e aí vai realmente, acho que até dá para fazer essas coisas por causa disso. Mas é isso que eu estou falando, se a gente consegue esse 250 mil de pessoas físicas de outra empresa, isso libera também o nosso saldo para esses projetos capitais.\n\n"
+      },
+      {
+        "start_time": 1775689142963,
+        "end_time": 1775689156053,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Total, imagina se a gente conseguisse 250 mil agora do bondinho, pela rua Ney, a gente teria que encaixar nas nossas agendas."
+      },
+      {
+        "start_time": 1775689156053,
+        "end_time": 1775689166639,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Porque a conversa deles é transformacional. Esse 250 mil vai render muito, que vai regularizar o projeto. Total."
+      },
+      {
+        "start_time": 1775689166639,
+        "end_time": 1775689186119,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Mas é, rodando projeto incentivado, a gente sempre vai ter um descasamento de fluxo de caixa, não tem como. Para a gente resolver esse problema, a gente precisa gerar uma receita livre, para que a gente possa financiar os projetos com o nosso caixa."
+      },
+      {
+        "start_time": 1775689186119,
+        "end_time": 1775689189448,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É, sim. Desculpa."
+      },
+      {
+        "start_time": 1775689189448,
+        "end_time": 1775689190007,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Bruno?"
+      },
+      {
+        "start_time": 1775689190007,
+        "end_time": 1775689191125,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Tô aqui."
+      },
+      {
+        "start_time": 1775689191125,
+        "end_time": 1775689216275,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "A gente achou que você ia falar alguma coisa. Não, na verdade, não. Eu ouvi você falando, Tom, e você travou. Não, a receita livre, mas o que a gente tem é das apresentações. Eu estou pedindo dinheiro da Prêmio para as apresentações com eles."
+      },
+      {
+        "start_time": 1775689216572,
+        "end_time": 1775689349975,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "A gente tem que valorizar o fato de que somos um projeto com impacto social muito acima da média, muito acima da média. É dinheiro de cultura, mas vem no combo com educação, que é tão importante quanto, ou mais, na verdade, muito mais, do ponto de vista orçamentário. O orçamento da Alemanha é muito pequeno em comparação o fundamento da educação. Por quê? Porque a escolha pública é a educação da propriedade.\n\n Então, quando a gente pega dinheiro da Lei Rouanet e investe em educação, a gente se blinda da principal crítica que existe a Rouanet. O nosso projeto não tem nada a ver com o projeto da Lei Rouanet, que é um disco de Claudia Leitte, um monte de projetos muito ruim que tem na Rouanet e que tá conseguindo captar por aí. Então a gente tem que se vender caro nesse sentido para a Prio. Eles têm que aumentar, eles têm que...\n\n Mesmo que eles diminuam, eu tô com o balanço aqui aberto, não sei se vocês estão conseguindo ver. Sim, vendo. Tô Estava tentando entender, eu já fiz isso algumas vezes, mas nunca entendi profundamente como calcular certinho quanto que eles têm de orçamento de Lei Rouanet. A conta que eu faço a grosso modo é pegar o imposto corrente que foi de R$ 567 milhões em 2024 e R$ 419 419 milhões em 25 e aplicar 6%.\n\n Aplicar 4%, na verdade, não é, Tom? 6% é para pessoa física, acho que pessoa jurídica é 4%. De 419 milhões, 1% seria 400 mil. 4%, é 1 milhão e 600, é isso? Não."
+      },
+      {
+        "start_time": 1775689349975,
+        "end_time": 1775689367629,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu fiquei, mas eu fico pedindo para ir lá. É muito dinheiro que eles têm, isso que eu sei. Estou tentando achar a conversa onde eu pesquisei isso."
+      },
+      {
+        "start_time": 1775689367629,
+        "end_time": 1775689370151,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É 16 milhões, desculpa."
+      },
+      {
+        "start_time": 1775689370151,
+        "end_time": 1775689448455,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "É 16 milhões. 16 milhões é uma grana do cacete, a gente não tá nem com 10% do orçamento deles ainda. Não, eu acho que é até mais que isso. Vamos olhar agora? Então, eu tô aqui com o que eu fiz no INAIA. Aí, eles estão fazendo para o primeiro trimestre, de 2026, 11 a 19 milhões para a Ruaney. Segundo trimestre desse ano, 14 a 25. Mas o ano grande para eles era 2024, eles tinham muito dinheiro. Ano passado, foi um pouco mais daqui, Eu queria compartilhar...\n\n Vou colocar no grupo. Sei lá, só para ter uma ideia. Não sei, pode estar errado isso, mas basicamente... Eu acho que está muito perto, não vai fugir muito disso, não."
+      },
+      {
+        "start_time": 1775689448455,
+        "end_time": 1775689456186,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "É entre 10 e 20, com uma margem segurança bem grande eu diria."
+      },
+      {
+        "start_time": 1775689456186,
+        "end_time": 1775689460589,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Mas na verdade isso é o de 2025 né."
+      },
+      {
+        "start_time": 1775689460589,
+        "end_time": 1775689466950,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Pode ser que aumente bastante aí com a salta do petróleo vamos ver."
+      },
+      {
+        "start_time": 1775689466950,
+        "end_time": 1775689559009,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O Claudio está colocando até mais. O Claudio está achando que é 25 a 30 para esse ano e 46 não foi 25 a 30 para o ano passado e 70 mil para esse ano. E a outra coisa que eles também, eles colocam o seu dinheiro também. Eles colocam o seu dinheiro também para os projetos deles. Então, a gente ainda tem que ser amigo deles. E eu também estou querendo, para o ano que vem, ver se a gente tem esse projeto para levar as crianças para a Alemanha.\n\n E vamos escrever esse projeto de Rouanet, o adaptado que a gente já tem, que é um bom projeto para levar as crianças na Alemanha no ano que vem. O dono da pizzeria, Uwe Fabitz, esse cara é multimilionário. Ele é dono de um dos maiores estúdios do mundo, que é o Funkhaus, em Berlim. Era onde o rádio da Alemanha e da Leste era o principal. Mas, enfim, ele está convidando a gente para ir em Berlim, em maio do ano que vem.\n\n Enfim, eu acho que vale, vamos fazer um projeto de Lei Rouanet para isso e tentar conseguir uma, um patrocinador alemão e também ver se a Prio tem interesse também. Legal."
+      },
+      {
+        "start_time": 1775689559009,
+        "end_time": 1775689576200,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Essa empresa, olha como essa empresa é interessante, ela é realmente O quadro de sócio delas é só minoritário, basicamente. Quem são esses outros acionistas? Eu nem sei quem está na Pri hoje. O Nelson Tanuri."
+      },
+      {
+        "start_time": 1775689576200,
+        "end_time": 1775689576989,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Ele saiu."
+      },
+      {
+        "start_time": 1775689576989,
+        "end_time": 1775689591988,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Ele sofreu um squeeze do Santander e ele teve que se desfazer de todas as ações dele, porque ele estava devendo por causa da cagada que ele fez com o Amipar. Então, hoje, caiu no balanço dos bancos."
+      },
+      {
+        "start_time": 1775689591996,
+        "end_time": 1775689623017,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "abriu tá só tá com os bancos é o Nelson tava alguma coisa com essa coisa do banco máster né mas também tem o Nelson tanure no meio então ele comprou o Tom ele ele comprou a light cara ele ele chegou na light e comprou um pedaço da light não teve isso bicho teve teve tudo que tá com um meio podre tem tanure no meio assim literalmente em Andaluzia ele esteve em quase todos."
+      },
+      {
+        "start_time": 1775689623017,
+        "end_time": 1775689627276,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Então foi bom ele ter saído para a gente."
+      },
+      {
+        "start_time": 1775689627276,
+        "end_time": 1775689628696,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Foi muito bom."
+      },
+      {
+        "start_time": 1775689628696,
+        "end_time": 1775689650296,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Institucionalmente foi maravilhoso para a empresa. Exatamente exatamente. O Claudio falou a mesma coisa. Desculpa Bruno eu uso o EAD demais. Mas é isso. Eles ficam com uma quadra mais forte de governança. A única coisa que ele gosta ele pessoalmente não gostava muito da gente."
+      },
+      {
+        "start_time": 1775689650296,
+        "end_time": 1775689669122,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Pois é, mas acho que o filho dele ficou lá na diretoria. A gente precisa agora ver quem vai entrar no lugar do filho dele quando ele sair da diretoria de sustentabilidade. Ele ficou. Acho que eles mantiveram... Provavelmente, eles mantiveram algumas ações."
+      },
+      {
+        "start_time": 1775689669122,
+        "end_time": 1775689703540,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eles continuam fazendo parte do quadro de minoritários. Eu fiz uma quadra para a Diane, que foi... Dos finanças deles, que introduziu a gente. Eu fiz uma quadra para ela, da gente, assinado para as crianças, para ela colocar no escritório. E ele pediu a mesma coisa, só que a gente não tinha mais. Agora eu fico feliz que ele não está lá. Imagina, feliz de bater na porta e ter que levar a escrita no escritório dele.\n\n"
+      },
+      {
+        "start_time": 1775689703548,
+        "end_time": 1775689712326,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Mas o relacionamento com a Priu era pessoalmente do Tanuri, Tom? Ou era outra pessoa que você tinha lá dentro?"
+      },
+      {
+        "start_time": 1775689712326,
+        "end_time": 1775689774193,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A gente entrou com a Diane, que é dos impostos deles, mas agora a gente conhece bastante gente lá, e depois o Nelson passou a gostar da gente, estava em todos os eventos. Agora tem a Camila, que está na frente dos projetos deles, que relacionamento bom. Eu fiz a mentoria, no ano passado, com a Lívia Richardson, que é o chefe de marketing deles. Ela está do nosso lado. O que é a coisa que... Os patrocínios, também, muito disso é para a interna, para quem trabalha para um petro...\n\n De pé petróleo sentir que está fazendo alguma coisa bem. Acho que quem trabalha lá que gosta da gente e isso faz parte do valor da gente para eles."
+      },
+      {
+        "start_time": 1775689774193,
+        "end_time": 1775689788947,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Sim o ponto é que esse cara apesar dele ser enfim nebuloso. Ele pode Cara, é bilionário, literalmente. Os caras mais ricos do país."
+      },
+      {
+        "start_time": 1775689788947,
+        "end_time": 1775689873383,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Cara, mas isso é uma coisa... A gente falou de captação também. Uma coisa que eu tô pensando na captação é dar mais prioridade nessa coisa da captação de pessoas físicas. Cara, eu... A gente faz... Só pra você saber, Bruno. Entre a equipe, a gente faz... Tem uma coisa que a gente tudo mantém suas pedras para o trimestre. Algumas coisas que não, eu vou falar, eu vou fazer isso esse trimestre, e uma das minhas pedras para esse trimestre com a equipe é organizar algum tipo de evento de captação, sabe, para juntar investidores, pensar alguma coisa para esse trimestre.\n\n E eu acho que, de repente, juntando os doadores por pessoas físicas que a gente tem, eu acho que essa coisa de doação por pessoas físicas é muito, sabe, Se tudo, mas a gente teve 100 mil de pessoas físicas, se a gente consegue, é bem diversificado, né? É uma coisa que eu acho, sei lá, eu acho que no ano passado eu só estava pensando em imprensa, mas eu acho que SP é exatamente o que você fala. Priu, por exemplo, a gente poderia conversar, eu posso conversar com a Olivia da Priu, será que dá para ter uma coisa interna da Prio das pessoas fazerem como pessoas físicas também para a gente?\n\n"
+      },
+      {
+        "start_time": 1775689873383,
+        "end_time": 1775689911263,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "A gente chegou a conversar, não sei se a gente chegou a ter essa conversa contigo, Tom, mas eu e o Norton a gente conversou com uma outra associação no Rio e eles fazem a captação de pessoa física com o sistema da Stripe, de pagamento. Então, eles falaram que isso ajudou muito eles, porque eles conseguem ter doação direta de pessoa física pelo app e pelo Google Pay. Então eles recebem direto do cartão de crédito das pessoas, ficam vinculados, entra como se fosse a mensalidade do Netflix, do Spotify.\n\n E parece que isso fez muita diferença para eles. A gente chegou a ter essa conversa, Norton?"
+      },
+      {
+        "start_time": 1775689911263,
+        "end_time": 1775689947798,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "A gente teve essa conversa e eu concordei bastante com eles, porque o nosso maior problema com benfeitoria é que o pessoal não consegue... O meio de pagamento fica expirando e aí a gente vai admitir uma taxa de decay nos nossos contribuições que o pessoal não vai lá no bem feitoria renovar. Se a gente passar essa barreira do bem feitoria e chegar direto no Apple Pay, Google Pay que a pessoa mantém o cartão de crédito na Apple e na Google sempre atualizada a gente ia conseguir crescer o nosso bem feitoria muito mais fácil.\n\n Então até fiquei de ver isso mesmo só não tinha levantado com o Tom ainda."
+      },
+      {
+        "start_time": 1775689947798,
+        "end_time": 1775689949682,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Eles já fizeram e gostam muito."
+      },
+      {
+        "start_time": 1775689949682,
+        "end_time": 1775689956922,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Tom fez muita diferença para esses caras. Mas isso é. A gente tá falando de pagamento incentivado ou direto?"
+      },
+      {
+        "start_time": 1775689956922,
+        "end_time": 1775689957817,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Direto, direto."
+      },
+      {
+        "start_time": 1775689957817,
+        "end_time": 1775689958712,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Ah, entendi."
+      },
+      {
+        "start_time": 1775689958712,
+        "end_time": 1775689968559,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "O pagamento incentivado, é legal da gente tentar entrar nas empresas, mas precisa que as pessoas façam imposto de renda completo, né?"
+      },
+      {
+        "start_time": 1775689968559,
+        "end_time": 1775690033706,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, não, exatamente, mas a gente tá... O que é bom com isso, que a gente agora dá pra fazer por PIX identificado. Isso ajuda muito esse ano. PIX, tudo sai no PIX. Então, isso... Porque o problema também é só a complexidade dessa coisa do app, né? Por pessoa física é complexo. Ah, tem que fazer um depósito identificado. Como eu faço um depósito identificado? Ah, não funcionou no meu app, não funcionou no meu app.\n\n E tudo muda, então não adianta. Mas com o PIX identificado, eu também acho que vai... E se a gente consegue... Eu tô pensando se a gente consegue ter meio que um clube dos doadores que já estão doando para a Lei Rouanet, convidando outras pessoas. Gente, vamos fazer a nossa reunião trimestral, aí ver se vocês conseguem trazer mais pessoas e cada um tenta, sabe, essa ideia de porque..."
+      },
+      {
+        "start_time": 1775690033706,
+        "end_time": 1775690047227,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "A gente pode fazer um show anual, para eles perto da época do limite do pagamento que a gente está falando de 31 de dezembro e pode fazer o Natal do Favela Brás temático."
+      },
+      {
+        "start_time": 1775690047227,
+        "end_time": 1775690065312,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Ajudar as pessoas a fazer a conta ajudar porque isso mesmo sem o Pix identificado eu fiz aquela transferência com a minha tia cara foi uma confusão e até para a pessoa saber o quanto ela esse descasamento é que é complicado você doa para depois Sim."
+      },
+      {
+        "start_time": 1775690065312,
+        "end_time": 1775690065693,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Exatamente."
+      },
+      {
+        "start_time": 1775690065693,
+        "end_time": 1775690080940,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "E você não sabe o quanto é devido porque você não sabe o quanto vai ser teu IR. Isso é uma confusão danada. Então, assim, ter gente perto para fazer realmente o evento, as pessoas em loco, seria muito importante."
+      },
+      {
+        "start_time": 1775690080940,
+        "end_time": 1775690128014,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, exatamente. Então, essa ideia, né? Imagine se a gente fez trimestral. A gente faz... Neste trimestre tem uma reunião de pessoas. Mais uma. E na última é a reunião realmente em loco, as pessoas fazendo as contas e colocando, para explicar exatamente como funciona. Uma outra coisa também que eu tenho que colocar, eu tenho que fazer isso, que está na hora, deixa eu colocar na lista, está na hora que a galera está fazendo seu imposto.\n\n Sim, abriu. Sim, mas a galera, pessoas físicas estão fazendo seus impostos, Agora é a época que as pessoas vão estar pegando esse reembolso, né?"
+      },
+      {
+        "start_time": 1775690128014,
+        "end_time": 1775690128448,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1775690128448,
+        "end_time": 1775690141464,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Então, de repente, vale a gente entrar em contato com as pessoas e falar, então, só para lembrar de você colocar no imposto. É importante mesmo. Lembrar da contribuição, né?"
+      },
+      {
+        "start_time": 1775690141464,
+        "end_time": 1775690145803,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Isso, é uma oportunidade para... Não, tem que fazer isso."
+      },
+      {
+        "start_time": 1775690145803,
+        "end_time": 1775690149708,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Deixa eu colocar isso na minha lista das coisas."
+      },
+      {
+        "start_time": 1775690149708,
+        "end_time": 1775690213391,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Isso é superimportante. Mas um pouco do que eu falo de pessoa física tão assim como tanto e tudo mais é que o projeto já teve acesso a pessoas muito grandes e o nível de profissionalismo do projeto é muito grande também. Então assim é literalmente ter oportunidade de ter uma reunião com essa pessoa mostrar a validade do projeto mostrar um plano. Assim a gente tem esse projeto de levar as crianças para a Alemanha custa tanto saber às vezes buscar o cara desse tira do bolso e financia sozinho.\n\n Esses caras que a gente conversou, o negócio deles é basicamente captação de recursos, eles são endowment, eles são basicamente um fundo de investimento social. Então o negócio deles é só investimento, é pedir a grana e mostrar como eles vão usar. Isso é algo que a gente podia fazer de uma forma muito frontal, com os caras grandes desses, 100 mil reais para esse cara é isso é 10 reais para gente entendeu.\n\n"
+      },
+      {
+        "start_time": 1775690213391,
+        "end_time": 1775690420437,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim não com certeza com certeza. Exatamente isso porque o que eu penso a coisa de ter uma ação pessoa física via Rua Ney é uma boa. Por exemplo dentro de as minhas minhas amigas a Margot e Judi que são donas da indústria de seguro aí a ideia é porque, se a gente convida eles para show, a minha ideia é de ter meio que uma conversa, sabe? Juntos, então, como agir de meio que um clube, uma força de tarefa para analisar os projetos, exatamente, apresentar, a gente quer ir para a Alemanha no ano que vem, vai ter isso, e apresentar os projetos para as pessoas se interessarem.\n\n Mas essa coisa de estar, basicamente, a ativação de rede, de a gente ter um evento que não é só... Porque o baile, por exemplo, os nossos shows da Flamengo no País são complicados porque não é a conversa, sabe? É meio reunião que a gente quer de gente que já conhece o projeto, ou talvez antes de um show, coisa assim. É isso que eu quero... Vai ter um churrasco, não tem churrasco. É, exatamente. Alguma coisa...\n\n Estou pensando em onde fazer, em qual tipo de evento... Porque a gente tem, por exemplo, a gente tem o S. Júlio Pinha, do Supa, lá da Lagoa. Como a gente consegue... Ele não vem na comunidade, coisa assim, Como a gente... Eu quero fazer, tenho que fazer a próxima, a primeira edição nesse trimestre, mas qual é o evento, qual é o formato disso onde a gente vai conseguir falar com as pessoas? Porque acho que a palavra que você falou está certa, Bruno, frontal.\n\n Não, vamos mostrar as crianças, não. A gente precisa, eu sei que você é uma pessoa que pode ajudar, eu sei que você tem os contatos, a gente está juntando, todo mundo aqui já está doando, eu pergunto para a pessoa física, para a gente, a gente está com problemas, a gente precisa de mais, não que a gente está com problemas, a gente precisa de mais dinheiro, a gente está com projetos muito legais, coisas para levantar.\n\n Então, como a gente pode colocar essas pessoas na mesma sala para conversar? Aquela conversa de, então, vocês poderiam, eu tenho um amigo, que já conhece alguém no team, sei lá, nessa empresa, e também eles pensam das pessoas físicas e a gente vai ativando essa rede, não de forma de, ah, foi legal, mas não. Então, esses são os mecanismos para viabilizar falabrais, quem pode ajudar, né? A gente fez o...\n\n A gente mostrou o filme da gente no ano passado. A gente poderia passar o filme sobre o projeto nesse encontro, por exemplo. Mas acho que alguns deles já viram. Mas sabe onde a gente poderia..."
+      },
+      {
+        "start_time": 1775690420437,
+        "end_time": 1775690429648,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Esse filme é matador. Eu mostrei o filme do Pabello Abrás para o Bruno, foi o dia que ele quis entrar no Conceito."
+      },
+      {
+        "start_time": 1775690429648,
+        "end_time": 1775690431250,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Está muito bom mesmo."
+      },
+      {
+        "start_time": 1775690431250,
+        "end_time": 1775690476372,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim. Mas acho que o problema agora que algumas pessoas já viram, mas fica aí. A Prio cede o rooftop deles para a gente, mas acho que é um pouco estranho fazer um evento de patrocínio no patrocinador, acho arriscado de ter alguma dinâmica. Mas, enfim, é isso. A coisa é que, o que é a melhor coisa para marcar. Se é no café ideias, manhã, em algum lugar... Não sei."
+      },
+      {
+        "start_time": 1775690476372,
+        "end_time": 1775690478135,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Vou pensar."
+      },
+      {
+        "start_time": 1775690478135,
+        "end_time": 1775690479017,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Boa."
+      },
+      {
+        "start_time": 1775690479017,
+        "end_time": 1775690488713,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então é isso, acho que do ponto de vista das finanças."
+      },
+      {
+        "start_time": 1775690488713,
+        "end_time": 1775690504899,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, em termos de... Tudo dentro das contas, Norton. Eu só queria... Tem uma dinâmica que eu queria falar pra vocês."
+      },
+      {
+        "start_time": 1775690504899,
+        "end_time": 1775690506800,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Ô, Norton, saiu?"
+      },
+      {
+        "start_time": 1775690506800,
+        "end_time": 1775690509968,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "É, acho que ele caiu."
+      },
+      {
+        "start_time": 1775690509968,
+        "end_time": 1775690511868,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Esperar ele voltar."
+      },
+      {
+        "start_time": 1775690511868,
+        "end_time": 1775690513769,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A gente tem..."
+      },
+      {
+        "start_time": 1775690513769,
+        "end_time": 1775690584983,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "A gente tem um grupo... Eu não sei se a gente falou em Bruno, a gente conheceu uma galera de Itaipava, que são bem publicoavo, que tem contato... É um vale lá em Itaipava, todo mundo milionário, e tem um grupo lá, a gente tocou lá no Natal. E o filho do principal, o Luiz, o filho doou 80 mil. Você me contou do evento que você conheceu? Não, isso foi outro. Isso é Júlio, que é o cara da Lagoa. Mas esse filho do Luís, do Itacapé, ele que doou.\n\n E tem isso também, né? Se alguém vai declarar um monte de imposto um ano, ou se alguém receber uma herança, vai pagar um imposto caro, aí, nesse ano, né, Padre? Que talvez o filho dele tava recebendo moedas ou alguma coisa assim, não sei."
+      },
+      {
+        "start_time": 1775690584983,
+        "end_time": 1775690610329,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Sim, eu tô lidando com uma galera com muita grana, Itaipava. Então, assim, a gente tá se envolvendo em venda de imóvel. Então, assim, é… Simplesmente, a gente tá tentando vender alguns imóveis no condomínio que vai ser o primeiro condomínio do Brasil que vai ter um helicóptero só pros moradores do condomínio. Particular. É esse nível, cara. É esse nível. Caramba!"
+      },
+      {
+        "start_time": 1775690610329,
+        "end_time": 1775690615609,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Oi? Sim, pode falar. É, então assim, é gente de muito alto nível."
+      },
+      {
+        "start_time": 1775690615609,
+        "end_time": 1775690671211,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Tá tendo um evento lá esse fim de semana que é o Master Casa, um evento sobre... De mercado imobiliário mesmo, essas coisas como casa e rio, de arquitetura e tal. E... Assim, a gente consegue se envolver nessas coisas, sabe? Participar, botar as crianças pra tocar, tentar angariar fundos. Tem muita coisa assim pra fazer nesse aspecto, tá? Eu consigo ajudar bastante nisso. É porque como eu tô um pouco mais longe ainda, eu ainda não entendo como é que funciona essa dinâmica de levar as crianças pra tocar, se elas recebem, se elas não recebem, se os pais são bem receptivos com isso, se a gente pode cobrar.\n\n Eu queria entender isso um pouco melhor com você um outro dia, pra entender como a gente pode organizar esses eventos, né? Eu tava pensando Até esse ano vai ter Rock in Rio, por exemplo, sabe? Será que não é algo de tentar? Rock in Rio tem uma parte social muito forte."
+      },
+      {
+        "start_time": 1775690671211,
+        "end_time": 1775690698954,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "É algo de tentar sim. Eu nunca consegui, mas é algo de tentar sim. Um palco toca o Favela e o Favela Brás não toca no palco. Aí eu vou... Mas eu nunca consegui. Eu acho que a gente poderia tocar pelas ruas. Eu já fiz um show com uma banda de jazz tocando pelas ruas do Rock in Rio. Eu acho que o Favela Brás poderia fazer isso super bem. Eu consegui contatos lá, mas eu não consegui realmente entrar.\n\n"
+      },
+      {
+        "start_time": 1775690698954,
+        "end_time": 1775690731209,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A responsável pelo Rock the Mountain, pela seleção das bandas, é a Country Manager, que toca tudo do Rock the Mountain, é uma amiga pessoal minha e do Norton aqui, então assim, tem umas coisas que seriam interessantes a gente tentar se inserir, mas eu não entendo comercialmente, como isso funciona? Como é que é levar as crianças e como é que os pais lidam com isso? Porque, afinal, é um projeto, são menores de idade e tudo mais.\n\n"
+      },
+      {
+        "start_time": 1775690731209,
+        "end_time": 1775690774534,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Basicamente, só para rapidinho falar isso, a gente pode ir tocar nos lugares. No momento, a raiz do nosso fim financeiro vai me dar um chute embaixo da mesa se eu propor qualquer coisa quando a gente está pagando para tocar. Mas normalmente a gente cobra 5 mil reais. Eu acho que a gente podia tentar colocar o Amigos da Cacilda no Rock in the Mountain. Eu concordo totalmente, porque o Rock in the Mountain é um pouco legal para a Favela Brás.\n\n Rock in Rio, sim. Mas Rock in the Mountain é um pouco legal. Tudo o que o Galera falar, eu acho que Amigos da Cacilda seria perfeito."
+      },
+      {
+        "start_time": 1775690774534,
+        "end_time": 1775690775313,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Legal, legal."
+      },
+      {
+        "start_time": 1775690777113,
+        "end_time": 1775691050417,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim. Então, a coisa que eu ia falar, gente, é uma coisa estrutural. O Rolf falou que ele não vai conseguir, não conseguiu hoje, e vai tentar amanhã em Brasília. Tá muito difícil a situação financeira no momento, sem poder movimentar a conta, que eu fico pagando coisas da minha conta, mas eu não recebi meu salário, eu tô pagando um casamento, eu tô, eu não, eu tô, né, sem, eu fico um pouco sem graça para falar, mas eu não consigo pagar mais coisas agora.\n\n Aí a gente, a gente precisa movimentar essa conta. A gente, ou eu, né, acho que tem coisa no CDB, mas do que a gente já tem? Que eu acredito, pela análise, que é mais ou menos 58 mil, incluindo CDP, na conta a gente consegue pagar tudo que não é salário, né? Eu tô falando de transporte, alimentação, por exemplo, a dona Evonete que faz a nossa alimentação por mês, a gente paga ela no início do mês porque ela tem que comprar os insumos.\n\n A gente não pagou ela esse mês e eu não tenho como pagar ela, então tá bem, sabe, a gente, são esses pagamentos Eu acho que não passa de 20 mil, coisa assim, mas a gente tem que... É crítico. A Raíssa falou que a gente vai... Ela estava falando, tentando falar para os financiadores, não, a gente vai pagar essa semana, ter sexta-feira a gente paga, porque eu achei que o Rob ia hoje, mas é uma semana complicada para ele, mas a gente está com...\n\n Que além de... Ele tem que encarar depois a gente tem que fazer todos esses, a gente tem que montar todos os pagamentos. Acho que não só um, não é 50 pagamentos, mas a gente tem essa questão um pouco depressa para o Ralph cadastrar e depois fazer esses primeiros pagamentos, mas a outra coisa só para, coisa que eu queria para me preparar estruturalmente, é que o novo Estatuto, aquela coisa que o Luca levantou a bandeira, eu discordei no início, depois vi que ele estava totalmente certo, me coloca como diretor executivo para poderes de movimentar a conta, quer dizer, eu vou poder, o que a gente precisa para o Banco do Brasil me colocar para poder movimentar a conta e, entre a gente, a gente estabelece limites com isso, etc., etc.\n\n Mas isso não deu para fazer, não dá para fazer, não deu para fazer não. A gente precisa de uma outra ata, de uma reunião para me eleger como diretor executivo. A gente criou a carga, a gente criou a estrutura com a... Tudo que a gente tem, é a arte que a gente tem, mas não é possível, não teria sido possível me colocar, LGE, como diretor executivo dentro do AGE. O que a gente fez? Mas a gente poderia...\n\n O que a gente tem que fazer, e eu acho que a reunião geral da semana que vem poderia ser sem isso, é para aprovar eu, como diretor executivo, para ter alguma coisa que eu levo no banco para me cadastrar como diretor executivo, para que eu consiga movimentar a conta, para que no New Hope não tenha que fazer todos os pagamentos todo mês, que não é o jeito. E o próximo passo é tentar uma procuração uma entrada, um acesso administrativo para a raíça, para ela programar, ela não assina nada, não vai ter poderes, mas ela poder criar os pagamentos para a gente assinar.\n\n Para eu assinar, né?"
+      },
+      {
+        "start_time": 1775691050417,
+        "end_time": 1775691051395,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Perfeito."
+      },
+      {
+        "start_time": 1775691051395,
+        "end_time": 1775691060197,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Então, como é que a gente pode fazer isso?"
+      },
+      {
+        "start_time": 1775691060197,
+        "end_time": 1775691070166,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Como é que vocês costumam fazer essas determinações?"
+      },
+      {
+        "start_time": 1775691070166,
+        "end_time": 1775691146311,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu acho que eu só coloco... Eu converso com o Rolf, o certo, o Rolf é presidente, então, eu converso com o Rolf sobre isso, mas ele coloca no grupo, porque a gente tem a reunião geral da diretoria da semana que vem. Da semana que vem. Aí a gente já avisa logo no grupo Nessa reunião, a gente vai me eleger como diretor executivo, aí depois a gente cadastra lá no, a arte lá no, a gente prepara a arte certa, e depois o contador cadastra a arte no captor e quando tiver, quem precisa assinar, assina, aí quando estiver pronto, eu levo lá no banco e me cadastro com os poderes para eu poder movimentar a conta.\n\n Mas antes disso, infelizmente, vai ter esse trabalhinho do Norton programar os pagamentos até eu ter esses poderes."
+      },
+      {
+        "start_time": 1775691146311,
+        "end_time": 1775691147900,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Entendi, perfeito."
+      },
+      {
+        "start_time": 1775691148172,
+        "end_time": 1775691150209,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "O Norton tá aqui?"
+      },
+      {
+        "start_time": 1775691150209,
+        "end_time": 1775691157848,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu não tô vendo se ele tá aqui. Tá, tá sem. Ah, tá sem? Beleza."
+      },
+      {
+        "start_time": 1775691157848,
+        "end_time": 1775691167524,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "E então, deixa eu só aproveitar para perguntar também, quanto custa uma criagem para a Alemanha com as crianças?"
+      },
+      {
+        "start_time": 1775691167524,
+        "end_time": 1775691234148,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "O projeto de Rouanet que eu coloquei no ano passado é 300 reais, mas a gente consegue metade disso, basicamente, se a gente consegue o transporte, que eu vou para lá em julho desse ano para fazer um projeto com as crianças de lá, eu vou passar uma semana ensaiando com eles, para eles aprenderem a tocar o repertório da Flamengo Brice, eles vão tocar no festival da cidade lá na Bavaria. Legal, hein?\n\n Sim. E o Instituto Goethe já apoiou a vinda deles para cá em 2024. Estou conversando com eles. Eu vou mandar o meu projeto para ajudar com as minhas passagens para lá. Então, mas o que eu estou falando é que eu acho que a gente vai conseguir outros apoios além da Rua Enem, sabe?"
+      },
+      {
+        "start_time": 1775691234148,
+        "end_time": 1775691235715,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Goethe-Institut, eu acho que..."
+      },
+      {
+        "start_time": 1775691235715,
+        "end_time": 1775691251785,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E o Valinho da Embaixada, né? Sim, eu tô fazendo contato, que eu conheço o presidente da Rotary daqui, ele vai me colocar em contato com o Rotary de lá, etc, etc. Então, eu acho que se a gente consegue, né..."
+      },
+      {
+        "start_time": 1775691251785,
+        "end_time": 1775691256880,
+        "speaker": {
+          "name": "Bruno Muniz"
+        },
+        "words": "Ubi, será que a gente não consegue o dinheiro lá do Cruzeiro, não?"
+      },
+      {
+        "start_time": 1775691256880,
+        "end_time": 1775691308317,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Então... Com certeza a gente consegue entrada no Goethe e no Humboldt. E na embaixada alemã, porque esse tipo de intercâmbio cultural é muito normal. Brasil-Alemanha, Brasil-França, principalmente lugar que teve imigração forte, Alemanha, Itália, Portugal, eles incentivam muito isso. Eu acho que o melhor de todos seria a embaixada mesmo, porque a própria embaixada tem a conexão e deixa todos privados.\n\n Então, mas o Marcos com certeza vai ter entrada na Embaixada, entendeu? Eu iria direto na Embaixada porque eles vão encontrar os agentes privados interessados. Às vezes mais fácil até do que ir batendo de porta em porta, entendeu? A Embaixada já tem o telefone da galera do Humboldt, da galera do Goethe."
+      },
+      {
+        "start_time": 1775691308317,
+        "end_time": 1775691315641,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Bate lá, tu que tá descendo a serra aí toda semana passando no centro, você passa na frente."
+      },
+      {
+        "start_time": 1775691315641,
+        "end_time": 1775691321715,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É, pode ser, pode ser. Mas será que teu pai não tem contato de embaixada, não?"
+      },
+      {
+        "start_time": 1775691321715,
+        "end_time": 1775691325890,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Não, de embaixada tem, mas lá em Brasília é outra dinâmica."
+      },
+      {
+        "start_time": 1775691325890,
+        "end_time": 1775691336898,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Não, mas a gente pode tentar, a gente pode tentar mesmo pelo cruzeiro, cara. Falar com a galera do cruzeiro, ver se eles têm contato na embaixada da Alemanha."
+      },
+      {
+        "start_time": 1775691336898,
+        "end_time": 1775691362136,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Eu acho que é um bom caminho, sim. Eu tinha pensado na... Naquela sociedade de beneficência que apoia o Cruzeiro. São uma entidade de terceiro setor. Ele já tem, inclusive, já mandei um e-mail para eles, já comecei a tentar captar a atenção deles lá. Já apresentei o Favela Brás para o Marco Chu, para a Renata."
+      },
+      {
+        "start_time": 1775691362136,
+        "end_time": 1775691364433,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Já existe uma construção ali."
+      },
+      {
+        "start_time": 1775691364433,
+        "end_time": 1775691394426,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Então, acho que eles já gostam, já conhecem. A gente conseguir um patrocínio deles, de repente, ou que eles falem com alguém no Retiro Humber. Eu acho que misturar as crianças é um pouco polêmico. Eu acho que eles não iam querer um intercâmbio junto, mas eu acho que um apoio financeiro é bem possível."
+      },
+      {
+        "start_time": 1775691394426,
+        "end_time": 1775691394959,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1775691397464,
+        "end_time": 1775691480727,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Eu estou colocando no grupo um link. Eu produzi um vídeo, eu peguei o arquivo do intercâmbio que a gente fez em novembro, quando eles visitaram a gente, essa galera de Bavaria. Aí, semana passada, eu acho, ou outra semana, eu criei esse vídeo, e se vocês quiserem ver, para mandar para o Goethe, para mandar para os parceiros. E eu também estou tentando viabilizar a minha vinda para esse projeto. Então tem um projeto piloto pequeno onde eu só preciso viabilizar minha viagem, o transporte, essas coisas e os custos basicamente.\n\n Aí esse projeto que eu estou colocando para o Goethe no Instituto, vou tentar com o Rotary. Então, essa coisa pequena e a ideia, né, porque essa é uma coisa de, né, dessas coisas menores e a ideia é de, né, para tentar preparar a terra para uma coisa maior, onde a gente vai precisar de dinheiro institucional no ano que vem."
+      },
+      {
+        "start_time": 1775691480727,
+        "end_time": 1775691481219,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Sim."
+      },
+      {
+        "start_time": 1775691481219,
+        "end_time": 1775691527703,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Aí, por isso, Eu também estou entrando em contato com o Rotary daqui, o presidente do Rotary aqui falou que ele vai fazer o contato com o Rotary de lá, porque eu vou pedir ajuda para as minhas... Os meus cursos para esse projeto piloto esse ano, mas também para tentar ir conhecendo empresas lá, porque eu tenho uma sensação a gente poderia acabar. Eu acho que isso poderia ser uma forma muito boa de conhecer uma empresa alemã, um VW, Munich, Munich e Rio, a coisa de resseguro.\n\n"
+      },
+      {
+        "start_time": 1775691527703,
+        "end_time": 1775691528901,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Estou vendo..."
+      },
+      {
+        "start_time": 1775691528901,
+        "end_time": 1775691531895,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "A própria Baia, não é?"
+      },
+      {
+        "start_time": 1775691531895,
+        "end_time": 1775691533092,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "Sim, sim."
+      },
+      {
+        "start_time": 1775691533092,
+        "end_time": 1775691565872,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Baia, Hermert. Sim, exatamente. Tem a lista dessas empresas. Essas empresas. Eu tenho a sensação que essa coisa da Alemanha poderia ajudar não só de financiar a coisa para a Alemanha mas acho que seria também uma forma de a gente chegar em empresas alemães que têm subsidiário no Brasil. Dessa região da Bavária. Sim."
+      },
+      {
+        "start_time": 1775691566441,
+        "end_time": 1775691584257,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 3"
+        },
+        "words": "E aí, de novo, pelo menos as farmacêuticas todas têm indústria no Brasil, cara. Tem uma atuação muito forte, né? Digo no Rio, não tô nem falando no Brasil, né? Porque, assim, Volkswagen vai ter indústria no Brasil, mas não vai ser..."
+      },
+      {
+        "start_time": 1775691584257,
+        "end_time": 1775691708181,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Se bem que é interior do Rio, sim, né? A gente tocou na fábrica deles em dezembro. Ah, que barato. Outro contatinho. Outro contatinho? O Claudio e a tava falando do BASF, como um interessante, é BASF. Adidas, Puma, são daquela região. Faba, Castel, também interessante. Enfim, é aquela coisa. Eu acho que tem esse aspecto da coisa da Alemanha. E também, só para vocês saberem, esse cara, o V, que tem o Funk House, ele falou, a gente está falando para 2027, para levar as crianças para 2027, ele se ofereceu, ele falou, não, eu acho que a melhor forma de levar as crianças é de você chamar alguém, tipo o seu Jorge, para tocar o Funk House, aí eles recebem cheia de artista, e o lado da...\n\n Ele doar o lado da casa para a Brás, para viabilizar. Então, e tem... É interessante. E em maio tem um carnaval, se chama Carnaval de Cultura, em Berlim. E eu estou olhando para 2027, se a gente consegue juntar essas coisas, fazer alguma coisa do Funk House, participar no Carnaval de Kulturen, talvez fazer uma semana em Bavária com as nossas crianças e levar para lá. Enfim, participar do Carnaval de Kulturen em Berlim eu acho bem interessante.\n\n Mas o foco tem que ser para conseguir o ANEI para o nosso plano alto ano que vem também."
+      },
+      {
+        "start_time": 1775691708181,
+        "end_time": 1775691709619,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Com certeza."
+      },
+      {
+        "start_time": 1775691709619,
+        "end_time": 1775691712495,
+        "speaker": {
+          "name": "Norton Fritzsche"
+        },
+        "words": "Mais alguma pauta, Turma?"
+      },
+      {
+        "start_time": 1775691712495,
+        "end_time": 1775691715372,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Como é que estão?"
+      },
+      {
+        "start_time": 1775691715372,
+        "end_time": 1775691735477,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Estou aqui, estava pesquisando aqui, estava olhando umas empresas os alemães aqui que a gente poderia eventualmente captar. Então é isso, né? Eu acho que a gente tem que esperar o Rolf, né Tom?"
+      },
+      {
+        "start_time": 1775691735477,
+        "end_time": 1775691736567,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É isso?"
+      },
+      {
+        "start_time": 1775691736567,
+        "end_time": 1775691748012,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Pra gente poder movimentar a conta e depois você poder fazer o seu login também, depois da ata da diretoria executiva."
+      },
+      {
+        "start_time": 1775691749594,
+        "end_time": 1775691799123,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 1"
+        },
+        "words": "Sim, exatamente. E vou... Vamos colocar no grupo, de alguma forma, sobre essa coisa de me oficializar na próxima reunião da diretoria. Mas, infelizmente, entre Posse e Rolf, a gente precisa vocês, manualmente, fazendo esse primeiro leva de pagamentos. E eu vou continuar, daqui a pouco eu vou correr atrás mais uma vez com a Prio para tentar esses pagamentos de abril, que está complicado. Eu fico quase falando com o Diane, com outros contatos da empresa para adiantar eu não quero aceder.\n\n Tchau."
+      },
+      {
+        "start_time": 1775691827849,
+        "end_time": 1775691861270,
+        "speaker": {
+          "name": "Conference Room (Tom Ashe) - Speaker 2"
+        },
+        "words": "Tá bom, então amanhã você me avisa se o Rolf conseguir liberar lá E a ata de hoje, a gente manda essa do Read AI aí, qualquer coisa eu faço mais, aquele meu modelinho também Ok, beleza, posso mandar a transcrição Eu já criei a pasta lá de abril, é só botar dentro No Drive do Conselho. Tá bom? Eu vou nessa, pessoal, que saiu jantar aqui, tá?"
+      },
+      {
+        "start_time": 1775691861270,
+        "end_time": 1775691864673,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Obrigado, gente. Tchau, Bruno. Tchau, Arilton."
+      },
+      {
+        "start_time": 1775691864673,
+        "end_time": 1775691866941,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Um abraço. Tchau, tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Conference Room (Tom Ashe) - Speaker 1"
+      },
+      {
+        "name": "Conference Room (Tom Ashe) - Speaker 2"
+      },
+      {
+        "name": "Conference Room (Tom Ashe) - Speaker 3"
+      },
+      {
+        "name": "Bruno Muniz"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      },
+      {
+        "name": "Norton Fritzsche"
+      }
+    ]
+  },
+  "platform_meeting_id": "cue-fjpk-ubk",
+  "platform": "meet"
+}

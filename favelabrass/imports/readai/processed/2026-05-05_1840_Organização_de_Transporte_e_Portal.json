@@ -1,0 +1,792 @@
+{
+  "session_id": "01KQWN7R45915ZASF9C858FT9X",
+  "trigger": "meeting_end",
+  "title": "Organização de Transporte e Portal",
+  "start_time": "2026-05-05T15:08:50-03:00",
+  "end_time": "2026-05-05T15:37:54-03:00",
+  "participants": [
+    {
+      "name": "Edlene conrado",
+      "first_name": "Edlene",
+      "last_name": "conrado",
+      "email": null
+    },
+    {
+      "name": "Tom Ashe",
+      "first_name": "Tom",
+      "last_name": "Ashe",
+      "email": "tom@favelabrass.org"
+    }
+  ],
+  "owner": {
+    "name": "Tom Ashe",
+    "first_name": "Tom",
+    "last_name": "Ashe",
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "A reunião tratou da organização do transporte para os eventos, da definição de preços e da responsabilidade sobre a agenda no portal de eventos. O time confirmou valores provisórios para os deslocamentos: vans por R$1.000 (duas vans em dias específicos), micro-ônibus por R$1.800 e estimativa de cerca de R$9.000 para um ônibus grande; discutiram quem irá na van da Favela Brás, como dividir lugares sobrando, coordenação da volta, possibilidades de paradas para alimentação e a opção de estender uma noite de hospedagem para reduzir deslocamento noturno, com atenção a horários, duração das apresentações, impacto em crianças e segurança.\n\nForam levantadas pendências de comunicação, incluindo retorno do contato Zola e envio de mensagens para alinhar datas e logística. O seguro viagem, com citação de R$10.000, foi objeto de consenso para revisão: buscar orçamentos alternativos e definir quem arcará o custo, com possibilidade de a organização de BH pagar parte ou emitir nota. No portal, Edlene ficará responsável final pela edição dos horários; foi acordado alinhar a lista de alunos com Iris/Ilis e incluir um campo checklist para indicar transporte e presença, tarefa que Tom propôs delegar a Claudio. Confirmou-se apresentação em Carandáí às 18h e tratou-se da logística de estandartes, com Edlene e Raíssa coordenando retiradas e entregas.",
+  "action_items": [
+    {
+      "text": "Edlene conrado: Avisar a responsável sobre a necessidade de incluir a volta e confirmar o valor e os dias das vans"
+    },
+    {
+      "text": "Tom Ashe: Enviar nova mensagem para Zola para confirmar a presença e a data do dia 15"
+    },
+    {
+      "text": "Tom Ashe: Alinhar com a organização a possibilidade de pernoite e confirmar se haverá oferta de hotel para a noite de sábado"
+    },
+    {
+      "text": "Edlene conrado: Verificar orçamentos alternativos de seguro viagem e apresentar opções mais baratas"
+    },
+    {
+      "text": "Tom Ashe: Enviar nota ou proposta de pagamento ao contato de BH caso eles devam arcar com o seguro viagem"
+    },
+    {
+      "text": "Iris/Ilis: Atualize e envie a lista de alunos com indicações de presença e transporte para que o portal reflita corretamente quem vai aos eventos."
+    },
+    {
+      "text": "Tom Ashe: Reveja os valores cobrados nas viagens e ajuste os custos para incluir no orçamento do festival."
+    },
+    {
+      "text": "Claudio: Adicione ao portal um campo de checklist com checkbox por aluno indicando \"vai no transporte\" ou \"vai direto\"."
+    },
+    {
+      "text": "Edlene Conrado: Envie para Tom o detalhamento do checklist desejado para integração no portal."
+    },
+    {
+      "text": "Raíssa: Coordenar a retirada ou envio do novo estandarte para Edlene conforme necessidade de entrega."
+    },
+    {
+      "text": "Edlene Conrado: Pesquise opções de seguro viagem confiável e informe Raíssa sobre a forma de pagamento que será usada."
+    }
+  ],
+  "key_questions": [
+    {
+      "text": "Quanto custa o ônibus para o deslocamento?"
+    },
+    {
+      "text": "Que horas acaba o show?"
+    },
+    {
+      "text": "O horário de saída da viagem da Mariana é no domingo pela manhã?"
+    },
+    {
+      "text": "Quem deve adicionar ou editar a lista de alunos no portal?"
+    },
+    {
+      "text": "Como funciona o botão de confirmação no portal e como confirmar participantes?"
+    },
+    {
+      "text": "O novo estandarte já chegou e como será entregue?"
+    }
+  ],
+  "topics": [
+    {
+      "text": "As vans para os dias 23 e 29 foram oferecidas a R$1.000 por duas vans, valor destinado apenas ao deslocamento até o ponto amarelinho."
+    },
+    {
+      "text": "O micro-ônibus foi cotado em R$1.800 e o ônibus grande foi estimado em cerca de R$9.000."
+    },
+    {
+      "text": "Haverá divisão de passageiros entre a van da Favela Brás e o micro-ônibus, com possibilidade de rateio para vans adicionais se necessário."
+    },
+    {
+      "text": "O contato chamado Zola ainda não confirmou a data do dia 15 e precisa ser recontatado para confirmação."
+    },
+    {
+      "text": "É preciso alinhar retorno, paradas para alimentação e possível pernoite para evitar chegada de madrugada e problemas com crianças e segurança."
+    },
+    {
+      "text": "O seguro viagem foi cotado em R$10.000, valor considerado alto e indicado para buscar orçamentos alternativos e definir quem pagará."
+    },
+    {
+      "text": "Edlene deve ser a responsável primária pela edição da agenda dos shows no portal para evitar alterações não comunicadas."
+    },
+    {
+      "text": "A lista de alunos precisa ser mantida e atualizada pela Iris/Ilis para que o portal apresente quem participa e como se desloca."
+    },
+    {
+      "text": "Foi identificada uma discrepância nos valores cobrados das viagens que precisa ser revista e alocada aos custos do festival."
+    },
+    {
+      "text": "O portal deve receber um campo de checklist indicando se cada aluno usa transporte ou vai direto."
+    },
+    {
+      "text": "Há dois estandartes planejados para o inverno e a logística de retirada/entrega está sendo coordenada por Raíssa e Edlene."
+    },
+    {
+      "text": "Edlene investigará opções de seguro viagem e coordenará o pagamento com a organização que custeará as despesas."
+    }
+  ],
+  "report_url": "https://app.read.ai/analytics/meetings/01KQWN7R45915ZASF9C858FT9X",
+  "chapter_summaries": [
+    {
+      "title": "Abertura e cumprimentos",
+      "description": "A reunião iniciou com saudações formais entre os participantes. Em seguida, Edlene começou a expor detalhes iniciais sobre as reservas e valores relacionados ao evento.",
+      "topics": []
+    },
+    {
+      "title": "Reservas de vans e ônibus e preços iniciais",
+      "description": "Edlene apresentou as opções de vans para os dias 9, 15, 16, 23 e 29, informando a oferta de duas vans por R$1.000 nos dias 23 e 29 e discutiu categorizações entre micro-ônibus e ônibus grande. Tom questionou preços e confirmou estimativas de custo do micro-ônibus e do ônibus grande.",
+      "topics": [
+        "O micro-ônibus foi cotado em R$1.800 e o ônibus grande foi estimado em cerca de R$9.000."
+      ]
+    },
+    {
+      "title": "Distribuição de passageiros e logística de viagem",
+      "description": "Tom explicou que a Favela Brás seguirá em micro-ônibus e que restariam vagas que poderiam ser rateadas para vans adicionais. Houve concordância sobre o preço de R$1.000 para duas vans e discussão sobre necessidade de retorno e lanches para viagens específicas.",
+      "topics": [
+        "Haverá divisão de passageiros entre a van da Favela Brás e o micro-ônibus, com possibilidade de rateio para vans adicionais se necessário."
+      ]
+    },
+    {
+      "title": "Confirmações de fornecedores e comunicação com Zola",
+      "description": "Edlene informou que aguarda retorno do contato chamado Zola para confirmar participação no dia 15 e que já havia enviado mensagem pela manhã sem resposta. Tom também afirmou que enviaria mensagem adicional a Zola devido a questões pessoais que podem atrasar a resposta.",
+      "topics": [
+        "O contato chamado Zola ainda não confirmou a data do dia 15 e precisa ser recontatado para confirmação."
+      ]
+    },
+    {
+      "title": "Itinerário, horários de apresentações e hospedagem",
+      "description": "O grupo discutiu horários de chegada previstos, duração das apresentações (uma hora) e impactos de sair cedo ou chegar à madrugada, além da possibilidade de solicitar uma noite extra de hospedagem para evitar retorno noturno e permitir melhor aproveitamento do sábado. Tom e Edlene ponderaram paradas para alimentação e opções de tocar novamente no domingo para otimizar logística.",
+      "topics": [
+        "É preciso alinhar retorno, paradas para alimentação e possível pernoite para evitar chegada de madrugada e problemas com crianças e segurança."
+      ]
+    },
+    {
+      "title": "Seguro viagem e responsabilidade financeira",
+      "description": "Edlene informou que o seguro viagem foi cotado em R$10.000 e manifestou preocupação com o custo, apontando que é necessário pesquisar alternativas e definir quem arcará com o valor. Tom sugeriu emitir nota para os responsáveis em BH caso eles assumam o custo e mencionou que no passado o maior valor pago foi R$2.500, além de ter recebido contatos para cotação.",
+      "topics": []
+    },
+    {
+      "title": "Ajustes na agenda do portal",
+      "description": "A discussão começou com preocupação sobre múltiplos contatos e a necessidade de revisar quantas pessoas recebem mensagens, seguindo para debate sobre quem deve editar a agenda dos shows no portal. Tom sugeriu que Edlene seja a dona da agenda dos shows para evitar alterações não comunicadas e propôs que tudo passe por ela antes de publicar mudanças.",
+      "topics": [
+        "Edlene deve ser a responsável primária pela edição da agenda dos shows no portal para evitar alterações não comunicadas."
+      ]
+    },
+    {
+      "title": "Lista de alunos e confirmação de participação",
+      "description": "O time tratou da responsabilidade de manter a lista de alunos atualizada, indicando que Iris/Ilis deve atualizar quem vai ao evento e como viajam para que o portal reflita isso. Foi abordada a funcionalidade de confirmação no portal e a necessidade de alinhar listas entre o portal e a Iris.",
+      "topics": [
+        "A lista de alunos precisa ser mantida e atualizada pela Iris/Ilis para que o portal apresente quem participa e como se desloca.",
+        "Foi identificada uma discrepância nos valores cobrados das viagens que precisa ser revista e alocada aos custos do festival."
+      ]
+    },
+    {
+      "title": "Funcionalidades do portal e checklist",
+      "description": "Foram propostas melhorias no portal, incluindo campos para transporte e checkboxes por aluno, além de um checklist de pré-produção e templates de apresentação. Tom sugeriu pedir ao Claudio para implementar essas mudanças e pediu que Edlene envie especificações do checklist para montagem.",
+      "topics": [
+        "O portal deve receber um campo de checklist indicando se cada aluno usa transporte ou vai direto."
+      ]
+    },
+    {
+      "title": "Logística de eventos, custos e estandartes",
+      "description": "A conversa avançou para itens logísticos: estandartes para o inverno, retirada/entrega coordenada por Raíssa, confirmação de horários de apresentação (ex.: Carandáí às 18h) e revisão de valores de viagem para incluir nos custos do festival. Também foi discutida a cobertura de seguro viagem e quem pagará despesas como motorista.",
+      "topics": [
+        "Há dois estandartes planejados para o inverno e a logística de retirada/entrega está sendo coordenada por Raíssa e Edlene."
+      ]
+    }
+  ],
+  "transcript": {
+    "speaker_blocks": [
+      {
+        "start_time": 1778004701332,
+        "end_time": 1778004704575,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Boa tarde."
+      },
+      {
+        "start_time": 1778004704575,
+        "end_time": 1778004707818,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Boa tarde."
+      },
+      {
+        "start_time": 1778004707818,
+        "end_time": 1778004797932,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Tudo bem? Aberta aqui o que são do evento as vãs elas já estão fechadas tá do dia 9 15 e do 16 23 também 29 desse mês e aí ela vai fazer o seguinte com a gente no dia 23 e 29 ela vai botar o valor de mil reais e vai pegar duas vãs em vã 900 reais ela vai fazer as duas vãs por mil reais porque é só para descer até o amarelinho amarelinho tá isso é para BH viagem e para o seu casamento que a gente vai o ônibus vai esperar no amarelinho quanto é o ônibus quanto é o ônibus BH é um ônibus normal e para o seu aniversário micro-ônibus mas micro-ônibus consegue pegar na comunidade e consegue você falou que não conseguiria pegar subir não micro consegue ônibus que não consegue ah tá entendi ônibus grande né tá bom então então é só para o dia 29 e tá eu vou avisar ela tchau eu não sei quanto Mas você falou que não tem convidados também, não é?\n\n"
+      },
+      {
+        "start_time": 1778004797932,
+        "end_time": 1778004804038,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Sim, mas eu estava pensando... Seria interessante saber quanto é o ônibus."
+      },
+      {
+        "start_time": 1778004804038,
+        "end_time": 1778004823816,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Mil. Eu mandei já para... Deixe-me ver na planilha. Mil oitocentos. Mil oitocentos tá bom né."
+      },
+      {
+        "start_time": 1778004823816,
+        "end_time": 1778004825844,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Micro ônibus. Micro?"
+      },
+      {
+        "start_time": 1778004825844,
+        "end_time": 1778004826520,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1778004826520,
+        "end_time": 1778004829900,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "E quanto é o ônibus?"
+      },
+      {
+        "start_time": 1778004829900,
+        "end_time": 1778004908783,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "O ônibus é acho que nove mil. Esse é o ônibus para... Isso é não, tudo bem. Então a gente vai separadamente quem vai com a Favela Brás, quem vai estar na função com a Favela Brás, vai no micro, deve sobrar uns nove, dez lugares lá, aí depois eu vejo com as outras pessoas, se eles se racham uma van, coisa assim. Mas eu acho que é isso mesmo, mas o micro só é se ajuste, ajuste e s mil é bom esse preço né time você é bom esse preço mil reais para dois ônibus fazendo uma uma ida isso é muito bom ela vai fazer isso só para descer né é perfeito e aí a gente vai precisar da volta também né sim eu avisei ela e é só botar aqui para ela que E aí eu tô fechando agora os lanches com a Dona Ivonette do mês de maio, né?\n\n"
+      },
+      {
+        "start_time": 1778004908783,
+        "end_time": 1778004910056,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "Das apresentações."
+      },
+      {
+        "start_time": 1778004910056,
+        "end_time": 1778004921516,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "O único que pedi lanche foi pro seu casamento. É, não vai precisar mesmo. Não vai precisar, né?"
+      },
+      {
+        "start_time": 1778004921516,
+        "end_time": 1778004924699,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Porque ela vai ter comida."
+      },
+      {
+        "start_time": 1778004924699,
+        "end_time": 1778004930308,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Então, só... Só esse dia mesmo que eu não fechei com ela."
+      },
+      {
+        "start_time": 1778004930308,
+        "end_time": 1778004931173,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Tá bom?"
+      },
+      {
+        "start_time": 1778004931173,
+        "end_time": 1778004951078,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Sim. Deixa eu ver aqui. Caraca. Eu acho que hoje a reunião é basicamente isso. Eu tô esperando o retorno do menino do Zola, tá? Mandei mensagem pela manhã pra ele confirmando o dia 15. Ele não respondeu ainda. Deve estar nas discussões. Ele tá fora."
+      },
+      {
+        "start_time": 1778004951078,
+        "end_time": 1778004964894,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu mandei uma mensagem pra ele mas eu tenho que mandar uma mensagem para ele também. Ele tá lá fora, funerário de amigos, etc, etc. Mas vamos lá."
+      },
+      {
+        "start_time": 1778004972593,
+        "end_time": 1778004987529,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Não vou esquecer para falar para a menina. Acho que é isso, Tom. Eu posso... É."
+      },
+      {
+        "start_time": 1778004987529,
+        "end_time": 1778005074156,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu só queria ver com você, como sempre, essa questão do... Só do... No portão está certo esse que aí eu consegui eu coloquei a coisa não eu via para colocar em dois dias né então esse tudo tá tudo certo aqui sim qual é a chegada prevista no Rio no sábado depende do trânsito né por isso eu não botei a chegada ainda eu vou ver chegada quando a gente tiver indo eu não sei que a gente não sei se o moço vai fazer parada eu tava falando de dois dois dias no hotel na verdade você tá falando para eles botarem dois dias no hotel eu tava e aí a gente tem amor né porque agora eles estão e deixou é e eu acredito que a gente saindo Às cinco e meia, a gente esteja na cidade quase meia-noite.\n\n No mínimo, uma coisa para você saber, indo com criança não tem como, as coisas demoram. Que horas acaba o show? Quatro? Começa a apresentação às quatro e acaba às cinco."
+      },
+      {
+        "start_time": 1778005074156,
+        "end_time": 1778005079404,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "A gente vai estar chegando de madrugada no Rio, no sábado."
+      },
+      {
+        "start_time": 1778005079404,
+        "end_time": 1778005082744,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A menina falou que a gente não..."
+      },
+      {
+        "start_time": 1778005082752,
+        "end_time": 1778005085259,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "É uma hora só de apresentação."
+      },
+      {
+        "start_time": 1778005085259,
+        "end_time": 1778005090271,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Se você imagina, a gente vai precisar parar para comer na volta."
+      },
+      {
+        "start_time": 1778005090271,
+        "end_time": 1778005110741,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eles vão ficar com fome. Chegou 8 horas, 9 horas, a gente vai ter que parar. Eu coloco mais uma hora. Ela não ofereceu o hotel para o sábado à noite. A gente tem que alinhar isso melhor, porque eu falei com ele. Eu já tive isso na mão."
+      },
+      {
+        "start_time": 1778005110008,
+        "end_time": 1778005147616,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "a gente já teve a dificuldade do ônibus né porque ela queria mandar a gente de ônibus de viagem normal e aí eu acho que vale essa pressão novamente com ele sabe e a gente voltar no domingo de manhã e eu acho muito mais jogo chegar de manhã sair de lá né de manhã mas seis horas da manhã e está chegando aqui no horário de É, total, total, deixe eu, mas eu acho que, deixe eu só um segundo, eu vou escutar o áudio dele.\n\n"
+      },
+      {
+        "start_time": 1778005147624,
+        "end_time": 1778005241896,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "tá aqui ó ele falou de ficar mais uma noite a nossa conversa foi essa então por favor fala de chegar nas comunidades à noite, sei lá. Se não dá, eu acho que eu não ia cancelar o trip por causa disso, mas seria muito melhor para a gente. A gente até poderia fazer alguma coisa, domingo de manhã, encontrar que tem muito fanfarra em BH, a gente poderia, sei lá. Mas, de qualquer forma, se fosse, que se fosse pensar cinco e meia são o que oito oito horas lá para aí já a gente já tá falando de chegar duas horas da manhã se a gente parar para comer a gente tá falando de chegar de madrugada três horas quatro horas aí né mete a coisa do do segurança né problemas da e até até para aproveitar um sábado né o dia não exatamente e a gente poderia tocar mais Se eles querem, a gente toca mais uma vez no domingo.\n\n A gente quer tocar, é isso, mas se puder..."
+      },
+      {
+        "start_time": 1778005241896,
+        "end_time": 1778005244676,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Se você consegue desenrolar isso..."
+      },
+      {
+        "start_time": 1778005244676,
+        "end_time": 1778005256908,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Vou falar com ela que você falou... A gente tem que alinhar essas coisas, mas tudo bem. Vamos nessa. Outra coisa sobre..."
+      },
+      {
+        "start_time": 1778005256917,
+        "end_time": 1778005342067,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "bom a gente vai precisar de seguro viagem né você tá esperando o o e descrição da nota da raíça e já tá com ela o valor e tudo mais é aquele valor mesmo 10 mil ok então não pode dar uma cutucada tá mas eu é 10 mil para segurar viagem é e eu acho que vai aumentar né porque ficou mais isso só equivale dois dias o dia que a gente sai sexta e sábado botando mais um dia outro valor mas 10 mil de seguro viagem é por isso o mundo é mas eu acho que a gente tem que rever isso isso é muito caro e eu acho que eu cheguei a mandar para você não mas esse é muito caro e quem vai pagar isso a gente eu acho que a gente né a gente não vai pagar 10 a gente tem que ver isso e tem que ver isso 10 mil reais uma segunda viagem e eu vou ver se tem outro lugar e esse é um lugar que eu já sempre fez porque é isso que passou, já é cliente.\n\n"
+      },
+      {
+        "start_time": 1778005342067,
+        "end_time": 1778005354827,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Mas a ideia era que a favela Bryce não ia ter custo aqui, então a gente tem que estar dentro dos custos, aí seria para o BH pagar, mas 10 mil reais?"
+      },
+      {
+        "start_time": 1778005354827,
+        "end_time": 1778005366391,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "É, eu não cheguei a ver com ele sobre essa questão de pagamento não, essa é uma informação nova que você está me passando, que eles que vão pagar."
+      },
+      {
+        "start_time": 1778005366400,
+        "end_time": 1778005440811,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "posso mandar nota para eles também do pagamento se eles já estão cientes que eles que vão arcar com o seguro viagem também a primeira coisa a gente tem que tem que colocar mais em conta mas é a ideia 10 mil E aí tá vamos vendo isso com a raiz então a gente tem que ver essa coisa do seguro viagem porque a gente pagar 10 mil é muita coisa é muita coisa mas seguro viagem na 10 mil é tipo 500 reais por pessoa três dias dois dias na verdade né.\n\n"
+      },
+      {
+        "start_time": 1778005440811,
+        "end_time": 1778005451997,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "E aí o horário que a Mariana sobre a viagem ia sair um domingo pela manhã correto?"
+      },
+      {
+        "start_time": 1778005451997,
+        "end_time": 1778005468857,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A raiz está falando que no passado o máximo que a gente pagou foi R$ 2.500 de Mas ela passou os contatos, né?"
+      },
+      {
+        "start_time": 1778005468857,
+        "end_time": 1778005481101,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Passou. Eu vejo o contato que ela me passou falando. Talvez porque eu pergunto para tantas pessoas. Deve ser por isso, né?"
+      },
+      {
+        "start_time": 1778005481101,
+        "end_time": 1778005481658,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "É."
+      },
+      {
+        "start_time": 1778005481658,
+        "end_time": 1778005499209,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu acho que a gente tem que dar uma olhada nisso. Contar com outros e ver os outros contatos, coisas assim. Conversar com a Raíssa para ver como baixar isso, porque 10 mil parece fora para mim."
+      },
+      {
+        "start_time": 1778005499209,
+        "end_time": 1778005499941,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Tá bom."
+      },
+      {
+        "start_time": 1778005517310,
+        "end_time": 1778005611179,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Em termos do... Beleza, beleza. Em termos do portal, eu estava conversando hoje na reunião de liderança. Eu acho que tá complicado. Eu acho que seria melhor se só você que mexia na agenda. Não para te dar trabalho, mas aquela coisa de se aí está mudando alguma coisa. Acho que a gente tem que ter outra pessoa mudando alguma coisa. A gente não sabe onde a gente tá e sabe, ó, eu voltei pra lá, agora mudou.\n\n Que vai fazer, quem mudou isso? Eu acho que faz mais sentido você ser dona da agenda, pelo menos dos shows. As pessoas podem colocar outras coisas na agenda, mas dos shows, eu não acho que deveria estar mudando nada na agenda dos shows sem você saber porque vai ser produtora, entendeu? Então, até agora eu tenho colocado coisa, né? Eu coloco alguma coisa, eu aviso no grupo. Aí, de repente, melhor se eu vou colocar...\n\n Se tiver alguma coisa, eu te passo os detalhes, tu coloca na agenda, para tudo passar por você, o que está acontecendo na agenda. Eu acho que faz mais sentido."
+      },
+      {
+        "start_time": 1778005611179,
+        "end_time": 1778005615150,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu também acho, até porque fica muita pergunta, fica tudo muito solto."
+      },
+      {
+        "start_time": 1778005615150,
+        "end_time": 1778005626072,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Exatamente, aquela discussão no grupo ontem, que eu acho que eu tinha colocado só a banda preta A lá na Zola, mas mudou para a banda preta Todo Mundo, mas aí não é..."
+      },
+      {
+        "start_time": 1778005626072,
+        "end_time": 1778005628720,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Todo Mundo, porque aqui está a banda A"
+      },
+      {
+        "start_time": 1778005628720,
+        "end_time": 1778005648466,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "É, mas... Meu ex pediu todo mundo, então deve ficar todo mundo. Tava todo mundo, aí eu mudei pra A, mas eu acho que tem que ser todo mundo, tem que mudar de volta. Ou você agora, Kiki, muda de volta pra todo mundo."
+      },
+      {
+        "start_time": 1778005648466,
+        "end_time": 1778005652449,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Eu só não sei se eu posso adicionar alunos."
+      },
+      {
+        "start_time": 1778005652449,
+        "end_time": 1778005720257,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A coisa que a Ilis tem que fazer é a lista de alunos. A gente coloca para a Iris estar atualizando a lista dos alunos. Porque ela sabe quem não vai, quem vai. Quando a gente chega no evento, a gente sabe pelo portal, não tem a pergunta, quem vai, a lista está lá. Outra coisa que a gente tem que pensar também para o portal, deixa eu colocar aqui para mim, quais alunos vão direto no portal, né? Sabe, até lá no portal, X alunos vão nessa van, sabe?\n\n Aquela coisa que a gente pode ter a lista de alunos e você tá esperando em cima e não, essas duas vão direto, então eu acho que essa mas eu acho que Ou ela passa essa lista para você. Ela já me passa essa lista, Tom."
+      },
+      {
+        "start_time": 1778005720257,
+        "end_time": 1778005722039,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Ela já me passa."
+      },
+      {
+        "start_time": 1778005722039,
+        "end_time": 1778005727832,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, tem que ir para o portal, essa questão. Porque o portal já..."
+      },
+      {
+        "start_time": 1778005727832,
+        "end_time": 1778005735853,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Porque essa coisa dos nomes já está na coisa dos alunos, os alunos que vão para a apresentação."
+      },
+      {
+        "start_time": 1778005735853,
+        "end_time": 1778005803293,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Então, ou ela... Ou ela faz coloca no no portal é esse valor tá doido desculpa eu não sei o que aconteceu ela também mostrou nos valores que a gente já pagou nos últimos viagens 470 700 450 1200 é gente porque ele tá cobrando esse valor alto é então aí a gente tem que rever isso e que a gente conseguir colocar nos custos do festival. Que a gente não tá cobrando cagé, né? A gente só tá cobrando os custos mesmo.\n\n Tá. Mas aí essa é a coisa, se a gente Deixa eu só entrar aqui. Aqui, por exemplo, Carandáí."
+      },
+      {
+        "start_time": 1778005803293,
+        "end_time": 1778005847074,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Ah, Carandáí, eles confirmaram esse horário que teve outra pessoa falando por volta de cinco horas mas tá cem por cento que é seis são seis horas eu confirmei ontem não show de bola eu vou avisar para outra que eles estão eles estavam falando de cinco aí eu vi a divulgação deles no instagram e eu questionei e aí eles falaram que realmente ela bateu o horário das seis aí eu falei que a gente estaria chegando por lá por volta de cinco e vinte né para o horário da apresentação sabendo que sempre Sim.\n\n"
+      },
+      {
+        "start_time": 1778005847074,
+        "end_time": 1778005874213,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Caranguei. Aí essa coisa de caranguei, eu gostei. Você tá aprendendo aqui, né? Cronograma. Equipe que vai... Você poderia falar fim de apresentação também, né? Porque pro Wesley, né? Apresentação em 40 minutos. Não, tá bom. Apresentação em 40 minutos, tá beleza. Equipe, né? Confirmar pessoal. Você sabe, se você clicar aqui, vai confirmar. Por exemplo, eu posso confirmar você."
+      },
+      {
+        "start_time": 1778005874213,
+        "end_time": 1778005875569,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Como assim, confirmar?"
+      },
+      {
+        "start_time": 1778005875816,
+        "end_time": 1778005876811,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá vendo?"
+      },
+      {
+        "start_time": 1778005876811,
+        "end_time": 1778005877807,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Ah, pendente?"
+      },
+      {
+        "start_time": 1778005877807,
+        "end_time": 1778005880296,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Aí, clica e vai confirmado."
+      },
+      {
+        "start_time": 1778005880296,
+        "end_time": 1778005922379,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Aí, alunos, né? Alunos, é isso que tem que bater com a lista da Iris. Então, você prefere editar essa lista ao invés de eles editar? Ela te manda a lista por escrito ou ela edita no portal? É melhor botar no portal, né? Ela botar no pontavel. Ok, show de bola. E eu vou ver alguma coisa mais para frente. Sabe o que a gente poderia colocar? Só um check do lado de cada aluno. Vai no transporte e vai direto.\n\n Vai direto, por exemplo."
+      },
+      {
+        "start_time": 1778005922379,
+        "end_time": 1778005924750,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Transporte, não transporte. Isso, exatamente."
+      },
+      {
+        "start_time": 1778005924750,
+        "end_time": 1778005986592,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Perfeito. Eu peço para colocar aí. Peço ao Claudio para fazer isso. Logística, eu não gosto dessa página de logística, eu vou falar que tá melhor, conhecimento, contatos. Checklist, eu tava, tá vendo aqui, aí carregar template de apresentação, aí carregar, e tem pré-produção no dia. Aí, você, que você vai ter seu checklist, eu acho, aí, né, ter tempo, aí você, a gente alinhar isso, parece realmente ser o checklist para você poder usar, sabe?\n\n Definei, repitorei, aí você tá convencido, deixa isso, sabe? Mas aí pensando o que você quer nesse checklist, aí tu passa pra mim, eu coloco e a gente monta o checklist mesmo. Sabe aquela coisa, o estandarte, né?"
+      },
+      {
+        "start_time": 1778005986889,
+        "end_time": 1778005988365,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Vou aqui em casa."
+      },
+      {
+        "start_time": 1778005988365,
+        "end_time": 1778005989103,
+        "speaker": {
+          "name": "UNKNOWN_SPEAKER"
+        },
+        "words": "O que?"
+      },
+      {
+        "start_time": 1778005989103,
+        "end_time": 1778005993532,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "O estandarte já está comigo para o dia 9. O novo estandarte?"
+      },
+      {
+        "start_time": 1778005993532,
+        "end_time": 1778005995008,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Não, o novo não."
+      },
+      {
+        "start_time": 1778005995008,
+        "end_time": 1778005996853,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Já chegou? O novo já..."
+      },
+      {
+        "start_time": 1778005996853,
+        "end_time": 1778006004233,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "A Raíssa está pegando. Ela vai pedir uma uva do novo estandarte. Se quiser que ela mande diretamente para você."
+      },
+      {
+        "start_time": 1778006004233,
+        "end_time": 1778006009768,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "É, eu acho que eu quero que a vã me busque aqui. Eu já organizo."
+      },
+      {
+        "start_time": 1778006009768,
+        "end_time": 1778006213867,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Entendeu? Então, vê se dá tempo. Eu não sei onde a Raíssa estava organizando para... Buscar, talvez dê tempo para mandar para sua casa. Mas, de qualquer forma, a gente vai ter esses dois bônus, dois estandartes para o inverno, que o nosso artesanal e o artesanal de abril. Eles querem muito isso. Então, se puder pensar nesse nesse check list aí me manda aí a gente fica com o check list para o portal.\n\n Mas acho que fora isso é basicamente isso. Tá perfeito Tom, a Mariana me perguntou sobre o horário em torno do domingo pela manhã e de BH de Minas a legal e depois de depois de café da manhã né tá tão sei lá 10 horas 9 horas tem repente e porque é isso aí não a gente chega no horário da na cidade é que vindo da tarde né sim o perfeito então eu vou te deixar trabalhar e te lendo tá eu vou ver aqui um seguro viagem barato nem eu não sei eu vou ver aqui eu vou ver aqui também de confiança você tem algum pra indicar não né e acho que só aquela que a que a raiz mandou né a trabalha né tá bom mas aí qualquer coisa fala com a raíssa eu vou falar com ela aqui agora caramba daí eu vou tá e não sei se é provavelmente mais jogo eu e direto e é no joquim né é ótimo mas e aí eu vou ver essa coisa do seguro viagem porque eu vai ser eles que vão pagar né eu até perguntei até joguei para ela aqui falando que além disso eu iria enviar o seguro viagem para pagamento mas preferir eu posso passar o contato direto né já que ela tem todos os nossos dados e eles que vão pagar né assim e aí eu tô esperando a resposta por responder né não só o visualizou minha mensagem só ficou lá e é muita coisa para ela processar né mas o hotel e eu seguro viagem e só para ficar é o almoço também quer dizer a gente não né eles vão ter que pagar também para o motorista né sim a ideia é que a gente não vai cobrar cachê mas eles vão pagar tá só para saber o para ti não vai rolar com favor abraço agora né a gente tá fazendo para ti se é fazer BH se você pode entrar em contato eu vou eu vou sugerir as enxalonas e é isso.\n\n"
+      },
+      {
+        "start_time": 1778006213867,
+        "end_time": 1778006218439,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Poxa, eu tava ansiosa, eu nem ia pra lá, né?"
+      },
+      {
+        "start_time": 1778006218439,
+        "end_time": 1778006219354,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Para Paraty?"
+      },
+      {
+        "start_time": 1778006219354,
+        "end_time": 1778006220268,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Eu queria."
+      },
+      {
+        "start_time": 1778006220268,
+        "end_time": 1778006231242,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Ah, sim. Nossa. Não, é muito legal em Paraty. A Zaki eles não captaram, mas também a Zaki ficou no mesmo final de semana."
+      },
+      {
+        "start_time": 1778006231242,
+        "end_time": 1778006233986,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Mas eles captaram ou eles não..."
+      },
+      {
+        "start_time": 1778006235497,
+        "end_time": 1778006264735,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "não que vai acontecer o evento que a minha prima disse sim sim ele falou que eles deu uma baixa de muitos patrocinadores então eles têm menos dinheiro então neles eles eles resolveram não chamar a gente aí ele tava ele tava falando não mas se a gente consegue mais eu tô vendo agora eu acho que vai dar acho que vai dar mas agora tá em cima e se ele entrar em contato eu vou falar dos alunos a perfeito Tom, eu tô por aqui, tá?\n\n"
+      },
+      {
+        "start_time": 1778006264735,
+        "end_time": 1778006270479,
+        "speaker": {
+          "name": "Edlene conrado"
+        },
+        "words": "Até dia 9. Vou afinar os detalhes aqui, o Dona Ivone tá mandando várias mensagens."
+      },
+      {
+        "start_time": 1778006270479,
+        "end_time": 1778006276988,
+        "speaker": {
+          "name": "Tom Ashe"
+        },
+        "words": "Tá bom, tá bom. Vou te deixar trabalhar, Juliana. Tá se falando, tá bom? Obrigado, tchau, tchau."
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Edlene conrado"
+      },
+      {
+        "name": "Tom Ashe"
+      },
+      {
+        "name": "UNKNOWN_SPEAKER"
+      }
+    ]
+  },
+  "platform_meeting_id": "bbv-ebaw-zjb",
+  "platform": "meet"
+}

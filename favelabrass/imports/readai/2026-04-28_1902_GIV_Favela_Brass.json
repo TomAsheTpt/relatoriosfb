@@ -1,0 +1,39 @@
+{
+  "session_id": "01KQAQ5FKD43QFB7X7A547TG0Q",
+  "trigger": "meeting_end",
+  "title": "GIV <> Favela Brass",
+  "start_time": "2026-04-28T19:01:00+00:00",
+  "end_time": "2026-04-28T19:01:14+00:00",
+  "participants": [
+    {
+      "name": "tom@favelabrass.org",
+      "first_name": "tom@favelabrass.org",
+      "last_name": null,
+      "email": "tom@favelabrass.org"
+    },
+    {
+      "name": "Vitor Gomes",
+      "first_name": "Vitor",
+      "last_name": "Gomes",
+      "email": "vitor@freehelper.com.br"
+    }
+  ],
+  "owner": {
+    "name": "tom@favelabrass.org",
+    "first_name": "tom@favelabrass.org",
+    "last_name": null,
+    "email": "tom@favelabrass.org"
+  },
+  "summary": "No summary available due to limited meeting data.",
+  "action_items": [],
+  "key_questions": [],
+  "topics": [],
+  "report_url": "https://app.read.ai/analytics/meetings/01KQAQ5FKD43QFB7X7A547TG0Q",
+  "chapter_summaries": [],
+  "transcript": {
+    "speaker_blocks": [],
+    "speakers": []
+  },
+  "platform_meeting_id": "268468576142261",
+  "platform": "teams"
+}
